@@ -13,9 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "af32e5450f2a255d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6422d82a863b5175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b10d68a1a1cd021",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/LinearAlgGeo1 HW5.pdf"
               }
             }
           }
@@ -69,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md"
               }
             }
           },
@@ -156,18 +186,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a2d57c306e8ad6b",
+  "active": "af32e5450f2a255d",
   "lastOpenFiles": [
+    "Homework/LinearAlgGeo1 HW5.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "README.md",
+    "Untitled.md",
+    "Subjects/Calculus 1/9..md",
+    "Pasted image 20231012123620.png",
+    "git/MathsNotes/README.md",
+    "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
     "Subjects/Calculus 1/1. Introduction.md",
     "MathsNotes/README.md",
     "Subjects/Calculus 2/Calculus 2.md",
     "The Plan/KCL Modules.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "MathsNotes",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
-    "README.md",
-    "git/MathsNotes/README.md",
     "git/MathsNotes",
     "git",
     "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
@@ -188,12 +224,6 @@
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Intro to Algebra 1/10..md",
     "Homework/Calculus 1 HW4.pdf",
-    "Subjects/Calculus 1/9..md",
-    "Subjects/Calculus 1/Problem Sheet 4.md",
-    "Subjects/Calculus 1/Calculus 1.md",
-    "Homework/LinearAlgGeo1 HW3.pdf",
-    "Subjects/D&F Abstract Algebra/1.1 Exercises.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
@@ -203,7 +233,6 @@
     "Pasted image 20231012123740.png",
     "Pasted image 20231012123718.png",
     "Pasted image 20231012123656.png",
-    "Pasted image 20231012123620.png",
     "Untitled.canvas"
   ]
 }
