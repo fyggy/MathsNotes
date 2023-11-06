@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "autoPairMarkdown": false,
+  "userIgnoreFilters": [
+    "Excalidraw/"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "smartIndentList": false
+}

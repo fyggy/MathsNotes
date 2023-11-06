@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "56bf2cf6fbd947d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a56d956aa9d5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e520ba2e4beb7d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64cfd8b1dbbf95e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "08eaea14727742f6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "025100234c011739",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "06ea433023fcda14",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7b92d4a6ba55e415",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "03ac6a18a1566b7c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a1b208edf12ea5e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6cb553aa779f1658",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "56729c9a191b90d1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e520ba2e4beb7d0a",
+  "lastOpenFiles": [
+    "Directory.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Homework/LinearAlgGeo1 HW3.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
+    "Subjects/Intro to Algebra 1/Problem Sheet 3.md",
+    "Homework/Calculus 1 HW3.pdf",
+    "Pasted image 20231017163925.png",
+    "Pasted image 20231017164730.png",
+    "unit-circle-with-trig.svg",
+    "trigonometric-functions.svg",
+    "Subjects/Calculus 1/Problem Sheet 3.md",
+    "Knowledge/Identities/Trigonometry and Hyperbolic Trigonometry.md",
+    "Knowledge/Identities",
+    "Knowledge",
+    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
+    "Subjects/Linear Algebra and Geometry 1/5. Introduction to Vectors.md",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Pasted image 20231009134706.png",
+    "Pasted image 20231009130903.png",
+    "Pasted image 20231009125526.png",
+    "Pasted image 20231009125529.png",
+    "Pasted image 20231009121430.png",
+    "Pasted image 20231009120945.png",
+    "Subjects/Intro to Algebra 1/5. Primes and Binary Operations.md",
+    "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
+    "Subjects/Set Theory 1/Set Theory 1.md",
+    "Subjects/Linear Algebra and Geometry 1/3. The complex plane.md",
+    "Excalidraw/3. The complex plane 2023-10-02 12.12.14.excalidraw.md",
+    "Subjects/Linear Algebra and Geometry 1/4. Final Complex Numbers.md",
+    "Subjects/Linear Algebra and Geometry 1/2. Conjugate and Modulus.md",
+    "Subjects/Calculus 1/4. Power Series and Transcendental Functions.md",
+    "Subjects/Calculus 1/3. Sketching and Exponents.md",
+    "Subjects/Intro to Algebra 1/4..md",
+    "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
+    "Subjects/Sequences and Series 1/1. Introduction.md",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Linear Algebra and Geometry 1/1. Introduction.md",
+    "Subjects/Intro to Algebra 1/1. Introduction.md",
+    "Textbooks/Discrete Mathematics Lecture notes KCL.pdf",
+    "Subjects/Discrete Maths 1/Discrete Maths 1.md",
+    "Textbooks/Calculus - Michael Spivak.pdf",
+    "Subjects/Calculus 1/1. Introduction.md",
+    "Subjects/Intro to Algebra 1/Problem sheet 1.md",
+    "Homework/IntroAlgebraHW1.pdf",
+    "Textbooks/Sequences and Series Lecture Notes.pdf"
+  ]
+}

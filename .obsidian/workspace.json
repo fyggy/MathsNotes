@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "ee82b574b4366f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c5ad6ffdf66e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a2d57c306e8ad6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84521bece0d77eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "db522fa7c1ec3048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eabd4803f8aea32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b5b4e9de2cf7162",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:calulus1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f909210c7dd8477",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "014da67eff06f6dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "101760abadac90b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b02947d9fa644e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "129a9acc4a9f6837",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0abc06de9a442c94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cd532360ddd7ed7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subjects/Calculus 2/Calculus 2.md"
+              }
+            }
+          },
+          {
+            "id": "c746329fa53839d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3a2d57c306e8ad6b",
+  "lastOpenFiles": [
+    "The Plan/KCL Modules.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "MathsNotes/README.md",
+    "MathsNotes",
+    "Directory.md",
+    "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
+    "README.md",
+    "git/MathsNotes/README.md",
+    "git/MathsNotes",
+    "git",
+    "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
+    "Textbooks/Linear Algebra Done Wrong - Sergei Treil 1.pdf",
+    "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
+    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
+    "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
+    "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
+    "Subjects/Linear Algebra and Geometry 1/9. Bases, Spanning sets, and Linear Independence.md",
+    "Subjects/Sequences and Series 1/Problem Sheet 4.md",
+    "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
+    "Subjects/Sequences and Series 1/7..md",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Sequences and Series 1/10..md",
+    "Homework/SeqSeries HW4.pdf",
+    "Textbooks/Sequences and Series Lecture Notes.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
+    "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
+    "Subjects/Intro to Algebra 1/10..md",
+    "Homework/Calculus 1 HW4.pdf",
+    "Subjects/Calculus 1/9..md",
+    "Subjects/Calculus 1/Problem Sheet 4.md",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Homework/LinearAlgGeo1 HW3.pdf",
+    "Subjects/D&F Abstract Algebra/1.1 Exercises.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Subjects/T. Tao Analysis 1/Exercises 2.2.md",
+    "Subjects/T. Tao Analysis 1/1. The Natural Numbers.md",
+    "trigonometric-functions.svg",
+    "unit-circle-with-trig.svg",
+    "Pasted image 20231017164730.png",
+    "Pasted image 20231017163925.png",
+    "Pasted image 20231013150916.png",
+    "Pasted image 20231012124319.png",
+    "Pasted image 20231012123740.png",
+    "Pasted image 20231012123718.png",
+    "Pasted image 20231012123656.png",
+    "Pasted image 20231012123620.png",
+    "Untitled.canvas"
+  ]
+}
