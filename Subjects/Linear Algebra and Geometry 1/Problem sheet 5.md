@@ -17,9 +17,15 @@ $$
  \end{align}
 $$
 Therefore, this set cannot be a basis. Now we show that it spans ${} \mathbb{R}^{3} {}$. 
-Let $\mathbf{w}=(x,\, y,\, z)\in \mathbb{R}^{3} {}$. Now we have
+Let $\mathbf{w}=(x,\, y,\, z)\in \mathbb{R}^{3} {}$. We set the coefficient on $\mathbf{v}_{4} {}$ to $0 {}$ as it is the "extraneous" term, and is not needed to span. Now we have
 $$
-a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} 
+a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 7 \\ -5 \\ -7 \end{pmatrix} +c \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} =\begin{pmatrix} x \\ y \\ z \end{pmatrix} 
+$$
+I just take straight from my scratch work, and by setting ${} a=1 /6(-4x+3y+z) {}$, $b=1 /18 (-2x-5y-z) {}$, and ${} c=1 /9(22x+13y+2z) {}$, then we have
+$$
+\begin{align}
+\frac{1}{6} \begin{pmatrix} -12x+9y+3z \\ 8x-6y-2z \\ -16x+12y+4z \end{pmatrix} +
+\end{align}
 $$
 b) This set does not span ${} \mathbb{R}^{3} {}$, as note that, given ${} a,\, b \in \mathbb{R} {}$, we have
 $$
