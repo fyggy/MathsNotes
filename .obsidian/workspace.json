@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md"
+                "file": "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "3a2d57c306e8ad6b",
   "lastOpenFiles": [
+    "Subjects/Calculus 1/1. Introduction.md",
+    "MathsNotes/README.md",
+    "Subjects/Calculus 2/Calculus 2.md",
     "The Plan/KCL Modules.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
-    "MathsNotes/README.md",
     "MathsNotes",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
@@ -192,8 +194,6 @@
     "Homework/LinearAlgGeo1 HW3.pdf",
     "Subjects/D&F Abstract Algebra/1.1 Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "Subjects/T. Tao Analysis 1/Exercises 2.2.md",
-    "Subjects/T. Tao Analysis 1/1. The Natural Numbers.md",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
