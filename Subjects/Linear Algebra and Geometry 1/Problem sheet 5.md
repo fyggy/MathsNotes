@@ -21,16 +21,18 @@ Let $\mathbf{w}=(x,\, y,\, z)\in \mathbb{R}^{3} {}$. We set the coefficient on $
 $$
 a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 7 \\ -5 \\ -7 \end{pmatrix} +c \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} =\begin{pmatrix} x \\ y \\ z \end{pmatrix} 
 $$
-I just take straight from my scratch work, and by setting ${} a=1 /6(-4x+3y+z) {}$, $b=1 /18 (-2x-5y-z) {}$, and ${} c=1 /9(22x+13y+2z) {}$, then we have
+I just take straight from my scratch work, and by setting ${} a=1 /6(-4x-7y+z) {}$, $b=1 /18 (-2x-5y-z) {}$, and ${} c=1 /18(34x+49y-z) {}$, then we have
 $$
 \begin{align}
- &\qquad   \frac{1}{6} \begin{pmatrix} -12x+9y+3z \\ 8x-6y-2z \\ -16x+12y+4z \end{pmatrix} +\frac{1}{18}\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\frac{1}{9}\begin{pmatrix} 44x+26y+4z \\ -22x-13y-2z \\ 22x+13y+2z \end{pmatrix}  \\
- & =\frac{1}{18}\left( \begin{pmatrix} -36x+27y+9z \\ 24x-18y-6z \\ -48x+38y+12z \end{pmatrix} +\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\begin{pmatrix} 88x+52y+8z \\ -44x-26y-4z \\ 44x+26y+4z \end{pmatrix} \right) \\
- & =\frac{1}{18} \begin{pmatrix} 38x \\  \\  \end{pmatrix} 
+ &\qquad   \frac{1}{6} \begin{pmatrix} -12x-21y+3z \\ 8x+14y-2z \\ -16x-28y+4z \end{pmatrix} +\frac{1}{18}\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\frac{1}{18}\begin{pmatrix} 68x+98y-2z \\ -34x-49y+z \\ 34x+49y-z \end{pmatrix}  \\
+ & =\frac{1}{18}\left( \begin{pmatrix} -36x-63y+9z \\ 24x+42y-6z \\ -48x-84y+12z \end{pmatrix} +\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\begin{pmatrix} 68x+98y-2z \\ -34x-49y+z \\ 34x+49y-z \end{pmatrix} \right) \\
+ & =\frac{1}{18} \begin{pmatrix} 18x \\ 18y \\ 18z \end{pmatrix}  \\
+ & =\begin{pmatrix}  x \\ y \\ z \end{pmatrix} 
 \end{align}
 $$
+Therefore, it does span.
 b) This set does not span ${} \mathbb{R}^{3} {}$, as note that, given ${} a,\, b \in \mathbb{R} {}$, we have
 $$
 a \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +b \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 2a-b \\ -a+b \\ a+3b \end{pmatrix} 
 $$
-Now we show that ${} \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}  {}$ is not in the span, if ${} -a+b=0 {}$, then ${} a=b {}$, so ${} 2a-b=a=1$, but $a+3b=4a=4\neq 1$. Therefore, they do not span $\mathbb{R}^{3}$, and cannot be a basis
+Now we show that ${} \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}  {}$ is not in the span, if ${} -a+b=0 {}$, then ${} a=b {}$, so ${} 2a-b=a=1$, but $a+3b=4a=4\neq 1$. Therefore, they do not span $\mathbb{R}^{3}$, and cannot be a basis. How
