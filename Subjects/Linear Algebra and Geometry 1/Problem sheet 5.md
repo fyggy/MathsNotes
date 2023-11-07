@@ -78,4 +78,46 @@ $$
 4a+b+3c=0+0+c=c=0
 $$
 So ${} a=b=c=0 {}$, so the list is linearly independent.
-Now we show spanning. 
+Now we show spanning. Let ${} \mathbf{w}=(x,\, y,\, z)\in \mathbb{R}^{3} {}$. Now we have
+$$
+\begin{align}
+a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +c \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 3a+2b-c \\ -2a-b+c \\ 4a+b+3c \end{pmatrix} =\begin{pmatrix} x \\ y \\ z \end{pmatrix} 
+\end{align}
+$$
+So we have ${} a+b=x+y {}$ and $13a+7b=3x+z$. Therefore, ${} -7a-7b=-7x-7y {}$, so
+$$
+\begin{align}
+6a & =-4x-7y+z \\
+a & =\frac{1}{6}(-4x-7y+z)
+\end{align}
+$$
+Now we have 
+$$
+\begin{align}
+a+b=\frac{1}{6}(-4x+7y+z)+b & =x+y \\
+-4x+7y+z+6b & =6x+6y \\
+ 6b & =10x-y-z \\
+b & =\frac{1}{6}(10x-y-z)
+\end{align}
+$$
+Finally we have
+$$
+\begin{align}
+-2a-b+c=-2\cdot \frac{1}{6}(-4x-7y+z)-\frac{1}{6}(10x-y-z)+c=y
+\end{align}
+$$
+$$
+\begin{align}
+8x+14y-2z-10x+y+z+6c & =6y \\
+6c & =2x-9y+z \\
+ c & =\frac{1}{6}(2x-9y+z)
+\end{align}
+$$
+We now check:
+$$
+\begin{align}
+ & \qquad a\mathbf{v}_{1} +b\mathbf{v}_{3}+c\mathbf{v}_{4}  \\
+ & =\frac{1}{6}\left(\begin{pmatrix} -12x-21y+3z \\ 8x+14y-2z \\ -16x-28y+4z \end{pmatrix}+ \begin{pmatrix} 20x-2y-2z \\ -10x+y+z \\ 10x-y-z \end{pmatrix} +\begin{pmatrix} -2x+9y-z \\ 2x-9y+z \\ 6x-27y+3z \end{pmatrix} \right) \\
+ & =\frac{1}{6} \begin{pmatrix} 6x-14y \\ 6y \\ -56y+6z \end{pmatrix} 
+\end{align}
+$$
