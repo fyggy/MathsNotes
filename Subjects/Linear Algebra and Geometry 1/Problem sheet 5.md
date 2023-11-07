@@ -35,4 +35,47 @@ b) This set does not span ${} \mathbb{R}^{3} {}$, as note that, given ${} a,\, b
 $$
 a \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +b \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 2a-b \\ -a+b \\ a+3b \end{pmatrix} 
 $$
-Now we show that ${} \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}  {}$ is not in the span, if ${} -a+b=0 {}$, then ${} a=b {}$, so ${} 2a-b=a=1$, but $a+3b=4a=4\neq 1$. Therefore, they do not span $\mathbb{R}^{3}$, and cannot be a basis. How
+Now we show that ${} \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}  {}$ is not in the span, if ${} -a+b=0 {}$, then ${} a=b {}$, so ${} 2a-b=a=1$, but $a+3b=4a=4\neq 1$. Therefore, they do not span $\mathbb{R}^{3}$, and cannot be a basis. Now we show that they are linearly independent. Suppose we have $a,\, b \in  \mathbb{R}$ such that
+$$
+\begin{align}
+a \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +b \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 2a-b \\ -a+b \\ a+3b \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} =\mathbf{0}
+\end{align}
+$$
+Then we have ${} a=b {}$, and ${} 2a-b=2a-a=a=0$, so $b=a=0 {}$. Therefore, this is only possible if $a=b=0$, so $\mathbf{v}_{3}$ and $\mathbf{v}_{4}$ are linearly independent.
+c)
+First we show that ${} \mathbf{v}_{1},\, \mathbf{v}_{3},\, \mathbf{v}_{4} {}$ are linearly independent. Suppose we have ${} a,\, b,\,  c \in \mathbb{R} {}$ such that
+$$
+a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +c \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 3a+2b-c \\ -2a-b+c \\ 4a+b+3c \end{pmatrix} =\mathbf{0}
+$$
+Then we have 
+$$
+\begin{align}
+3a+2b-c & =0 \\
+-2a-b+c & =0 \\
+ \\
+a+b & =0
+\end{align}
+$$
+and 
+$$
+\begin{align}
+3a+2b-c & =0 \\
+4a+b+3c & =0 \\
+ \\
+13a+7b & =0
+\end{align}
+$$
+so
+$$
+6a=0,\, a=0
+$$
+and
+$$
+0+b=0,\, b=0
+$$
+Therefore, we have
+$$
+4a+b+3c=0+0+c=c=0
+$$
+So ${} a=b=c=0 {}$, so the list is linearly independent.
+Now we show spanning. 
