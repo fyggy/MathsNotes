@@ -24,7 +24,9 @@ $$
 I just take straight from my scratch work, and by setting ${} a=1 /6(-4x+3y+z) {}$, $b=1 /18 (-2x-5y-z) {}$, and ${} c=1 /9(22x+13y+2z) {}$, then we have
 $$
 \begin{align}
-\frac{1}{6} \begin{pmatrix} -12x+9y+3z \\ 8x-6y-2z \\ -16x+12y+4z \end{pmatrix} +
+ &\qquad   \frac{1}{6} \begin{pmatrix} -12x+9y+3z \\ 8x-6y-2z \\ -16x+12y+4z \end{pmatrix} +\frac{1}{18}\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\frac{1}{9}\begin{pmatrix} 44x+26y+4z \\ -22x-13y-2z \\ 22x+13y+2z \end{pmatrix}  \\
+ & =\frac{1}{18}\left( \begin{pmatrix} -36x+27y+9z \\ 24x-18y-6z \\ -48x+38y+12z \end{pmatrix} +\begin{pmatrix} -14x-35y-7z \\ 10x+25y+5z \\ 14x+35y+7z \end{pmatrix} +\begin{pmatrix} 88x+52y+8z \\ -44x-26y-4z \\ 44x+26y+4z \end{pmatrix} \right) \\
+ & =\frac{1}{18} \begin{pmatrix} 38x \\  \\  \end{pmatrix} 
 \end{align}
 $$
 b) This set does not span ${} \mathbb{R}^{3} {}$, as note that, given ${} a,\, b \in \mathbb{R} {}$, we have
