@@ -103,21 +103,35 @@ $$
 Finally we have
 $$
 \begin{align}
--2a-b+c=-2\cdot \frac{1}{6}(-4x-7y+z)-\frac{1}{6}(10x-y-z)+c=y
+-2a-b+c=-2\cdot \frac{1}{6}(-4x-7y+z)-\frac{1}{6}(10x+13y-z)+c=y
 \end{align}
 $$
 $$
 \begin{align}
-8x+14y-2z-10x+y+z+6c & =6y \\
-6c & =2x-9y+z \\
- c & =\frac{1}{6}(2x-9y+z)
+8x+14y-2z-10x-13y+z+6c & =6y \\
+6c & =2x+5y+z \\
+ c & =\frac{1}{6}(2x+5y+z)
 \end{align}
 $$
 We now check:
 $$
 \begin{align}
  & \qquad a\mathbf{v}_{1} +b\mathbf{v}_{3}+c\mathbf{v}_{4}  \\
- & =\frac{1}{6}\left(\begin{pmatrix} -12x-21y+3z \\ 8x+14y-2z \\ -16x-28y+4z \end{pmatrix}+ \begin{pmatrix} 20x-2y-2z \\ -10x+y+z \\ 10x-y-z \end{pmatrix} +\begin{pmatrix} -2x+9y-z \\ 2x-9y+z \\ 6x-27y+3z \end{pmatrix} \right) \\
- & =\frac{1}{6} \begin{pmatrix} 6x-14y \\ 6y \\ -56y+6z \end{pmatrix} 
+ & =\frac{1}{6}\left(\begin{pmatrix} -12x-21y+3z \\ 8x+14y-2z \\ -16x-28y+4z \end{pmatrix}+ \begin{pmatrix} 20x+26y-2z \\ -10x-13y+z \\ 10x+13y-z \end{pmatrix} +\begin{pmatrix} -2x-5y-z \\ 2x+5y+z \\ 6x+15y+3z \end{pmatrix} \right) \\
+ & =\frac{1}{6} \begin{pmatrix} 6x \\ 6y \\ 6z \end{pmatrix}  \\
+ & =\begin{pmatrix} x \\ y \\ z \end{pmatrix} 
 \end{align}
 $$
+Therefore, ${} \mathbf{v}_{1},\, \mathbf{v}_{3},\, \mathbf{v}_{4} {}$ spans $\mathbb{R}^{3} {}$, so it is a basis of $\mathbb{R}^{3} {}$
+d)
+We showed in part a) that ${} \mathbf{v}_{2},\, \mathbf{v}_{3},\, \mathbf{v}_{4}$ is linearly dependent, as ${} 2\mathbf{v}_{3}-\mathbf{v}_{2}=3\mathbf{v}_{4} {}$. Now we show that it doesn't span ${} \mathbb{R}^{3} {}$. We can discard $\mathbf{v}_{2}$, as it is already in the span $\mathbf{v}_{3}$ and $\mathbf{v}_{4}$. However, we already saw in b) that $\mathbf{v}_{3}$ and $\mathbf{v}_{4}$ don't span $\mathbb{R}^{3} {}$.
+
+2. 
+a) i)
+I claim that ${} \mathbf{e}_{1}={} (1,\, 0,\, -1),\, \mathbf{e}_{2}=(0,\, 1,\, -1) {}$ is a basis. Suppose we have some ${} \mathbf{v}=(x,\, y,\, z) \in  S {}$, therefore, ${} x+y+z=0 {}$. Therefore, ${} z=-x-y {}$, so we have ${} \mathbf{v}=(x,\, y,\, -x-y) {}$. 
+We now show that the list spans. Note that ${} x (1,\, 0,\, -1)+y(0,\, 1,\, -1)=(x,\, y,\, -x-y)=\mathbf{v} {}$. Therefore, for some arbitrary vector $\mathbf{v}$ in ${} S$, there is a linear combination ${} \alpha \mathbf{e}_{1}+\beta \mathbf{e}_{2}=\mathbf{v} {}$. Therefore, ${} \span\{\mathbf{e}_{1},\, \mathbf{e}_{2}\}=S {}$. 
+We now show linear independence. Suppose we have ${} a,\, b\in \mathbb{R} {}$ such that 
+$$
+a\mathbf{e}_{1}+b\mathbf{e}_{2}=a \begin{pmatrix} 1 \\ 0 \\ -1 \end{pmatrix} +b \begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}=\begin{pmatrix} a \\ b \\ -a-b \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} =\mathbf{0}
+$$
+Then we have ${} a=0 {}$ and ${} b=0 {}$. Therefore, 
