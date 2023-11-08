@@ -201,7 +201,8 @@
     {trigger: "and", replacement: "\\cap", options: "mA"},
     {trigger: "orr", replacement: "\\cup", options: "mA"},
     {trigger: "inn", replacement: "\\in $0", options: "mA"},
-    {trigger: "nin", replacement: "\\notin", options: "mA"}, 
+    {trigger: "nin", replacement: "\\notin $0", options: "mA"}, 
+	{trigger: "!inn", replacement: "\\notin $0", options: "mA"}, 
 	{trigger: "\\notinn", replacement: "n \\in", options: "mA"}, 
 	{trigger: "\\xi nn", replacement: "x \\in $0", options: "mA"}, 
 	{trigger: "sub", replacement: "\\subset", options: "mA"},
@@ -260,6 +261,7 @@
     {trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
     {trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
     {trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
+	{trigger: "\\\\mathbb{R}([A-Za-np-z\\d])", replacement: "\\mathbb{R}^{[[0]]}", options: "rmA"},
     {trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
     {trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
     {trigger: "II", replacement: "\\mathbb{1}", options: "mA"},
@@ -473,5 +475,5 @@
 	{trigger: "Thfr", replacement: "Therefore", options: "tA"},
 	{trigger: "THfr", replacement: "Therefore", options: "tA"},
 	{trigger: "THFr", replacement: "Therefore", options: "tA"},
-
+	{trigger: "THen ", replacement: "then ", options: "tA"},
 ]

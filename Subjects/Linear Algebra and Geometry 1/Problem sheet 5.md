@@ -159,4 +159,33 @@ Therefore, we have
 $$
 \mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix}
 $$
-Therefore, i claim that ${} \mathbf{e}_{1}=\begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix}  {}$ is a basis of $S$. Since every vector is of the form ${} \mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix}  {}$, then 
+Therefore, i claim that ${} \mathbf{e}_{1}=\begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix}  {}$ is a basis of $S$. Since every vector is of the form ${} \mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix}  {}$, then we can write ${} \mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix} =x \begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix} =x\mathbf{e}_{1} {}$. Therefore, ${} \span\{\mathbf{e}_{1}\}=S {}$. Since it is just one vector, $\mathbf{e}_{1} {}$ is linearly independent. Therefore, ${} \mathbf{e}_{1} {}$ is a basis of $S$
+
+b) i) we have 
+$$
+\mathbf{e}_{1}=\begin{pmatrix} 1 \\ 0 \\ -1 \end{pmatrix} ,\, \mathbf{e}_{2}=\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix} 
+$$
+If we add another vector that is not in ${} S$, then it must necessarily still be linearly independent. We can repeat this until our vectors span $\mathbb{R}^{3}$. Observe that $(0,\, 0,\, 1)\notin S {}$, as if we have ${} a,\, b \in \mathbb{R} {}$ such that
+$$
+a \begin{pmatrix} 1 \\ 0 \\ -1 \end{pmatrix} +b \begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix} =\begin{pmatrix} a \\ b \\ -a-b \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} 
+$$
+Then ${} a=b=0$, but ${} -a-b=0\neq1 {}$. Therefore, we have a contradiction. Therefore, ${} (0,\, 0,\, 1)\notin S {}$. Therefore, we have a basis of size $3$ in $\mathbb{R}^{3}$, so it must be a basis of $\mathbb{R}^{3}$. 
+ii)
+We have
+$$
+\mathbf{e}_{1}=\begin{pmatrix} 4 \\ 2 \\ 1 \end{pmatrix} 
+$$
+We then see that $(1,\, 0,\, 0)\notin S$, as that would require ${} a \in  \mathbb{R} {}$ such that ${} a=0 {}$, ${} 2a=0$, and $4a=1$, which is clearly impossible. Now we see that ${} (0,\, 1,\, 0)\notin\span\{\mathbf{e}_{1},\, (1,\, 0,\, 0)\} {}$. Suppose we have ${} a,\, b \in \mathbb{R} {}$ such that
+$$
+a \begin{pmatrix} 4 \\ 2 \\ 1 \end{pmatrix} +b \begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix} = \begin{pmatrix} 4a+b \\ 2a \\ a \end{pmatrix} =\begin{pmatrix} 0 \\ 1 \\ 0 \end{pmatrix} 
+$$
+Then we would have ${} a=0$, but ${} 2a=1 {}$, which is clearly impossible. Therefore, $$
+\begin{pmatrix} 4 \\ 2 \\ 1 \end{pmatrix} ,\, \begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix} ,\, \begin{pmatrix} 0 \\ 1 \\ 0 \end{pmatrix}
+$$
+Is linearly independent 3 dimensional basis inside ${} \mathbb{R}^{3}$. Therefore, it is a basis of $\mathbb{R}^{3}$
+iii)
+We have
+$$
+\mathbf{e}_{1}=\begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix} 
+$$
+We then see that ${} (0,\, 1,\, 0)\notin S {}$

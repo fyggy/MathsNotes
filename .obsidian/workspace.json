@@ -59,6 +59,26 @@
                 "file": "Homework/LinearAlgGeo1 HW5.pdf"
               }
             }
+          },
+          {
+            "id": "5b59511dc487242c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "701142ae579996d6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf"
+              }
+            }
           }
         ]
       }
@@ -200,10 +220,12 @@
   },
   "active": "5fa747b67ba534f0",
   "lastOpenFiles": [
+    "Homework/LinearAlgGeo1 HW5.pdf",
+    "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
+    "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
-    "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
-    "Homework/LinearAlgGeo1 HW5.pdf",
     "README.md",
     "Untitled.md",
     "Subjects/Calculus 1/9..md",
@@ -220,7 +242,6 @@
     "git",
     "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil 1.pdf",
-    "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
@@ -235,7 +256,6 @@
     "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Intro to Algebra 1/10..md",
-    "Homework/Calculus 1 HW4.pdf",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
