@@ -137,5 +137,26 @@ $$
 Then we have ${} a=0 {}$ and ${} b=0$. Therefore, ${} \mathbf{e}_{1},\, \mathbf{e}_{2}$ are linearly independent. Therefore, ${} \mathbf{e}_{1},\, \mathbf{e}_{2}$ is a basis for $S$
 ii)
 I claim that ${} \mathbf{e}_{1}=(4,\, 2,\, 1) {}$ is a basis for $S$. 
-First we show span. Note that if ${} \mathbf{v}=(x,\, y,\, z) \in  S {}$, then ${} \mathbf{v}=(4z,\, 2z,\, z) {}$. It is clear that ${} z (4,\, 2,\, 1)=\mathbf{v} {}$, so ${} \span\{\mathbf{e}_{1}\}=S {}$.
-Now we show linear independence.
+First we show span. Note that if ${} \mathbf{v}=(x,\, y,\, z) \in  S {}$, then ${} \mathbf{v}=(4z,\, 2z,\, z) {}$. It is clear that ${} z (4,\, 2,\, 1)=\mathbf{v} {}$, so $\span\{\mathbf{e}_{1}\}=S$. Now since it is a singular vector, it must be linearly independent.
+iii)
+Given a vector ${} \mathbf{v}=(x,\, y,\, z) {}$, in order to be perpendicular to ${} (1,\, 1,\, 0) {}$, we must have
+$$
+\mathbf{v}\cdot (1,\, 1,\, 0)=x+y=0
+$$
+and in order to be perpendicular to ${} (2,\, 0,\, -1) {}$, we must have
+$$
+\mathbf{v}\cdot (2,\, 0,\, -1)=2x-z=0
+$$
+Therefore, we have
+$$
+y=-x
+$$
+and
+$$
+z=2x
+$$
+Therefore, we have 
+$$
+\mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix}
+$$
+Therefore, i claim that ${} \mathbf{e}_{1}=\begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix}  {}$ is a basis of $S$. Since every vector is of the form ${} \mathbf{v}=\begin{pmatrix} x \\ -x \\ 2x \end{pmatrix}  {}$, then 
