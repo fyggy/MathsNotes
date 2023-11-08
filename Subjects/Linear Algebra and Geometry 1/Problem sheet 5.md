@@ -134,4 +134,8 @@ We now show linear independence. Suppose we have ${} a,\, b\in \mathbb{R} {}$ su
 $$
 a\mathbf{e}_{1}+b\mathbf{e}_{2}=a \begin{pmatrix} 1 \\ 0 \\ -1 \end{pmatrix} +b \begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}=\begin{pmatrix} a \\ b \\ -a-b \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} =\mathbf{0}
 $$
-Then we have ${} a=0 {}$ and ${} b=0 {}$. Therefore, 
+Then we have ${} a=0 {}$ and ${} b=0$. Therefore, ${} \mathbf{e}_{1},\, \mathbf{e}_{2}$ are linearly independent. Therefore, ${} \mathbf{e}_{1},\, \mathbf{e}_{2}$ is a basis for $S$
+ii)
+I claim that ${} \mathbf{e}_{1}=(4,\, 2,\, 1) {}$ is a basis for $S$. 
+First we show span. Note that if ${} \mathbf{v}=(x,\, y,\, z) \in  S {}$, then ${} \mathbf{v}=(4z,\, 2z,\, z) {}$. It is clear that ${} z (4,\, 2,\, 1)=\mathbf{v} {}$, so ${} \span\{\mathbf{e}_{1}\}=S {}$.
+Now we show linear independence.
