@@ -188,4 +188,68 @@ We have
 $$
 \mathbf{e}_{1}=\begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix} 
 $$
-We then see that ${} (0,\, 1,\, 0)\notin S {}$
+We see that ${} (0,\, 1,\, 0)\notin S {}$, as that would require a ${} a \in \mathbb{R} {}$ such that ${} a=0 {}$, but ${} -a=1 {}$. We now see that $(0,\, 0,\, 1)\notin \span\{\mathbf{e}_{1},\, (0,\, 1,\, 0)\}$. Suppose we have ${} a,\, b \in  \mathbb{R} {}$ such that
+$$
+a \begin{pmatrix} 0 \\ 1 \\ 0 \end{pmatrix} +b\mathbf{e}_{1}=\begin{pmatrix} b \\ a-b \\ 2b \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} 
+$$
+This requires ${} b=0$, but ${} 2b=1 {}$, which is impossible. Therefore, ${} \mathbf{e}_{1},\, (0,\, 1,\, 0),\, (0,\, 0,\, 1) {}$ is linearly independent inside $\mathbb{R}^{3}$, so we have ${} \mathbf{e}_{1},\, (0,\, 1,\, 0),\, (0,\, 0,\, 1) {}$ as a basis of $\mathbb{R}^{3}$.
+
+3.
+a)
+We start with all of the vectors, and reduce until they're linearly independent. Notice that 
+$$
+\mathbf{v}_{1}+\mathbf{v}_{5}=\begin{pmatrix} 1 \\ -1 \\ 0 \\ 0 \end{pmatrix} +\begin{pmatrix} 0 \\ 1 \\ 0 \\ -1 \end{pmatrix} =\begin{pmatrix} 1 \\ 0 \\ 0 \\ -1 \end{pmatrix} =\mathbf{v}_{3}
+$$
+So we can eliminate ${} \mathbf{v}_{3} {}$. Now notice that
+$$
+\mathbf{v}_{1}+\mathbf{v}_{4}=\begin{pmatrix} 1 \\ -1 \\ 0 \\ 0 \end{pmatrix} +\begin{pmatrix} 0 \\ 1 \\ -1 \\ 0 \end{pmatrix} =\begin{pmatrix} 1 \\ 0 \\ -1 \\ 0 \end{pmatrix} =\mathbf{v}_{2}
+$$
+So we can eliminate ${} \mathbf{v}_{2} {}$. Finally, notice that 
+$$
+\mathbf{v}_{5}-\mathbf{v}_{4}=\begin{pmatrix} 0 \\ 1 \\ 0 \\ -1 \end{pmatrix} -\begin{pmatrix} 0 \\ 1 \\ -1 \\ 0 \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 1 \\ -1 \end{pmatrix} =\mathbf{v}_{6}
+$$
+So we can eliminate $\mathbf{v}_{6} {}$. Now let ${} a_{1},\, a_{4},\, a_{5}$ such that
+$$
+\begin{align}
+a_{1}\mathbf{v}_{1}+a_{4}\mathbf{v}_{4}+a_{5}\mathbf{v}_{5}=\begin{pmatrix} a_{1} \\ -a_{1}+a_{4}+a_{5} \\ -a_{4} \\ -a_{5} \end{pmatrix}  =\begin{pmatrix} 0 \\ 0 \\ 0 \\ 0 \end{pmatrix} 
+\end{align}
+$$
+Now we have ${} a_{1}=0$, ${} a_{4}=0 {}$ and ${} a_{5}=0 {}$, clearly. Therefore, this list in linearly independent. 
+b)
+Since the largest list of linearly independent vectors in ${} \mathbf{v}_{1},\,\dots,\,\mathbf{v}_{6}$ is of size 3, then the dimension of ${} \span\{\mathbf{v}_{1},\,\dots,\,\mathbf{v}_{6}\}$ must be $3$.
+
+4. The dimension can either be:
+Dimension 1: ${} \mathbf{v}_{1}=(1,\, 0,\, 0,\, 0) {}$, ${} \mathbf{v}_{2}=(2,\, 0,\, 0,\, 0) {}$, ${} \mathbf{v}_{3}=(3,\, 0,\, 0,\, 0)$
+Dimension 2: ${} \mathbf{v}_{1}=(1,\, 0,\, 0,\, 0) {}$, ${} \mathbf{v}_{2}=(0,\, 1,\, 0,\, 0) {}$, ${} \mathbf{v}_{3}=(2,\, 0,\, 0,\, 0) {}$
+Dimension 3: ${} \mathbf{v}_{1}=(1,\, 0,\, 0,\, 0) {}$, ${} \mathbf{v}_{2}=(0,\, 1,\, 0,\, 0) {}$, ${} \mathbf{v}_{3}=(0,\, 0,\, 1,\, 0)$
+
+5. 
+a) Since ${} \mathbf{v}_{1},\,\dots,\,\mathbf{v}_{m} {}$ are linearly independent, then if there exist ${} \alpha_{1},\,\dots,\,\alpha_{m}\in \mathbb{F}$ such that 
+$$
+\alpha_{1}\mathbf{v}_{1}+\alpha_{2}\mathbf{v}_{2}+\dots+\alpha_{m}\mathbf{v}_{m}=\mathbf{0}
+$$then ${} \alpha_{1}=\alpha_{2}=\dots=\alpha_{m}=0 {}$. Now if ${} \beta=0 {}$, then
+$$
+\alpha_{1}\mathbf{v}_{1}+\alpha_{2}\mathbf{v}_{2}+\dots+\alpha_{m}\mathbf{v}_{m}+\beta \mathbf{u}=\alpha_{1}\mathbf{v}_{1}+\dots+\alpha_{m}\mathbf{v}_{m}=\mathbf{0}
+$$so by above, then ${} \alpha_{1}=\alpha_{2}=\dots=\alpha_{m}=0$.
+
+b)
+Suppose that $\beta\neq 0 {}$. Then we can rearrange such that
+$$
+-\beta \mathbf{u}=\alpha_{1}\mathbf{v}_{1}+\dots+\alpha_{m}\mathbf{v}_{m}
+$$
+so
+$$
+\mathbf{u}=-\frac{\alpha_{1}}{\beta}\mathbf{v}_{1}-\frac{\alpha_{2}}{\beta}\mathbf{v}_{2}-\dots-\frac{\alpha_{m}}{\beta}\mathbf{v}_{m}
+$$
+Since ${} -{} \frac{\alpha_{n}}{\beta}\in \mathbb{F}$ for all $n$, then this implies that ${} \mathbf{u} \in  \span\{\mathbf{v}_{1},\,\dots,\,\mathbf{v}_{m}\}$. However, this is a contradiction. Therefore, $\beta=0$.
+
+c)
+Since $\beta$ necessarily must be $0$, by b), then by a), we have ${} \alpha_{1}=\alpha_{2}=\dots=\alpha_{m}=0 {}$, so all the coefficients must be $0$. Therefore, ${} \mathbf{v}_{1},\, \mathbf{v}_{2},\,\dots,\,\mathbf{v}_{m},\, \mathbf{u}$ must be linearly independent.
+
+6. 
+The proof is not correct. In particular, the step that any basis of $V$ can be reduced to a basis of $U {}$ is incorrect. It is in fact possible that ${} U {}$ contains none of the vectors of a chosen basis of ${} V$, for example. Consider the space ${} \mathbb{R}^{2} {}$, and a subspace $\{ (x,\, y)\in \mathbb{R}^{2}\mid x=y \}$. If you chose the basis ${} \{ (1,\, 0),\, (0,\, 1) \} {}$ for $\mathbb{R}^{2}$, then this is not in the subspace.
+
+Instead, we work the other way, and show that any basis of $U$ can be completed to be a basis of $V$. The proof will look like this:
+Let ${} \{ \mathbf{e}_{1},\,\dots,\,\mathbf{e}_{n} \} {}$ be a basis of $U$ so that $\dim U=n {}$. 
+If ${} \span\{\mathbf{e}_{1},\,\dots,\,\mathbf{e}_{n}\}=V$, then we're done, and ${} U=V {}$, so $\dim U=\dim V$. Otherwise, we can add a vector ${} \mathbf{u}\in V\setminus U {}$. By above, ${} \{ \mathbf{e}_{1},\,\dots,\,\mathbf{e}_{n},\, \mathbf{u} \} {}$ is still linearly independent in ${} V$. 
+We now repeat this, adding more and more vectors until the vectors span $V$. Then, we will have a basis of $V$ such that a subset is a basis of $U$. Therefore, $\dim V\geq n=\dim U$, as required.
