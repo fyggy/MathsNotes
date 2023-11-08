@@ -94,10 +94,10 @@ $$
 Now we have 
 $$
 \begin{align}
-a+b=\frac{1}{6}(-4x+7y+z)+b & =x+y \\
--4x+7y+z+6b & =6x+6y \\
- 6b & =10x-y-z \\
-b & =\frac{1}{6}(10x-y-z)
+a+b=\frac{1}{6}(-4x-7y+z)+b & =x+y \\
+-4x-7y+z+6b & =6x+6y \\
+ 6b & =10x+13y-z \\
+b & =\frac{1}{6}(10x+13y-z)
 \end{align}
 $$
 Finally we have
