@@ -45,23 +45,23 @@ Then we have ${} a=b {}$, and ${} 2a-b=2a-a=a=0$, so $b=a=0 {}$. Therefore, this
 c)
 First we show that ${} \mathbf{v}_{1},\, \mathbf{v}_{3},\, \mathbf{v}_{4} {}$ are linearly independent. Suppose we have ${} a,\, b,\,  c \in \mathbb{R} {}$ such that
 $$
-a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +c \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 3a+2b-c \\ -2a-b+c \\ 4a+b+3c \end{pmatrix} =\mathbf{0}
+a (3−24) +b (2−11) +c (−113) =(3a+2b−c−2a−b+c4a+b+3c) =\mathbf{0}
 $$
 Then we have 
 $$
 \begin{align}
-3a+2b-c & =0 \\
--2a-b+c & =0 \\
- \\
+3a+2b-c & =0 \
+-2a-b+c & =0 \
+ \
 a+b & =0
 \end{align}
 $$
 and 
 $$
 \begin{align}
-3a+2b-c & =0 \\
-4a+b+3c & =0 \\
- \\
+3a+2b-c & =0 \
+4a+b+3c & =0 \
+ \
 13a+7b & =0
 \end{align}
 $$
@@ -81,7 +81,7 @@ So ${} a=b=c=0 {}$, so the list is linearly independent.
 Now we show spanning. Let ${} \mathbf{w}=(x,\, y,\, z)\in \mathbb{R}^{3} {}$. Now we have
 $$
 \begin{align}
-a \begin{pmatrix} 3 \\ -2 \\ 4 \end{pmatrix} +b \begin{pmatrix} 2 \\ -1 \\ 1 \end{pmatrix} +c \begin{pmatrix} -1 \\ 1 \\ 3 \end{pmatrix} =\begin{pmatrix} 3a+2b-c \\ -2a-b+c \\ 4a+b+3c \end{pmatrix} =\begin{pmatrix} x \\ y \\ z \end{pmatrix} 
+a (3−24) +b (2−11) +c (−113) =(3a+2b−c−2a−b+c4a+b+3c) =(xyz) 
 \end{align}
 $$
 So we have ${} a+b=x+y {}$ and $13a+7b=3x+z$. Therefore, ${} -7a-7b=-7x-7y {}$, so
