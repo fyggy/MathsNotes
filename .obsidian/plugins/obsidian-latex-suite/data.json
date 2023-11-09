@@ -11,7 +11,7 @@
   "mathPreviewEnabled": true,
   "autofractionEnabled": true,
   "autofractionSymbol": "\\frac",
-  "autofractionBreakingChars": "+-= ,<>",
+  "autofractionBreakingChars": "+-= ,<>|",
   "matrixShortcutsEnabled": true,
   "taboutEnabled": true,
   "autoEnlargeBrackets": true,

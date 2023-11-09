@@ -23,7 +23,8 @@ KEATS: https://keats.kcl.ac.uk/course/view.php?id=109726
 | [[SeqSeries HW1.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 1\|Problem Sheet 1]] |
 | [[SeqSeries HW2.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 2\|Problem Sheet 2]] |
 | [[SeqSeries HW3.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 3\|Problem Sheet 3]] |
-| [[SeqSeries HW4.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 4\|Problem Sheet 4]]                                                                     |
+| [[SeqSeries HW4.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 4\|Problem Sheet 4]] |
+| [[SeqSeries HW5.pdf]] | [[Subjects/Sequences and Series 1/Problem Sheet 5\|Problem Sheet 5]]                                                                     |
 
 Directory:
 ```dataview
