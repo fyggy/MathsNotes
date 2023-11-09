@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Sequences and Series 1/12..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0449650e046690b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3cfb537f6ad70ddc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/SeqSeries HW5.pdf"
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Sequences and Series 1/12..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Sequences and Series 1/12..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md"
+                "file": "Subjects/Sequences and Series 1/12..md"
               }
             }
           },
@@ -176,6 +160,7 @@
   "active": "1145054849f964dc",
   "lastOpenFiles": [
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Sequences and Series 1/12..md",
     "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Homework/SeqSeries HW5.pdf",
     "Directory.md",
@@ -211,7 +196,6 @@
     "Subjects/Sequences and Series 1/Problem Sheet 4.md",
     "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
     "Subjects/Sequences and Series 1/10..md",
-    "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",

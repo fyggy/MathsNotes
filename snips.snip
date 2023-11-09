@@ -258,11 +258,11 @@
 
     {trigger: "mcal", replacement: "\\mathcal{$0}$1", options: "mA"},
     {trigger: "mbb", replacement: "\\mathbb{$0}$1", options: "mA"},
-    {trigger: "ell", replacement: "\\ell", options: "mA"},
-    {trigger: "lll", replacement: "\\ell", options: "mA"},
+    {trigger: "ll", replacement: "\\ell", options: "mA", priority: 1},
     {trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
     {trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
     {trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
+	{trigger: "\\\\mathbb{C}([A-Za-np-z\\d])", replacement: "\\mathbb{C}^{[[0]]}", options: "rmA"},
     {trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
 	{trigger: "\\\\mathbb{R}([A-Za-np-z\\d])", replacement: "\\mathbb{R}^{[[0]]}", options: "rmA"},
     {trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
@@ -274,7 +274,9 @@
     {trigger: "EE", replacement: "\\mathbf{E}", options: "mA"},
     {trigger: "QQ", replacement: "\\mathbb{Q}", options: "mA"},
 	{trigger: "FF", replacement: "\\mathbb{F}", options: "mA"},
+	{trigger: "\\\\mathbb{F}([A-Za-np-z\\d])", replacement: "\\mathbb{F}^{[[0]]}", options: "rmA"},
 	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
+	{trigger: "\\\\mathbb{P}([A-Za-np-z\\d])", replacement: "\\mathbb{P}_{[[0]]}", options: "rmA"},
 
 
 
