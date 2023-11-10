@@ -4,5 +4,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
   "obsidian-latex-suite",
-  "inline-math"
+  "inline-math",
+  "obsidian-git",
+  "omnisearch",
+  "text-extractor"
 ]
