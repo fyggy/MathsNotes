@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Sequences and Series 1/12..md",
+                "file": "Subjects/D&F Abstract Algebra/1.3 Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Sequences and Series 1/12..md",
+                "file": "Subjects/D&F Abstract Algebra/1.3 Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Sequences and Series 1/12..md",
+                "file": "Subjects/D&F Abstract Algebra/1.3 Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Sequences and Series 1/12..md"
+                "file": "Subjects/D&F Abstract Algebra/1.3 Exercises.md"
               }
             }
           },
@@ -152,18 +152,21 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "1145054849f964dc",
   "lastOpenFiles": [
-    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/1.3 Exercises.md",
+    "Subjects/D&F Abstract Algebra/1.2 Exercises.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Directory.md",
     "Subjects/Sequences and Series 1/12..md",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Homework/SeqSeries HW5.pdf",
-    "Directory.md",
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Sequences and Series 1/7..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
@@ -189,13 +192,8 @@
     "git/MathsNotes",
     "git",
     "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
-    "Textbooks/Linear Algebra Done Wrong - Sergei Treil 1.pdf",
     "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
-    "Subjects/Linear Algebra and Geometry 1/9. Bases, Spanning sets, and Linear Independence.md",
-    "Subjects/Sequences and Series 1/Problem Sheet 4.md",
-    "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
-    "Subjects/Sequences and Series 1/10..md",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",

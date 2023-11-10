@@ -230,7 +230,7 @@
     {trigger: "prop", replacement: "\\propto", options: "mA"},
     {trigger: "nabl", replacement: "\\nabla", options: "mA"},
     {trigger: "del", replacement: "\\nabla", options: "mA"},
-    {trigger: "xx", replacement: "\\times", options: "mA"},
+    {trigger: "xx", replacement: "\\times $0", options: "mA"},
     {trigger: "**", replacement: "\\cdot $0", options: "mA"},
     {trigger: "para", replacement: "\\parallel", options: "mA"},
     {trigger: "!T", replacement: "\\bot", options: "mA"}, 
@@ -404,9 +404,9 @@
     {trigger: "{", replacement: "\\{${VISUAL}\\}", options: "mA"},
 	{trigger: "|", replacement: "|${VISUAL}|", options: "mA"},
 	
-    {trigger: "(", replacement: "($0)$1", options: "mA"},
-    {trigger: "{", replacement: "{$0}$1", options: "mA"},
-    {trigger: "[", replacement: "[$0]$1", options: "mA"},
+    {trigger: "(", replacement: "($0) $1", options: "mA"},
+    {trigger: "{", replacement: "{$0} $1", options: "mA"},
+    {trigger: "[", replacement: "[$0] $1", options: "mA"},
 	{trigger: "\\mid|", replacement: "\\lVert $0 \\rVert $1", options: "mA"},
 	
     {trigger: "lr(", replacement: "\\left( $0 \\right) $1", options: "mA"},
@@ -416,8 +416,6 @@
     {trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
     {trigger: "ceil", replacement: "\\ceil*{$0} $1", options: "mA"},
     {trigger: "floor", replacement: "\\floor*{$0} $1", options: "mA"},
-
-	{trigger: "d([^\\s]+)d([^\\s]+)", replacement: "\\frac{d[[0]]}{d[[1]]} ", options: "rmA"},
 
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
