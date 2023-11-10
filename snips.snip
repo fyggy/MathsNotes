@@ -4,13 +4,6 @@
     {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
     {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
-
-    // Dashes
-    // {trigger: "--", replacement: "–", options: "tA"},
-    // {trigger: "–-", replacement: "—", options: "tA"},
-    // {trigger: "—-", replacement: "---", options: "tA"},
-
-
     // Greek letters
     {trigger: "@a", replacement: "\\alpha", options: "mA"},
     {trigger: "@A", replacement: "\\alpha", options: "mA"},
@@ -135,7 +128,6 @@
 	{trigger: "\\cdot *", replacement: "\\cdot{\\dots}\\cdot", options: "mA"},
 	{trigger: "\\times xx", replacement: "\\times{\\dots}\\times", options: "mA", priority: 1},
 	
-
 
     {trigger: "([a-zA-Z\\d]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z\\d])\\.,", replacement: "\\mathbf{[[0]]}", options: "rmA"},
@@ -392,6 +384,7 @@
 	{trigger: "71mat", replacement: "\\begin{pmatrix}$0 \\\\ $1 \\\\ $2 \\\\ $3 \\\\ $4 \\\\ $5 \\\\ $6 \\end{pmatrix} $7", options: "mA"}, 
 	{trigger: "81mat", replacement: "\\begin{pmatrix}$0 \\\\ $1 \\\\ $2 \\\\ $3 \\\\ $4 \\\\ $5 \\\\ $6 \\\\ $7 \\end{pmatrix} $8", options: "mA"}, 
 	{trigger: "91mat", replacement: "\\begin{pmatrix}$0 \\\\ $1 \\\\ $2 \\\\ $3 \\\\ $4 \\\\ $5 \\\\ $6 \\\\ $7 \\\\ $8 \\end{pmatrix} $9", options: "mA"},
+	{trigger: "[A-Za-z]emat", replacement: "\\begin{pmatrix}[[0]]_{11} & [[0]]_{12} & \\dots & [[0]]_{1m} \\\\ [[0]]_{21} & [[0]]_{22} & \\dots & [[0]]_{2m} \\\\ \\vdots & \\vdots & \\ddots & \\vdots \\\\ [[0]]_{n1} & [[0]]_{n2} & \dots & [[0]]_{[[1}
 
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md"
               }
             }
           },
@@ -172,14 +172,14 @@
   "active": "e670fbe019eac599",
   "lastOpenFiles": [
     "Subjects/Calculus 1/Challenge problem.md",
+    "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Directory.md",
     "Subjects/Calculus 1/12. Properties of the Derivative.md",
     "Subjects/Calculus 1/9..md",
     "Subjects/Calculus 1/Calculus 1.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Directory.md",
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
-    "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/D&F Abstract Algebra/1.2 Dihedral Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/1.1 Introduction to Groups Exercises.md",
