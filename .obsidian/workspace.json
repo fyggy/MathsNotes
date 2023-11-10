@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/Challenge problem.md",
+                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/Challenge problem.md",
+                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/Challenge problem.md"
+                "file": "Subjects/Calculus 1/12. Properties of the Derivative.md"
               }
             }
           },
@@ -168,11 +169,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1145054849f964dc",
+  "active": "e670fbe019eac599",
   "lastOpenFiles": [
+    "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Calculus 1/12. Properties of the Derivative.md",
     "Subjects/Calculus 1/9..md",
-    "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Calculus 1/Calculus 1.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Directory.md",
