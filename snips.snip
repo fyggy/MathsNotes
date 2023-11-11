@@ -41,6 +41,8 @@
     {trigger: "@W", replacement: "\\Omega", options: "mA"},
     {trigger: "@P", replacement: "\\Phi", options: "mA"}, 
     {trigger: "@p", replacement: "\\phi", options: "mA"}, 
+	{trigger: "@U", replacement: "\\tau", options: "mA"},
+	{trigger: "@u", replacement: "\\tau", options: "mA"},
     {trigger: ":P", replacement: "\\varphi", options: "mA"}, 
     {trigger: ":p", replacement: "\\varphi", options: "mA"}, 
     {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
@@ -127,6 +129,7 @@
 	{trigger: "---", replacement: "-\\dots-", options: "mA"},
 	{trigger: "\\cdot *", replacement: "\\cdot{\\dots}\\cdot", options: "mA"},
 	{trigger: "\\times xx", replacement: "\\times{\\dots}\\times", options: "mA", priority: 1},
+	{trigger: "\\;\\;;", replacement: "\\;\\dots\\;", options: "mA"},
 	
 
     {trigger: "([a-zA-Z\\d]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
