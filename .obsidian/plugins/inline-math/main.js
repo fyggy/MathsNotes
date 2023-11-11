@@ -27,17 +27,66 @@ __export(main_exports, {
   default: () => NoMoreFlicker
 });
 module.exports = __toCommonJS(main_exports);
+var import_obsidian3 = require("obsidian");
 var import_state2 = require("@codemirror/state");
-var import_obsidian2 = require("obsidian");
+var import_view2 = require("@codemirror/view");
 
 // src/settings.ts
+var import_obsidian2 = require("obsidian");
+
+// src/key.ts
 var import_obsidian = require("obsidian");
+var asKey = (event) => {
+  const { key, ctrlKey, metaKey, shiftKey, altKey } = event;
+  return { key, ctrlKey, metaKey, shiftKey, altKey };
+};
+var is = (event, key) => {
+  return key.key == event.key && key.ctrlKey == event.ctrlKey && key.metaKey == event.metaKey && key.shiftKey == event.shiftKey && key.altKey == event.altKey;
+};
+var toString = (key) => {
+  let ret = "";
+  if (key.ctrlKey)
+    ret += "Ctrl + ";
+  if (key.shiftKey)
+    ret += "Shift + ";
+  if (key.metaKey)
+    ret += import_obsidian.Platform.isMacOS || import_obsidian.Platform.isIosApp ? "Cmd + " : import_obsidian.Platform.isWin ? "Win + " : "Meta + ";
+  if (key.altKey)
+    ret += import_obsidian.Platform.isMacOS || import_obsidian.Platform.isIosApp ? "Option + " : "Alt + ";
+  ret += key.key.charAt(0).toUpperCase() + key.key.slice(1);
+  return ret;
+};
+var noneKey = {
+  key: "",
+  ctrlKey: false,
+  metaKey: false,
+  shiftKey: false,
+  altKey: false
+};
+
+// src/settings.ts
 var DEFAULT_SETTINGS = {
+  deletionKeys: [
+    {
+      key: "Backspace",
+      ctrlKey: false,
+      metaKey: false,
+      shiftKey: false,
+      altKey: false
+    },
+    {
+      key: "h",
+      ctrlKey: true,
+      metaKey: false,
+      shiftKey: false,
+      altKey: false
+    }
+  ],
   disableInTable: false,
   disableDecorations: false,
   disableAtomicRanges: false
 };
-var NoMoreFlickerSettingTab = class extends import_obsidian.PluginSettingTab {
+var NoMoreFlickerSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -45,21 +94,56 @@ var NoMoreFlickerSettingTab = class extends import_obsidian.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Disable in tables").setDesc("If turned on, braces won't be inserted in tables. Decorations & atomic ranges are enabled regardless of this setting.").addToggle((toggle) => {
+    const setting = new import_obsidian2.Setting(containerEl).setName("Register deletion keys");
+    const list = containerEl.createEl("ul");
+    const listDeletionKeys = () => {
+      list.replaceChildren(
+        ...this.plugin.settings.deletionKeys.map((key) => {
+          const item = createEl("li", { text: "" });
+          new import_obsidian2.Setting(item).setName(toString(key)).addExtraButton((btn) => {
+            btn.setIcon("x").onClick(async () => {
+              this.plugin.settings.deletionKeys.remove(key);
+              listDeletionKeys();
+              await this.plugin.saveSettings();
+              this.display();
+            });
+          });
+          return item;
+        })
+      );
+    };
+    listDeletionKeys();
+    setting.addButton((button) => {
+      button.setIcon("plus").onClick(() => {
+        this.plugin.settings.deletionKeys.push(noneKey);
+        button.setButtonText("Press deletion keys...");
+        this.plugin.registerDomEvent(button.buttonEl, "keydown", (event) => {
+          this.plugin.settings.deletionKeys[this.plugin.settings.deletionKeys.length - 1] = asKey(event);
+          listDeletionKeys();
+          if (list.lastChild instanceof HTMLElement) {
+            new import_obsidian2.ButtonComponent(list.lastChild).setButtonText("Save").onClick(async () => {
+              await this.plugin.saveSettings();
+              this.display();
+            });
+          }
+        });
+      });
+    });
+    new import_obsidian2.Setting(containerEl).setName("Disable in table").setDesc("If turned on, braces won't be inserted in table. Decorations & atomic ranges are enabled regardless of this setting.").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.disableInTable).onChange(async (disable) => {
         this.plugin.settings.disableInTable = disable;
         await this.plugin.saveSettings();
       });
     });
-    containerEl.createEl("h4", { text: "Debug mode" });
-    new import_obsidian.Setting(containerEl).setName("Disable decorations").setDesc("If turned on, decorations to hide braces adjacent to dollar signs are disabled.").addToggle((toggle) => {
+    containerEl.createEl("h5", { text: "Debug mode" });
+    new import_obsidian2.Setting(containerEl).setName("Disable decorations").setDesc("If turned on, decorations to hide braces adjacent to dollar signs are disabled.").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.disableDecorations).onChange(async (disable) => {
         this.plugin.settings.disableDecorations = disable;
         this.plugin.remakeViewPlugin();
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("Disable atomic ranges").setDesc(createFragment((el) => {
+    new import_obsidian2.Setting(containerEl).setName("Disable atomic ranges").setDesc(createFragment((el) => {
       el.createSpan({ text: 'If turned on, atomic ranges to treat "' });
       el.createEl("code", { text: "${} " });
       el.createSpan({ text: '" or "' });
@@ -72,9 +156,10 @@ var NoMoreFlickerSettingTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).addButton((button) => {
+    new import_obsidian2.Setting(containerEl).addButton((button) => {
       button.setButtonText("Restore defaults").onClick(async () => {
         this.plugin.settings = Object.assign({}, DEFAULT_SETTINGS);
+        listDeletionKeys();
         await this.plugin.saveSettings();
         this.display();
       });
@@ -121,60 +206,57 @@ function selectionSatisfies(state, predicate) {
 }
 
 // src/handlers.ts
-function getChangesForDeletion(state) {
-  const tree = (0, import_language2.syntaxTree)(state);
-  const doc = state.doc.toString();
+function deletionHandler(view) {
+  const range = view.state.selection.main;
+  const from = range.empty ? range.from - 4 : range.from;
+  const to = range.to;
+  const text = view.state.sliceDoc(from, to);
+  const index = text.lastIndexOf("$");
+  if (index == -1) {
+    return;
+  }
+  const doc = view.state.doc.toString();
+  const indexNextDollar = doc.indexOf("$", from + index + 1);
+  const indexPrevDollar = doc.lastIndexOf("$", from);
+  const tree = (0, import_language2.syntaxTree)(view.state);
   const changes = [];
-  for (const range of state.selection.ranges) {
-    const from = range.empty ? range.from - 4 : range.from;
-    const to = range.to;
-    const text = state.sliceDoc(from, to);
-    const index = text.lastIndexOf("$");
-    if (index == -1) {
-      continue;
+  tree.iterate({
+    from: indexPrevDollar,
+    to: indexNextDollar >= 0 ? indexNextDollar : to,
+    enter(node) {
+      if (isInlineMathBegin(node, view.state) && view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
+        changes.push({ from: node.to, to: node.to + 4 });
+      } else if (isInlineMathEnd(node, view.state) && view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
+        changes.push({ from: node.from - 4, to: node.from });
+      }
     }
-    const indexNextDollar = doc.indexOf("$", from + index + 1);
-    const indexPrevDollar = doc.lastIndexOf("$", from);
+  });
+  view.dispatch({ changes });
+}
+function insertionHandler(view) {
+  const tree = (0, import_language2.syntaxTree)(view.state);
+  const range = view.state.selection.main;
+  const doc = view.state.doc.toString();
+  const indexNextDollar = doc.indexOf("$", range.to);
+  const indexPrevDollar = doc.lastIndexOf("$", range.from);
+  if (indexNextDollar >= 0) {
     tree.iterate({
       from: indexPrevDollar,
-      to: indexNextDollar >= 0 ? indexNextDollar : to,
+      to: indexNextDollar + 1,
       enter(node) {
-        if (isInlineMathBegin(node, state) && state.sliceDoc(node.to, node.to + 3) == "{} ") {
-          changes.push({ from: node.to, to: node.to + 3 });
-        } else if (isInlineMathEnd(node, state) && state.sliceDoc(node.from - 3, node.from) == " {}") {
-          changes.push({ from: node.from - 3, to: node.from });
+        if (isInlineMathBegin(node, view.state)) {
+          if (!(view.state.sliceDoc(node.to, node.to + 4) == "{}  ")) {
+            view.dispatch({ changes: { from: node.to, insert: "{}  " } });
+          }
+		}
+		if (isInlineMathEnd(node, view.state)) {
+          if (!(view.state.sliceDoc(node.from - 4, node.from) == "  {}")) {
+            view.dispatch({ changes: { from: node.from, insert: "  {}" } });
+          }
         }
       }
     });
   }
-  return changes;
-}
-function getChangesForInsertion(state) {
-  const tree = (0, import_language2.syntaxTree)(state);
-  const doc = state.doc.toString();
-  let changes = [];
-  for (const range of state.selection.ranges) {
-    const indexNextDollar = doc.indexOf("$", range.to);
-    const indexPrevDollar = doc.lastIndexOf("$", range.from);
-    if (indexNextDollar >= 0) {
-      tree.iterate({
-        from: indexPrevDollar,
-        to: indexNextDollar + 1,
-        enter(node) {
-          if (isInlineMathBegin(node, state)) {
-            if (!(state.sliceDoc(node.to, node.to + 3) == "{} ")) {
-              changes.push({ from: node.to, insert: "{} " });
-            }
-          } else if (isInlineMathEnd(node, state)) {
-            if (!(state.sliceDoc(node.from - 3, node.from) == " {}")) {
-              changes.push({ from: node.from, insert: " {}" });
-            }
-          }
-        }
-      });
-    }
-  }
-  return changes;
 }
 
 // src/cleaner.ts
@@ -184,12 +266,12 @@ function cleaner(view) {
   (0, import_language3.syntaxTree)(view.state).iterate({
     enter(node) {
       if (isInlineMathBegin(node, view.state)) {
-        if (view.state.sliceDoc(node.to, node.to + 3) == "{} ") {
-          changes.push({ from: node.to, to: node.to + 3 });
+        if (view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
+          changes.push({ from: node.to, to: node.to + 4 });
         }
       } else if (isInlineMathEnd(node, view.state)) {
-        if (view.state.sliceDoc(node.from - 3, node.from) == " {}") {
-          changes.push({ from: node.from - 3, to: node.from });
+        if (view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
+          changes.push({ from: node.from - 4, to: node.from });
         }
       }
     }
@@ -227,27 +309,27 @@ var createViewPlugin = (plugin) => import_view.ViewPlugin.fromClass(
           to,
           enter(node) {
             if (isInlineMathBegin(node, view.state)) {
-              if (view.state.sliceDoc(node.to, node.to + 3) == "{} ") {
+              if (view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
                 decorationBulder.add(
                   node.to,
-                  node.to + 3,
+                  node.to + 4,
                   import_view.Decoration.replace({})
                 );
                 atomicRangeBulder.add(
                   node.from,
-                  node.to + 3,
+                  node.to + 4,
                   new DummyRangeValue()
                 );
               }
             } else if (isInlineMathEnd(node, view.state)) {
-              if (view.state.sliceDoc(node.from - 3, node.from) == " {}") {
+              if (view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
                 decorationBulder.add(
-                  node.from - 3,
+                  node.from - 4,
                   node.from,
                   import_view.Decoration.replace({})
                 );
                 atomicRangeBulder.add(
-                  node.from - 3,
+                  node.from - 4,
                   node.to,
                   new DummyRangeValue()
                 );
@@ -270,7 +352,7 @@ var createViewPlugin = (plugin) => import_view.ViewPlugin.fromClass(
 );
 
 // src/main.ts
-var NoMoreFlicker = class extends import_obsidian2.Plugin {
+var NoMoreFlicker = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
     this.viewPlugin = [];
@@ -281,7 +363,9 @@ var NoMoreFlicker = class extends import_obsidian2.Plugin {
     this.addSettingTab(new NoMoreFlickerSettingTab(this.app, this));
     this.registerEditorExtension(this.viewPlugin);
     this.remakeViewPlugin();
-    this.registerEditorExtension(this.makeTransactionFilter());
+    this.registerEditorExtension(import_state2.Prec.highest(import_view2.EditorView.domEventHandlers({
+      "keydown": this.onKeydown.bind(this)
+    })));
     this.addCommand({
       id: "clean",
       name: "Clean up braces in this note",
@@ -299,31 +383,28 @@ var NoMoreFlicker = class extends import_obsidian2.Plugin {
   async saveSettings() {
     await this.saveData(this.settings);
   }
-  makeTransactionFilter() {
-    return import_state2.EditorState.transactionFilter.of((tr) => {
-      if (this.shouldIgnore(tr.startState)) {
-        return tr;
-      }
-      const userEvent = tr.annotation(import_state2.Transaction.userEvent);
-      if ((userEvent == null ? void 0 : userEvent.split(".")[0]) == "input") {
-        const changes = getChangesForInsertion(tr.startState);
-        return [tr, { changes }];
-      } else if ((userEvent == null ? void 0 : userEvent.split(".")[0]) == "delete") {
-        const changes = getChangesForDeletion(tr.startState);
-        return [tr, { changes }];
-      }
-      return tr;
-    });
+  onKeydown(event, view) {
+    if (this.shouldIgnore(view.state)) {
+      return;
+    }
+    if (this.isDeletion(event)) {
+      deletionHandler(view);
+    } else if (!event.ctrlKey && !event.altKey && !event.metaKey && !event.shiftKey) {
+      insertionHandler(view);
+    }
   }
   shouldIgnore(state) {
-    return this.settings.disableInTable && selectionSatisfies(
+    return selectionSatisfies(
       state,
-      (node) => node.name.includes("HyperMD-table") || node.name.includes("hmd-table")
+      (node) => this.settings.disableInTable && (node.name.includes("HyperMD-table") || node.name.includes("hmd-table"))
     );
+  }
+  isDeletion(event) {
+    return this.settings.deletionKeys.some((key) => is(event, key));
   }
   cleanAllMarkdownViews() {
     this.app.workspace.iterateAllLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian2.MarkdownView) {
+      if (leaf.view instanceof import_obsidian3.MarkdownView) {
         cleanerCallback(leaf.view.editor);
       }
     });
