@@ -6505,9 +6505,12 @@ function consumeAndGotoNextTabstop(view) {
   const oldSel = view.state.selection;
   const nextGrp = getTabstopGroupsFromView(view)[0];
   const shouldMoveToEndpoints = nextGrp.containsSelection(oldSel);
-																								
   nextGrp.select(view, shouldMoveToEndpoints, false);
   const newSel = view.state.selection;
+  var begg = newSel.ranges[0].from;
+  var endd = newSel.ranges[0].to;
+  if (view.state.doc.toString().slice(begg, endd) === " {}")
+	newSel.ranges[0].to = begg;
   if (oldSel.eq(newSel))
     return consumeAndGotoNextTabstop(view);
   removeOnlyTabstop(view);

@@ -224,10 +224,10 @@ function deletionHandler(view) {
     from: indexPrevDollar,
     to: indexNextDollar >= 0 ? indexNextDollar : to,
     enter(node) {
-      if (isInlineMathBegin(node, view.state) && view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
-        changes.push({ from: node.to, to: node.to + 4 });
-      } else if (isInlineMathEnd(node, view.state) && view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
-        changes.push({ from: node.from - 4, to: node.from });
+      if (isInlineMathBegin(node, view.state) && view.state.sliceDoc(node.to, node.to + 3) == "{} ") {
+        changes.push({ from: node.to, to: node.to + 3 });
+      } else if (isInlineMathEnd(node, view.state) && view.state.sliceDoc(node.from - 3, node.from) == " {}") {
+        changes.push({ from: node.from - 3, to: node.from });
       }
     }
   });
@@ -245,13 +245,12 @@ function insertionHandler(view) {
       to: indexNextDollar + 1,
       enter(node) {
         if (isInlineMathBegin(node, view.state)) {
-          if (!(view.state.sliceDoc(node.to, node.to + 4) == "{}  ")) {
-            view.dispatch({ changes: { from: node.to, insert: "{}  " } });
+          if (!(view.state.sliceDoc(node.to, node.to + 3) == "{} ")) {
+            view.dispatch({ changes: { from: node.to, insert: "{} " } });
           }
-		}
-		if (isInlineMathEnd(node, view.state)) {
-          if (!(view.state.sliceDoc(node.from - 4, node.from) == "  {}")) {
-            view.dispatch({ changes: { from: node.from, insert: "  {}" } });
+        } else if (isInlineMathEnd(node, view.state)) {
+          if (!(view.state.sliceDoc(node.from - 3, node.from) == " {}")) {
+            view.dispatch({ changes: { from: node.from, insert: " {}" } });
           }
         }
       }
@@ -266,12 +265,12 @@ function cleaner(view) {
   (0, import_language3.syntaxTree)(view.state).iterate({
     enter(node) {
       if (isInlineMathBegin(node, view.state)) {
-        if (view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
-          changes.push({ from: node.to, to: node.to + 4 });
+        if (view.state.sliceDoc(node.to, node.to + 3) == "{} ") {
+          changes.push({ from: node.to, to: node.to + 3 });
         }
       } else if (isInlineMathEnd(node, view.state)) {
-        if (view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
-          changes.push({ from: node.from - 4, to: node.from });
+        if (view.state.sliceDoc(node.from - 3, node.from) == " {}") {
+          changes.push({ from: node.from - 3, to: node.from });
         }
       }
     }
@@ -309,27 +308,27 @@ var createViewPlugin = (plugin) => import_view.ViewPlugin.fromClass(
           to,
           enter(node) {
             if (isInlineMathBegin(node, view.state)) {
-              if (view.state.sliceDoc(node.to, node.to + 4) == "{}  ") {
+              if (view.state.sliceDoc(node.to, node.to + 3) == "{} ") {
                 decorationBulder.add(
                   node.to,
-                  node.to + 4,
+                  node.to + 3,
                   import_view.Decoration.replace({})
                 );
                 atomicRangeBulder.add(
                   node.from,
-                  node.to + 4,
+                  node.to + 3,
                   new DummyRangeValue()
                 );
               }
             } else if (isInlineMathEnd(node, view.state)) {
-              if (view.state.sliceDoc(node.from - 4, node.from) == "  {}") {
+              if (view.state.sliceDoc(node.from - 3, node.from) == " {}") {
                 decorationBulder.add(
-                  node.from - 4,
+                  node.from - 3,
                   node.from,
                   import_view.Decoration.replace({})
                 );
                 atomicRangeBulder.add(
-                  node.from - 4,
+                  node.from - 3,
                   node.to,
                   new DummyRangeValue()
                 );
