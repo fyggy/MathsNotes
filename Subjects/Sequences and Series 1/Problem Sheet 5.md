@@ -72,4 +72,24 @@ $$
 \lim_{n\tto \infty} s_{n}=0
 $$
 2. 
-Let ${} \{ s_{n} \}_{n=1}^{\infty} {}$ be a sequence with ${} \lim_{n\tto \infty} s_{n}=\ell {}$
+Let ${} \{ s_{n} \}_{n=1}^{\infty} {}$ be a sequence with $\lim_{n\tto \infty} s_{n}=\ell$, and let ${} \{ t_{n} \}^{\infty}_{n=1} {}$ be defined by ${} t_{n}=2s_{n} {}$. Then, given $\varepsilon>0$, we have a ${} n_{0} \in \mathbb{N}$ such that for all $n\geq n_{0}$, we have
+$$
+|s_{n}-\ell|<\varepsilon
+$$
+Therefore, we have a $n_{0}$ such that for all $n\geq n_{0}$, we have
+$$
+\begin{align}
+ |s_{n}-\ell| & <\frac{\varepsilon}{2}   \\
+2|s_{n}-\ell| & <\varepsilon \\
+|2s_{n}-2\ell| & <\varepsilon \\
+|t_{n}-2\ell| & <\varepsilon
+ \end{align}
+$$
+For all ${} \varepsilon>0 {}$. Therefore, 
+$$
+\lim_{n\tto \infty} t_{n}=2\ell
+$$
+As required
+3. 
+skip
+4. 
