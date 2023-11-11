@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md"
+                "file": "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "f751d11546a87a94",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
     "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
@@ -168,7 +170,6 @@
     "Subjects/Calculus 1/12. Properties of the Derivative.md",
     "Subjects/Calculus 1/9..md",
     "Subjects/Calculus 1/Calculus 1.md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/1.2 Dihedral Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/1.1 Introduction to Groups Exercises.md",
     "Pasted image 20231110153216.png",
@@ -190,8 +191,6 @@
     "Untitled.md",
     "Pasted image 20231012123620.png",
     "git/MathsNotes/README.md",
-    "Subjects/Calculus 1/6. Euler's Formula and Trig identities.md",
-    "Subjects/Calculus 1/1. Introduction.md",
     "MathsNotes",
     "git/MathsNotes",
     "git",
