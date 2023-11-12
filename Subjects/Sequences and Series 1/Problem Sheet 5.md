@@ -93,3 +93,53 @@ As required
 3. 
 skip
 4. 
+Let ${} \{ s_{n} \}_{n=1}^{\infty} {}$ such that 
+$$
+\lim_{n\tto \infty} s_{n}=0
+$$
+and let ${} \{t_{s}\}_{s=1}^{\infty}  {}$ such that
+$$
+t_{n}=\begin{cases}
+1 & \text{ if } n\leq 1000 \\
+s_{n} & \text{ if } n>1000
+\end{cases}
+$$
+Now let ${} \varepsilon>0$. Then let $S(\varepsilon)$ be the ${} n_{0}\in \mathbb{N}$ such that for all $n\geq n_{0}$, ${} |s_{n}-0|<\varepsilon {}$. 
+
+Now if we have $\varepsilon>0 {}$, then let ${} n_{0}=\max(S(\varepsilon),\, 1001) {}$. Then for all $n\geq n_{0}$, we have 2 cases: 
+Case 1: ${} S(\varepsilon)\leq 1000 {}$. Then ${} n\geq 1001 {}$. Therefore, $t_{n}=s_{n}$, and ${} n\geq S(\varepsilon)$, so ${} |t_{n}-0|=|s_{n}-0|<\varepsilon {}$
+Case 2: ${} S(\varepsilon)>1000 {}$. Then ${} t_{n}=s_{n} {}$, and ${} n\geq S(\varepsilon) {}$, so $|t_{n}-0|=|s_{n}-0|<\varepsilon$
+Therefore
+$$
+\lim_{n\tto \infty} t_{n}=0
+$$
+As required
+5. Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$ and ${} \{t_{n}\}_{n=1}^{\infty}  {}$ such that ${} \exists \ell \in \mathbb{R} {}$ such that
+$$
+\lim_{n\tto \infty} s_{n}=\ell=\lim_{n\tto \infty} t_{n}
+$$
+Then let ${} \{r_{n}\}_{n=1}^{\infty}  {}$ such that
+$$
+r_{n}=\begin{cases}
+s_{n} & \text{if } n\text{ is odd} \\
+t_{n} & \text{if } n \text{ is even}
+\end{cases}
+$$
+Let ${} S(\varepsilon) {}$ be the $n_{0}$ such that for all $n\geq n_{0}$, we have $|s_{n}-\ell|<\varepsilon$
+Let ${} T(\varepsilon) {}$ be the $n_{0}$ such that for all $n\geq n_{0}$, we have ${} |t_{n}-\ell|<\varepsilon {}$
+Let $\varepsilon>0$. Then we have $n_{0}=\max(S(\varepsilon),\, T(\varepsilon))$ such that for all $n\geq n_{0}$, we have 2 cases:
+Case 1: $n$ odd. Then ${} r_{n}=s_{n} {}$, and since $n\geq n_{0}\geq S(\varepsilon)$, we have ${} |r_{n}-\ell|=|s_{n}-\ell|<\varepsilon {}$
+Case 2: ${} n {}$ even. Then ${} r_{n}=t_{n} {}$, and since ${} n\geq n_{0}\geq T(\varepsilon)$, we have ${} |r_{n}-\ell|=|t_{n}-\ell|<\varepsilon$
+Therefore, 
+$$
+\lim_{n\tto \infty} r_{n}=\ell
+$$
+as required.
+6. a)
+Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$, with ${} s_{n}=n^{2}(-1)^{n} {}$. Suppose that ${} k\geq s_{n} {}$ ${} \forall n \in \mathbb{N}$. Note that ${} s_{2k}=4k^{2}>k {}$. So this cannot hold. Now suppose that ${} k\leq s_{n},\, \forall n \in \mathbb{N} {}$. Note that ${} s_{2k+1}=-4k^{2}-4k-1<k {}$, so this cannot hold. Therefore, ${} s_{n}$ is unbounded
+b)
+Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$ with 
+$$
+s_{n}=\frac{(-1)^{n}n-2^{-n}}{n}=( -1 )^{n}-2^{-n}
+$$
+Note that ${} 2^{-n}>2^{-n-1} {}$, so it is monotonically decreasing. likewise, ${} (-1)^{n}$ has a constant magnitude. In other words, if $n$ is even, then ${} s_{n}\geq$

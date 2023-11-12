@@ -320,6 +320,9 @@
 	{trigger: "([A-Za-z])bigcap", replacement: "\\bigcap_{[[0]]=${0:1}}^{${1:\\infty}} $2", options: "rmA", priority: 1},
 	{trigger: "([A-Za-z])sbigcap", replacement: "\\bigcap_{[[0]]\\in ${0:\\mathbb{N}}} $1", options: "rmA", priority: 1},
 	
+	{trigger: "([A-Za-z])seq", replacement: "\\{ $0 \\}_{[[0]]=${1:1}}^{${2:\\infty}} $3", options: "rmA"},
+	{trigger: "([A-Za-z])([A-Za-z])seq", replacement: "\\{[[0]]_{[[1]]}\\}_{[[1]]=${0:1}}^{${1:\\infty}} $2", options: "rmA"},
+	
     // Quantum mechanics
     {trigger: "hba", replacement: "\\hbar", options: "mA"},
     {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
