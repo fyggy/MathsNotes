@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0df6de98a589afc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Sequences and Series 1/12..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f4d3d51ee94c4fd",
             "type": "leaf",
             "state": {
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Sequences and Series 1/12..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Sequences and Series 1/12..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md"
+                "file": "Subjects/Sequences and Series 1/12..md"
               }
             }
           },
@@ -186,8 +198,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f4d3d51ee94c4fd",
+  "active": "0df6de98a589afc7",
   "lastOpenFiles": [
+    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+    "Subjects/Sequences and Series 1/12..md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Homework/SeqSeries HW5.pdf",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
@@ -205,8 +219,6 @@
     "Subjects/D&F Abstract Algebra/1.2 Dihedral Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/1.1 Introduction to Groups Exercises.md",
     "Pasted image 20231110153216.png",
-    "Subjects/Sequences and Series 1/12..md",
-    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Sequences and Series 1/7..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",

@@ -137,9 +137,23 @@ $$
 as required.
 6. a)
 Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$, with ${} s_{n}=n^{2}(-1)^{n} {}$. Suppose that ${} k\geq s_{n} {}$ ${} \forall n \in \mathbb{N}$. Note that ${} s_{2k}=4k^{2}>k {}$. So this cannot hold. Now suppose that ${} k\leq s_{n},\, \forall n \in \mathbb{N} {}$. Note that ${} s_{2k+1}=-4k^{2}-4k-1<k {}$, so this cannot hold. Therefore, ${} s_{n}$ is unbounded
-b)
-Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$ with 
+b) 
+skip
+c)
+Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$ with $s_{n}=\sqrt{n}\cos\left( \frac{\pi n}{2} \right)$. This sequence is unbounded. Suppose that ${} k\geq s_{n},\, \forall n \in \mathbb{N} {}$.
+Note $s_{4k^{2}}=2k\cos(2\pi k^{2})=2k>k$. Therefore, $s_{n}$ is unbounded.
+7. 
+c) 
+Let ${} \{s_{n}\}_{n=1}^{\infty}  {}$ such that $s_{n}=n^{2}-n {}$. First note that ${} a^{2}-a\geq b^{2}-b {}$ if $a\geq b {}$ and $b>1 {}$, as the function is monotonic for values greater than $1 {}$, as if $x>1 {}$, then $x^{2}>x {}$.
+Let $M>0 {}$. Then let ${} n_{0}=\ceil*{M+1} {}$, so ${} n_{0}>1 {}$, and for all ${} n\geq n_{0} {}$, we have
 $$
-s_{n}=\frac{(-1)^{n}n-2^{-n}}{n}=( -1 )^{n}-2^{-n}
+\begin{align}
+ s_{n} & =n^{2}-n\geq n_{0}^{2}-n_{0}   \\
+ & =\ceil*{2M+1} ^{2}-\ceil*{2M+1}  \\
+ & >(2M+1)^{2}-2M+1 \\
+ & =4M^{2}+4M+1-2M-1 \\
+ & = 4M^{2}+2M\\
+  & >M
+ \end{align}
 $$
-Note that ${} 2^{-n}>2^{-n-1} {}$, so it is monotonically decreasing. likewise, ${} (-1)^{n}$ has a constant magnitude. In other words, if $n$ is even, then ${} s_{n}\geq$
+Therefore, this sequence diverges to infinity as required.
