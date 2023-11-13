@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6101b9ca6b14edbe",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md"
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md"
               }
             }
           },
@@ -198,21 +198,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0df6de98a589afc7",
+  "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Homework/SeqSeries HW5.pdf",
+    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+    "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Directory.md",
     "Subjects/Sequences and Series 1/12..md",
-    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
-    "Homework/SeqSeries HW5.pdf",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
     "Subjects/Calculus 1/Challenge problem.md",
-    "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
     "Subjects/Calculus 1/12. Properties of the Derivative.md",
     "Subjects/Calculus 1/9..md",
     "Subjects/Calculus 1/Calculus 1.md",
