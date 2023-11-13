@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f751d11546a87a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0df6de98a589afc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f4d3d51ee94c4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
+                "file": "Subjects/Intro to Algebra 1/13..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
+                "file": "Subjects/Intro to Algebra 1/13..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
+                "file": "Subjects/Intro to Algebra 1/13..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md"
+                "file": "Subjects/Intro to Algebra 1/13..md"
               }
             }
           },
@@ -183,10 +159,14 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
-    "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
-    "Pasted image 20231113123058.png",
+    "Subjects/Intro to Algebra 1/12..md",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
+    "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
+    "Subjects/Intro to Algebra 1/10. Direct Product and Multiplicative Congruences.md",
+    "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
+    "Subjects/Intro to Algebra 1/13..md",
+    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+    "Pasted image 20231113123058.png",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Directory.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
@@ -208,15 +188,12 @@
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Sequences and Series 1/7..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
-    "Subjects/Intro to Algebra 1/12..md",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
     "Homework/LinearAlgGeo1 HW5.pdf",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
-    "README.md",
-    "Untitled.md",
     "Pasted image 20231012123620.png",
     "MathsNotes",
     "git/MathsNotes",
