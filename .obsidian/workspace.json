@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
                 "mode": "source",
                 "source": false
               }
@@ -40,23 +40,6 @@
                 "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6101b9ca6b14edbe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9247d1b661a5bbc3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/SeqSeries HW5.pdf"
               }
             }
           }
@@ -110,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -127,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/13..md"
               }
             }
           },
@@ -198,16 +180,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f4d3d51ee94c4fd",
+  "active": "f751d11546a87a94",
   "lastOpenFiles": [
-    "Homework/IntroAlgebra HW6.pdf",
-    "Homework/SeqSeries HW5.pdf",
-    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+    "Pasted image 20231113123058.png",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
+    "Subjects/Linear Algebra and Geometry 1/13..md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Directory.md",
-    "Subjects/Sequences and Series 1/12..md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
+    "Homework/IntroAlgebra HW6.pdf",
+    "Homework/SeqSeries HW5.pdf",
+    "Subjects/Sequences and Series 1/12..md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
@@ -233,11 +217,9 @@
     "README.md",
     "Untitled.md",
     "Pasted image 20231012123620.png",
-    "git/MathsNotes/README.md",
     "MathsNotes",
     "git/MathsNotes",
     "git",
-    "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
