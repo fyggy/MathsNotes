@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13..md",
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/13..md"
+                "file": "Subjects/Sequences and Series 1/Problem Sheet 5.md"
               }
             }
           },
@@ -180,11 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f751d11546a87a94",
+  "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
     "Pasted image 20231113123058.png",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
-    "Subjects/Linear Algebra and Geometry 1/13..md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Directory.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
@@ -227,7 +228,6 @@
     "Pasted image 20231013150916.png",
     "Pasted image 20231012124319.png",
     "Pasted image 20231012123740.png",
-    "Pasted image 20231012123718.png",
     "Untitled.canvas"
   ]
 }
