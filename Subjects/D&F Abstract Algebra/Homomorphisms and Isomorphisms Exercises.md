@@ -64,4 +64,26 @@ Suppose that $I=H {}$. Then, it is clear by definition that $\varphi {}$ is surj
 Let ${} G, H {}$ be groups, and let $\varphi:G\to{}H {}$ be a homomorphism. Let ${} K {}$ be the *kernel* of ${} \varphi {}$ in $G$, that is
 $$
 K=\{ a \in G\mid\varphi(a)=1 \}
-$$First we observe that, obviously, ${} K\subseteq G {}$. Now we check the group axioms. Firstly, it is clear that the operation on $G {}$ is still $$
+$$First we observe that, obviously, ${} K\subseteq G {}$. Now we check the group axioms. Firstly, it is clear that the operation on $G {}$ is still associative on $K$. Next, if ${} a,\, b \in K$, then 
+$$
+\varphi(ab)=\varphi(a)\varphi(b)=1\cdot 1=1
+$$
+So ${} ab \in K {}$. Now since ${} \varphi(1)=1 {}$, then ${} 1 \in K {}$. Finally, if ${} a \in K$, then 
+$$
+\varphi(a^{-1})=\varphi (a)^{-1}=1^{-1}=1
+$$
+So ${} a^{-1} \in K$. Therefore, $K$ is a group, so $K\leq G {}$.
+
+Now suppose that ${} \varphi {}$ is injective. Then, by the definition of injectivity, then if ${} \varphi(a)=\varphi(b) {}$, then ${} a=b {}$. First note that ${} 1 \in K {}$, as $\varphi(1)=1 {}$. Then suppose that we have some ${} a \in G {}$ such that ${} a \in K {}$, that is ${} \varphi(a)=1$. By the definition of injectivity, we have $\varphi(a)=1=\varphi(1)$, therefore, ${} a=1$. Therefore, $K=\{ 1 \}$.
+
+Now suppose that $K=\{ 1 \}$. Now suppose we have some ${} a,\, b \in G {}$ such that ${} \varphi(a)=\varphi(b) {}$. Then
+$$
+\begin{align}
+ \varphi(a) & =\varphi(b)   \\
+\varphi (a)\varphi(b)^{-1} & =1 \\
+\varphi(ab^{-1}) & =1
+ \end{align}
+$$
+Since ${} K=\{ 1 \} {}$, then ${} ab^{-1}=1 {}$. Therefore, ${} a=b {}$. Therefore, $\varphi$ is injective, as required
+15. 
+Let $\pi:\mathbb{R}^{2}\to{}\mathbb{R}$ such that ${} \pi((x,\, y))=x {}$. 
