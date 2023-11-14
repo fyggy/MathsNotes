@@ -1,3 +1,11 @@
+---
+tags:
+  - calculus1
+  - homework
+date: 2023-11-14
+---
+[[Directory]], [[Calculus 1|Subject Directory]]
+[[Calculus 1 HW6.pdf|Problem Sheet]]
 # Tutors example
 Let ${} f(x)=\sqrt{1+\sin x} {}$, with $x \in  [-\pi,\, \pi]$. We calculate
 $$
@@ -36,4 +44,13 @@ We see that if ${} \lim_{h\tto 0^{-}} {}$, then the only difference is that ${} 
 $$
 \lim_{h\tto 0^{-}} \frac{f(x_{0}+h)+f(x_{0})}{h}=-\frac{1}{\sqrt{2}}
 $$
-So the limit does not exist, mean girls style
+So the limit does not exist, mean girls style.
+
+45. a) 
+$$
+\frac{d}{dx} e^{-x^{2}}=e^{-x^{2}}\cdot (-2x)=-2xe^{-x^{2}}
+$$
+b)
+$$
+\frac{d}{dx}  \ln (\tan x)=\frac{1}{\tan x}\sec ^{2} x=\frac{1}{\sin x\cos x}=\frac{2}{\sin 2x}=2\csc 2x
+$$

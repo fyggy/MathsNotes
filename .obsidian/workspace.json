@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5dd8d2550ac300bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00aafc284e75d101",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/Calculus 1 HW6.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:calulus1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -170,8 +187,9 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/Calculus 1/Calculus 1.md",
+    "Homework/Calculus 1 HW6.pdf",
     "Subjects/Calculus 1/Problem Sheet 6.md",
+    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
     "Subjects/Intro to Algebra 1/12. Order and Subgroups.md",
@@ -199,7 +217,6 @@
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
-    "Subjects/Calculus 1/Challenge problem.md",
     "Pasted image 20231110153216.png",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Homework/LinearAlgGeo1 HW5.pdf",
@@ -208,7 +225,6 @@
     "Pasted image 20231012123620.png",
     "MathsNotes",
     "git/MathsNotes",
-    "git",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
