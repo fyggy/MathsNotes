@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/13..md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/12..md",
+                "file": "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/13..md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/13..md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/13..md"
+                "file": "Subjects/Calculus 1/Calculus 1.md"
               }
             }
           },
@@ -171,22 +171,29 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/Intro to Algebra 1/12..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
+    "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
+    "Subjects/Intro to Algebra 1/12. Order and Subgroups.md",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Subjects/Calculus 1/9..md",
+    "Subjects/Calculus 1/8. Limits.md",
+    "Directory.md",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Sequences and Series 1/12..md",
+    "Subjects/Sequences and Series 1/10..md",
+    "Subjects/Sequences and Series 1/7..md",
+    "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
     "Subjects/Intro to Algebra 1/10. Direct Product and Multiplicative Congruences.md",
-    "Subjects/Intro to Algebra 1/13..md",
     "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
     "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
     "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
     "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Pasted image 20231113123058.png",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
-    "Directory.md",
-    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
-    "Subjects/Sequences and Series 1/12..md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
@@ -194,15 +201,8 @@
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
     "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Calculus 1/12. Properties of the Derivative.md",
-    "Subjects/Calculus 1/9..md",
-    "Subjects/Calculus 1/Calculus 1.md",
-    "Subjects/D&F Abstract Algebra/1.2 Dihedral Groups Exercises.md",
-    "Subjects/D&F Abstract Algebra/1.1 Introduction to Groups Exercises.md",
     "Pasted image 20231110153216.png",
-    "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
-    "Subjects/Sequences and Series 1/7..md",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
-    "Subjects/Linear Algebra and Geometry 1/Problem sheet 5.md",
     "Homework/LinearAlgGeo1 HW5.pdf",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
