@@ -54,3 +54,26 @@ b)
 $$
 \frac{d}{dx}  \ln (\tan x)=\frac{1}{\tan x}\sec ^{2} x=\frac{1}{\sin x\cos x}=\frac{2}{\sin 2x}=2\csc 2x
 $$
+c)
+$$
+\frac{d}{dx}(x\ln x-x)=x\cdot \frac{1}{x}+\ln x-1=1-1+\ln x=\ln x
+$$
+d) 
+$$
+\frac{d}{dx} \arcsin (x^{2})=\frac{2x}{\sqrt{1-x^{4}}}
+$$
+e) 
+$$
+\frac{d}{dx} \arctan(e^{x})=\frac{e^{x}}{1+e^{2x}}
+$$
+f) 
+$$
+\frac{d}{dx} e^{\sin x}=e^{\sin x}\cos x
+$$
+g)
+$$
+\begin{align}
+ \frac{d}{dx} (xe^{x\arctan x}) & =e^{x\arctan x}\left( \arctan x+\frac{x}{1+x^{2}} \right)+xe^{x\arctan x} \\
+ &  =e^{x\arctan x}(\arctan x)
+ \end{align}
+$$
