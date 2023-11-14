@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md"
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md"
               }
             }
           },
@@ -171,10 +170,11 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
     "Subjects/Intro to Algebra 1/12. Order and Subgroups.md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Calculus 1/9..md",
     "Subjects/Calculus 1/8. Limits.md",
     "Directory.md",
@@ -200,7 +200,6 @@
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.3 Symmetric Groups Exercises.md",
     "Subjects/Calculus 1/Challenge problem.md",
-    "Subjects/Calculus 1/12. Properties of the Derivative.md",
     "Pasted image 20231110153216.png",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Homework/LinearAlgGeo1 HW5.pdf",
