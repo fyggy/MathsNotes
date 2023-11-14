@@ -42,4 +42,11 @@ Therefore, $H {}$ is commutative.
 We see that ${} i \in \mathbb{C}\setminus \{ 0 \} {}$ has order $4$, but in ${} \mathbb{R}\setminus \{ 0 \} {}$, there are no elements of order 4. This is because if ${} x \in \mathbb{R}\setminus \{ 0 \}$, then if $x\neq-1 {}$ and ${} x\neq 1 {}$, then $x$ has infinite order. Otherwise, ${} |-1|=2$ and $|1|=1$. Therefore, ${} \mathbb{C}\setminus \{ 0 \}\not\cong\mathbb{R}\setminus \{ 0 \}$
 5. 
 Note that, by cantor, $\mathbb{R}$ and $\mathbb{Q}$ have different cardinalities; this means that there are no bijections from one to the other. Therefore, there can't be any isomorphism
-6. ${}  {}$
+6. 
+Suppose there exists some homomorphism $\varphi:\mathbb{Z}\to{}\mathbb{Q}$. Then if ${} \varphi(1)=a {}$, then given ${} x \in \mathbb{Z} {}$, then $\varphi(x)=xa$. Now we also have ${} a / 2 \in \mathbb{Q}$. But $1/2 \notin \mathbb{Z}$, so there is no ${} x \in \mathbb{Z} {}$ such that $\varphi(z)=\frac{a}{2}$. Therefore, ${} \mathbb{Z} \not\cong\mathbb{Q} {}$, as required.
+7. skip
+8. 
+We see that ${} |S_{n}|=n! {}$, and ${} |S_{m}|=m!$. There can only be a bijection if their cardinalities are the same. Therefore, we require that ${} n! =m!$, and since $!$ is bijective, then ${} n=m {}$.
+9. Skiparoony
+10. 
+a)
