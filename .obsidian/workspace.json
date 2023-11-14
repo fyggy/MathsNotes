@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md"
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
               }
             }
           },
@@ -208,11 +208,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f4d3d51ee94c4fd",
+  "active": "91ed1ca9ca29c56b",
   "lastOpenFiles": [
+    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
     "Subjects/Calculus 1/Calculus 1.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
     "Homework/Calculus 1 HW6.pdf",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Directory.md",

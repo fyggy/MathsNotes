@@ -86,4 +86,28 @@ $$
 $$
 Since ${} K=\{ 1 \} {}$, then ${} ab^{-1}=1 {}$. Therefore, ${} a=b {}$. Therefore, $\varphi$ is injective, as required
 15. 
-Let $\pi:\mathbb{R}^{2}\to{}\mathbb{R}$ such that ${} \pi((x,\, y))=x {}$. 
+Let $\pi:\mathbb{R}^{2}\to{}\mathbb{R}$ such that ${} \pi((x,\, y))=x$. Now let $a,\, b,\, c,\, d\in \mathbb{R}$. Then we have
+$$
+\pi((a,\, b))\pi((c,\, d))=ac=\pi((ac,\,  bd))
+$$Therefore, $\pi$ is a homomorphism. Now we see that, if ${} \pi((a,\, b))=1 {}$, then $a=1$, but there are no bounds on $b {}$. Therefore, the kernel of $\pi {}$ is
+$$
+\{ (1,\, x)\mid x \in \mathbb{R} \}
+$$
+16. By exact same logic as above, the kernel of ${} \pi_{1} {}$ is ${} A {}$ and the kernel of ${} \pi_{2} {}$ is ${} B$
+17. 
+skip
+18. 
+Let $G$ be a group. Let $\varphi:G\to{}G$ be defined by $\varphi(x)=x^{2}$.
+Working ${} (\Rightarrow )$. Suppose that $\varphi$ is a homomorphism. Therefore, given $a,\, b \in G {}$, we have
+$$
+(ab)^{2}=abab=\varphi(ab)=\varphi(a)\varphi(b)=a^{2}b^{2}
+$$
+We see that we have ${} abab=a a b b {}$, so by the cancellation law, $ba=ab$. Therefore, $G {}$ is abelian
+
+Now working ${} (\Leftarrow )$. Suppose that $G$ is abelian. Therefore, given ${} a,\,  b \in G {}$, we have
+$$
+\varphi(a)\varphi(b)=a^{2}b^{2}=a a b b=abab=(ab)^{2}=\varphi(ab)
+$$
+Therefore, $\varphi$ is a homomorphism. 
+19. 
+
