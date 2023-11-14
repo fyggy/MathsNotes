@@ -48,5 +48,20 @@ Suppose there exists some homomorphism $\varphi:\mathbb{Z}\to{}\mathbb{Q}$. Then
 8. 
 We see that ${} |S_{n}|=n! {}$, and ${} |S_{m}|=m!$. There can only be a bijection if their cardinalities are the same. Therefore, we require that ${} n! =m!$, and since $!$ is bijective, then ${} n=m {}$.
 9. Skiparoony
-10. 
-a)
+10. skip
+11. skip 
+12. skip
+13. 
+Let ${} G, H {}$ be groups, and let ${} \varphi :G\to{}H {}$ be a homomorphism. Let $I$ be image of $\varphi$ in $H {}$, that is
+$$
+I=\{ x \in H\mid \exists a \in G:\varphi(a)=x \}
+$$First observe that, obviously, ${} I\subseteq H {}$. Then we check the group axioms. First we see that it is clear that the group operation of ${} H {}$ is associative in ${} I {}$. Then we see that, since ${} \varphi(1)=1 {}$, then ${} 1 \in I {}$. Finally, we see that, if ${} \varphi(a) \in I$, then ${} \varphi(a)^{-1}=\varphi(a^{-1})\in I$. Therefore, $I\leq H$
+
+Now suppose that $\varphi$ is injective. Then, we see that $\varphi_{|I}:G\to{}I {}$ is surjective by definition, and injective by hypothesis. It is also still a homomorphism, as that does not care about the codomain of $\varphi$. Therefore, $\varphi_{|I} {}$ is an isomorphism.
+
+Suppose that $I=H {}$. Then, it is clear by definition that $\varphi {}$ is surjective
+14. 
+Let ${} G, H {}$ be groups, and let $\varphi:G\to{}H {}$ be a homomorphism. Let ${} K {}$ be the *kernel* of ${} \varphi {}$ in $G$, that is
+$$
+K=\{ a \in G\mid\varphi(a)=1 \}
+$$First we observe that, obviously, ${} K\subseteq G {}$. Now we check the group axioms. Firstly, it is clear that the operation on $G {}$ is still $$
