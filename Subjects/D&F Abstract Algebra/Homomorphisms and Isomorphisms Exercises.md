@@ -33,3 +33,13 @@ $$
 ab=\varphi(\varphi ^{-1}(a))\varphi(\varphi ^{-1}(b))=\varphi(\varphi ^{-1}(b)\varphi ^{-1}(a))=ba
 $$
 This also works if ${} x,\, y\in G {}$ and $G$ is abelian. Therefore, $G$ is abelian iff $H$ is abelian.
+Now let ${} \varphi :G\to{}H {}$ is a *homomorphism*, and suppose that ${} G$ is abelian. If $\varphi$ is surjective, then for all ${} x,\, y \in H {}$, we must have ${} a,\, b \in G$ such that ${} x=\varphi(a) {}$ and ${} y=\varphi(b) {}$. Therefore, 
+$$
+xy=\varphi (a)\varphi(b)=\varphi(ab)=\varphi(ba)=\varphi (b)\varphi(a)=yx
+$$
+Therefore, $H {}$ is commutative.
+4. 
+We see that ${} i \in \mathbb{C}\setminus \{ 0 \} {}$ has order $4$, but in ${} \mathbb{R}\setminus \{ 0 \} {}$, there are no elements of order 4. This is because if ${} x \in \mathbb{R}\setminus \{ 0 \}$, then if $x\neq-1 {}$ and ${} x\neq 1 {}$, then $x$ has infinite order. Otherwise, ${} |-1|=2$ and $|1|=1$. Therefore, ${} \mathbb{C}\setminus \{ 0 \}\not\cong\mathbb{R}\setminus \{ 0 \}$
+5. 
+Note that, by cantor, $\mathbb{R}$ and $\mathbb{Q}$ have different cardinalities; this means that there are no bijections from one to the other. Therefore, there can't be any isomorphism
+6. ${}  {}$
