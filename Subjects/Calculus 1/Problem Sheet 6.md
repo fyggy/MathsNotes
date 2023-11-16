@@ -73,7 +73,15 @@ $$
 g)
 $$
 \begin{align}
- \frac{d}{dx} (xe^{x\arctan x}) & =e^{x\arctan x}\left( \arctan x+\frac{x}{1+x^{2}} \right)+xe^{x\arctan x} \\
- &  =e^{x\arctan x}(\arctan x)
+ \frac{d}{dx} (xe^{x\arctan x}) & =e^{x\arctan x}+xe^{x\arctan x}\left( \arctan x+\frac{x}{1+x^{2}} \right) \\
+ & =e^{x\arctan x}\left( 1+x\arctan x+\frac{x^{2}}{1+x^{2}} \right)
  \end{align}
+$$
+h) 
+$$
+\begin{align}
+\frac{d}{dx} \ln |\arcsin x| & =\frac{ |\arcsin x|' }{ \sqrt{1-x^{2}} }\cdot \frac{1}{|\arcsin x|} \\
+ & =\frac{\operatorname{sgn}(\arcsin x)}{\sqrt{1-x^{2}}|\arcsin x|} \\
+ & =\frac{\operatorname{sgn}(x)}{\sqrt{1-x^{2}}|\arcsin x|}
+\end{align}
 $$

@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5de2a8fed66e41ca",
@@ -69,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Subjects/Calculus 1/Problem Sheet 6.md"
               }
             }
           },
@@ -208,13 +208,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91ed1ca9ca29c56b",
+  "active": "49b4bd4906312ccc",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
-    "Subjects/Calculus 1/Calculus 1.md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Homework/Calculus 1 HW6.pdf",
     "Subjects/Calculus 1/Problem Sheet 6.md",
+    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/Calculus 1/Calculus 1.md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
