@@ -101,4 +101,36 @@ $$
  $$
  48. 
  c)
- Let ${} V_{n}=\span\{\{ x^{n}e^{x}\mid n \in   \}\} {}$
+ Let $\mathcal{E}=\{ x^{k}e^{x}\mid k \in  \mathbb{N}_{0}, k\leq n \} {}$, and let ${} V_{n}=\span\{\mathcal{E}\}$. First note that ${} V_{n} {}$ is a vector space over $\mathbb{R} {}$, as it is a subspace of the vector space of functions, and given some ${} f, g \in V_{n} {}$, and ${} \alpha,\, \beta \in \mathbb{R} {}$, then ${} \alpha f+\beta g\in V_{n} {}$. Now observe that, if there exist some ${} \alpha_{1},\,\dots,\,\alpha_{n} {}$ such that
+ $$
+\sum_{k=0}^{\infty} \alpha_{n}x^{k}e^{x}=\mathbf{0}
+$$then ${} \alpha_{n}$ must be $0$. All these properties also follow fairly easily from the properties of $\mathbb{P}_{n}$. Now we take the linear map defined by ${} \frac{d}{dx}  {}$, call it $D$. We calculate the matrix $D$. 
+$$
+\begin{align}
+ D(x^{0}e^{x}) & =e^{x} & &  =1x^{0}e^{x}  \\
+D(x^{1}e^{x}) & =xe^{x}+e^{x} & &  =1x^{0}e^{x}+1x^{1}e^{x} \\
+D(x^{2}e^{x}) & =x^{2}e^{x}+2xe^{x} &  & =0x^{0}e^{x}+2xe^{x}+1x^{2}e^{x}  \\
+\vdots \\
+D(x^{k}e^{x}) & =x^{k}e^{x}+kx^{k-1}e^{x} &  & =0x^{0}e^{x}+\dots+k x^{k-1}e^{x}+x^{k}e^{x}
+ \end{align}
+$$
+Therefore, the matrix of $D$ with respect to the basis $\mathcal{E}$ in the standard basis of $\mathbb{R}^{n}$ is
+$$
+M=\begin{pmatrix}
+1 & 0 & 0 & \dots  & 0&  0 & \dots& 0 & 0 \\
+1 & 1 & 0 & \dots & 0 & 0  & \dots  & 0& 0\\
+0 & 2 & 1 & \dots & 0 & 0  & \dots  & 0& 0\\
+\vdots & \vdots & \vdots & \ddots & \vdots & \vdots  & \ddots & \vdots& \vdots\\
+0 & 0 & 0 & \dots & k & 1 & \dots &  0& 0 \\
+\vdots & \vdots & \vdots & \ddots & \vdots & \vdots & \ddots & \vdots  & \vdots\\
+0 & 0 & 0 & \dots & 0 & 0 & \dots  & n& 1
+\end{pmatrix}
+$$
+We want to calculate ${} M^{n}$. Since we want to calculate $M^{n}x^{n}e^{x} {}$, then we only care about the final column. Given a matrix such that
+$$
+M^{k}=\begin{pmatrix}a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n1} & a_{n2} & \dots & a_{nn} \end{pmatrix}
+$$
+We see that
+$$
+M^{k}M=
+$$
