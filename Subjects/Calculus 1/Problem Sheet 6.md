@@ -85,3 +85,20 @@ $$
  & =\frac{\operatorname{sgn}(x)}{\sqrt{1-x^{2}}|\arcsin x|}
 \end{align}
 $$
+46. 
+c)
+![[Pasted image 20231117134145.png]]
+47. 
+h)
+$$
+\begin{align}
+ \frac{d}{dx} \ln\left( \sqrt{\frac{ 1+x^{2} }{ 1-x^{2} }} \right) & =\frac{1}{2}\frac{d}{dx} \ln{\frac{1+x^{2}}{1-x^{2}}} \\
+ & =\frac{1}{2}\frac{d}{dx} \left( \frac{ 1+x^{2} }{ 1-x^{2} } \right) \frac{1-x^{2}}{1+x^{2}} \\
+ & =\frac{1}{2}\frac{2x(1-x^{2})-(-2x)(1+x^{2})}{(1-x^{2})^{2}} \frac{1-x^{2}}{1+x^{2}} \\
+ & =\frac{2x}{(1-x^{2})(1+x^{2})} \\
+ & =\frac{2x}{1-x^{4}} \\
+ \end{align}
+ $$
+ 48. 
+ c)
+ Let ${} V_{n}=\span\{\{ x^{n}e^{x}\mid n \in   \}\} {}$
