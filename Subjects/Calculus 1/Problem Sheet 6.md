@@ -117,20 +117,46 @@ $$
 Therefore, the matrix of $D$ with respect to the basis $\mathcal{E}$ in the standard basis of $\mathbb{R}^{n}$ is
 $$
 M=\begin{pmatrix}
-1 & 0 & 0 & \dots  & 0&  0 & \dots& 0 & 0 \\
-1 & 1 & 0 & \dots & 0 & 0  & \dots  & 0& 0\\
-0 & 2 & 1 & \dots & 0 & 0  & \dots  & 0& 0\\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots  & \ddots & \vdots& \vdots\\
-0 & 0 & 0 & \dots & k & 1 & \dots &  0& 0 \\
-\vdots & \vdots & \vdots & \ddots & \vdots & \vdots & \ddots & \vdots  & \vdots\\
-0 & 0 & 0 & \dots & 0 & 0 & \dots  & n& 1
+1 & 1 & 0 & \dots  & 0 & \dots& 0 \\
+0 & 1 & 2 & \dots & 0  & \dots  & 0\\
+0 & 0 & 1 & \dots  & 0  & \dots  & 0\\
+\vdots & \vdots & \vdots & \ddots & \vdots  & \ddots & \vdots\\
+0 & 0 & 0 & \dots & k & \dots & 0 \\
+0 & 0 & 0 & \dots & 1 & \dots &  0 \\
+\vdots & \vdots & \vdots & \ddots & \vdots & \ddots & \vdots  \\
+0 & 0 & 0 & \dots & 0 & \dots & n \\
+0 & 0 & 0 & \dots & 0 & \dots  &1
 \end{pmatrix}
 $$
 We want to calculate ${} M^{n}$. Since we want to calculate $M^{n}x^{n}e^{x} {}$, then we only care about the final column. Given a matrix such that
 $$
-M^{k}=\begin{pmatrix}a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n1} & a_{n2} & \dots & a_{nn} \end{pmatrix}
+M^{k}=\begin{pmatrix}a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n1} & a_{n2} & \dots & a_{nn} \end{pmatrix}=(a_{mn})
 $$
 We see that
 $$
-M^{k}M=
+M^{k}M=\begin{pmatrix}
+\dots & \dots & \dots & a_{1n} \\
+\dots & \dots & \dots & a_{2n} \\
+\dots & \dots & \dots & a_{3n} \\
+\vdots & \vdots & \ddots & \vdots \\
+\dots & \dots & \dots & na_{(n-1)} \\
+\dots & \dots & \dots & a_{nn}
+\end{pmatrix}
 $$
+
+We see that, if we know the value ${} f_{n-1}(x)=\frac{d}{dx} x^{n-1}e^{x} {}$, then
+$$
+\begin{align}
+ f_{n}(x) & =\frac{d}{dx} x^{n}e^{x}  \\
+ & = x^{n}e^{x}+nx^{n-1}e^{x}
+ \end{align}
+$$
+Now 
+$$
+\frac{d}{dx} f_{n}(x)=\frac{d}{dx} x^{n}e^{x}+n \frac{d}{dx} x^{n-1}e^{x}=f_{n}(x)+nf_{n-1}(x)
+$$
+This formula holds in general, so
+$$
+\frac{d^{n}}{dx^{n}} f_{n}(x)=\frac{d^{n-1}}{dx^{n-1}} f_{n}(x)+n \frac{d^{n-1}}{dx^{n-1}} f_{n-1}(x)
+$$
+
