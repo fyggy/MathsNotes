@@ -154,15 +154,35 @@ $$
 \frac{d^{m}}{dx^{m}} f_{k}(x) & =\frac{d^{m-1}}{dx^{m-1}}  f_{k}(x)+k\frac{d^{m-1}}{dx^{m-1}}f_{k-1}(x) \\
  & =\frac{d^{m-2}}{dx^{m-2}}f_{k}(x)+k \frac{d^{m-2}}{dx^{m-2}}f_{k-1}(x)+k \frac{d^{m-1}}{dx^{m-1}} f_{k-1}(x) \\ \\
  &\vdots \\
- & =f_{k}(x)+k \sum_{j=m-k}^{k} \frac{d^{j}}{dx^{j}} f_{k-1}(x) \\
+ & =f_{k}(x)+k \sum_{j=0}^{m} \frac{d^{j}}{dx^{j}} f_{k-1}(x) \\
 \end{align}
 $$
 applying this formula inside the summation, we get
 $$
 \begin{align}
- \frac{d^{m}}{dx^{m}} f_{k}(x)& =f_{k}(x)+k \sum_{j=m-k}^{k} \left( f_{k-1}(x)+(k-1)\sum_{\ell=j-k+1}^{k-1} \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x)  \right) \\ \\
- & =f_{k}(x)+mkf_{k-1}(x)+k(k-1)\sum_{j=m-k}^{k}\sum_{\ell=j-k+1}^{k-1}  \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x) \\ \\
- & =f_{k}(x)+\sum_{a=0}^{k-1}\left( \frac{k!}{a!}\sum_{j_{1}=m-k}^{k}\sum_{j_{2}=j_{1}-k+1}^{k-1}\dots \sum_{j_{a}=j_{a-1}-k+a}^{k-a} f_{a}(x)   \right) \\
- & =f_{k}(x)=\sum_{a=0}^{k-1} \left( \frac{k!}{a!}\sum_{j_{1}=0}^{m}  \right)
+ \frac{d^{m}}{dx^{m}} f_{k}(x)& =f_{k}(x)+k \sum_{j=0}^{m} \left( f_{k-1}(x)+(k-1)\sum_{\ell=0}^{j} \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x)  \right) \\ \\
+ & =f_{k}(x)+mkf_{k-1}(x)+k(k-1)\sum_{j=0}^{m}\sum_{\ell=0}^{j}  \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x) \\ \\
+ & =f_{k}(x)+\sum_{a=0}^{k-1}\left( \frac{k!}{a!}\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a}=0}^{j_{a-1}} f_{a}(x)   \right) \\
  \end{align} 
+$$
+First note that
+$$
+\sum_{k=0}^{a} \binom{k}{n}=\binom{a+1}{n+1}
+$$
+This is fairly standard so shall be taken without proof. Also note that
+$$
+\binom{a+1}{n+1}=\binom{a}{n+1}\binom{a}{n}
+$$
+Which is again fairly standard. 
+Now note that ${} \binom{k}{0}=1 {}$. So now we have
+$$
+\begin{align}
+\frac{d^{m}}{dx^{m}} f_{k}(x) & =f_{k}(x)+\sum_{a=0}^{k-1}\left( \frac{k!}{a!}\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a}=0}^{j_{a-1}} f_{a}(x)   \right) \\
+ & =f_{k}(x) +\sum_{a=0}^{k-1} \left( \frac{k!}{a!}f_{a}(x)\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a}=0}^{j_{a-1}}\binom{j_{a}}{0} \right) \\
+& =f_{k}(x) +\sum_{a=0}^{k-1} \left( \frac{k!}{a!}f_{a}(x)\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a-1}=0}^{j_{a-2}}\binom{j_{a-1}+1}{1} \right) \\
+& =f_{k}(x) +\sum_{a=0}^{k-1} \left( \frac{k!}{a!}f_{a}(x)\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a-1}=0}^{j_{a-2}}\left( \binom{j_{a-1}}{1}+\binom{j_{a-1}}{0} \right) \right) \\
+& =f_{k}(x) +\sum_{a=0}^{k-1} \left( \frac{k!}{a!}f_{a}(x)\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a-1}=0}^{j_{a-2}}\left( \binom{j_{a-1}}{1}+\binom{j_{a-1}}{0} \right) \right) \\
+& \vdots \\
+ & =f_{k}(x) +\sum_{a=0}^{k-1} \left( \frac{k!}{a!}f_{a}(x)\sum_{j=0}^{a}\left( \binom{a}{j}\binom{k}{j} \right)  \right)
+\end{align}
 $$
