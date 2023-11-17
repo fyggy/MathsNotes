@@ -144,19 +144,25 @@ M^{k}M=\begin{pmatrix}
 \end{pmatrix}
 $$
 
-We see that, if we know the value ${} f_{n-1}(x)=\frac{d}{dx} x^{n-1}e^{x} {}$, then
+Let $f_{k}(x)=x^{k}e^{x} {}$. Now suppose that ${} k\geq 1 {}$. Then
+$$
+\frac{d}{dx} f_{k}(x)=x^{k}e^{x}+kx^{k-1}e^{x}=f_{k}(x)+kf_{k-1}(x)
+$$
+So now we see that
 $$
 \begin{align}
- f_{n}(x) & =\frac{d}{dx} x^{n}e^{x}  \\
- & = x^{n}e^{x}+nx^{n-1}e^{x}
- \end{align}
+\frac{d^{m}}{dx^{m}} f_{k}(x) & =\frac{d^{m-1}}{dx^{m-1}}  f_{k}(x)+k\frac{d^{m-1}}{dx^{m-1}}f_{k-1}(x) \\
+ & =\frac{d^{m-2}}{dx^{m-2}}f_{k}(x)+k \frac{d^{m-2}}{dx^{m-2}}f_{k-1}(x)+k \frac{d^{m-1}}{dx^{m-1}} f_{k-1}(x) \\ \\
+ &\vdots \\
+ & =f_{k}(x)+k \sum_{j=m-k}^{k} \frac{d^{j}}{dx^{j}} f_{k-1}(x) \\
+\end{align}
 $$
-Now 
+applying this formula inside the summation, we get
 $$
-\frac{d}{dx} f_{n}(x)=\frac{d}{dx} x^{n}e^{x}+n \frac{d}{dx} x^{n-1}e^{x}=f_{n}(x)+nf_{n-1}(x)
+\begin{align}
+ \frac{d^{m}}{dx^{m}} f_{k}(x)& =f_{k}(x)+k \sum_{j=m-k}^{k} \left( f_{k-1}(x)+(k-1)\sum_{\ell=j-k+1}^{k-1} \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x)  \right) \\ \\
+ & =f_{k}(x)+mkf_{k-1}(x)+k(k-1)\sum_{j=m-k}^{k}\sum_{\ell=j-k+1}^{k-1}  \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x) \\ \\
+ & =f_{k}(x)+\sum_{a=0}^{k-1}\left( \frac{k!}{a!}\sum_{j_{1}=m-k}^{k}\sum_{j_{2}=j_{1}-k+1}^{k-1}\dots \sum_{j_{a}=j_{a-1}-k+a}^{k-a} f_{a}(x)   \right) \\
+ & =f_{k}(x)=\sum_{a=0}^{k-1} \left( \frac{k!}{a!}\sum_{j_{1}=0}^{m}  \right)
+ \end{align} 
 $$
-This formula holds in general, so
-$$
-\frac{d^{n}}{dx^{n}} f_{n}(x)=\frac{d^{n-1}}{dx^{n-1}} f_{n}(x)+n \frac{d^{n-1}}{dx^{n-1}} f_{n-1}(x)
-$$
-
