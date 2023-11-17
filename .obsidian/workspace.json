@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/13..md",
                 "mode": "source",
                 "source": false
               }
@@ -44,33 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5de2a8fed66e41ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd9f708795e6c78a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/Calculus 1 HW6.pdf"
-              }
-            }
-          },
-          {
-            "id": "91ed1ca9ca29c56b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
+                "file": "Subjects/Calculus 1/13..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/Problem Sheet 6.md",
+                "file": "Subjects/Calculus 1/13..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/Problem Sheet 6.md"
+                "file": "Subjects/Calculus 1/13..md"
               }
             }
           },
@@ -208,14 +182,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "49b4bd4906312ccc",
+  "active": "3336298d4e75a81f",
   "lastOpenFiles": [
-    "Pasted image 20231117134145.png",
-    "Homework/Calculus 1 HW6.pdf",
     "Subjects/Calculus 1/Problem Sheet 6.md",
-    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+    "Subjects/Calculus 1/13..md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/Calculus 1/Calculus 1.md",
+    "Pasted image 20231117134145.png",
+    "Homework/Calculus 1 HW6.pdf",
+    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
@@ -240,7 +215,6 @@
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
-    "Subjects/D&F Abstract Algebra/1.4 Matrix Groups Exercises.md",
     "Pasted image 20231110153216.png",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Homework/LinearAlgGeo1 HW5.pdf",
@@ -255,7 +229,6 @@
     "Pasted image 20231017163925.png",
     "Pasted image 20231013150916.png",
     "Pasted image 20231012124319.png",
-    "Pasted image 20231012123740.png",
     "Untitled.canvas"
   ]
 }
