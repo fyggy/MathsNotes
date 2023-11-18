@@ -124,13 +124,29 @@ $$
 $$
 So $\varphi$ is surjective, so it is a automorphism.
 23. 
-Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let ${} a,\, b \in G$. Then there exists some element $x \in G$
+Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let $a,\, b \in G$. Let $\varphi:G\to{}G {}$ be defined by ${} x\mapsto x^{-1}\sigma(x) {}$. If ${} \varphi(x)=1 {}$, then
 $$
 \begin{align}
-\sigma(x) & =xa \\
-\sigma(x) & =b \\
-\sigma(x) & =b a^{-1} a
+ \varphi(x)=x^{-1}\sigma(x) & =1   \\
+\sigma(x) & =x
+ \end{align}
+$$Which is a contradiction unless ${} x=1 {}$. Therefore, $x=1 {}$.
+Now if ${} \varphi(a)=\varphi(b) {}$, then ${} a^{-1}\sigma(a)=b^{-1}\sigma(b) {}$. Now we have
+$$
+\begin{align}
+a^{-1}\sigma(a) & =b^{-1}\sigma(b) \\
+ba^{-1}\sigma(a)\sigma(b^{-1}) & =1 \\
+(ab^{-1})\sigma(ab^{-1}) & =1 \\
+\varphi(ab^{-1}) & =1
 \end{align}
 $$
-$\sigma(x)a^{-1}=x$
-${} x\sigma(a)^{-1}=\sigma(x)=xa {}$
+So ${} ab^{-1}=1 {}$, or ${} a=b$. Therefore, $\varphi$ is injective. As $G$ is finite, and $\varphi:G\to{}G {}$, then $\varphi$ must also be surjective. Therefore, there exists some ${} x \in G {}$ such that for all ${} a \in G$, ${} a=x^{-1}\sigma(x) {}$. Now we have
+$$
+\begin{align}
+a & =x^{-1}\sigma(x) \Rightarrow \sigma(x)=xa\\
+\sigma(a) & =\sigma(x^{-1}\sigma(x)) \\
+\sigma(a) & =\sigma(x)^{-1}x \\
+\sigma(a)\sigma(x) & =x \\
+\sigma(a)xa & =x
+\end{align}
+$$
