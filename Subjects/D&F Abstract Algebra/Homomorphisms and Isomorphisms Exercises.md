@@ -109,5 +109,19 @@ $$
 \varphi(a)\varphi(b)=a^{2}b^{2}=a a b b=abab=(ab)^{2}=\varphi(ab)
 $$
 Therefore, $\varphi$ is a homomorphism. 
-19. 
-
+19. skip
+20. skip
+21. 
+Let ${} \varphi:\mathbb{Q}\to{}\mathbb{Q} {}$ such that ${} \varphi(x)=kx {}$ for some ${} k \in \mathbb{Q}$. First, suppose that ${} \varphi(x)=\varphi(y) {}$. Then ${} kx=ky$, so we have ${} x=y$. Therefore, $\varphi$ is injective. Now suppose we have ${} a \in \mathbb{Q} {}$. Then ${} a / k \in \mathbb{Q} {}$, as $\mathbb{Q}$ is a field, and $\varphi(a / k)=k \frac{a}{k}=a$. Therefore, $\varphi$ is surjective. Therefore, $\varphi$ is a automorphism
+22. 
+Let $A$ be a commutative group, and let ${} k \in \mathbb{Z} {}$. Now let ${} \varphi:A\to{}A {}$, defined by ${} \varphi(a)=a^{k}$. Let ${} a,\, b \in A {}$. Then ${} \varphi(ab)=(ab)^{k}=a^{k}b^{k}=\varphi (a)\varphi (b) {}$, so $\varphi$ is a homomorphism. Now suppose that ${} k=-1$. Then if ${} \varphi(a)=\varphi (b) {}$, then $a^{-1}=b^{-1}$. Now we have
+$$
+a=ab^{-1}b=a a^{-1}b=b
+$$So $\varphi$ is injective. 
+Now let $a \in A {}$. There must exist some ${} a^{-1} \in A {}$. Now we have
+$$
+\varphi(a^{-1})=(a^{-1})^{-1}=a
+$$
+So $\varphi$ is surjective, so it is a automorphism.
+23. 
+Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let ${} a,\, b \in G$. Given an element ${} x \in G {}$, the let ${} \varphi:G\to{}G {}$ be the map $x\mapsto x^{-1}\sigma(x)$. 
