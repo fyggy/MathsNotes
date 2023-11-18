@@ -160,9 +160,10 @@ $$
 applying this formula inside the summation, we get
 $$
 \begin{align}
- \frac{d^{m}}{dx^{m}} f_{k}(x)& =f_{k}(x)+k \sum_{j=0}^{m} \left( f_{k-1}(x)+(k-1)\sum_{\ell=0}^{j} \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x)  \right) \\ \\
- & =f_{k}(x)+mkf_{k-1}(x)+k(k-1)\sum_{j=0}^{m}\sum_{\ell=0}^{j}  \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x) \\ \\
- & =f_{k}(x)+\sum_{a=0}^{k-1}\left( \frac{k!}{a!}\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a}=0}^{j_{a-1}} f_{a}(x)   \right) \\
+ \frac{d^{m}}{dx^{m}} f_{k}(x)& =f_{k}(x)+k \sum_{j=0}^{m} \left( f_{k-1}(x)+(k-1)\sum_{\ell=0}^{j} \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x)  \right) \\ 
+ & =f_{k}(x)+mkf_{k-1}(x)+k(k-1)\sum_{j=0}^{m}\sum_{\ell=0}^{j}  \frac{d^{\ell}}{dx^{\ell}}f_{k-2}(x) \\ 
+ & =f_{k}(x)+\sum_{a=1}^{k}\left( \frac{k!}{(k-a)!}\sum_{j_{1}=0}^{k}\sum_{j_{2}=0}^{j_{1}}\dots \sum_{j_{a}=0}^{j_{a-k-1}} f_{a-k}(x)   \right) \\
+ & =f_{k(x)}+\sum_{a=1}^{k} \left( \frac{k!}{(k-a)!} f_{a-k}(a) \sum_{j=0}^{\infty} \right) 
  \end{align} 
 $$
 First note that
