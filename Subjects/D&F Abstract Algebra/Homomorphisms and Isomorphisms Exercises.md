@@ -161,7 +161,14 @@ Let $G$ be a finite group such that there exist ${} x,\, y \in G {}$ with ${} x\
 
 Given an element ${} g \in G {}$, since both ${} x,\, y {}$ have order $2 {}$, then every element must be an alternating string of $x {}$ and $y {}$. If the string begins with ${} x {}$ and ends with $y$, or starts with $y {}$ and ends with $x {}$, then it is a power of $xy {}$; this is clear in the first case, and in the second case, note that ${} ( xy )^{-1}=y^{-1}x^{-1}=yx$. In particular, since $G {}$ is a finite group, then if an element can be represented as a negative power of $xy {}$, then it can also be represented as a positive power of $xy {}$, as $yx=(xy)^{n-1} {}$. 
 
-Now if $g {}$ starts and ends with $x {}$, then ${} g=(xy)^{k}x {}$. If $g {}$ starts and ends with $y {}$, then ${} y=(xy)^{-k}y=(xy)^{\ell}(xy)^{-1}x=(xy)^{\ell-1}x {}$. Therefore, in every case, ${} g=(xy)^{k}x^{\ell} {}$, for some ${} k\in \{ 0,\, 1,\,\dots,\,n-1 \} {}$, and $\ell \in \{ 0,\, 1 \} {}$. Therefore, there
+Now if $g {}$ starts and ends with $x {}$, then ${} g=(xy)^{k}x {}$. If $g {}$ starts and ends with $y {}$, then ${} y=(xy)^{-k}y=(xy)^{\ell}(xy)^{-1}x=(xy)^{\ell-1}x {}$. Therefore, in every case, ${} g=(xy)^{k}x^{\ell} {}$, for some ${} k\in \{ 0,\, 1,\,\dots,\,n-1 \} {}$, and $\ell \in \{ 0,\, 1 \} {}$. Therefore, there are at most ${} 2n {}$ elements of $G {}$. Now suppose for some ${} a,\, b,\, c,\, d {}$ fulfilling the representation above, we have ${} g=(xy)^{a}x^{b}, {}$ ${} h=(xy)^{c}x^{d} {}$ such that ${} g=h {}$. Then
+$$
+\begin{align}
+ (xy)^{a}x^{b} & =(xy)^{c}x^{d}   \\
+(xy)^{a-c}x^{b-d} & =1
+ \end{align}
+$$
+Since ${} |xy|=n {}$ and ${} |x|=2$, then we may let $p$ be the residue mod $n {}$ of ${} a-c$ and let $q$ be the residue mod $2 {}$ of $b-d$.
 We showed that 
 $$
 \langle a,\, b\mid a^{2}=b^{2}=(ab)^{n}=1 \rangle\cong D_{2n} 
