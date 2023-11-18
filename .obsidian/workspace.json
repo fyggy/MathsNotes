@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md"
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md"
               }
             }
           },
@@ -159,6 +158,10 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+    "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+    "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
     "Subjects/Calculus 1/13..md",
@@ -166,10 +169,7 @@
     "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231117134145.png",
     "Homework/Calculus 1 HW6.pdf",
-    "Subjects/D&F Abstract Algebra/Homomorphisms and Isomorphisms Exercises.md",
-    "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
     "Subjects/Intro to Algebra 1/12. Order and Subgroups.md",
     "Subjects/Calculus 1/9..md",
