@@ -171,7 +171,7 @@ $$
 $$
 This is fairly standard so shall be taken without proof. Also note that
 $$
-\binom{a+1}{n+1}=\binom{a}{n+1}\binom{a}{n}
+\binom{a+1}{n+1}=\binom{a}{n+1}+\binom{a}{n}
 $$
 Which is again fairly standard. 
 Now note that ${} \binom{k}{0}=1 {}$. So now we have

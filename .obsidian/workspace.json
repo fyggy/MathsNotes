@@ -177,11 +177,14 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "49b4bd4906312ccc",
   "lastOpenFiles": [
+    "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
     "Subjects/Calculus 1/13..md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
