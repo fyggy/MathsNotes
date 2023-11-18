@@ -124,4 +124,13 @@ $$
 $$
 So $\varphi$ is surjective, so it is a automorphism.
 23. 
-Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let ${} a,\, b \in G$. Given an element ${} x \in G {}$, the let ${} \varphi:G\to{}G {}$ be the map $x\mapsto x^{-1}\sigma(x)$. 
+Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let ${} a,\, b \in G$. Then there exists some element $x \in G$
+$$
+\begin{align}
+\sigma(x) & =xa \\
+\sigma(x) & =b \\
+\sigma(x) & =b a^{-1} a
+\end{align}
+$$
+$\sigma(x)a^{-1}=x$
+${} x\sigma(a)^{-1}=\sigma(x)=xa {}$
