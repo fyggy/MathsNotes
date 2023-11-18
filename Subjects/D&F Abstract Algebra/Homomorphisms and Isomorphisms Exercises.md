@@ -124,7 +124,7 @@ $$
 $$
 So $\varphi$ is surjective, so it is a automorphism.
 23. 
-Let $G$ be a group, and let $\sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let $a,\, b \in G$. Let $\varphi:G\to{}G {}$ be defined by ${} x\mapsto x^{-1}\sigma(x) {}$. If ${} \varphi(x)=1 {}$, then
+Let $G {}$ be a finite group, and let ${} \sigma$ be an automorphism of $G$. We have ${} \sigma(g)=g {}$ iff ${} g=1$. Now suppose that ${} \sigma^{2}=1$ is the identity map. Let $a,\, b \in G$. Let $\varphi:G\to{}G {}$ be defined by ${} x\mapsto x^{-1}\sigma(x) {}$. If ${} \varphi(x)=1 {}$, then
 $$
 \begin{align}
  \varphi(x)=x^{-1}\sigma(x) & =1   \\
@@ -146,7 +146,19 @@ $$
 a & =x^{-1}\sigma(x) \Rightarrow \sigma(x)=xa\\
 \sigma(a) & =\sigma(x^{-1}\sigma(x)) \\
 \sigma(a) & =\sigma(x)^{-1}x \\
-\sigma(a)\sigma(x) & =x \\
-\sigma(a)xa & =x
+\sigma(x)\sigma(a) & =x \\
+xa\sigma(a) & =x \\
+a\sigma(a) & =1 \\
+\sigma(a) & =a^{-1}
 \end{align}
+$$Finally, let $a,\, b \in G$. Now
+$$
+ab=(b^{-1}a^{-1})^{-1}=(\sigma(b)\sigma(a))^{-1}=(\sigma(ba))^{-1}=( (ba)^{-1} )^{-1}=ba
+$$
+Therefore, $G$ is commutative.
+24. 
+Let $G$ be a finite group such that there exist ${} x,\, y \in G {}$ with ${} x\neq y {}$, ${} |x|=|y|=2 {}$, and $\langle x,\, y \rangle =G. {}$ First, since ${} G$ is finite, then there must exist some ${} n=|xy| {}$. We now show that ${} |G|=2n {}$. Given an element $g \in G {}$, since both ${} x,\, y {}$ have order $2 {}$, then every element must be an alternating string of $x {}$ and $y {}$. If the string begins with $x$
+We showed that 
+$$
+\langle a,\, b\mid a^{2}=b^{2}=(ab)^{n}=1 \rangle\cong D_{2n} 
 $$
