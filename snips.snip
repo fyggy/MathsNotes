@@ -45,6 +45,9 @@
 	{trigger: "@u", replacement: "\\tau", options: "mA"},
     {trigger: ":P", replacement: "\\varphi", options: "mA"}, 
     {trigger: ":p", replacement: "\\varphi", options: "mA"}, 
+    {trigger: ":s", replacement: "\\psi", options: "mA"}, 
+    {trigger: ":S", replacement: "\\Psi", options: "mA"}, 
+	
     {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
 
 
@@ -71,7 +74,8 @@
 	{trigger: "Dn", replacement: "D_{n}", options: "mA"},
 	{trigger: "Sn", replacement: "S_{n}", options: "mA"},
 	{trigger: "Zn", replacement: "\\mathbb{Z}_{n}", options: "mA"},
-	{trigger: "Z(\\d)", replacement: "\\mathbb{Z}_{[[0]]}", options: "rmA"},
+	{trigger: "Z([\\d])", replacement: "\\mathbb{Z}_{[[0]]}", options: "rmA"},
+	{trigger: "([a-zA-Z\\d])_{([a-zA-Z\\d])}]]", replacement: "[[[0]]]_{[[1]]}", options: "rmA"},
 	
 	
 	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
