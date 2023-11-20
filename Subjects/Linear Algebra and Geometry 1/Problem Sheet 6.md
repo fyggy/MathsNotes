@@ -99,5 +99,36 @@ DJ=\begin{pmatrix}
 0 & \frac{1}{2} & 0 & 0 \\
 0 & 0 & \frac{1}{3} & 0 \\
 0 & 0 & 0 & \frac{1}{4}
+\end{pmatrix}=\begin{pmatrix}
+1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
 \end{pmatrix}
 $$
+and
+$$
+JD=
+\begin{pmatrix}
+0 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & \frac{1}{2} & 0 & 0 \\
+0 & 0 & \frac{1}{3} & 0 \\
+0 & 0 & 0 & \frac{1}{4}
+\end{pmatrix}\cdot \begin{pmatrix}
+0 & 1 & 0 & 0 & 0 \\
+0 & 0 & 2 & 0 & 0 \\
+0 & 0 & 0 & 3 & 0 \\
+0 & 0 & 0 & 0 & 4
+\end{pmatrix}
+=\begin{pmatrix}
+0 & 0 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 & 0 \\
+0 & 0 & 1 & 0 & 0 \\
+0 & 0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 0 & 1
+\end{pmatrix}
+$$
+Therefore, these maps are *kind of* inverses of each other. Since neither are square, they cannot be actual inverses. However, they lead to the identity matrix in $\mathbb{P}_{4} {}$ the case of ${} DJ$ and the identity matrix missing the first entry in $\mathbb{P}_{5}$ in the case of $JD {}$. 
+
+This is expected, as ${} D$ is not injective; ${} D(1)=0=D(2) {}$. However, when differentiating, only the final coefficient is lost, so only information about that is lost. This is why only the first entry in $JD$ is missing. In the case of $DJ$, however, no information is lost, as the constant term gets elevated to a factor of ${} x {}$ by $J {}$, which is then preserved by ${} D {}$.
