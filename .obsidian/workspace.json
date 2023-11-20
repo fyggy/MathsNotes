@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "70b207687a00386d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ee9949301277c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/LinearAlgGeo1 HW6.pdf"
               }
             }
           }
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md"
               }
             }
           },
@@ -159,8 +175,10 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/Linear Algebra and Geometry 1/15..md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+    "Homework/LinearAlgGeo1 HW6.pdf",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/15..md",
@@ -188,7 +206,6 @@
     "Subjects/Intro to Algebra 1/10. Direct Product and Multiplicative Congruences.md",
     "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
-    "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
@@ -198,7 +215,6 @@
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Pasted image 20231012123620.png",
-    "MathsNotes",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
     "Pasted image 20231017164730.png",
