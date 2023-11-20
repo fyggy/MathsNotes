@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/Intro to Algebra 1/15..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/Intro to Algebra 1/15..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+                "file": "Subjects/Intro to Algebra 1/15..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md"
+                "file": "Subjects/Intro to Algebra 1/15..md"
               }
             }
           },
@@ -158,10 +159,11 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+    "Subjects/Intro to Algebra 1/15..md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
-    "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
     "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
@@ -187,7 +189,6 @@
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
     "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
     "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
-    "Subjects/Sequences and Series 1/Problem Sheet 5.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
