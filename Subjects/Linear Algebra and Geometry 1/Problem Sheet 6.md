@@ -21,7 +21,8 @@ $$
   & =\alpha J(p)+\beta J(q)
  \end{align}
 $$
-Therefore, $J$ is a linear map.
+Therefore, $J {}$ is a linear map.
+
 b)
 Let ${} p(x)=q(x)=x {}$. Now note that 
 $$
@@ -44,3 +45,59 @@ $$
 and $2\neq 4$, so $F$ is not linear
 
 c)
+We see that
+$$
+\begin{align}
+ D\ 1  & =0 & & =0\cdot 1+0\cdot x+0\cdot x^{2}+0\cdot x^{3}\\
+Dx & =1 &  & =1\cdot 1+0\cdot x+0\cdot x^{2}+0\cdot x^{3} \\
+Dx^{2} & =2x &  & =0\cdot 1+2\cdot x+0\cdot x^{2}+0\cdot x^{3} \\
+Dx^{3} & =3x^{2} &  & =0\cdot 1+0\cdot x+3\cdot x^{2}+0\cdot x^{3} \\
+Dx^{4} & =4x^{3} &  & =0\cdot 2+0\cdot x+3\cdot x^{2}+2\cdot x^{3}
+ \end{align}
+$$
+So the matrix of $D$ is
+$$
+\begin{pmatrix}
+0 & 1 & 0 & 0 & 0 \\
+0 & 0 & 2 & 0 & 0 \\
+0 & 0 & 0 & 3 & 0 \\
+0 & 0 & 0 & 0 & 4
+\end{pmatrix}
+$$
+
+Now for the matrix of $J$, we see that
+$$
+\begin{align}
+J \ 1 & =x &  & =0\cdot 1+1\cdot x+0\cdot x^{2}+0\cdot x^{3}+0\cdot x^{4} \\
+Jx & =\frac{x^{2}}{2} &  & =0\cdot 1+0\cdot x+\frac{1}{2}\cdot x^{2}+0\cdot x^{3}+0\cdot x^{4} \\
+Jx^{2} & =\frac{x^{3}}{3} &  & =0\cdot 1+0\cdot x+0\cdot x^{2}+\frac{1}{3}\cdot x^{3}+0\cdot x^{4} \\
+Jx^{3} & =\frac{x^{4}}{4} &  & =0\cdot 1+0\cdot x+0\cdot x^{2}+0\cdot x^{3}+\frac{1}{4}\cdot x^{4}
+\end{align}
+$$
+So the matrix of $J {}$ is
+$$
+\begin{pmatrix}
+0 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & \frac{1}{2} & 0 & 0 \\
+0 & 0 & \frac{1}{3} & 0 \\
+0 & 0 & 0 & \frac{1}{4}
+\end{pmatrix}
+$$
+d)
+Calculating:
+$$
+DJ=\begin{pmatrix}
+0 & 1 & 0 & 0 & 0 \\
+0 & 0 & 2 & 0 & 0 \\
+0 & 0 & 0 & 3 & 0 \\
+0 & 0 & 0 & 0 & 4
+\end{pmatrix}
+\cdot \begin{pmatrix}
+0 & 0 & 0 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & \frac{1}{2} & 0 & 0 \\
+0 & 0 & \frac{1}{3} & 0 \\
+0 & 0 & 0 & \frac{1}{4}
+\end{pmatrix}
+$$
