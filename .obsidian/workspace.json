@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/15..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/15..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/15..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/15..md"
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md"
               }
             }
           },
@@ -159,12 +158,15 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
+    "Directory.md",
+    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/15..md",
+    "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
-    "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
     "Subjects/Calculus 1/13..md",
@@ -172,7 +174,6 @@
     "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231117134145.png",
     "Homework/Calculus 1 HW6.pdf",
-    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
     "Subjects/Intro to Algebra 1/12. Order and Subgroups.md",
     "Subjects/Calculus 1/9..md",
@@ -182,13 +183,11 @@
     "Subjects/Sequences and Series 1/10..md",
     "Subjects/Sequences and Series 1/7..md",
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
     "Subjects/Intro to Algebra 1/10. Direct Product and Multiplicative Congruences.md",
     "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Subjects/Linear Algebra and Geometry 1/12.Matrix of a Linear Map.md",
     "Subjects/Linear Algebra and Geometry 1/13. Composition and Invertibility.md",
-    "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
