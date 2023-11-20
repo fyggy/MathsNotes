@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "70b207687a00386d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25ee9949301277c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/LinearAlgGeo1 HW6.pdf"
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md"
+                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md"
               }
             }
           },
@@ -175,9 +159,12 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Homework/LinearAlgGeo1 HW6.pdf",
-    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+    "Subjects/Calculus 1/1. Introduction.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
+    "Homework/LinearAlgGeo1 HW6.pdf",
     "Subjects/Linear Algebra and Geometry 1/15..md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
@@ -185,11 +172,9 @@
     "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
-    "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
     "Subjects/Calculus 1/13..md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231117134145.png",
     "Homework/Calculus 1 HW6.pdf",
@@ -204,7 +189,6 @@
     "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
     "Subjects/Intro to Algebra 1/10. Direct Product and Multiplicative Congruences.md",
-    "Subjects/Intro to Algebra 1/11. Properties of Groups.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
