@@ -18,13 +18,20 @@ $$
  \end{align}
 $$
 62. 
+If we can solve ${} \left( \frac{ \partial  }{ \partial x } +\frac{ \partial  }{ \partial y }  \right)^{n}(f(x)g(y)) {}$ and then substitute ${} y=x {}$. then we will get the same answer, as 
 $$
-\frac{d}{dx} (f(x)g(x))=f'(x)g(x)+f(x)g'(x)
+\left( \frac{ \partial  }{ \partial x } +\frac{ \partial  }{ \partial y }  \right)(f(x)g(y))=f'(x)g(y)+f(x)g'(y)
 $$
+Now we use the binomial theorem:
 $$
-D(fg)=D(f)g+fD(g)
+\left( \frac{ \partial y }{ \partial x } +\frac{ \partial  }{ \partial y }  \right)^{n}=\sum_{k=0}^{n} \binom{n}{k}\frac{ \partial^{k}  }{ \partial x^{k} } \frac{ \partial^{k} }{ \partial y^{k} } 
 $$
-$D(f+g)=D(f)+D(g)$
+Applying this to $fg {}$, we get
 $$
-1
+\left( \frac{ \partial y }{ \partial x } +\frac{ \partial  }{ \partial y }  \right)^{n}(fg)=\sum_{k=0}^{n} \binom{n}{k}\frac{ \partial^{k}  }{ \partial x^{k} } \frac{ \partial^{k} }{ \partial y^{k} } (fg)=\sum_{k=0}^{n} \binom{n}{k}\frac{ \partial^{k}f  }{ \partial x^{k} } \frac{ \partial^{k}g }{ \partial y^{k} }
 $$
+Finally, substituting $y$ for $x$ we get
+$$
+	\frac{d^{n}}{dx^{n}}(fg)=\sum_{k=0}^{n} \binom{n}{k}\frac{ d^{k}f  }{ d x^{k} } \frac{ d^{k}g }{ d x^{k} }
+$$
+as required
