@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md"
               }
             }
           },
@@ -168,10 +167,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "322e019174eae0c4",
+  "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
