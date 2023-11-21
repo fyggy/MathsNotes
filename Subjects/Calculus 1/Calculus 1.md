@@ -23,7 +23,8 @@ KEATS: https://keats.kcl.ac.uk/course/view.php?id=109729
 | [[Calculus 1 HW1.pdf]] | [[Subjects/Calculus 1/Problem Sheet 1\|Problem Sheet 1]] |
 | [[Calculus 1 HW2.pdf]] | [[Subjects/Calculus 1/Problem Sheet 2\|Problem Sheet 2]] |
 | [[Calculus 1 HW3.pdf]] | [[Subjects/Calculus 1/Problem Sheet 3\|Problem Sheet 3]] |
-| [[Calculus 1 HW4.pdf]] | [[Subjects/Calculus 1/Problem Sheet 4\|Problem Sheet 4]]                                                         |
+| [[Calculus 1 HW4.pdf]] | [[Subjects/Calculus 1/Problem Sheet 4\|Problem Sheet 4]] |
+| [[Calculus 1 HW7.pdf]] | [[Subjects/Calculus 1/Problem Sheet 7\|Problem Sheet 7]]                                                         |
 
 Directory:
 ```dataview

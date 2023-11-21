@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e35d9b3db01e4b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77daad3ec20d709d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/Calculus 1 HW7.pdf"
               }
             }
           }
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md"
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md"
               }
             }
           },
@@ -159,23 +175,25 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Subjects/Calculus 1/Problem Sheet 7.md",
+    "Directory.md",
+    "Subjects/Calculus 1/Problem Sheet 6.md",
+    "Homework/Calculus 1 HW7.pdf",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/Calculus 1/1. Introduction.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
     "Homework/LinearAlgGeo1 HW6.pdf",
     "Subjects/Linear Algebra and Geometry 1/15..md",
-    "Directory.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/15..md",
     "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
-    "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
     "Subjects/Calculus 1/13..md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231117134145.png",
     "Homework/Calculus 1 HW6.pdf",
     "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
@@ -196,7 +214,6 @@
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Homework/LinearAlgGeo1 HW5.pdf",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
-    "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Pasted image 20231012123620.png",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
