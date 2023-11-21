@@ -18,9 +18,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "631b243df6699412",
+        "type": "tabs",
+        "children": [
           {
-            "id": "71f03e1a5472592c",
+            "id": "cf425b321482e206",
             "type": "leaf",
             "state": {
               "type": "pdf",
