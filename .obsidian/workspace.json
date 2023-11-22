@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "852a63ffacb67574",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+              }
+            }
           }
         ]
       }
@@ -159,9 +169,9 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+    "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
     "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Directory.md",

@@ -217,8 +217,10 @@
 	{trigger: "!inn", replacement: "\\notin $0", options: "mA"}, 
 	{trigger: "\\notinn", replacement: "n \\in", options: "mA"}, 
 	{trigger: "\\xi nn", replacement: "x \\in $0", options: "mA"}, 
-	{trigger: "sub", replacement: "\\subset", options: "mA"},
-    {trigger: "\\subset eq", replacement: "\\subseteq", options: "mA"},
+	{trigger: "sub", replacement: "\\subset ", options: "mA"},
+	{trigger: "ssup", replacement: "\\supset ", options: "mA"},
+    {trigger: "\\subset eq", replacement: "\\subseteq ", options: "mA"},
+    {trigger: "\\supset eq", replacement: "\\supseteq ", options: "mA"},
     {trigger: "set", replacement: "\\{ $0 \\}$1", options: "mA"},
     {trigger: "=>", replacement: "\\Rightarrow $0", options: "mA"},
     {trigger: "=<", replacement: "\\Leftarrow ", options: "mA"},
@@ -512,5 +514,6 @@
 	{trigger: "NOw ", replacement: "Now ", options: "tA"},
 	{trigger: "WE ", replacement: "We ", options: "tA"},
 	{trigger: "LEt ", replacement: "Let ", options: "tA"},
+	{trigger: "SInce ", replacement: "Since ", options: "tA"},
 
 ]
