@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c64b94d09ce89ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
+                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md"
+                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md"
               }
             }
           },
@@ -171,10 +159,11 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Homework/Calculus 1 HW7.pdf",
@@ -201,7 +190,6 @@
     "Subjects/Sequences and Series 1/12..md",
     "Subjects/Sequences and Series 1/10..md",
     "Subjects/Sequences and Series 1/7..md",
-    "Subjects/Sequences and Series 1/9. Supremum and Infimum.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
