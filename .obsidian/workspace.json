@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md"
               }
             }
           },
@@ -181,16 +180,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6604e3595e1c0f8f",
+  "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Subjects/Calculus 1/16. Fundamental Theorem of Calculus.md",
-    "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
-    "Subjects/Linear Algebra and Geometry 1/15..md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Directory.md",
+    "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
+    "Subjects/Calculus 1/16. Fundamental Theorem of Calculus.md",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
-    "Directory.md",
     "Pasted image 20231124172635.png",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
