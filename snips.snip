@@ -150,8 +150,8 @@
 	
     {trigger: "([a-zA-Z])\\.", replacement: "[[0]]_{}", options: "rmA"},
     {trigger: "([A-Za-z])(\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
-    {trigger: "([A-Za-z])_{}([A-Za-z\\d])", replacement: "[[0]]_{[[1]]}$0 $1{}", options: "rmA"},
-    {trigger: "([A-Za-z])_{([^}]+)}([A-Za-z\\d])", replacement: "[[0]]_{[[1]][[2]]}$0 $1", options: "rmA"},
+    {trigger: "([A-Za-z])_{}([A-Za-z\\d])", replacement: "[[0]]_{[[1]]}", options: "rmA"},
+    {trigger: "([A-Za-z])_{([^}]+)}([A-Za-z\\d])", replacement: "[[0]]_{[[1]][[2]]}", options: "rmA"},
 	
 	{trigger: "\\\\hat{([a-zA-Z])}\\.", replacement: "\\hat{[[0]]}_{}", options: "rmA"},
     {trigger: "\\\\hat{([A-Za-z])}(\\d)", replacement: "\\hat{[[0]]}_{[[1]]}", options: "rmA"},
