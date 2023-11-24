@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
+                "file": "Subjects/Calculus 1/16..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
+                "file": "Subjects/Calculus 1/16..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
+                "file": "Subjects/Calculus 1/16..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/16..md"
+                "file": "Subjects/Calculus 1/16..md"
               }
             }
           },
@@ -181,11 +181,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f4d3d51ee94c4fd",
+  "active": "7aaec1dd25aae993",
   "lastOpenFiles": [
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Pasted image 20231124172635.png",
     "Subjects/Linear Algebra and Geometry 1/15..md",
-    "Subjects/Linear Algebra and Geometry 1/16..md",
+    "Subjects/Calculus 1/16..md",
+    "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
@@ -213,7 +215,6 @@
     "Subjects/Calculus 1/8. Limits.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Sequences and Series 1/12..md",
-    "Subjects/Sequences and Series 1/10..md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
