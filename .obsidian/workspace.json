@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/16..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/16..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/16..md"
+                "file": "Subjects/Linear Algebra and Geometry 1/10. Dimension.md"
               }
             }
           },
@@ -181,19 +181,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7aaec1dd25aae993",
+  "active": "6604e3595e1c0f8f",
   "lastOpenFiles": [
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
+    "Directory.md",
+    "Subjects/Calculus 1/16..md",
     "Pasted image 20231124172635.png",
     "Subjects/Linear Algebra and Geometry 1/15..md",
-    "Subjects/Calculus 1/16..md",
     "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
     "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Homework/Calculus 1 HW7.pdf",
     "Subjects/Calculus 1/Calculus 1.md",
@@ -228,7 +229,6 @@
     "Pasted image 20231017164730.png",
     "Pasted image 20231017163925.png",
     "Pasted image 20231013150916.png",
-    "Pasted image 20231012124319.png",
     "Untitled.canvas"
   ]
 }
