@@ -248,7 +248,7 @@ function insertionHandler(view) {
           if (!(view.state.sliceDoc(node.to, node.to + 3) == "{} ")) {
             view.dispatch({ changes: { from: node.to, insert: "{} " } });
           }
-        } else if (isInlineMathEnd(node, view.state)) {
+        if (isInlineMathEnd(node, view.state)) {
           if (!(view.state.sliceDoc(node.from - 3, node.from) == " {}")) {
             view.dispatch({ changes: { from: node.from, insert: " {}" } });
           }
