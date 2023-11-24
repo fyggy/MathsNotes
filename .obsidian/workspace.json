@@ -13,19 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "852a63ffacb67574",
+            "id": "6604e3595e1c0f8f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aaec1dd25aae993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/16..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/16..md"
               }
             }
           },
@@ -169,6 +183,9 @@
   },
   "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
+    "Subjects/Linear Algebra and Geometry 1/16..md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/1.7 Group Actions Exercises.md",
@@ -180,10 +197,8 @@
     "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/1. Introduction.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
     "Homework/LinearAlgGeo1 HW6.pdf",
-    "Subjects/Linear Algebra and Geometry 1/15..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Intro to Algebra 1/15..md",
     "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
@@ -199,7 +214,6 @@
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Sequences and Series 1/12..md",
     "Subjects/Sequences and Series 1/10..md",
-    "Subjects/Sequences and Series 1/7..md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
