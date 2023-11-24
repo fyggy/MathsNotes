@@ -146,8 +146,10 @@
 	
 
     {trigger: "([a-zA-Z\\d]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
-    {trigger: "([a-zA-Z\\d])\\.,", replacement: "\\mathbf{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z\\d])_{},", replacement: "\\mathbf{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z\\d])\\.", replacement: "[[0]]_{}", options: "rmA"},
     {trigger: "([A-Za-z])(\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
+    {trigger: "([A-Za-z])_{([^}]+)}(\\d)", replacement: "[[0]]_{[[1]][[2]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
     {trigger: "([A-Za-z])_(\\d\\d)", replacement: "[[0]]_{[[1]]}", options: "rmA"},
     {trigger: "\\hat{([A-Za-z])}(\\d)", replacement: "hat{[[0]]}_{[[1]]}", options: "rmA"},
     {trigger: "\\\\mathbf{([A-Za-z])}(\\d)", replacement: "\\mathbf{[[0]]}_{[[1]]}", options: "rmA"},
