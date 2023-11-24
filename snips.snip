@@ -355,7 +355,6 @@
 
     // Environments
     {trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "mA"},
-	{trigger: "amat", replacement: "\\begin{amatrix}{2}\n$0\n\\end{amatrix}", options: "mA"},
     {trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "mA"},
     {trigger: "Bmat", replacement: "\\begin{Bmatrix}\n$0\n\\end{Bmatrix}", options: "mA"},
     {trigger: "vmat", replacement: "\\begin{vmatrix}\n$0\n\\end{vmatrix}", options: "mA"},
@@ -408,6 +407,8 @@
 	{trigger: "81mat", replacement: "\\begin{pmatrix}$0 \\\\ $1 \\\\ $2 \\\\ $3 \\\\ $4 \\\\ $5 \\\\ $6 \\\\ $7 \\end{pmatrix} $8", options: "mA"}, 
 	{trigger: "91mat", replacement: "\\begin{pmatrix}$0 \\\\ $1 \\\\ $2 \\\\ $3 \\\\ $4 \\\\ $5 \\\\ $6 \\\\ $7 \\\\ $8 \\end{pmatrix} $9", options: "mA"},
 	{trigger: "([A-Za-z])([A-Za-z\\d])([A-Za-z\\d])mat", replacement: "\\begin{pmatrix}[[0]]_{11} & [[0]]_{12} & \\dots & [[0]]_{1[[2]]} \\\\ [[0]]_{21} & [[0]]_{22} & \\dots & [[0]]_{2[[2]]} \\\\ \\vdots & \\vdots & \\ddots & \\vdots \\\\ [[0]]_{[[1]]1} & [[0]]_{[[1]]2} & \\dots & [[0]]_{[[1]][[2]]} \\end{pmatrix}", options: "rmA"},
+	
+	{trigger: "amat", replacement: "\\left(\\begin{array}{${0:ccc}|${1:c}}\n$2\n\\end{array}\\right)", options: "mA"},
 
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
