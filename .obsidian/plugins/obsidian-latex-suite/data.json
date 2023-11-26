@@ -17,7 +17,7 @@
   "autoEnlargeBrackets": true,
   "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$",
   "autofractionExcludedEnvs": "[\n\t\t\t[\"^{\", \"}\"],\n\t\t\t[\"\\\\pu{\", \"}\"]\n\t\t]",
-  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix, amatrix",
+  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix, amatrix, gather",
   "autoEnlargeBracketsTriggers": "sum, int, frac, prod, begin, sqrt",
   "forceMathLanguages": "math",
   "snippetVariables": "{\n\t\"${GREEK}\": \"alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|Theta|iota|kappa|lambda|Lambda|mu|nu|omicron|xi|Xi|pi|Pi|rho|sigma|Sigma|tau|upsilon|Upsilon|varphi|phi|Phi|chi|psi|Psi|omega|Omega\",\n\t\"${SYMBOL}\": \"hbar|ell|nabla|infty|dots|leftrightarrow|mapsto|setminus|mid|bigcap|bigcup|cap|cup|land|lor|subseteq|subset|implies|impliedby|iff|exists|forall|equiv|square|neq|geq|leq|gg|ll|sim|simeq|approx|propto|cdot|oplus|otimes|times|star|perp|det|exp|ln|log|partial\",\n\t\"${SHORT_SYMBOL}\": \"to|pm|mp\"\n}"
