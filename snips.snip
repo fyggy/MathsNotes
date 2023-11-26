@@ -451,6 +451,8 @@
     {trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
     {trigger: "ceil", replacement: "\\ceil*{$0} $1", options: "mA"},
     {trigger: "floor", replacement: "\\floor*{$0} $1", options: "mA"},
+    {trigger: "bin", replacement: "\\binom{$0}{$1} $2", options: "mA"},
+	
 
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
