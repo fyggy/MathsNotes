@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7dc9dd5ea570db34",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md"
               }
             }
           },
@@ -180,11 +170,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7dc9dd5ea570db34",
+  "active": "6604e3595e1c0f8f",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
     "Pasted image 20231126014309.png",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Directory.md",
