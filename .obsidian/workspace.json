@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/15..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6604e3595e1c0f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/17..md"
               }
             }
           },
@@ -170,19 +156,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6604e3595e1c0f8f",
+  "active": "0f4d3d51ee94c4fd",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/17..md",
     "Directory.md",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
+    "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Pasted image 20231126014309.png",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
     "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Subjects/Calculus 1/16. Fundamental Theorem of Calculus.md",
-    "Subjects/Linear Algebra and Geometry 1/15..md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
     "Subjects/Linear Algebra and Geometry 1/11. Linear Maps.md",
