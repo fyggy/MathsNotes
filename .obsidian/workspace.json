@@ -4,18 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "60a85d23620b50c4",
+        "id": "e1e90418a20aad51",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4d3d51ee94c4fd",
+            "id": "ee48511ed5520dc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f635fe4f571b84fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0c8843d959c8cb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "fb5dc0d8236316d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e33658b21fc39dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/LinearAlgGeo1 HW8.pdf"
               }
             }
           }
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/17..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/17..md"
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md"
               }
             }
           },
@@ -157,9 +194,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f4d3d51ee94c4fd",
+  "active": "0c8843d959c8cb09",
   "lastOpenFiles": [
+    "Homework/LinearAlgGeo1 HW8.pdf",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+    "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Subjects/Linear Algebra and Geometry 1/17..md",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/15..md",
@@ -169,7 +209,6 @@
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
-    "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Subjects/Calculus 1/16. Fundamental Theorem of Calculus.md",
     "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
     "Subjects/Linear Algebra and Geometry 1/10. Dimension.md",
@@ -189,17 +228,14 @@
     "Subjects/D&F Abstract Algebra/1.6 Homomorphisms and Isomorphisms Exercises.md",
     "Subjects/D&F Abstract Algebra/1.5 Quaternion Group Exercises.md",
     "Subjects/Calculus 1/~syncthing~Problem Sheet 6.md.tmp",
-    "Subjects/Calculus 1/13..md",
     "Pasted image 20231117134145.png",
     "Homework/Calculus 1 HW6.pdf",
-    "Subjects/Intro to Algebra 1/13. More Subgroups and Cyclic Groups.md",
     "Pasted image 20231113123058.png",
     "Homework/IntroAlgebra HW6.pdf",
     "Homework/SeqSeries HW5.pdf",
     "Pasted image 20231110153216.png",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Homework/LinearAlgGeo1 HW5.pdf",
-    "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Pasted image 20231012123620.png",
     "trigonometric-functions.svg",
     "unit-circle-with-trig.svg",
