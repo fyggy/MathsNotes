@@ -19,11 +19,9 @@
             "id": "f635fe4f571b84fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbooks/Calculus 1 Lecture Notes.pdf"
               }
             }
           },
@@ -40,23 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "fb5dc0d8236316d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9e33658b21fc39dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/LinearAlgGeo1 HW8.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+                "file": "Textbooks/Calculus 1 Lecture Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+                "file": "Textbooks/Calculus 1 Lecture Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md"
+                "file": "Textbooks/Calculus 1 Lecture Notes.pdf"
               }
             }
           },
@@ -194,14 +176,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c8843d959c8cb09",
+  "active": "f635fe4f571b84fe",
   "lastOpenFiles": [
-    "Homework/LinearAlgGeo1 HW8.pdf",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+    "Homework/LinearAlgGeo1 HW8.pdf",
     "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Subjects/Linear Algebra and Geometry 1/17..md",
-    "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/15..md",
     "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
@@ -218,7 +201,6 @@
     "Subjects/D&F Abstract Algebra/2.1 Subgroups Definition and Examples Exercises.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Homework/Calculus 1 HW7.pdf",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/1. Introduction.md",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 6.md",
