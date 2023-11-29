@@ -1,7 +1,7 @@
 ---
 tags:
   - dnf_algebra
-  - chapter
+  - exercises
 date: 2023-11-29
 ---
 [[Directory]], [[D&F Abstract Algebra]]
