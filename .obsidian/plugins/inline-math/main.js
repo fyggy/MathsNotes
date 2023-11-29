@@ -217,7 +217,7 @@ function deletionHandler(view) {
   }
   const doc = view.state.doc.toString();
   const indexNextDollar = doc.indexOf("$", from + index + 1);
-  const indexPrevDollar = doc.lastIndexOf("$", from);
+  const indexPrevDollar = doc.lastIndexOf("$", from + index);
   const tree = (0, import_language2.syntaxTree)(view.state);
   const changes = [];
   tree.iterate({
