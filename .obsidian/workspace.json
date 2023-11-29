@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -105,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Calculus 1 Lecture Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Calculus 1 Lecture Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Textbooks/Calculus 1 Lecture Notes.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +170,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f635fe4f571b84fe",
+  "active": "ee48511ed5520dc4",
   "lastOpenFiles": [
+    "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Subjects/Calculus 1/Calculus 1.md",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
