@@ -67,5 +67,33 @@ $$
 $$
 3. 
 $$
-\sum_{k=0}^{\infty} 
+\begin{align}
+ \sum_{k=0}^{n} a^{k} & =1+\sum_{k=1}^{n} a^{k}   \\
+ & =1+\sum_{k=1}^{n} a\cdot a^{k-1} \\
+ & =1+a\left( \sum_{k=0}^{n-1} a^{k} \right) \\
+ & =1+a\left( \sum_{k=0}^{n-1} a^{k}+a^{n}-a^{n} \right) \\
+ & =1+a\left( \sum_{k=0}^{n} a^{k} -a^{n}\right)
+ \end{align}
+$$
+So
+$$
+\begin{align}
+ \sum_{k=0}^{n} a^{k}-a\sum_{k=0}^{n} a^{k} & =1-a^{n+1}   \\
+ (1-a)\sum_{k=0}^{n} a^{k} & =1-a^{n+1} \\
+\sum_{k=0}^{n} a^{k} & =\frac{1-a^{n+1}}{1-a} 
+ \end{align}
+$$
+As required
+4. 
+Let ${} a \in \mathbb{R} {}$. 
+$$
+\begin{align}
+ \lim_{n\tto \infty} \sum_{k=0}^{n} \frac{a^{k}}{k!} & \geq\lim_{n\tto \infty} \frac{1}{n!} \sum_{k=0}^{n} a^{k}   \\
+ & =\lim_{n\tto \infty} \frac{1}{n!} \frac{1-a^{n+1}}{1-a}  \\
+ & =0
+ \end{align}
+$$
+and
+$$
+\lim_{n\tto \infty} \sum_{k=0}^{n} \frac{a^{k}}{k!}\leq \lim_{n\tto \infty} \sum_{k=0}^{n} \frac{a^{k}}{(2a)^{k}}=
 $$
