@@ -97,3 +97,12 @@ and
 $$
 \lim_{n\tto \infty} \sum_{k=0}^{n} \frac{a^{k}}{k!}\leq \lim_{n\tto \infty} \sum_{k=0}^{n} \frac{a^{k}}{(2a)^{k}}=
 $$
+5. 
+a) 
+First, note that ${} s_{1}=\sum_{k=1}^{1} \frac{1}{k^{2}}=\frac{1}{1}=1 {}$, and ${} 2-\frac{1}{1}=1\geq 1 {}$. Therefore, it holds for the base case. Now suppose that ${} s_{n}\leq 2-\frac{1}{n} {}$. Then 
+$$
+\begin{align}
+ s_{n+1} & =\sum_{k=1}^{n+1} \frac{1}{k^{2}}   \\
+ & =s_{n} +\frac{1}{^{2}}
+ \end{align}
+$$
