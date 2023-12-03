@@ -103,6 +103,17 @@ First, note that ${} s_{1}=\sum_{k=1}^{1} \frac{1}{k^{2}}=\frac{1}{1}=1 {}$, and
 $$
 \begin{align}
  s_{n+1} & =\sum_{k=1}^{n+1} \frac{1}{k^{2}}   \\
- & =s_{n} +\frac{1}{^{2}}
+ & =s_{n} +\frac{1}{( n+1 )^{2}} \\
+ & \leq 2-\frac{1}{n}+\frac{1}{( n+1 )^{2}} \\
+ & =2-\frac{1}{n+1}-\frac{1}{n}+\frac{1}{n+1}+\frac{1}{( n+1 )^{2}} \\
+ & =2-\frac{1}{n+1}+\frac{n+2}{(n+1)^{2}} -\frac{1}{n} \\
+ & =2-\frac{1}{n+1}+\frac{ n^{2}+2n -n^{2}-2n-1}{ n(n+1)^{2} } \\
+ & =2-\frac{1}{n+1}+\frac{-1}{n(n+1)^{2}}  \\
+ & \leq 2-\frac{1}{n+1}
  \end{align}
 $$
+Therefore, for all ${} n \in \mathbb{N} {}$, ${} s_{n}\leq 2-\frac{1}{n} {}$.
+b)
+First note that ${} s_{n+1}=s_{n}+\frac{1}{( n+1 )^{2}}>s_{n} {}$, so $s_{n} {}$ is monotone increasing. Now note that ${} s_{n}\leq 2-\frac{1}{n}<2 {}$, so $s_{n}$ is bounded above. Therefore, since ${} s_{n} {}$ is monotone increasing, and bounded above, then $s_{n}$ converges. 
+7. 
+a)
