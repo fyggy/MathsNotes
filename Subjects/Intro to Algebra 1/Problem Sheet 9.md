@@ -21,4 +21,6 @@ Let $G$ and $H$ be groups with $\varphi:G\to{}H {}$ a group homomorphism. Let ${
 
 First suppose that ${} g_{1} \in g_{2} K {}$. Then there exists some element ${} h \in G {}$ with ${} \varphi(h)=1 {}$ such that ${} g_{1}=g_{2}h {}$. Therefore, ${} \varphi(g_{1})=\varphi(g_{2} h)=\varphi(g_{2})\varphi (h)=\varphi(g_{2}) {}$. Therefore, ${} \varphi(g_{1})=\varphi (g_{2}) {}$.
 
-Conversely, suppose ${} \varphi(g_{1})=\varphi (g_{2}) {}$. Then ${} \varphi(g_{1})\varphi(g_{2})^{-1}=1 {}$, so ${} \varphi(g_{1} g_{2}^{-1})=1 {}$. Therefore, ${} g_{1} g_{2}^{-1} \in K {}$
+Conversely, suppose ${} \varphi(g_{1})=\varphi (g_{2}) {}$. Then ${} \varphi(g_{2})^{-1}\varphi(g_{1})=1 {}$, so ${} \varphi(g_{2} ^{-1}g_{1})=1 {}$. Therefore, ${} g_{2} ^{-1}g_{1} \in K {}$. Therefore, ${} g_{1} = g_{2}h {}$ for some ${} h=g_{2} ^{-1}g_{1} \in K {}$. Therefore, ${} g_{1} \in g_{2} K {}$.
+
+Therefore, ${} g_{1} \in g_{2} K {}$ if and only if ${} \varphi(g_{1})=\varphi (g_{2}) {}$.
