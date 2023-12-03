@@ -117,3 +117,27 @@ b)
 First note that ${} s_{n+1}=s_{n}+\frac{1}{( n+1 )^{2}}>s_{n} {}$, so $s_{n} {}$ is monotone increasing. Now note that ${} s_{n}\leq 2-\frac{1}{n}<2 {}$, so $s_{n}$ is bounded above. Therefore, since ${} s_{n} {}$ is monotone increasing, and bounded above, then $s_{n}$ converges. 
 7. 
 a)
+$$
+\begin{align}
+ s_{2n} & =\frac{ 1+(-1)^{2n} }{ 2 }+\frac{ (-1)^{2n} }{ 2n }   \\
+ & =\frac{ 1+1 }{ 2 }+\frac{1}{2n} \\
+ & =1+\frac{1}{2n}
+ \end{align}
+$$
+Then note that 
+$$
+\lim_{n\tto \infty} s_{2n}=\lim_{n\tto \infty} 1+\lim_{n\tto \infty} \frac{1}{2n}=1+0=1
+$$
+Therefore, $s_{2n}$ is convergent
+$$
+\begin{align}
+ s_{2n+1} & =  \frac{1+(-1)^{2n+1}}{2} +\frac{ (-1)^{2n-1} }{ 2n+1 } \\
+ & =\frac{1-1}{2} +\frac{-1}{2n+1}  \\
+ & =-\frac{1}{2n+1}
+ \end{align}
+$$
+and note that
+$$
+\lim_{n\tto \infty} s_{2n+1}=\lim_{n\tto \infty} -\frac{1}{2n+1}=0
+$$
+Therefore, ${} s_{2n+1}$ is convergent.

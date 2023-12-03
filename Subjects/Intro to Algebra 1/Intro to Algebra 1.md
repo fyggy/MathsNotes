@@ -19,9 +19,11 @@ Homework:
 
 | Sheet                    | Solution                                                         |
 | ------------------------ | ---------------------------------------------------------------- |
-| [[IntroAlgebra HW1.pdf]]  | [[Subjects/Intro to Algebra 1/Problem sheet 1\|Problem Sheet 1]] |
-| [[IntroAlgebra HW2.pdf]]  | [[Subjects/Intro to Algebra 1/Problem Sheet 2\|Problem Sheet 2]] |
-| [[IntroAlgebra HW3.pdf]] | [[Subjects/Intro to Algebra 1/Problem Sheet 3\|Problem Sheet 3]]                                                                 |
+| [[IntroAlgebra HW1.pdf]] | [[Subjects/Intro to Algebra 1/Problem sheet 1\|Problem Sheet 1]] |
+| [[IntroAlgebra HW2.pdf]] | [[Subjects/Intro to Algebra 1/Problem Sheet 2\|Problem Sheet 2]] |
+| [[IntroAlgebra HW3.pdf]] | [[Subjects/Intro to Algebra 1/Problem Sheet 3\|Problem Sheet 3]] |
+|                          |                                                                  |
+| [[IntroAlgebra HW9.pdf]] | [[Subjects/Intro to Algebra 1/Problem Sheet 9\|Problem Sheet 9]]                                                                 |
 
 Directory:
 ```dataview
