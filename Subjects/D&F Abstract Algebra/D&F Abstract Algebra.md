@@ -16,7 +16,6 @@ Directory:
 LIST FROM #dnf_algebra AND #chapter 
 SORT date ASC
 ```
-
 Exercises:
 ```dataview
 LIST FROM #dnf_algebra AND #exercises 
