@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "451c0bc946ef8c5d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3319b0f23eb2fca2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
               }
             }
           }
@@ -85,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md"
+                "file": "Subjects/Calculus 1/Problem Sheet 7.md"
               }
             }
           },
@@ -174,9 +159,11 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
+    "Subjects/Calculus 1/Problem Sheet 6.md",
+    "Subjects/Calculus 1/Problem Sheet 7.md",
+    "Subjects/Calculus 1/Calculus 1.md",
     "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 9.md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Pasted image 20231204155931.png",
@@ -208,8 +195,6 @@
     "Pasted image 20231126014309.png",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/Linear Algebra and Geometry 1/7. Vector Spaces.md",
-    "Subjects/Calculus 1/16. Fundamental Theorem of Calculus.md",
-    "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
     "Pasted image 20231124172635.png",
     "Homework/Calculus 1 HW7.pdf",
     "Homework/LinearAlgGeo1 HW6.pdf",
