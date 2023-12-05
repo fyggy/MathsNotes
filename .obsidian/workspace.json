@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md"
+                "file": "Subjects/Calculus 1/Calculus 1.md"
               }
             }
           },
@@ -175,15 +174,16 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Directory.md",
+    "Subjects/Calculus 1/Problem Sheet 9.md",
+    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Homework/SeqSeries HW8.pdf",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "Directory.md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Intro to Algebra 1/Problem Sheet 9.md",
     "Subjects/Sequences and Series 1/Problem Sheet 8.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
