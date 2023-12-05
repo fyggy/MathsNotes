@@ -35,3 +35,9 @@ $$
 	\frac{d^{n}}{dx^{n}}(fg)=\sum_{k=0}^{n} \binom{n}{k}\frac{ d^{k}f  }{ d x^{k} } \frac{ d^{k}g }{ d x^{k} }
 $$
 as required
+
+
+Let $G$ be a finitely generated group, i.e. ${} G=\langle g_{1},\, g_{2},\, \dots,\, g_{n} \rangle  {}$ for some ${} g_{1},\,\dots,\,g_{n} \in G {}$. Prove that for all proper subgroups $H<G$, then there exists a maximal subgroup $M$ with ${} H\leq M {}$.
+
+(A maximal subgroup is a proper subgroup ${} M<G$, and if there exists a subgroup ${} H\leq G {}$ with ${} M\leq H {}$, then ${} H=G {}$ or ${} H=M {}$)
+
