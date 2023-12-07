@@ -28,7 +28,7 @@
 - [ ] [[Fourier Analysis]]
 - [ ] [[Galois Theory]]
 - [ ] [[Geometric Topology]]
-- [ ] [[Third Year Project]] (???)
+- [ ] [[Third Year Project]] (???): 2 semesters
 - [ ] [[Rings and Modules]]
 - [ ] [[Representation Theory of Finite Groups]]
 - [ ] [[Theory of Complex Networks]] (mayhaps)
