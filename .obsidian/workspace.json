@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/20..md"
               }
             }
           },
@@ -159,8 +158,11 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/20..md",
+    "Directory.md",
     "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "The Plan/KCL Modules.md",
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Textbooks/Analysis I - Terence Tao.pdf",
@@ -169,7 +171,6 @@
     "Subjects/Intro to Algebra 1/15..md",
     "Subjects/Intro to Algebra 1/18..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
-    "Directory.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/Calculus 1.md",
@@ -192,7 +193,6 @@
     "Subjects/D&F Abstract Algebra/Appendix 1.2 Zorn's Lemma.md",
     "Subjects/D&F Abstract Algebra/Appendix 1.1 Cartesian Products.md",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
-    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
     "Homework/LinearAlgGeo1 HW8.pdf",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
