@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Plan/KCL Modules.md",
+                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Plan/KCL Modules.md",
+                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Plan/KCL Modules.md",
+                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Plan/KCL Modules.md"
+                "file": "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md"
               }
             }
           },
@@ -158,6 +159,9 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
+    "The Plan/KCL Modules.md",
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Textbooks/Analysis I - Terence Tao.pdf",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
@@ -171,7 +175,6 @@
     "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Calculus 1/Problem Sheet 9.md",
     "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
@@ -190,9 +193,7 @@
     "Subjects/D&F Abstract Algebra/Appendix 1.1 Cartesian Products.md",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 8.md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Homework/LinearAlgGeo1 HW8.pdf",
-    "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
     "Homework/Calculus 1 HW7.pdf",
