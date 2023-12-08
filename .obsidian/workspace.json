@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
+                "file": "Subjects/Calculus 1/20..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
+                "file": "Subjects/Calculus 1/20..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/20..md",
+                "file": "Subjects/Calculus 1/20..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/20..md"
+                "file": "Subjects/Calculus 1/20..md"
               }
             }
           },
@@ -158,8 +159,9 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/20..md",
+    "Subjects/Calculus 1/20..md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Directory.md",
     "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
@@ -191,7 +193,6 @@
     "Subjects/Calculus 1/17..md",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Subjects/D&F Abstract Algebra/Appendix 1.2 Zorn's Lemma.md",
-    "Subjects/D&F Abstract Algebra/Appendix 1.1 Cartesian Products.md",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Homework/LinearAlgGeo1 HW8.pdf",
     "Pasted image 20231126014309.png",
