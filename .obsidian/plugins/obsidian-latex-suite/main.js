@@ -7029,10 +7029,8 @@ var cmd_symbols = {
   "subseteq": "\u2286",
   "subset": "\u2282",
   "succeq": "\u2AB0",
-  "succ": "\u227B",
-						  
-  "sum": "\u2211",
-					   
+  "succ": "\u227B",				  
+  "sum": "\u2211",			   
   "supseteq": "\u2287",
   "supset": "\u2283",
   "surd": "\u221A",
@@ -7042,6 +7040,8 @@ var cmd_symbols = {
   "to": "\u2192",
   "triangleleft": "\u22B2",
   "triangleright": "\u22B3",
+  "trianglelefteq": "\u22B4",
+  "trianglerighteq": "\u22B5",
   "triangle": "\u2206",
   "uparrow": "\u2191",
   "Uparrow": "\u21D1",
@@ -7067,7 +7067,7 @@ var cmd_symbols = {
   " ": "",
   "begin": "",
   "end": "",
-  "pmatrix": "pmat"		   
+  "pmatrix": "pmat"
 };
 var operators = [
   "arcsin",
