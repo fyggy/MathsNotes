@@ -52,7 +52,7 @@
 
 
     // Insert space after greek letters and symbols, etc
-    {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL})([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
+    {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL}|triangleleft|trianglelefteq|triangleright|trianglerighteq)([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) sd", replacement: "\\[[0]]^{2}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) cd", replacement: "\\[[0]]^{3}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) rd", replacement: "\\[[0]]^{$0}$1", options: "rmA"},
@@ -76,16 +76,16 @@
 	{trigger: "Zn", replacement: "\\mathbb{Z}_{n}", options: "mA"},
 	{trigger: "Z([\\d])", replacement: "\\mathbb{Z}_{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z\\d])_{([a-zA-Z\\d])}]]", replacement: "[[[0]]]_{[[1]]}", options: "rmA"},
-	{trigger: "<;", replacement: "\\triangleleft ", options: "mA"},
-	{trigger: "<:", replacement: "\\triangleleft ", options: "mA"},
-	{trigger: ">;", replacement: "\\triangleright ", options: "mA"},
-	{trigger: ">:", replacement: "\\triangleright ", options: "mA"},
-	{trigger: "\\triangleleft =", replacement: "\\trianglelefteq ", options: "mA"},
-	{trigger: "\\leq:", replacement: "\\trianglelefteq ", options: "mA"},
-	{trigger: "\\leq;", replacement: "\\trianglelefteq ", options: "mA"},
-	{trigger: "\\triangleright =", replacement: "\\trianglerighteq ", options: "mA"},
-	{trigger: "\\geq:", replacement: "\\trianglerighteq ", options: "mA"},
-	{trigger: "\\geq;", replacement: "\\trianglerighteq ", options: "mA"},
+	{trigger: "<;", replacement: "\\triangleleft", options: "mA"},
+	{trigger: "<:", replacement: "\\triangleleft", options: "mA"},
+	{trigger: ">;", replacement: "\\triangleright", options: "mA"},
+	{trigger: ">:", replacement: "\\triangleright", options: "mA"},
+	{trigger: "\\triangleleft=", replacement: "\\trianglelefteq", options: "mA"},
+	{trigger: "\\leq:", replacement: "\\trianglelefteq", options: "mA"},
+	{trigger: "\\leq;", replacement: "\\trianglelefteq", options: "mA"},
+	{trigger: "\\triangleright=", replacement: "\\trianglerighteq", options: "mA"},
+	{trigger: "\\geq:", replacement: "\\trianglerighteq", options: "mA"},
+	{trigger: "\\geq;", replacement: "\\trianglerighteq", options: "mA"},
 	
 	
 	
