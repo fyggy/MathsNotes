@@ -34,4 +34,20 @@ $$
 \det(ABC)=\det(DC)=\det(AB)\det(C)=\det(A)\det(B)\det(C)
 $$
 c)
-False, n
+False, note that
+$$
+\det \left(4\begin{pmatrix}1 & 0 \\ 0 & 1 \end{pmatrix} \right)=16\neq 4=4\det \begin{pmatrix}1 & 0 \\ 0 & 1 \end{pmatrix} 
+$$
+d)
+False. Set 
+$$
+A= \begin{pmatrix} 0& 1 \\ 0 & 1 \end{pmatrix} ,\, B=\begin{pmatrix}0 & 0 \\ 1 & 1 \end{pmatrix} 
+$$
+and observe that
+$$
+AB-BA=\begin{pmatrix}1 & 1 \\ 1 & 1 \end{pmatrix} -\begin{pmatrix}0 & 0 \\ 0 & 2 \end{pmatrix} =\begin{pmatrix}1 & 1 \\ 1 & -1 \end{pmatrix}
+$$
+and 
+$$
+\det \begin{pmatrix}1 & 1 \\ 1 & -1 \end{pmatrix} =-2\neq 0
+$$
