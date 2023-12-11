@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/21..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,6 +28,22 @@
                 "file": "Subjects/Linear Algebra and Geometry 1/20..md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f7166f9e9d00a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f635c493b75ae84",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/LinearAlgGeo1 HW9.pdf"
               }
             }
           }
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/21..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/21..md",
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 1/21..md"
+                "file": "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md"
               }
             }
           },
@@ -171,12 +187,15 @@
   },
   "active": "f12bf8fc013a61a8",
   "lastOpenFiles": [
-    "Pasted image 20231211124957.png",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
-    "Subjects/Linear Algebra and Geometry 1/21..md",
-    "Directory.md",
-    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 10.md",
+    "Homework/LinearAlgGeo1 HW9.pdf",
     "Subjects/Linear Algebra and Geometry 1/20..md",
+    "Homework/aled.jpg",
+    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 10.md",
+    "Subjects/Linear Algebra and Geometry 1/21..md",
+    "Pasted image 20231211124957.png",
+    "Directory.md",
     "Homework/LinearAlgGeo1 HW10.pdf",
     "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
@@ -204,19 +223,15 @@
     "Subjects/Sequences and Series 1/Problem Sheet 8.md",
     "Subjects/Calculus 1/18..md",
     "Pasted image 20231130185631.png",
-    "Subjects/D&F Abstract Algebra/2.3 Cyclic Groups and Cyclic Subgroups.md",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Homework/LinearAlgGeo1 HW8.pdf",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
-    "Homework/Calculus 1 HW7.pdf",
     "Pasted image 20231117134145.png",
     "Pasted image 20231113123058.png",
     "Pasted image 20231110153216.png",
     "Pasted image 20231012123620.png",
-    "trigonometric-functions.svg",
-    "unit-circle-with-trig.svg",
     "Untitled.canvas"
   ]
 }

@@ -6,9 +6,8 @@ date: 2023-12-10
 ---
 [[Directory]], [[Linear Algebra and Geometry 1|Subject Directory]]
 3. 
-Let ${} a=\det A {}$. Then
 a) 
-${} \det (B)=2\cdot 3\cdot 5\det(A)=30\det(A) {}$
+$\det (B)=2\cdot 3\cdot 5\det(A)=30\det(A) {}$
 b)
 ${} \det (B)=3\cdot 4\cdot 5\det(A)=60\det(A) {}$
 4. 
