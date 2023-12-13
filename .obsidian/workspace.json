@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d958f5042de79439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Calculus 1/Problem Sheet 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca33ab94e2892605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
+                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
+                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
+                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md"
+                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md"
               }
             }
           },
@@ -172,9 +159,10 @@
   },
   "active": "ca33ab94e2892605",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
+    "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
     "Directory.md",
     "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Calculus 1/Problem Sheet 10.md",
@@ -206,7 +194,6 @@
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Homework/SeqSeries HW8.pdf",
-    "Subjects/Intro to Algebra 1/Problem Sheet 9.md",
     "Pasted image 20231130185631.png",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
