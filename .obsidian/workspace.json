@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc156deb1c42fc43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md"
               }
             }
           },
@@ -168,12 +157,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cc156deb1c42fc43",
+  "active": "ca33ab94e2892605",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+    "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
+    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
     "Directory.md",
     "Subjects/Calculus 1/Calculus 1.md",
@@ -200,7 +190,6 @@
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
-    "Subjects/Calculus 1/Problem Sheet 9.md",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
