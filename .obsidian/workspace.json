@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc156deb1c42fc43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md"
+                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
               }
             }
           },
@@ -157,12 +168,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca33ab94e2892605",
+  "active": "cc156deb1c42fc43",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
     "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
     "Directory.md",
     "Subjects/Calculus 1/Calculus 1.md",
@@ -190,7 +201,6 @@
     "Subjects/Calculus 1/Problem Sheet 7.md",
     "Subjects/Calculus 1/Problem Sheet 6.md",
     "Subjects/Calculus 1/Problem Sheet 9.md",
-    "Subjects/D&F Abstract Algebra/2.5 The Lattice of Subgroups of a Group.md",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
