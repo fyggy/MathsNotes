@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/22..md",
+                "file": "Subjects/Sequences and Series 1/22..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4a4a2b7de5c3016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/22..md",
+                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/22..md",
+                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Algebra 1/22..md"
+                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md"
               }
             }
           },
@@ -180,12 +193,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca33ab94e2892605",
+  "active": "d4a4a2b7de5c3016",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Subjects/Sequences and Series 1/22..md",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/22..md",
+    "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Linear Algebra and Geometry 1/20..md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
@@ -208,12 +223,10 @@
     "The Plan/KCL Modules.md",
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Textbooks/Analysis I - Terence Tao.pdf",
-    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Intro to Algebra 1/20..md",
     "Subjects/Intro to Algebra 1/15..md",
     "Subjects/Intro to Algebra 1/18..md",
     "Subjects/Calculus 1/Problem Sheet 7.md",
-    "Subjects/Calculus 1/Problem Sheet 6.md",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
