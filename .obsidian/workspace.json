@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md"
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md"
               }
             }
           },
@@ -193,10 +194,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4a4a2b7de5c3016",
+  "active": "a37904b1956a16d3",
   "lastOpenFiles": [
-    "Subjects/Sequences and Series 1/22..md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+    "Subjects/Sequences and Series 1/22..md",
     "Directory.md",
     "Subjects/Intro to Algebra 1/22..md",
     "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
