@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/22..md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6d47a3c7a05ed82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/22..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
+                "file": "Subjects/Linear Algebra and Geometry 1/22..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md"
+                "file": "Subjects/Linear Algebra and Geometry 1/22..md"
               }
             }
           },
@@ -181,16 +193,18 @@
   },
   "active": "a37904b1956a16d3",
   "lastOpenFiles": [
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+    "Subjects/Linear Algebra and Geometry 1/22..md",
+    "Homework/SeqSeries HW4.pdf",
+    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Directory.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Sequences and Series 1/22..md",
-    "Directory.md",
     "Subjects/Intro to Algebra 1/22..md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Linear Algebra and Geometry 1/20..md",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Linear Algebra and Geometry 1/21..md",
     "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
     "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
@@ -211,7 +225,6 @@
     "Textbooks/Analysis I - Terence Tao.pdf",
     "Subjects/Intro to Algebra 1/20..md",
     "Subjects/Intro to Algebra 1/15..md",
-    "Subjects/Intro to Algebra 1/18..md",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
@@ -219,7 +232,6 @@
     "Pasted image 20231130185631.png",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
-    "Homework/LinearAlgGeo1 HW8.pdf",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
     "Pasted image 20231117134145.png",
