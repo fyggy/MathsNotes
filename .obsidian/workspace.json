@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
+                "file": "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Analysis I - Terence Tao.pdf",
+                "file": "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Analysis I - Terence Tao.pdf",
+                "file": "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Analysis I - Terence Tao.pdf"
+                "file": "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md"
               }
             }
           },
@@ -173,10 +173,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d1b689d42f1cfb47",
+  "active": "a37904b1956a16d3",
   "lastOpenFiles": [
-    "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Textbooks/Analysis I - Terence Tao.pdf",
+    "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md",
+    "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/22..md",
     "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
@@ -206,7 +207,6 @@
     "Subjects/Calculus 1/20..md",
     "The Plan/KCL Modules.md",
     "Subjects/Intro to Algebra 1/20..md",
-    "Subjects/Intro to Algebra 1/15..md",
     "Pasted image 20231204155931.png",
     "Homework/IntroAlgebra HW9.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
