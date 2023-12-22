@@ -8,5 +8,6 @@
   "obsidian-git",
   "omnisearch",
   "text-extractor",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "better-word-count"
 ]

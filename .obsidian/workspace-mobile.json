@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+                "file": "The Plan/KCL Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+            "file": "The Plan/KCL Modules.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md",
+            "file": "The Plan/KCL Modules.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Subjects/Sequences and Series 1/Sequences and Series 1.md"
+            "file": "The Plan/KCL Modules.md"
           }
         }
       }
@@ -127,15 +127,22 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e520ba2e4beb7d0a",
   "lastOpenFiles": [
+    "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
+    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "Subjects/Linear Algebra and Geometry 1/15..md",
+    "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
+    "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
+    "Textbooks/Sequences and Series Lecture Notes.pdf",
+    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Homework/LinearAlgGeo1 HW3.pdf",
     "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
     "Subjects/Intro to Algebra 1/Problem Sheet 3.md",
@@ -148,7 +155,6 @@
     "Knowledge/Identities/Trigonometry and Hyperbolic Trigonometry.md",
     "Knowledge/Identities",
     "Knowledge",
-    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Linear Algebra and Geometry 1/5. Introduction to Vectors.md",
     "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231009134706.png",
@@ -169,15 +175,10 @@
     "Subjects/Intro to Algebra 1/4..md",
     "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
     "Subjects/Sequences and Series 1/1. Introduction.md",
-    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Linear Algebra and Geometry 1/1. Introduction.md",
     "Subjects/Intro to Algebra 1/1. Introduction.md",
     "Textbooks/Discrete Mathematics Lecture notes KCL.pdf",
-    "Subjects/Discrete Maths 1/Discrete Maths 1.md",
     "Textbooks/Calculus - Michael Spivak.pdf",
-    "Subjects/Calculus 1/1. Introduction.md",
-    "Subjects/Intro to Algebra 1/Problem sheet 1.md",
-    "Homework/IntroAlgebraHW1.pdf",
-    "Textbooks/Sequences and Series Lecture Notes.pdf"
+    "Homework/IntroAlgebraHW1.pdf"
   ]
 }
