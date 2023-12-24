@@ -7,6 +7,14 @@
         "type": 0,
         "counter": 0
       }
+    },
+    {
+      "prefix": " ",
+      "suffix": " characters",
+      "metric": {
+        "type": 0,
+        "counter": 1
+      }
     }
   ],
   "altBar": [
