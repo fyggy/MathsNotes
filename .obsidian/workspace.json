@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c512c29cfd8ca44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ccc1b408ff3e4388",
@@ -173,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a37904b1956a16d3",
+  "active": "7c512c29cfd8ca44",
   "lastOpenFiles": [
     "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
