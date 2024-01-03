@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
+                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf",
+                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf",
+                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf"
+                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md"
               }
             }
           },
@@ -173,9 +172,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "660427e26f92a1d8",
+  "active": "a37904b1956a16d3",
   "lastOpenFiles": [
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
+    "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
     "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
     "Subjects/Greub Linear Algebra 1/1.2 Linear Mappings Exercises.md",
