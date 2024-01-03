@@ -156,7 +156,10 @@
 	{trigger: "aut", replacement: "\\aut($0)$1", options: "mA"}, 
 	
     {trigger: ",,", replacement: ",\\, $0", options: "mA"},
-    {trigger: "88", replacement: ",\\, $0", options: "mA"},
+    {trigger: "&*", replacement: "^{*}", options: "mA"},
+    {trigger: "*&", replacement: "^{*}", options: "mA"},
+    {trigger: "/-", replacement: "\\perp", options: "mA"},
+    {trigger: "-/", replacement: "\\perp", options: "mA"},
 	{trigger: ",\\, ,", replacement: ",\\,\\dots,\\,", options: "mA"},
 	{trigger: "{+}{+}+", replacement: "+\\dots+", options: "mA"},
 	{trigger: "---", replacement: "-\\dots-", options: "mA"},
