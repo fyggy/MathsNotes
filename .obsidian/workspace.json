@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
+                "file": "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ccc1b408ff3e4388",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "660427e26f92a1d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf"
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
+                "file": "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
+                "file": "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md"
+                "file": "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md"
               }
             }
           },
@@ -175,8 +159,13 @@
   },
   "active": "a37904b1956a16d3",
   "lastOpenFiles": [
-    "Textbooks/Linear Algebra - Werner Greub.pdf",
+    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
+    "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
+    "Untitled.md",
+    "Subjects/Lie Theory 1/Lie Theory 1.md",
+    "Subjects/Lie Theory 1",
     "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
+    "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
     "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
     "Subjects/Greub Linear Algebra 1/1.2 Linear Mappings Exercises.md",
@@ -196,7 +185,6 @@
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Sequences and Series 1/22..md",
     "Subjects/Intro to Algebra 1/22..md",
-    "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Linear Algebra and Geometry 1/20..md",
     "Subjects/Linear Algebra and Geometry 1/21..md",
     "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
@@ -208,11 +196,8 @@
     "Homework/LinearAlgGeo1 HW9.pdf",
     "Subjects/Linear Algebra and Geometry 1/Problem Sheet 9.md",
     "Homework/aled.jpg",
-    "Subjects/Linear Algebra and Geometry 1/Problem Sheet 10.md",
     "Pasted image 20231211124957.png",
-    "Subjects/D&F Abstract Algebra/3.1 Quotient Groups and Homomorphisms Exercises.md",
     "Pasted image 20231204155931.png",
-    "Homework/IntroAlgebra HW9.pdf",
     "Pasted image 20231130185631.png",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
