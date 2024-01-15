@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dca4c6c72f22797c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Calculus 2/1. Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Intro.md",
+                "file": "Subjects/Calculus 2/1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Intro.md",
+                "file": "Subjects/Calculus 2/1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Intro.md"
+                "file": "Subjects/Calculus 2/1. Intro.md"
               }
             }
           },
@@ -170,12 +181,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a24bddd988fbf3ac",
+  "active": "dca4c6c72f22797c",
   "lastOpenFiles": [
+    "Pasted image 20240115093949.png",
+    "Subjects/Calculus 2/Calculus 2.md",
+    "Subjects/Calculus 2/1. Intro.md",
+    "Subjects/Calculus 2/Untitled 1.md",
+    "Subjects/Untitled",
+    "1. Intro.md",
     "Pasted image 20240112102556.png",
     "Pasted image 20240112102401.png",
     "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
-    "1. Intro.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Untitled.md",
     "Subjects/Lie Theory 1/Lie Theory 1.md",
@@ -204,11 +220,7 @@
     "Subjects/Linear Algebra and Geometry 1/20..md",
     "Subjects/Linear Algebra and Geometry 1/21..md",
     "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
-    "Subjects/D&F Abstract Algebra/2.2 Centralizers and Normalizers, Stabilizers and Kernels Exercises.md",
-    "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Homework/LinearAlgGeo1 HW10.pdf",
-    "Homework/LinearAlgGeo1 HW9.pdf",
     "Homework/aled.jpg",
     "Pasted image 20231211124957.png",
     "Pasted image 20231204155931.png",
@@ -217,7 +229,6 @@
     "Pasted image 20231124172635.png",
     "Pasted image 20231117134145.png",
     "Pasted image 20231113123058.png",
-    "Pasted image 20231110153216.png",
     "Untitled.canvas"
   ]
 }
