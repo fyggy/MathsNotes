@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 2/1. Intro.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 2/1. Intro.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 2/1. Intro.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 2/1. Intro.md"
+                "file": "Subjects/Linear Algebra and Geometry 2/1. Intro.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "dca4c6c72f22797c",
   "lastOpenFiles": [
+    "Subjects/Calculus 2/1. Intro.md",
+    "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Subjects/Calculus 2/Calculus 2.md",
-    "Subjects/Calculus 2/1. Intro.md",
     "Subjects/Calculus 2/Untitled 1.md",
     "Subjects/Untitled",
     "1. Intro.md",
@@ -228,7 +229,6 @@
     "Pasted image 20231130185631.png",
     "Pasted image 20231126014309.png",
     "Pasted image 20231124172635.png",
-    "Pasted image 20231117134145.png",
     "Untitled.canvas"
   ]
 }
