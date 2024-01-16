@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/1. Intro.md",
+                "file": "Subjects/Probability and Statistics 1/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md"
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37397f42154bcfa1",
+  "active": "a24bddd988fbf3ac",
   "lastOpenFiles": [
-    "Subjects/Probability and Statistics 1/1. Intro.md",
     "Subjects/Probability and Statistics 1/2..md",
+    "Subjects/Probability and Statistics 1/1. Intro.md",
     "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
     "Subjects/Calculus 1/Calculus 1.md",
