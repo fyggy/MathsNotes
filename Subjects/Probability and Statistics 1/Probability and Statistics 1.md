@@ -15,4 +15,10 @@ level: 4
 Textbooks:
 #todo 
 
-Lecture Notes
+KEATS: https://keats.kcl.ac.uk/course/view.php?id=109725
+
+Directory:
+```dataview
+LIST FROM #prob_stats1 AND #chapter
+SORT date ASC
+```
