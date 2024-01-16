@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/2..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca4c6c72f22797c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "978fb638155da1db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/1. Intro.md",
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Subjects/Calculus 1/Calculus 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "978fb638155da1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/2..md",
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/2..md",
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/2..md"
+                "file": "Subjects/Probability and Statistics 1/Probability and Statistics 1.md"
               }
             }
           },
@@ -207,12 +195,14 @@
   },
   "active": "a24bddd988fbf3ac",
   "lastOpenFiles": [
-    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
+    "Subjects/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
     "Subjects/Calculus 1/Calculus 1.md",
-    "Subjects/Intro to Dynamical Systems 1/1. Intro.md",
+    "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
+    "Subjects/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
+    "Subjects/Untitled.md",
+    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Calculus 1/1. Introduction.md",
-    "Subjects/Intro to Dynamical Systems 1/2..md",
     "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
     "Subjects/1. Intro.md",
     "Untitled.md",
@@ -223,7 +213,7 @@
     "Pasted image 20240115093949.png",
     "Subjects/Calculus 2/Calculus 2.md",
     "Subjects/Calculus 2/Untitled 1.md",
-    "Subjects/Untitled",
+    "Subjects/Probability and Statistics 1",
     "Pasted image 20240112102556.png",
     "Pasted image 20240112102401.png",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
@@ -243,10 +233,8 @@
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Directory.md",
     "Subjects/Linear Algebra and Geometry 1/22..md",
-    "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Homework/SeqSeries HW4.pdf",
-    "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Homework/aled.jpg",
     "Pasted image 20231211124957.png",
     "Pasted image 20231204155931.png",
