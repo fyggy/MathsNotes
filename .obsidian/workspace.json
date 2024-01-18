@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a24bddd988fbf3ac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Set Theory Lecture notes Oxford.pdf"
-              }
-            }
-          },
-          {
             "id": "14b75df6b1a8735c",
             "type": "leaf",
             "state": {
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Calculus 1/Calculus 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md"
+                "file": "Subjects/Calculus 1/Calculus 1.md"
               }
             }
           },
@@ -191,17 +180,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "978fb638155da1db",
+  "active": "14b75df6b1a8735c",
   "lastOpenFiles": [
-    "Subjects/Calculus 1/Calculus 1.md",
-    "Textbooks/Set Theory Lecture notes Oxford.pdf",
     "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
+    "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
+    "Textbooks/Calculus 1 Lecture Notes.pdf",
+    "Textbooks/Calculus - Michael Spivak.pdf",
+    "Textbooks/Calculus - James Stewart, Daniel K. Clegg, Saleem Watson.pdf",
+    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
+    "Textbooks/Vector Calculus - Jerrold E. Marsden, Anthony Tromba.pdf",
+    "Textbooks/Set Theory Lecture notes Oxford.pdf",
+    "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Textbooks/Numbers, Sequences and Series - Keith Hirst.pdf",
-    "Textbooks/Fundamentals of Mathematical Analysis - Rod Haggarty.pdf",
-    "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
-    "Textbooks/Linear Algebra Done Right - Sheldon Axler.pdf",
-    "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
+    "Textbooks/Logic and Structure - Dirk van Dalen.pdf",
     "Subjects/Probability and Statistics 1/2..md",
+    "Subjects/Calculus 1/Calculus 1.md",
+    "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Subjects/Probability and Statistics 1/1. Intro.md",
     "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
     "Subjects/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
@@ -212,20 +206,16 @@
     "Subjects/Calculus 1/1. Introduction.md",
     "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
     "Untitled.md",
-    "Subjects/Intro to Dynamical Systems 1",
     "Subjects/Calculus 2/1. Intro.md",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Subjects/Calculus 2/Calculus 2.md",
     "Subjects/Calculus 2/Untitled 1.md",
-    "Subjects/Probability and Statistics 1",
     "Pasted image 20240112102556.png",
     "Pasted image 20240112102401.png",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Lie Theory 1/Lie Theory 1.md",
-    "Subjects/Lie Theory 1",
     "Subjects/Greub Linear Algebra 1/2.5 Dual Vector Spaces Exercises.md",
-    "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
     "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
     "Subjects/Greub Linear Algebra 1/1.2 Linear Mappings Exercises.md",
