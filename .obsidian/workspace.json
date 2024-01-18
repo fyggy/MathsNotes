@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Linear Algebra and Geometry 2/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/2..md",
+                "file": "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 1/Calculus 1.md"
+                "file": "Subjects/Linear Algebra and Geometry 2/2..md"
               }
             }
           },
@@ -180,8 +182,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "14b75df6b1a8735c",
+  "active": "978fb638155da1db",
   "lastOpenFiles": [
+    "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
+    "Subjects/Linear Algebra and Geometry 2/2..md",
+    "Subjects/Probability and Statistics 1/2..md",
+    "Subjects/Calculus 1/Calculus 1.md",
     "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
     "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
@@ -192,9 +198,6 @@
     "Textbooks/Set Theory Lecture notes Oxford.pdf",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Textbooks/Numbers, Sequences and Series - Keith Hirst.pdf",
-    "Textbooks/Logic and Structure - Dirk van Dalen.pdf",
-    "Subjects/Probability and Statistics 1/2..md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Subjects/Probability and Statistics 1/1. Intro.md",
     "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
@@ -204,7 +207,6 @@
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Calculus 1/Challenge problem.md",
     "Subjects/Calculus 1/1. Introduction.md",
-    "Subjects/Linear Algebra and Geometry 2/1. Intro.md",
     "Untitled.md",
     "Subjects/Calculus 2/1. Intro.md",
     "Pasted image 20240115094344.png",
