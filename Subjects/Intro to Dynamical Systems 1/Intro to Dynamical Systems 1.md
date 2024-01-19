@@ -27,3 +27,8 @@ Directory:
 LIST FROM #dynamical_systems1 AND #chapter
 SORT date ASC
 ```
+Homework:
+```dataview
+LIST FROM #dynamical_systems1 AND #homework 
+SORT pset ASC
+```
