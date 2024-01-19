@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/3..md",
+                "file": "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/3..md",
+                "file": "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/3..md",
+                "file": "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/3..md"
+                "file": "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "14b75df6b1a8735c",
   "lastOpenFiles": [
     "Subjects/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
-    "Subjects/Intro to Dynamical Systems 1/3..md",
+    "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
     "Subjects/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
