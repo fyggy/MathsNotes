@@ -69,7 +69,4 @@ $$
  & =\frac{3}{5}
  \end{align}
 $$
-ii) We see that the probabilty that greater than or equal to 2 events occur is 
-$$
-
-$$
+ii) We see that the probability that greater than or equal to 2 events occur is
