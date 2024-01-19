@@ -60,9 +60,16 @@ $$
 a) i)
 We see that the probability that exactly 2 of the events occur is
 $$
-\mathbb{P}(((A \cap B) \cup (B \cap C) \cup (C \cap A)) \setminus (A \cap B \cap C))
+\begin{align}
+  &\phantom{ = l} \mathbb{P}(((A \cap B) \cup (B \cap C) \cup (C \cap A)) \setminus (A \cap B \cap C))  \\
+ & =\mathbb{P}((A \cap B) \setminus(A \cap B \cap C) \cup (B \cap C) \setminus(A \cap B \cap C) \cup (C \cap A) \setminus(A \cap B \cap C)) \\
+ & =\mathbb{P}((A \cap B) \setminus(A \cap B \cap C)) + \mathbb{P}((B \cap C) \setminus(A \cap B \cap C)) + \mathbb{P}((C \cap A) \setminus(A \cap B \cap C)) \\
+ & =\mathbb{P}(A \cap B) + \mathbb{P}(B \cap C) + \mathbb{P}(C \cap A) - 3\cdot \mathbb{P}(A \cap B \cap C) \\
+ & =\frac{3}{10}+\frac{2}{5}+\frac{1}{5} - \frac{3}{10} \\
+ & =\frac{3}{5}
+ \end{align}
 $$
-Now 
+ii) We see that the probabilty that greater than or equal to 2 events occur is 
 $$
-(A \cap B) \cup (B \cap C) \cup (C \cap A)=(B \cap(A\cup C)) \cup (A \cap C)
+
 $$
