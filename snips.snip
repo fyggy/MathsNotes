@@ -475,12 +475,14 @@
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
 	{trigger: "disp", replacement: "\\displaystyle", options: "mA"},
-	{trigger: "qa", replacement: "\\quad", options: "mA"},
-	{trigger: "qwq", replacement: "\\qquad", options: "mA"},
+	{trigger: "qw", replacement: "\\quad ", options: "mA"},
+	{trigger: "\\quad q", replacement: "\\qquad ", options: "mA"},
+	{trigger: "phn", replacement: "\\phantom{0}", options: "mA"},
 	{trigger: "([A-Za-np-z\\d])th", replacement: "[[0]]^{\\text{th}}", options: "rmA"},
 	{trigger: "([A-Za-z|${GREEK}])([A-Za-z\\d])([A-Za-z\\d])lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
 	{trigger: "([A-Za-z|${GREEK}])([A-Za-z\\d])_{([A-Za-z\\d])}lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
 	{trigger: "([A-Za-z|${GREEK}])_{([A-Za-z\\d])}([A-Za-z\\d])lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
+	
 	
 	// Common corrections
 	{trigger: "Im ", replacement: "I'm ", options: "tAw"}, 
