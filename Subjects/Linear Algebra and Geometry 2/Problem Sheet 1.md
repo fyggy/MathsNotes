@@ -105,8 +105,10 @@ $$
 so
 $$
 \begin{align}
- \chi_{A}(\lambda) & =\det(B-\lambda I)   \\
+ \chi_{B}(\lambda) & =\det(B-\lambda I)   \\
  & =\det \begin{pmatrix}2024-\lambda & 2023 & 2022 \\ 0 & 2023-\lambda & 2022 \\ 0 & 0 & 2022-\lambda \end{pmatrix}  \\
- & =(2024)
+ & =(2024-\lambda)(2023-\lambda)(2022-\lambda) \\
  \end{align}
 $$
+and the eigenvectors of $B$ are ${} 2024,\, 2023,\, 2022 {}$.
+c)
