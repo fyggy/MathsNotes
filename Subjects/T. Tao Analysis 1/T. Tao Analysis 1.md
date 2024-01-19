@@ -2,7 +2,6 @@
 tags:
   - preamble
   - analysis
-  - current
 ---
 [[Directory]]
 Textbook: [[Analysis I - Terence Tao.pdf]] 

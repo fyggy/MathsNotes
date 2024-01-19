@@ -2,7 +2,6 @@
 tags:
   - algebra
   - linear_algebra
-  - current
   - preamble
 date: 2023-12-21
 completed: false

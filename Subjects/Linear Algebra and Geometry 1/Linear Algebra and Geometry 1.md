@@ -3,7 +3,6 @@ tags:
   - preamble
   - algebra
   - linear_algebra
-  - current
 date: 2023-09-25
 completed: false
 year: 1
