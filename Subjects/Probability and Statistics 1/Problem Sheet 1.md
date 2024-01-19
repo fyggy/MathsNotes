@@ -64,5 +64,5 @@ $$
 $$
 Now 
 $$
-(A \cap B) \cup (B \cap C) \cup (C \cap A)=B \cup(A\cap C) \cup (C \cap A)
+(A \cap B) \cup (B \cap C) \cup (C \cap A)=(B \cap(A\cup C)) \cup (A \cap C)
 $$
