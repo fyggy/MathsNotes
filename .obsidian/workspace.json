@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Calculus 2/Calculus 2.md"
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "74d8d072131f59fd",
   "lastOpenFiles": [
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Subjects/Calculus 2/Calculus 2.md",
     "Textbooks/Lie algebras - Nathan Jacobson.pdf",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
@@ -203,7 +204,6 @@
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus - James Stewart, Daniel K. Clegg, Saleem Watson.pdf",
     "Subjects/Probability and Statistics 1/1. Intro.md",
-    "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
