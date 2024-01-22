@@ -313,6 +313,8 @@
 
 
     {trigger: "mcal", replacement: "\\mathcal{$0}$1", options: "mA"},
+    {trigger: "frk", replacement: "\\mathfrak{$0}$1", options: "mA"},
+    {trigger: "fkr", replacement: "\\mathfrak{$0}$1", options: "mA"},
     {trigger: "mbb", replacement: "\\mathbb{$0}$1", options: "mA"},
     {trigger: "ll", replacement: "\\ell", options: "mA", priority: 1},
     {trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
@@ -334,6 +336,13 @@
 	{trigger: "\\\\mathbb{F}([A-Za-np-z\\d])", replacement: "\\mathbb{F}^{[[0]]}", options: "rmA"},
 	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
 	{trigger: "\\\\mathbb{P}([A-Za-np-z\\d])", replacement: "\\mathbb{P}_{[[0]]}", options: "rmA"},
+	
+	//Lie alebra stuff
+	{trigger: "([A-Za-z])#", replacement: "\\mathfrak{[[0]]}", options: "rmA"},
+	{trigger: "#([A-Za-z])", replacement: "\\mathfrak{[[0]]}", options: "rmA"},
+	{trigger: "ad", replacement: "\\ad $0", options: "mA"},
+	{trigger: "rad", replacement: "\\rad $0", options: "mA"},
+
 
     // Derivatives
     {trigger: "par", replacement: "\\frac{ \\partial ${0:y} }{ \\partial ${1:x} } $2", options: "mA"},
