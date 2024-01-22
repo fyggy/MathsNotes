@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6dd68257f65a5865",
+            "id": "78018c448f26a317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           }
@@ -82,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras.md",
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras.md",
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras.md"
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           },
@@ -169,11 +168,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7eabd4803f8aea32",
+  "active": "78018c448f26a317",
   "lastOpenFiles": [
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
+    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
+    "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
     "Subjects/Calculus 1/Calculus 1.md",
-    "Subjects/Jacobson Lie Algebras.md",
     "Subjects/Linear Algebra and Geometry 2/3..md",
     "Subjects/Linear Algebra and Geometry 2/2..md",
     "Subjects/Calculus 2/3..md",
@@ -202,12 +204,8 @@
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus - James Stewart, Daniel K. Clegg, Saleem Watson.pdf",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Textbooks/Vector Calculus - Jerrold E. Marsden, Anthony Tromba.pdf",
-    "Textbooks/Set Theory Lecture notes Oxford.pdf",
     "Subjects/Probability and Statistics 1/1. Intro.md",
     "Subjects/Lie Theory 1/Basic Concepts of the Theory of Representations of Topological Groups - Exercises and Notes.md",
-    "Subjects/Calculus 1/Challenge problem.md",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
