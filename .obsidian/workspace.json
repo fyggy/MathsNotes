@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Calculus 2/Calculus 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Calculus 2/Calculus 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Calculus 2/Calculus 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
+                "file": "Subjects/Calculus 2/Calculus 2.md"
               }
             }
           },
@@ -169,8 +168,8 @@
   },
   "active": "74d8d072131f59fd",
   "lastOpenFiles": [
-    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
