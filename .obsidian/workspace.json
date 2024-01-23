@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/4..md",
+                "file": "Subjects/Probability and Statistics 1/3..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/4..md",
+                "file": "Subjects/Probability and Statistics 1/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/4..md",
+                "file": "Subjects/Probability and Statistics 1/3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/4..md"
+                "file": "Subjects/Probability and Statistics 1/3..md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "91ac131f15b22c63",
   "lastOpenFiles": [
+    "Subjects/Probability and Statistics 1/2. Probability Measures.md",
+    "Subjects/Probability and Statistics 1/3..md",
+    "Subjects/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
     "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
-    "Subjects/Intro to Dynamical Systems 1/4..md",
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
@@ -176,7 +178,6 @@
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
     "Directory.md",
     "Subjects/Probability and Statistics 1/Problem Sheet 1.md",
-    "Subjects/Probability and Statistics 1/2. Probability Measures.md",
     "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
@@ -194,7 +195,6 @@
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Textbooks/Calculus - Michael Spivak.pdf",
     "Textbooks/Calculus - James Stewart, Daniel K. Clegg, Saleem Watson.pdf",
-    "Subjects/Probability and Statistics 1/1. Intro.md",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
