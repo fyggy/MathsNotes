@@ -39,16 +39,33 @@ n-3 &=3 \\
 n & =6
 \end{align}
 $$
-Therefore, there are $3$ black socks and $3$ red socks.
+Therefore, there are $3$ black socks and $3 {}$ red socks.
 3. 
+write $$
+\begin{align}
+ F & =\text{first is spades}  \\
+ S& = \text{second 2 are spades}
+ \end{align}
+$$
 $$
 \mathbb{P}(\text{first is spades} \mid \text{second 2 are spades})=\frac{\mathbb{P}(\text{all are spades})}{\mathbb{P}(\text{second 2 are spades})} 
 $$
 Now
 $$
-\mathbb{P}(\text{all are spades})=\frac{13}{52}\cdot \frac{12}{51}\cdot \frac{11}{50}
+\mathbb{P}(\text{all are spades})=\frac{13}{52}\cdot \frac{12}{51}\cdot \frac{11}{50}=\mathbb{P}(A)
 $$
 and
 $$
-\mathbb{P}()
+\begin{align}
+ \mathbb{P}(S) & =\mathbb{P}(S \mid F)\cdot \mathbb{P}(F)+\mathbb{P}(S \mid F^{\mathrm{c}})\cdot \mathbb{P}(F^{\mathrm{c}})   \\
+ & =\frac{\mathbb{P}(A)}{\mathbb{P}(F)}\cdot \mathbb{P}(F)+\frac{13}{51}\cdot \frac{12}{50}\cdot \frac{ 52-13 }{ 52 } \\
+ & =\frac{13}{52}\cdot \frac{12}{51}\cdot \frac{11}{50}+\frac{13}{51}\cdot \frac{12}{50}\cdot \frac{3}{4} \\
+ & =\frac{1}{17}
+ \end{align}
+$$
+so we have
+$$
+\begin{align}
+\mathbb{P}(F \mid S)=\frac{\mathbb{P}(A)}{1 /17}=\frac{11}{50}
+\end{align}
 $$
