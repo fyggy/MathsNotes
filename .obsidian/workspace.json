@@ -18,20 +18,45 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "514f48c24fca10f6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "cba2422d4498964b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2743061a9e25d24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Probability and Statistics 1/3..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "35c3a5c4c5fae1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3211ef55690c039",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
+                "file": "Homework/ProbStatsHW2.pdf"
               }
             }
           }
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 2.md"
               }
             }
           },
@@ -173,13 +198,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d879d1cb31ef950c",
+  "active": "cba2422d4498964b",
   "lastOpenFiles": [
+    "Subjects/Probability and Statistics 1/3..md",
+    "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
+    "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
+    "Homework/ProbStatsHW2.pdf",
     "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Intro to Dynamical Systems 1/5..md",
     "Subjects/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
-    "Subjects/Probability and Statistics 1/3..md",
     "Subjects/Probability and Statistics 1/2. Probability Measures.md",
     "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
@@ -196,7 +224,6 @@
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
     "Directory.md",
     "Subjects/Probability and Statistics 1/Problem Sheet 1.md",
-    "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Subjects/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
@@ -204,13 +231,11 @@
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
     "Subjects/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
     "Homework/ProbStatsHW1.pdf",
-    "Subjects/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
     "Pasted image 20240118114503.png",
     "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
     "Textbooks/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
     "Textbooks/Calculus 1 Lecture Notes.pdf",
     "Textbooks/Calculus - Michael Spivak.pdf",
-    "Textbooks/Calculus - James Stewart, Daniel K. Clegg, Saleem Watson.pdf",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
