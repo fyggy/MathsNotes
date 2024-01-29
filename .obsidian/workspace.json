@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/4..md",
+                "file": "Subjects/Probability and Statistics 1/5..md",
                 "mode": "source",
                 "source": false
               }
@@ -45,30 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "35c3a5c4c5fae1f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3211ef55690c039",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
-              }
-            }
-          },
-          {
-            "id": "358580809c11e94e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/4..md",
+                "file": "Subjects/Probability and Statistics 1/5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/4..md",
+                "file": "Subjects/Probability and Statistics 1/5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/4..md"
+                "file": "Subjects/Probability and Statistics 1/5..md"
               }
             }
           },
@@ -208,8 +184,9 @@
   },
   "active": "2743061a9e25d24f",
   "lastOpenFiles": [
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Linear Algebra and Geometry 2/4..md",
+    "Subjects/Probability and Statistics 1/5..md",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Linear Algebra and Geometry 2/3..md",
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
     "Directory.md",
@@ -238,7 +215,6 @@
     "Subjects/Intro to Algebra 1/Intro to Algebra 1.md",
     "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
     "Subjects/T. Tao Analysis 1/T. Tao Analysis 1.md",
-    "Subjects/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
     "Homework/ProbStatsHW1.pdf",
     "Pasted image 20240118114503.png",
     "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
