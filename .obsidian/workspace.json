@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/6..md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/6..md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/6..md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/6..md"
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "d879d1cb31ef950c",
   "lastOpenFiles": [
-    "Subjects/Intro to Dynamical Systems 1/5..md",
-    "Subjects/Intro to Dynamical Systems 1/6..md",
-    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
+    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Directory.md",
+    "Subjects/Intro to Dynamical Systems 1/6..md",
+    "Subjects/Intro to Dynamical Systems 1/5..md",
+    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
     "Subjects/Probability and Statistics 1/5..md",
@@ -188,7 +189,6 @@
     "Subjects/Probability and Statistics 1/2. Probability Measures.md",
     "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
     "Subjects/Calculus 2/Calculus 2.md",
-    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
     "Subjects/Calculus 1/Calculus 1.md",
