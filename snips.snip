@@ -156,6 +156,7 @@
 	{trigger: "ord", replacement: "\\ord($0)$1", options: "mA"}, 
 	{trigger: "Aut", replacement: "\\aut($0)$1", options: "mA"}, 
 	{trigger: "aut", replacement: "\\aut($0)$1", options: "mA"}, 
+	{trigger: "var", replacement: "\\var($0)$1", options: "mA"}, 
 	
     {trigger: ",,", replacement: ",\\, $0", options: "mA"},
     {trigger: "&*", replacement: "^{*}", options: "mA"},
@@ -330,11 +331,11 @@
     {trigger: "AA", replacement: "\\mathcal{A}", options: "mA"},
     {trigger: "OO", replacement: "\\mathcal{O}", options: "mA"},
     {trigger: "BB", replacement: "\\mathbf{B}", options: "mA"},
-    {trigger: "EE", replacement: "\\mathbf{E}", options: "mA"},
     {trigger: "QQ", replacement: "\\mathbb{Q}", options: "mA"},
 	{trigger: "FF", replacement: "\\mathbb{F}", options: "mA"},
 	{trigger: "\\\\mathbb{F}([A-Za-np-z\\d])", replacement: "\\mathbb{F}^{[[0]]}", options: "rmA"},
 	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
+	{trigger: "EE", replacement: "\\mathbb{E}", options: "mA"},
 	{trigger: "\\\\mathbb{P}([A-Za-np-z\\d])", replacement: "\\mathbb{P}_{[[0]]}", options: "rmA"},
 	
 	//Lie alebra stuff

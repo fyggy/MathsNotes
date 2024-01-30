@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,11 +168,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b5b4e9de2cf7162",
+  "active": "d879d1cb31ef950c",
   "lastOpenFiles": [
     "Subjects/Probability and Statistics 1/5..md",
-    "Subjects/Linear Algebra and Geometry 2/4..md",
     "Subjects/Probability and Statistics 1/6..md",
+    "Subjects/Linear Algebra and Geometry 2/4..md",
     "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Directory.md",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
