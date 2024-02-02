@@ -22,3 +22,9 @@ Directory:
 LIST FROM #prob_stats1 AND #chapter
 SORT date ASC
 ```
+
+Homework:
+```dataview
+LIST FROM #prob_stats1 AND #homework 
+SORT pset ASC
+```
