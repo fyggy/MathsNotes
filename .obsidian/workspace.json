@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
+                "file": "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb6f888dc1ad9afc",
@@ -43,22 +44,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Homework/ProbStatsHW3.pdf"
-              }
-            }
-          },
-          {
-            "id": "7a6989eaf07786a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/Dynamics HW3.pdf"
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md"
+                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
               }
             }
           },
@@ -196,23 +186,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "279dd82ca087977c",
+  "active": "fd11807243e7197e",
   "lastOpenFiles": [
-    "Subjects/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
-    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
-    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Homework/Dynamics HW3.pdf",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Directory.md",
+    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
+    "Subjects/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
+    "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Probability and Statistics 1/Problem Sheet 3.md",
     "Subjects/Probability and Statistics 1/Probability and Statistics 1.md",
     "Homework/ProbStatsHW3.pdf",
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
     "Subjects/Intro to Dynamical Systems 1/7..md",
-    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Intro to Dynamical Systems 1/6..md",
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
-    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Subjects/Probability and Statistics 1/6..md",
     "Subjects/Probability and Statistics 1/5..md",
     "Subjects/Linear Algebra and Geometry 2/4..md",
