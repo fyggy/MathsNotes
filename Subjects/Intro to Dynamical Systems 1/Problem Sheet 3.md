@@ -88,4 +88,4 @@ C&=  -1
 \end{align}
 $$
 b)
-Note that, around ${} t_{0}=1 {}$, ${} f(x,\, t)=\frac{ (t+x)^{2}+tx }{ t^{2} } {}$
+Note that, around ${} t_{0}=1 {}$, ${} f(x,\, t)=\frac{ (t+x)^{2}+tx }{ t^{2} } {}$ is continuous for all ${} x\in \mathbb{R} {}$ and for all ${} t \in (0,\, \infty) {}$, and ${} \frac{ \partial f }{ \partial x } =\frac{2x}{t^{2}}+\frac{3}{t} {}$
