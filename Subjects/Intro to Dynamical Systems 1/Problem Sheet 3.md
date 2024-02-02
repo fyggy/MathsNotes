@@ -88,4 +88,11 @@ C&=  -1
 \end{align}
 $$
 b)
-Note that, around ${} t_{0}=1 {}$, ${} f(x,\, t)=\frac{ (t+x)^{2}+tx }{ t^{2} } {}$ is continuous for all ${} x\in \mathbb{R} {}$ and for all ${} t \in (0,\, \infty) {}$, and ${} \frac{ \partial f }{ \partial x } =\frac{2x}{t^{2}}+\frac{3}{t} {}$ is continuous for all ${} x \in \mathbb{R} {}$, and for all ${} t \in (0,\, \infty) {}$. Therefore, by Picard's theorem, there exists an open interval ${} (1-\delta,\, 1+\delta) {}$ on which there exists a unique solution. 
+Note that, around ${} t_{0}=1 {}$, ${} f(x,\, t)=\frac{ (t+x)^{2}+tx }{ t^{2} } {}$ is continuous for all ${} x\in \mathbb{R} {}$ and for all ${} t \in (0,\, \infty) {}$, and ${} \frac{ \partial f }{ \partial x } =\frac{2x}{t^{2}}+\frac{3}{t} {}$ is continuous for all ${} x \in \mathbb{R} {}$, and for all ${} t \in (0,\, \infty) {}$. Therefore, by Picard's theorem, there exists an open interval ${} (1-\delta,\, 1+\delta) {}$ on which there exists a unique solution. Now note the particular solution is 
+$$
+x(t)=-\frac{t}{\ln |t|-1}-t
+$$
+which is not defined for ${} t=\pm e {}$. Therefore, we hate that at most, ${} \delta=e-1 {}$, and the interval on which it is defined is
+$$
+(e-2,\, e)
+$$
