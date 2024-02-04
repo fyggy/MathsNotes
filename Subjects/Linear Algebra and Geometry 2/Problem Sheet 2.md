@@ -51,7 +51,7 @@ $$
 \begin{align}
  (A-I)(A-3I) & =A^{2}-4A+3I   \\
  & =\begin{pmatrix}1 & 1 & 0 \\ 1 & 2 & 1 \\ 1 & -1 & 2 \end{pmatrix} ^{2}-\begin{pmatrix}4 & 4 & 0 \\ 4 & 8 & 4 \\ 4 & -4 & 8 \end{pmatrix} +\begin{pmatrix}3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{pmatrix}  \\
- & =\begin{pmatrix}2-4+3 &  &  \\  &  &  \\  &  &  \end{pmatrix}  \\
+ & =\begin{pmatrix}2-4+3 &  &  \\  &  &  \\  &  &  \end{pmatrix} \substack{\text{ other values not }\\\text{ included for brevity}}  \\ 
  & =\begin{pmatrix}1 &  &  \\  &  &  \\  &  &  \end{pmatrix} \neq 0
  \end{align}
 $$
@@ -64,8 +64,19 @@ $$
  & =\det \begin{pmatrix}-\lambda & 3 & -2 \\ 2 & -1-\lambda & 2 \\ 1 & -3 & 3-\lambda \end{pmatrix}  \\
  & =-\lambda \det \begin{pmatrix}-1-\lambda & 2 \\ -3 & 3-\lambda \end{pmatrix} -3 \det \begin{pmatrix}2 & 2 \\ 1 & 3-\lambda \end{pmatrix} -2 \det \begin{pmatrix}2 & -1-\lambda \\ 1 & -3 \end{pmatrix}  \\
  & =\lambda((1+\lambda)(3-\lambda)-6)-3(6-2\lambda-2)+2(6-(1+\lambda)) \\
- & =\lambda(3+2\lambda-\lambda^{2}+6)-12+6\lambda+10-2\lambda \\
- & =-\lambda^{3}+2\lambda^{2}+9\lambda-2+4\lambda \\
- & =-\lambda+2\lambda^{2}+11\lambda-2
+ & =\lambda(3+2\lambda-\lambda^{2}-6)-12+6\lambda+10-2\lambda \\
+ & =-\lambda^{3}+2\lambda^{2}-3\lambda-2+4\lambda \\
+ & =-\lambda+2\lambda^{2}+1\lambda-2 \\
+ & =-(\lambda-2)(\lambda-1)(\lambda+1)
 \end{align}
+$$
+Therefore, $A$ has $3$ distinct eigenvalues, so there exist $3 {}$ linearly independent eigenvectors of $A$. Therefore, $A {}$ has an eigenbasis, so it is diagonalisable. Now we find appropriate eigenvectors. Let ${} \mathbf{v}=(x,\, y,\, z)  {}$. Now we solve
+$$
+\begin{align}
+\left(\begin{array}{ccc|ccc}
+-\lambda & 3 & -2 & 0 \\
+2 & -1-\lambda &  2 & 0 \\
+1 & -3 & 3-\lambda & 0
+\end{array}\right)
+ \end{align}
 $$
