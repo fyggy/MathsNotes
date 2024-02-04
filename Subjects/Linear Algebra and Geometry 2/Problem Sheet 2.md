@@ -70,13 +70,70 @@ $$
  & =-(\lambda-2)(\lambda-1)(\lambda+1)
 \end{align}
 $$
-Therefore, $A$ has $3$ distinct eigenvalues, so there exist $3 {}$ linearly independent eigenvectors of $A$. Therefore, $A {}$ has an eigenbasis, so it is diagonalisable. Now we find appropriate eigenvectors. Let ${} \mathbf{v}=(x,\, y,\, z)  {}$. Now we solve
+Therefore, $A$ has $3$ distinct eigenvalues, so there exist $3 {}$ linearly independent eigenvectors of $A$. Therefore, $A {}$ has an eigenbasis, so it is diagonalisable. Now we find appropriate eigenvectors. For ${} \lambda=2 {}$ we solve
 $$
 \begin{align}
 \left(\begin{array}{ccc|ccc}
--\lambda & 3 & -2 & 0 \\
-2 & -1-\lambda &  2 & 0 \\
-1 & -3 & 3-\lambda & 0
+-2 & 3 & -2 & 0 \\
+2 & -1-2 &  2 & 0 \\
+1 & -3 & 3-2 & 0
+\end{array}\right)\Rightarrow  \left(\begin{array}{ccc|c}
+-2 & 3 & -2 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & -3 & 0 & 0
+\end{array}\right)\Rightarrow \left(\begin{array}{ccc|c}
+-2 & 0 & -2 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & -3 & 0 & 0
 \end{array}\right)
  \end{align}
+$$
+So now ${} x+z=0 {}$ and ${} y=0 {}$. Therefore, ${} (1,\, 0,\, -1) {}$ is an eigenvalue corresponding to the eigenvalue ${} 2 {}$.
+
+Now for ${} \lambda=1 {}$ we solve
+$$
+\begin{gather}
+\left(\begin{array}{ccc|c}
+-1 & 3 & -2 & 0 \\
+2 & -1-1 & 2 & 0 \\
+1 & -3 & 3-1 & 0
+\end{array}\right)
+\Rightarrow 
+\left(\begin{array}{ccc|c}
+-1 & 3 & -2 & 0 \\
+0 & 4 & -2 & 0 \\
+0 & 0 & 0 & 0
+\end{array}\right)\Rightarrow 
+\left(\begin{array}{ccc|c}
+-1 & -3 & -2 & 0 \\
+0 & 1& -0.5 & 0 \\
+0 & 0 & 0 & 0
+\end{array}\right)
+\\
+\Rightarrow \left(\begin{array}{ccc|c}
+1 & 0 & 0.5 & 0 \\
+0 & 1 & -0.5 & 0 \\
+0 & 0 & 0 & 0
+\end{array}\right)
+\end{gather}
+$$
+So we have ${} 2x+z=0 {}$ and ${} 2y-z=0 {}$. Therefore, ${} (-2,\, 2,\, 1) {}$ is an eigenvalue corresponding to the eigenvalue ${} 1$.
+
+Finally, for ${} \lambda=-1 {}$ we solve
+$$
+\left(\begin{array}{ccc|c}
+1 & 3 & -2 & 0 \\
+2 & 0 & 2 & 0 \\
+1 & -3 & 4 & 0
+\end{array}\right)\Rightarrow 
+\left(\begin{array}{ccc|c}
+1 & 3 & -2  & 0\\
+0 & -6 & 6  & 0\\
+0 & -6 & 6 & 0
+\end{array}\right)
+\Rightarrow \left(\begin{array}{ccc|c}
+1 & 3 & -2 & 0 \\
+0 & -6 & 6 & 0 \\
+0 & 0 & 
+\end{array}\right)
 $$
