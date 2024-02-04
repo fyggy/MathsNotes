@@ -117,10 +117,11 @@ $$
 \end{array}\right)
 \end{gather}
 $$
-So we have ${} 2x+z=0 {}$ and ${} 2y-z=0 {}$. Therefore, ${} (-2,\, 2,\, 1) {}$ is an eigenvalue corresponding to the eigenvalue ${} 1$.
+So we have ${} 2x+z=0 {}$ and ${} 2y-z=0 {}$. Therefore, ${} (-1,\, 1,\, 2) {}$ is an eigenvector corresponding to the eigenvalue ${} 1$.
 
 Finally, for ${} \lambda=-1 {}$ we solve
 $$
+\begin{gather}
 \left(\begin{array}{ccc|c}
 1 & 3 & -2 & 0 \\
 2 & 0 & 2 & 0 \\
@@ -133,7 +134,20 @@ $$
 \end{array}\right)
 \Rightarrow \left(\begin{array}{ccc|c}
 1 & 3 & -2 & 0 \\
-0 & -6 & 6 & 0 \\
-0 & 0 & 
+0 & 1 & -1 & 0 \\
+0 & 0 & 0 & 0
+\end{array}\right) \\
+\Rightarrow  \left(\begin{array}{ccc|c}
+1 & 0 & 1 & 0 \\
+0 & 1 & -1 & 0 \\
+ 0& 0 & 0 & 0
 \end{array}\right)
+\end{gather}
 $$
+Therefore, ${} x+z=0 {}$ and ${} y=z {}$. Therefore, ${} (-1,\, 1,\, 1) {}$ is an eigenvector corresponding to the eigenvalue ${} -1 {}$. 
+
+Therefore, let ${} Q=\begin{pmatrix}1 & -1 & -1 \\ 0 & 1 & 1 \\ -1 & 2 & 1 \end{pmatrix}  {}$. Now
+$$
+Q^{-1}AQ=\begin{pmatrix}2 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & -1 \end{pmatrix} 
+$$
+is diagonal.
