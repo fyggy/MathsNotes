@@ -46,3 +46,26 @@ $$
  & =\left(\lambda-1\right)^{2}\left(3-\lambda\right)
 \end{align}
 $$
+So $A {}$ has eigenvalues ${} 1,\, 3 {}$. Now note that 
+$$
+\begin{align}
+ (A-I)(A-3I) & =A^{2}-4A+3I   \\
+ & =\begin{pmatrix}1 & 1 & 0 \\ 1 & 2 & 1 \\ 1 & -1 & 2 \end{pmatrix} ^{2}-\begin{pmatrix}4 & 4 & 0 \\ 4 & 8 & 4 \\ 4 & -4 & 8 \end{pmatrix} +\begin{pmatrix}3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{pmatrix}  \\
+ & =\begin{pmatrix}2-4+3 &  &  \\  &  &  \\  &  &  \end{pmatrix}  \\
+ & =\begin{pmatrix}1 &  &  \\  &  &  \\  &  &  \end{pmatrix} \neq 0
+ \end{align}
+$$
+Therefore, ${} (A-I)(A-3I)\neq 0 {}$, so the minimal polynomial $\mu {}$ of ${} A {}$ is $\chi$. Therefore, $A$ is not semisimple, so $A {}$ is not diagonalisable.
+b)
+We see that the characteristic polynomial of $A$ is 
+$$
+\begin{align}
+\chi(\lambda) & =\det(A-\lambda I) \\
+ & =\det \begin{pmatrix}-\lambda & 3 & -2 \\ 2 & -1-\lambda & 2 \\ 1 & -3 & 3-\lambda \end{pmatrix}  \\
+ & =-\lambda \det \begin{pmatrix}-1-\lambda & 2 \\ -3 & 3-\lambda \end{pmatrix} -3 \det \begin{pmatrix}2 & 2 \\ 1 & 3-\lambda \end{pmatrix} -2 \det \begin{pmatrix}2 & -1-\lambda \\ 1 & -3 \end{pmatrix}  \\
+ & =\lambda((1+\lambda)(3-\lambda)-6)-3(6-2\lambda-2)+2(6-(1+\lambda)) \\
+ & =\lambda(3+2\lambda-\lambda^{2}+6)-12+6\lambda+10-2\lambda \\
+ & =-\lambda^{3}+2\lambda^{2}+9\lambda-2+4\lambda \\
+ & =-\lambda+2\lambda^{2}+11\lambda-2
+\end{align}
+$$
