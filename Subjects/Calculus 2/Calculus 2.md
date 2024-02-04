@@ -2,7 +2,9 @@
 tags:
   - preamble
   - calculus
-  - logic
+  - analysis
+  - linear_algebra
+  - current
 date: 
 completed: 
 year: 1
