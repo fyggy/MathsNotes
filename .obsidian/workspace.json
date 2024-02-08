@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/8..md",
+                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/8..md",
+                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/8..md",
+                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/8..md"
+                "file": "Subjects/Linear Algebra and Geometry 2/8..md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "0cc8775dff136642",
   "lastOpenFiles": [
-    "Subjects/Probability and Statistics 1/6..md",
     "Subjects/Probability and Statistics 1/8..md",
+    "Subjects/Linear Algebra and Geometry 2/8..md",
+    "Subjects/Probability and Statistics 1/6..md",
     "Homework/LinearAlgGeo2 HW2.pdf",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 2.md",
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
