@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "beeae1edb8fca5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a03be5c88901a64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework/PS1 participation 1.pdf"
               }
             }
           }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/8..md",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Linear Algebra and Geometry 2/8..md"
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md"
               }
             }
           },
@@ -158,8 +175,10 @@
   },
   "active": "0cc8775dff136642",
   "lastOpenFiles": [
-    "Subjects/Probability and Statistics 1/8..md",
     "Subjects/Linear Algebra and Geometry 2/8..md",
+    "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
+    "Homework/PS1 participation 1.pdf",
+    "Subjects/Probability and Statistics 1/8..md",
     "Subjects/Probability and Statistics 1/6..md",
     "Homework/LinearAlgGeo2 HW2.pdf",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 2.md",
@@ -192,8 +211,6 @@
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
     "Subjects/Calculus 1/Calculus 1.md",
-    "Subjects/Linear Algebra and Geometry 2/2..md",
-    "Homework/LAG2_HW1.pdf",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
