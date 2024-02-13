@@ -71,7 +71,20 @@ $$
  \end{align}
 $$
 c)
-No
+Note that
 $$
-Y=3X+2
+Y=3X-1
 $$
+where $X$ is a discrete random variable over ${} 1,\,\dots,\,12 {}$. Now 
+$$
+\mathbb{E}(Y)=\mathbb{E}(3X-1)=3\mathbb{E}(X)-1=3\cdot 6.5-1=18.5
+$$
+and
+$$
+\begin{align}
+ \var(Y)  & = \var(3X-1)\\
+  & =9\var(X) \\
+ & =107.25
+ \end{align}
+$$
+by above.
