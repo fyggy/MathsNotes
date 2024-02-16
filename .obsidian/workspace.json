@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
+                "file": "The Plan/KCL Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
+                "file": "The Plan/KCL Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
+                "file": "The Plan/KCL Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 4.md"
+                "file": "The Plan/KCL Modules.md"
               }
             }
           },
@@ -175,15 +175,16 @@
   },
   "active": "0cc8775dff136642",
   "lastOpenFiles": [
-    "Subjects/Linear Algebra and Geometry 2/8..md",
+    "The Plan/The plan.md",
+    "Directory.md",
     "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
+    "Subjects/Linear Algebra and Geometry 2/8..md",
     "Homework/PS1 participation 1.pdf",
     "Subjects/Probability and Statistics 1/8..md",
     "Subjects/Probability and Statistics 1/6..md",
     "Homework/LinearAlgGeo2 HW2.pdf",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 2.md",
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
-    "Directory.md",
     "Subjects/Calculus 2/Calculus 2.md",
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
@@ -210,7 +211,6 @@
     "Subjects/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
     "Subjects/Jacobson Lie Algebras",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",

@@ -1,3 +1,13 @@
+---
+tags:
+  - prob_stats1
+  - homework
+date: 2024-02-16
+pset: 4
+completed: true
+---
+[[Directory]], [[Probability and Statistics 1|Subject Directory]]
+[[PS1 participation 1.pdf|Problem Sheet]]
 1. 
 First, note that, given ${} A \in \mathcal{E} {}$, ${} |A|\geq 0 {}$, by definition. Now ${} \mathbb{P}(A)=|A| / n \geq 0 {}$, so axiom $1$ is satisfied. 
 
