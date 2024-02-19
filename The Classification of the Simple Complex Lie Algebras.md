@@ -25,4 +25,21 @@ $$
 $$
 Where the bracket at the end is the standard commutator. We see then, that ${} \ad {}$ is actually a *Lie homomorphism*, that is, it preserves the structure of the Lie bracket. However, it also acts on the lie algebra itself. This property will be very useful.
 
-We now define the import concepts of solubility, nilpotency, and simplicity. We start with an *ideal*. Ideals are analogous to normal subgroups, and are simply the subalgebras of a Lie algebra which are invariant under the action of the lie group. In particular, if $\mathfrak{h} {}$ is an ideal of ${} \mathfrak{g}, {}$ then ${} [\mathfrak{g},\, \mathfrak{h}]=\mathfrak{g}\mathfrak{h}=\{ [x,\, y] \mid x \in \mathfrak{g},\, y \in \mathfrak{h} \} {}$. Thanks to this invariance, we may quotient by ideals, and
+We now define the import concepts of solubility, nilpotency, and simplicity. We start with an *ideal*. Ideals are analogous to normal subgroups, and are simply the subalgebras of a Lie algebra which are invariant under the action of the lie group. In particular, if $\mathfrak{h} {}$ is an ideal of ${} \mathfrak{g}, {}$ then ${} [\mathfrak{g},\, \mathfrak{h}]=\mathfrak{g}\mathfrak{h}=\{ [x,\, y] \mid x \in \mathfrak{g},\, y \in \mathfrak{h} \} {}$. Thanks to this invariance, we may quotient by ideals, with the space being the standard factor space, and the lie bracket in ${} \mathfrak{g} /\mathfrak{h} {}$ defined by
+$$
+[x+\mathfrak{h},\, y+\mathfrak{h}]=[x+y]+\mathfrak{h}
+$$
+
+We may now also define the lower central and derived series as follows: given a lie algebra ${} \mathfrak{g}$, define
+$$
+\begin{align}
+\mathfrak{g}^{0}=\mathfrak{g}, &  & \mathfrak{g}^{k}=[\mathfrak{g},\, \mathfrak{g}^{k-1}] \\
+\end{align}
+$$
+$$
+\begin{align}
+ & \mathfrak{g} \to{} [\mathfrak{g},\, \mathfrak{g}]\to{} [\mathfrak{g},\, [\mathfrak{g},\, \mathfrak{g}]]\to{}\dots \\
+
+\end{align}
+$$
+These might seem arbitrary, but the $k^{\text{th}} {}$ term in the lower central series may be thought of as the set of elements which are the product of some list of $k$ elements in $\mathfrak{g} {}$. Meanwhile, the 
