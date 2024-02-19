@@ -25,21 +25,28 @@ $$
 $$
 Where the bracket at the end is the standard commutator. We see then, that ${} \ad {}$ is actually a *Lie homomorphism*, that is, it preserves the structure of the Lie bracket. However, it also acts on the lie algebra itself. This property will be very useful.
 
-We now define the import concepts of solubility, nilpotency, and simplicity. We start with an *ideal*. Ideals are analogous to normal subgroups, and are simply the subalgebras of a Lie algebra which are invariant under the action of the lie group. In particular, if $\mathfrak{h} {}$ is an ideal of ${} \mathfrak{g}, {}$ then ${} [\mathfrak{g},\, \mathfrak{h}]=\mathfrak{g}\mathfrak{h}=\{ [x,\, y] \mid x \in \mathfrak{g},\, y \in \mathfrak{h} \} {}$. Thanks to this invariance, we may quotient by ideals, with the space being the standard factor space, and the lie bracket in ${} \mathfrak{g} /\mathfrak{h} {}$ defined by
+We now define the import concepts of nilpotency, and simplicity. We start with an *ideal*. Ideals are analogous to normal subgroups, and are simply the subalgebras of a Lie algebra which are invariant under the action of the lie algebra. In particular, if ${} \mathfrak{h} {}$ is an ideal of ${} \mathfrak{g}, {}$ then ${} [\mathfrak{g},\, \mathfrak{h}]=\{ [x,\, y] \mid x \in \mathfrak{g},\, y \in \mathfrak{h} \} {}\subseteq \mathfrak{h} {}$. Thanks to this invariance, we may quotient by ideals which I won't prove the specific reason here, with the space being the standard factor space, and the lie bracket in ${} \mathfrak{g} /\mathfrak{h} {}$ defined by
 $$
-[x+\mathfrak{h},\, y+\mathfrak{h}]=[x+y]+\mathfrak{h}
+[x+\mathfrak{h},\, y+\mathfrak{h}]=[x,\, y]+\mathfrak{h}
 $$
 
-We may now also define the lower central and derived series as follows: given a lie algebra ${} \mathfrak{g}$, define
+We may now define the lower central series as follows: given a lie algebra ${} \mathfrak{g}$, define
 $$
 \begin{align}
-\mathfrak{g}^{0}=\mathfrak{g}, &  & \mathfrak{g}^{k}=[\mathfrak{g},\, \mathfrak{g}^{k-1}] \\
+\mathfrak{g}^{1}=\mathfrak{g}, &  & \mathfrak{g}^{k}=[\mathfrak{g},\, \mathfrak{g}^{k-1}] \\
 \end{align}
 $$
+This can be viewed to generate a sequence of subalgebras like so:
 $$
 \begin{align}
  & \mathfrak{g} \to{} [\mathfrak{g},\, \mathfrak{g}]\to{} [\mathfrak{g},\, [\mathfrak{g},\, \mathfrak{g}]]\to{}\dots \\
 
 \end{align}
 $$
-These might seem arbitrary, but the $k^{\text{th}} {}$ term in the lower central series may be thought of as the set of elements which are the product of some list of $k$ elements in $\mathfrak{g} {}$. Meanwhile, the 
+This may seem arbitrary, but the ${} k^{\text{th}} {}$ term in the lower central series may be thought of as the set of elements which are the product of some list of ${} k$ elements in $\mathfrak{g} {}$. We call a Lie algebra *nilpotent* if there exists some $k$ such that ${} \mathfrak{g}^{k}=0 {}$, where $0$ is the $0$-algebra. That is, a lie algebra is nilpotent if there is some length such that every product of elements of that length is $0 {}$.
+
+On more types, an abelian lie algebra is one where every bracket is zero, that is ${} [x,\, y]=0 {}$ for all ${} x,\, y \in \mathfrak{g} {}$. The name comes from the fact that if the commutator is zero for all elements in an associative algebra, then all the elements commute. Furthermore, a *simple* lie algebra is a non-abelian Lie algebra, that is, there exists some ${} x,\, y \in \mathfrak{g} {}$ with ${} [x,\, y]\neq 0 {}$ with no non-trivial ideals, that is, other than ${} 0 {}$ and itself. These are special as they cannot be expressed as a direct product of any other lie algebras; in a sense, they are *prime*. They are also the central object of study for this talk. Finally, for our purposes, a *semisimple* lie algebra is one which is a direct product of simple lie algebras. If you know lie algebras, you may know that this is not the typical definition, however, this is fine, since it turns out over $\mathbb{C}$, this definition and the traditional one is equivalent. 
+
+All these terms may seem bewildering, but don't worry, we will constantly be recounting the definitions. Just remember: simple = prime, semisimple = product of primes, abelian = almost 0, nilpotent = eventually 0. It's also important to note that not every lie algebra is semisimple. This is ok, as we can decompose any arbitrary lie algebra into a semisimple one and it's *radical*, which is beyond the scope of this talk.
+
+Before we proceed, it's a 
