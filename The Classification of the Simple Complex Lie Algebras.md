@@ -15,6 +15,19 @@ anticommutativity; x bracketed with y is equal to minus y bracket x,
 and the Jacobi identity; cycling x, y and z through these brackets and adding them all up equals zero)
 Note that ${} [x,\, 0]=0 {}$, as it is bilinear. In this talk we will only be concerned with finite dimensional Complex Lie algebras, that is, those with ${} F=\mathbb{C} {}$. Now you may recognise these relations as exactly those satisfied by a commutator, which is a map from an associative algebra $A {}$ , the commutator bracket from A cross A to A ${} [{}\cdot {},\, {}\cdot {}]:A \times A\to{}A {}$ defined by X commutator Y equals X Y minus Y X ${} [X,\, Y]=XY-YX {}$. Indeed, the Lie bracket is a generalisation of this idea. In fact, any associative algebra may be made into a lie algebra by taking multiplication to be the commutator. 
 
+The most prototypical example is ${} \mathfrak{sl}_{2}(\mathbb{C}) {}$, the set of all ${} 2\times 2 {}$ matrices with trace $0 {}$. This is a lie algebra under the commutator. This can be seen as
+$$
+\tr  [A,\, B]=\tr  (AB-BA)=\tr  (AB)-\tr  (BA)=\tr  (AB)-\tr  (AB)=0
+$$
+We can take a canonical basis to be
+$$
+e=\begin{pmatrix}0 & 1 \\ 0 & 0 \end{pmatrix} \qquad f=\begin{pmatrix}0 & 0 \\ 1 & 0 \end{pmatrix} \qquad h=\begin{pmatrix}1 & 0 \\ 0 & -1 \end{pmatrix} 
+$$
+and we can calculate that
+$$
+[e,\, f]=h \qquad [h,\, e]=2e\qquad [h,\, f]=-2f
+$$
+
 Now we define a map ad from g to the set of linear maps on g, end g ${} \ad :\mathfrak{g}\to{}\operatorname{End}(\mathfrak{g}) {}$ as ad x of y equals x bracket y ${} \ad (x)(y)=[x,\, y] {}$. This is called the adjoint action of $x {}$. That is, ${} \ad x$ is simply $\mathfrak{g}$ acting on itself from the left. This seems silly, but it turns out to have lovely properties. In particular, if we take $x,\, y,\, z \in \mathfrak{g} {}$, we see that
 $$
 \begin{align}

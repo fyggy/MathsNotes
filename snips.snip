@@ -92,8 +92,19 @@
 	{trigger: "\\geq:", replacement: "\\trianglerighteq", options: "mA"},
 	{trigger: "\\geq;", replacement: "\\trianglerighteq", options: "mA"},
 	
+	// Matrix Groups / Lie groups
+	{trigger: "SL", replacement: "\\mathrm{SL}", options: "mA"}, 
+	{trigger: "GL", replacement: "\\mathrm{GL}", options: "mA"}, 
+	{trigger: "SO", replacement: "\\mathrm{SO}", options: "mA"}, 
+	{trigger: "SU", replacement: "\\mathrm{SU}", options: "mA"}, 
+	{trigger: "Sp", replacement: "\\mathrm{Sp}", options: "mA"}, 
 	
-	
+	// Lie algebras
+	{trigger: "sl", replacement: "\\mathfrak{sl}", options: "mA"}, 
+	{trigger: "gl", replacement: "\\mathfrak{gl}", options: "mA"}, 
+	{trigger: "so", replacement: "\\mathfrak{so}", options: "mA"}, 
+	{trigger: "su", replacement: "\\mathfrak{su}", options: "mA"}, 
+	{trigger: "sp", replacement: "\\mathfrak{sp}", options: "mA"}, 
 	
 	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
 	{trigger: "2perm", replacement: "\\begin{pmatrix}1&2\\\\ $0 & $1 \\end{pmatrix} $2", options: "mA"},
@@ -139,6 +150,7 @@
 	{trigger: "tns", replacement: "^{\\mathrm{T}}", options: "mA"},
 	{trigger: "comp", replacement: "^{\\mathrm{c}}", options: "mA"},
     {trigger: "det", replacement: "\\det  $0", options: "mA"},
+    {trigger: "tr", replacement: "\\tr  $0", options: "mA"},
     {trigger: "Re", replacement: "\\mathrm{Re}($0)$1", options: "mA"},
     {trigger: "Im", replacement: "\\mathrm{Im}($0)$1", options: "mA"},
 	{trigger: "arg", replacement: "\\arg($0)$1", options: "mA"},
