@@ -2,7 +2,7 @@ First, we define Lie Groups. A *smooth manifold* is essentially a shape in space
 
 A Lie *algebra* is an algebra defined tangent to the identity of a Lie Group. The formal construction is fairly technical, but it can be surmised by the idea of creating a "map" or "projection" of your manifold onto a flat space; specifically a vector space. It turns out, when you do this, you get a multiplication of sorts from the group operation. This is called the *lie bracket*. 
 
-In particular, given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
+In particular, given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map, the lie bracket from g cross g to g ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
 $$
 \begin{align}
 [x,\, x] & =0\\
@@ -10,9 +10,12 @@ $$
 [x,\, [y,\, z]]+[z,\, [x,\, y]]+[y,\, [z,\, x]] & =0
  \end{align}
 $$
-Note that ${} [x,\, 0]=0 {}$, as it is bilinear. In this talk we will only be concerned with finite dimensional Complex Lie algebras, that is, those with ${} F=\mathbb{C} {}$. Now you may recognise these relations as exactly those satisfied by a commutator, which is a map from an associative algebra $A$, ${} [{}\cdot {},\, {}\cdot {}]:A \times A\to{}A {}$ defined by ${} [X,\, Y]=XY-YX {}$. Indeed, the Lie bracket is a generalisation of this idea. In fact, any associative algebra may be made into a lie algebra by taking multiplication to be the commutator. 
+(TS: the alternating property; any element bracketed with itself is 0,
+anticommutativity; x bracketed with y is equal to minus y bracket x,
+and the Jacobi identity; cycling x, y and z through these brackets and adding them all up equals zero)
+Note that ${} [x,\, 0]=0 {}$, as it is bilinear. In this talk we will only be concerned with finite dimensional Complex Lie algebras, that is, those with ${} F=\mathbb{C} {}$. Now you may recognise these relations as exactly those satisfied by a commutator, which is a map from an associative algebra $A {}$ , the commutator bracket from A cross A to A ${} [{}\cdot {},\, {}\cdot {}]:A \times A\to{}A {}$ defined by X commutator Y equals X Y minus Y X ${} [X,\, Y]=XY-YX {}$. Indeed, the Lie bracket is a generalisation of this idea. In fact, any associative algebra may be made into a lie algebra by taking multiplication to be the commutator. 
 
-Now define ${} \ad :\mathfrak{g}\to{}\operatorname{End}(\mathfrak{g}) {}$ as ${} \ad (x)(y)=[x,\, y] {}$. That is, $\ad x$ is simply $\mathfrak{g}$ acting on itself from the left. This seems silly, but it turns out to have lovely properties. In particular, it is a *representation* of $\mathfrak{g} {}$, called the adjoint representation of ${} \mathfrak{g} {}$. In particular, if we take ${} x,\, y,\, z \in \mathfrak{g} {}$, we see that
+Now we define a map ad from g to the set of linear maps on g, end g ${} \ad :\mathfrak{g}\to{}\operatorname{End}(\mathfrak{g}) {}$ as ad x of y equals x bracket y ${} \ad (x)(y)=[x,\, y] {}$. This is called the adjoint action of $x {}$. That is, ${} \ad x$ is simply $\mathfrak{g}$ acting on itself from the left. This seems silly, but it turns out to have lovely properties. In particular, if we take $x,\, y,\, z \in \mathfrak{g} {}$, we see that
 $$
 \begin{align}
 \ad ([x,\, y])(z) & =[[x,\, y],\, z] \\
@@ -20,10 +23,12 @@ $$
  & =[x,\, [y,\, z]]+[y,\, [z,\, x]] \\
  & =[x,\, [y,\, z]]-[y,\, [x,\, z]] \\
  & =(\ad (x)\ad (y)-\ad (y)\ad (x) )(z) \\
- & =[\ad (x),\, \ad (y)](x)
+ & =[\ad (x),\, \ad (y)](z)
 \end{align}
 $$
-Where the bracket at the end is the standard commutator. We see then, that ${} \ad {}$ is actually a *Lie homomorphism*, that is, it preserves the structure of the Lie bracket. However, it also acts on the lie algebra itself. This property will be very useful.
+(TS: the adjoint action of x bracket y on z is equal to x bracket y bracket z, by definition,
+if we swap using anticommutativity, we see that it's exactly equal to one side of the Jacobi identity. Therefore, we can substitute that in. Now if we swap that z and x in the second term using anticommutativity again, we see that this is actually equal to ad x times ad y minus ad y times ad x evaluated at z. This is simply equal to the commutator bracket of ad x and ad y evaluated at z)
+We see then, that ${} \ad {}$ is actually a *Lie homomorphism*, that is, it preserves the structure of the Lie bracket. However, it also acts on the lie algebra itself. This property will be very useful.
 
 We now define the import concepts of nilpotency, and simplicity. We start with an *ideal*. Ideals are analogous to normal subgroups, and are simply the subalgebras of a Lie algebra which are invariant under the action of the lie algebra. In particular, if ${} \mathfrak{h} {}$ is an ideal of ${} \mathfrak{g}, {}$ then ${} [\mathfrak{g},\, \mathfrak{h}]=\{ [x,\, y] \mid x \in \mathfrak{g},\, y \in \mathfrak{h} \} {}\subseteq \mathfrak{h} {}$. Thanks to this invariance, we may quotient by ideals which I won't prove the specific reason here, with the space being the standard factor space, and the lie bracket in ${} \mathfrak{g} /\mathfrak{h} {}$ defined by
 $$
@@ -45,8 +50,8 @@ $$
 $$
 This may seem arbitrary, but the ${} k^{\text{th}} {}$ term in the lower central series may be thought of as the set of elements which are the product of some list of ${} k$ elements in $\mathfrak{g} {}$. We call a Lie algebra *nilpotent* if there exists some $k$ such that ${} \mathfrak{g}^{k}=0 {}$, where $0$ is the $0$-algebra. That is, a lie algebra is nilpotent if there is some length such that every product of elements of that length is $0 {}$.
 
-On more types, an abelian lie algebra is one where every bracket is zero, that is ${} [x,\, y]=0 {}$ for all ${} x,\, y \in \mathfrak{g} {}$. The name comes from the fact that if the commutator is zero for all elements in an associative algebra, then all the elements commute. Furthermore, a *simple* lie algebra is a non-abelian Lie algebra, that is, there exists some ${} x,\, y \in \mathfrak{g} {}$ with ${} [x,\, y]\neq 0 {}$ with no non-trivial ideals, that is, other than ${} 0 {}$ and itself. These are special as they cannot be expressed as a direct product of any other lie algebras; in a sense, they are *prime*. They are also the central object of study for this talk. Finally, for our purposes, a *semisimple* lie algebra is one which is a direct product of simple lie algebras. If you know lie algebras, you may know that this is not the typical definition, however, this is fine, since it turns out over $\mathbb{C}$, this definition and the traditional one is equivalent. 
+On more types, an abelian lie algebra is one where every bracket is zero, that is ${} [x,\, y]=0 {}$ for all ${} x,\, y \in \mathfrak{g} {}$. The name comes from the fact that if the commutator is zero for all elements in an associative algebra, then all the elements commute. Furthermore, a *simple* lie algebra is a non-abelian Lie algebra, that is, there exists some ${} x,\, y \in \mathfrak{g} {}$ with ${} [x,\, y]\neq 0 {}$ with no non-trivial ideals, that is, other than ${} 0 {}$ and itself. These are special as they cannot be expressed as a direct product of any other lie algebras; in a sense, they are *prime*. They are also the central object of study for this talk. Finally, for our purposes, a *semisimple* lie algebra is one which is a direct product of simple lie algebras. If you know lie algebras already, you may know that this is not the typical definition, however, this is fine, since it turns out over ${} \mathbb{C}$, this definition and the traditional one is equivalent. 
 
-All these terms may seem bewildering, but don't worry, we will constantly be recounting the definitions. Just remember: simple = prime, semisimple = product of primes, abelian = almost 0, nilpotent = eventually 0. It's also important to note that not every lie algebra is semisimple. This is ok, as we can decompose any arbitrary lie algebra into a semisimple one and it's *radical*, which is beyond the scope of this talk.
+All these terms may seem bewildering, but don't worry, we will constantly be recounting the definitions. Just remember: simple = prime, semisimple = product of primes, abelian = almost 0, nilpotent = eventually 0. It's also important to note that not every lie algebra is semisimple. This is actually ok, as we can decompose any arbitrary lie algebra into a semisimple one and it's *radical*. This is beyond the scope of this talk.
 
 Before we proceed, it's a 
