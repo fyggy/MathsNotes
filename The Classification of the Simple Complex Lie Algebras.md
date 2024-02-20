@@ -2,7 +2,7 @@ First, we define Lie Groups. A *smooth manifold* is essentially a shape in space
 
 A Lie *algebra* is an algebra defined tangent to the identity of a Lie Group. The formal construction is fairly technical, but it can be surmised by the idea of creating a "map" or "projection" of your manifold onto a flat space; specifically a vector space. It turns out, when you do this, you get a multiplication of sorts from the group operation. This is called the *lie bracket*. 
 
-In particular, given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map, the lie bracket from g cross g to g ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
+In particular, given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map, the lie bracket from g to itself ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
 $$
 \begin{align}
 [x,\, x] & =0\\
