@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md",
+                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "af77ef511117994b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bda5ee6c5f433f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Linear Algebra - Werner Greub.pdf"
               }
             }
           }
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md",
+                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md",
+                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md"
+                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md"
               }
             }
           },
@@ -159,6 +175,8 @@
   },
   "active": "c320aaf73b3f817a",
   "lastOpenFiles": [
+    "Textbooks/Linear Algebra - Werner Greub.pdf",
+    "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
     "The Classification of the Simple Complex Lie Algebras.md",
     "Homework/PS1 participation 1.pdf",
     "The Plan/KCL Modules.md",
@@ -190,11 +208,8 @@
     "export1-crop.pdf",
     "Subjects/Intro to Dynamical Systems 1/5..md",
     "Subjects/Probability and Statistics 1/Problem Sheet 2.md",
-    "Subjects/Linear Algebra and Geometry 2/3..md",
-    "Subjects/Probability and Statistics 1/3..md",
     "Homework/ProbStatsHW2.pdf",
     "Textbooks/LinearAlgebraAndGeometry1 Lecture Notes.pdf",
-    "Subjects/Jacobson Lie Algebras",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
