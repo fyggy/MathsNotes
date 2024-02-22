@@ -9,5 +9,6 @@
   "omnisearch",
   "text-extractor",
   "obsidian-local-rest-api",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-tikzjax"
 ]
