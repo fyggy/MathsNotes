@@ -4,38 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1040fd8adeea79f6",
+        "id": "5f4da5ac9badef94",
         "type": "tabs",
         "children": [
           {
-            "id": "c320aaf73b3f817a",
+            "id": "478010b1c135b77d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6e4899fa80f139a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ca17889584ef2ad1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf"
-              }
-            }
-          },
-          {
-            "id": "5ebe4e099a76b129",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Linear Algebra - Werner Greub.pdf"
+                "file": "The Classification of the Simple Complex Lie Algebras.md"
               }
             }
           },
@@ -177,15 +165,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca17889584ef2ad1",
+  "active": "b6e4899fa80f139a",
   "lastOpenFiles": [
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
+    "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
     "Directory.md",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
-    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
     "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
     "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
