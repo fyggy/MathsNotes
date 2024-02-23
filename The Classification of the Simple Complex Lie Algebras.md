@@ -67,4 +67,22 @@ On more types, an abelian lie algebra is one where every bracket is zero, that i
 
 All these terms may seem bewildering, but don't worry, we will constantly be recounting the definitions. Just remember: simple = prime, semisimple = product of primes, abelian = almost 0, nilpotent = eventually 0. It's also important to note that not every lie algebra is semisimple. This is actually ok, as we can decompose any arbitrary lie algebra into a semisimple one and it's *radical*. This is beyond the scope of this talk.
 
-Before we proceed, it's a 
+We will now discuss the *roots* of a semisimple Lie algebra. If we let $\mathfrak{g}$ be a semisimple Lie algebra, then a *Cartan* subalgebra is a maximal abelian subalgebra. If we now consider the adjoint action of some Cartan subalgebra ${} \mathfrak{h} \subset \mathfrak{g} {}$ on ${} \mathfrak{g} {}$, that is, we take $\ad \mathfrak{h}$ to the adjoint action of every element of $\mathfrak{h}$ on $\mathfrak{g}$. Since $\mathfrak{h}$ is abelian, then ${} (\ad X)(\ad Y)=(\ad Y)(\ad X) {}$. Since the elements of $\ad \mathfrak{h} {}$ are linear transformations, we may consider the Eigenvectors and Eigenvalues of them. In particular, consider the *minimal polynomial* $\mu {}$ of each ${} A \in \ad \mathfrak{h} {}$. We have
+$$
+\mu=\pi_{1}^{a_{1}}\pi_{2}^{a_{2}}\dots \pi_{n}^{a_{n}}
+$$
+where each ${} \pi_{i}$ are prime polynomials. Since the field is complex, then each ${} \pi_{i}=\lambda-\alpha_{i} {}$ for some complex number ${} \alpha_{i}$. 
+
+Now a standard theorem of linear algebra tells us that, if we let ${} \mathfrak{g}_{\pi_{i}}=\{x \in \mathfrak{g} \mid \pi_{i}^{k}(x)=0 \text{ for some }k\} {}$ (that is, the generalised eigenspace with respect to ${} \alpha_{i} {}$), then 
+$$
+\mathfrak{g}=\bigoplus_{i=1}^{n}\mathfrak{g}_{\pi_{i}}
+$$
+Now the restriction of ${} A {}$ to each ${} \mathfrak{g}_{\pi_{i}} {}$ has exactly one eigenvalue, ${} \alpha_{i} {}$. Now consider ${} b \in \ad  \mathfrak{h} {}$. Note that since $\ad \mathfrak{h} {}$ is abelian, then 
+$$
+B\pi_{i}^{a_{i}}(A)=\pi_{i}^{a_{i}}(A)B
+$$
+and so for some ${} x \in \mathfrak{g}_{\pi_{i}} {}$, we have
+$$
+\pi_{i}^{a_{i}}(A)(B(x))=B \pi_{i}^{a_{i}}(A)(x)=B(0)=0
+$$
+Therefore, ${} B(x) \in \mathfrak{g}_{\pi_{i}} {}$ as well. Therefore, the restriction of any ${} B {}$ to ${} \mathfrak{g}_{\pi_{i}} {}$ is a linear transformation on ${} g_{\pi_{i}} {}$. Therefore, as before, we may decompose each ${} \mathfrak{g}_{\pi_{i}} {}$ into a direct sum of generalised eigenspaces of $B$. Note that the restriction of $A$ to each of these spaces still only has a single eigenvalue. This process can be continued, until we end up with a set of spaces, $\mathfrak{g}_{\alpha}$ where the restriction of each ${} X \in \ad \mathfrak{h} {}$ to ${} \mathfrak{g}_{\alpha} {}$ has a single eigenvalue, $\alpha(X)$. Now $\alpha(X)$ is a linear functional on $\ad \mathfrak{h}$, and the set of all such $\alpha$ are called the *roots* of $\mathfrak{g}$ with respect to $\mathfrak{h} {}$.
