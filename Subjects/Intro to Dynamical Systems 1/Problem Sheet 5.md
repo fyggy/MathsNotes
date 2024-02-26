@@ -48,4 +48,69 @@ $$
 A\mathbf{v}_{1}e^{2t}+B(t\mathbf{v}_{1}+\mathbf{v}_{2})e^{2t}
 $$
 is the general solution
-![[Pasted image 20240226125749.png#]]
+2. 
+a)
+![[Pasted image 20240226125749.png]]
+b)
+We have fixed points at ${} x=2 {}$ and ${} x=3 {}$. Both of them are unstable
+c) i)
+$$
+\begin{align}
+ \tau  & = \int_{4}^{\infty} \frac{1}{(x-2)^{2}(x-3)} \ud x    \\
+ & =\int_{4}^{\infty} \frac{A}{x-2}+\frac{B}{(x-2)^{2}}+\frac{C}{x-3} \ud x 
+ \end{align}
+$$
+We have that
+$$
+\begin{align}
+ A(x-2)(x-3)+B(x-3)+C(x-2)^{2} & =1   \\
+Ax^{2}-5Ax+6A+Bx-3B+Cx^{2}-4Cx+4C & =1 \\
+	(A+C)x^{2}+(-5A+B-4C)x+(6A-3B+4C) & =1
+ \end{align}
+$$
+so 
+$$
+\begin{align}
+ A+C & =0  \\
+-5A+B-4C  & =0 \\
+6A-3B+4C & =1
+ \end{align}
+$$
+so
+$$
+\begin{align}
+  & \left(\begin{array}{ccc|c}
+1 & 0 & 1 & 0 \\
+-5 & 1 & -4 & 0 \\
+6 & -3 & 4 & 1
+\end{array}\right)\to{} \left(\begin{array}{ccc|c}
+1 & 0 & 1 & 0 \\
+-5 & 1 & -4 & 0 \\
+1 & -2 & 0 & 1
+\end{array}\right)\to{} \left(\begin{array}{ccc|c}
+1 & 0 & 1 & 0 \\
+0 & 1 & 1 & 0 \\
+0 & -2 & -1 & 1
+\end{array}\right)  \\
+ & \to{} \left(\begin{array}{ccc|c}
+1 & 0 & 1 & 0 \\
+0 & 1 & 1 & 0 \\
+0 & 0 & 1 & 1
+\end{array}\right) \to{} \left(\begin{array}{ccc|c}
+1 & 0 & 0 & -1 \\
+0 & 1 & 0 & -1 \\
+0 & 0 & 1 & 1
+\end{array}\right)
+ \end{align}
+$$
+so
+$$
+\begin{align}
+ \tau & =\int_{4}^{\infty} -\frac{1}{x -2}- \frac{1}{( x-2 )^{2}}+\frac{1}{x-3} \ud x  \\
+ & =-\int_{4}^{\infty} \frac{1}{x-2} \ud x  -\int_{4}^{\infty} \frac{1}{( x-2 )^{2}} \ud x +\int_{4}^{\infty} \frac{1}{x-3} \ud x  \\
+ & =-[\ln(x-2)]_{4}^{\infty}-\left[- \frac{1}{x-2} \right]_{4}^{\infty}+[\ln (x-3)]_{4}^{\infty} \\ \\
+ & =\left[ -\frac{1}{x-2}+\ln(x-3)-\ln(x-2) \right]_{4}^{\infty} \\
+ & =\left[ -\frac{1}{x-2}+\ln\left( \frac{ x-3 }{ x-2 } \right) \right]_{4}^{\infty} \\
+ & =-\frac{1}{4-2}+\ln\left( \frac{ 4-3 }{ 4-2 } \right)+\lim_{x\tto \infty} \left( -\frac{1}{x-2} \right)+\ln()
+ \end{align}
+$$
