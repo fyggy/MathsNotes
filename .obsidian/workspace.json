@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
+                "file": "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md"
+                "file": "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md"
               }
             }
           },
@@ -185,9 +185,11 @@
   "active": "b6e4899fa80f139a",
   "lastOpenFiles": [
     "Homework/LinearAlgGeo2 HW5.pdf",
-    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
-    "Pasted image 20240226125749.png",
+    "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
     "The Classification of the Simple Complex Lie Algebras.md",
+    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
+    "Homework/DynamicalSystemsHW5.pdf",
+    "Pasted image 20240226125749.png",
     "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Textbooks/Linear Algebra - Werner Greub.pdf",
     "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
@@ -216,10 +218,8 @@
     "Subjects/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Homework/Dynamics HW3.pdf",
-    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 3.md",
     "Homework/ProbStatsHW3.pdf",
     "Textbooks/Linear Algebra Done Wrong - Sergei Treil.pdf",
-    "export1-crop.pdf",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
