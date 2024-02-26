@@ -108,9 +108,19 @@ $$
 \begin{align}
  \tau & =\int_{4}^{\infty} -\frac{1}{x -2}- \frac{1}{( x-2 )^{2}}+\frac{1}{x-3} \ud x  \\
  & =-\int_{4}^{\infty} \frac{1}{x-2} \ud x  -\int_{4}^{\infty} \frac{1}{( x-2 )^{2}} \ud x +\int_{4}^{\infty} \frac{1}{x-3} \ud x  \\
- & =-[\ln(x-2)]_{4}^{\infty}-\left[- \frac{1}{x-2} \right]_{4}^{\infty}+[\ln (x-3)]_{4}^{\infty} \\ \\
- & =\left[ -\frac{1}{x-2}+\ln(x-3)-\ln(x-2) \right]_{4}^{\infty} \\
- & =\left[ -\frac{1}{x-2}+\ln\left( \frac{ x-3 }{ x-2 } \right) \right]_{4}^{\infty} \\
- & =-\frac{1}{4-2}+\ln\left( \frac{ 4-3 }{ 4-2 } \right)+\lim_{x\tto \infty} \left( -\frac{1}{x-2} \right)+\ln()
+ & =-[\ln(x-2)]_{4}^{\infty}-\left[- \frac{1}{x-2} \right]_{4}^{\infty}+[\ln (x-3)]_{4}^{\infty} \\
+ & =\left[ \frac{1}{x-2}+\ln(x-3)-\ln(x-2) \right]_{4}^{\infty} \\
+ & =\left[ \frac{1}{x-2}+\ln\left( \frac{ x-3 }{ x-2 } \right) \right]_{4}^{\infty} \\
+ & =-\frac{1}{4-2}-\ln\left( \frac{ 4-3 }{ 4-2 } \right)+\lim_{x\tto \infty} \left( -\frac{1}{x-2} \right)+\lim_{x\tto \infty} \ln\left( \frac{ x-3 }{ x-2 } \right) \\
+ & =0.19314\dots+0+\ln\left(\lim_{x\tto \infty} \frac{ x-3 }{ x-2 }  \right) \\
+ & =0.19314\dots
  \end{align}
 $$
+ii)
+like before we have
+$$
+\begin{align}
+ \tau & =\left[ \frac{1}{x-2}+\ln\left( \frac{ x-3 }{ x-2 } \right) \right]_{5 /2}^{2}  \\
+ \end{align}
+$$
+Note that ${} \frac{ x-3 }{ x-2 } {}$ is negative for the entire interval ${} [5 /2,\, 2] {}$, so $\tau$ cannot exist. Therefore, ${} \tau=\infty {}$.
