@@ -86,3 +86,11 @@ $$
 \pi_{i}^{a_{i}}(A)(B(x))=B \pi_{i}^{a_{i}}(A)(x)=B(0)=0
 $$
 Therefore, ${} B(x) \in \mathfrak{g}_{\pi_{i}} {}$ as well. Therefore, the restriction of any ${} B {}$ to ${} \mathfrak{g}_{\pi_{i}} {}$ is a linear transformation on ${} g_{\pi_{i}} {}$. Therefore, as before, we may decompose each ${} \mathfrak{g}_{\pi_{i}} {}$ into a direct sum of generalised eigenspaces of $B$. Note that the restriction of $A$ to each of these spaces still only has a single eigenvalue. This process can be continued, until we end up with a set of spaces, $\mathfrak{g}_{\alpha}$ where the restriction of each ${} X \in \ad \mathfrak{h} {}$ to ${} \mathfrak{g}_{\alpha} {}$ has a single eigenvalue, $\alpha(X)$. Now $\alpha(X)$ is a linear functional on $\ad \mathfrak{h}$, and the set of all such $\alpha$ are called the *roots* of $\mathfrak{g}$ with respect to $\mathfrak{h} {}$.
+
+Let $\mathfrak{g}$ be a semisimple Lie algebra, and let $\mathfrak{h}$ be a maximal abelian subalgebra in $\mathfrak{g} {}$. This means that if we have another abelian subalgebra ${} \mathfrak{h}' {}$ containing ${} \mathfrak{h} {}$ then ${} \mathfrak{h}' = \mathfrak{h} {}$. We call a linear functional ${} \alpha:\mathfrak{h}\to{}\mathbb{C} {}$ a *root* if there exists some ${} x \in \mathfrak{g} {}$ with, for all ${} h \in \mathfrak{h} {}$, ${} (\ad h)(x)=\alpha(h)x {}$, that is, there exists an eigenvector of every element in $\ad \mathfrak{h}$, and ${} \alpha {}$ gives it's eigenvalue. an important theorem called Lie's Theorem tells us that every Lie algebra has at least one root.
+
+Now given some root $\alpha {}$, we set ${} \mathfrak{g}_{\alpha}=\{ x \in \mathfrak{g}\mid \forall h \in \mathfrak{h}:(\ad h-\alpha(h)I)^{k}(x)=0 \text{ for some }k \} {}$. This is a fairly esoteric definition, however, we may see this as the set of every ${} x$ which is a generalised eigenvector for all $\ad h {}$. Now thanks to the fact that vector spaces may be decomposed into a direct sum of generalised eigenspaces, after a fairly ugly inductive proof, we see that, if ${} \Delta {}$ is the set of all roots 
+$$
+\mathfrak{g}=\bigoplus_{\alpha \in \Delta} \mathfrak{g}_{\alpha}
+$$
+This is great
