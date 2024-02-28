@@ -89,16 +89,21 @@ Therefore, ${} B(x) \in \mathfrak{g}_{\pi_{i}} {}$ as well. Therefore, the restr
 
 Let $\mathfrak{g}$ be a semisimple Lie algebra, and let $\mathfrak{h}$ be a maximal abelian subalgebra in $\mathfrak{g} {}$; we call this a Cartan subalgebra. This means that if we have another abelian subalgebra ${} \mathfrak{h}' {}$ containing ${} \mathfrak{h} {}$ then ${} \mathfrak{h}' = \mathfrak{h} {}$. We call a linear functional ${} \alpha:\mathfrak{h}\to{}\mathbb{C} {}$ a *root* if there exists some ${} x \in \mathfrak{g} {}$ with, for all ${} h \in \mathfrak{h} {}$, ${} (\ad h)(x)=\alpha(h)x {}$, that is, there exists an eigenvector of every element in $\ad \mathfrak{h}$, and ${} \alpha {}$ gives it's eigenvalue. An important theorem called Lie's Theorem tells us that every Lie algebra has at least one root.
 
-Now given some root ${} \alpha {}$, we set the *root space* corresponding to ${} \alpha {}$ to be ${} \mathfrak{g}_{\alpha}=\{ x \in \mathfrak{g}\mid \forall h \in \mathfrak{h}:(\ad h-\alpha(h)I)^{k}(x)=0 \text{ for some }k \} {}$. This is a fairly esoteric definition, however, we may see this as the set of every ${} x {}$ which is a generalised eigenvector for all ${} \ad h {}$ with eigenvalue ${} \alpha (h) {}$. We also see that the restriction of $\ad h {}$ to $g_{\alpha} {}$ has exactly one eigenvalue, ${} \alpha(h) {}$. In particular, if we fix ${} h \in \mathfrak{h} {}$, and let ${} \pi_{\alpha}^{h}=(\ad h-\alpha(h))^{k} {}$ be the minimal polynomial associated with the generalised eigenspace decomposition 
-$$
-\mathfrak{g}=\bigoplus_{\substack{\phi \text{ is an }\\\text{eigenvalue}} } \mathfrak{g}_{\phi},\, \qquad \mathfrak{g}_{\phi}=\{ x \in \mathfrak{g} \mid \pi_{\alpha}^{h}(x)=0 \text{ for some } k\}
-$$
+Now given some root ${} \alpha {}$, we set the *root space* corresponding to ${} \alpha {}$ to be ${} \mathfrak{g}_{\alpha}=\{ x \in \mathfrak{g}\mid \forall h \in \mathfrak{h}:(\ad h-\alpha(h)I)^{k}(x)=0 \text{ for some }k \} {}$. This is a fairly esoteric definition, however, we may see this as the set of every ${} x {}$ which is a generalised eigenvector for all ${} \ad h {}$ with eigenvalue ${} \alpha (h) {}$. We also see that the restriction of $\ad h {}$ to $g_{\alpha} {}$ has exactly one eigenvalue, ${} \alpha(h) {}$. In particular, we see that since ${} \pi_{\alpha}^{h}=(\ad h-\alpha(h)I)^{k} {}$ is a polynomial in $\ad h {}$, and $\mathfrak{h} {}$ is abelian, then ${} \pi_{\alpha}^{h} (\ad k)(x)=(\ad k )\pi_{\alpha}^{h}(x) {}$, and so the generalised eigenspace decomposition associated with ${} \ad h {}$ are stable under all $\ad k {}$. Therefore, we may inductively keep decomposing the each generalised eigenspace into smaller generalised eigenspaces until the restriction of every $\ad k {}$ to them has exactly one eigenvalue, which is ${} \alpha(k) {}$. Therefore, we see that
 $$
 \mathfrak{g}=\bigoplus_{\alpha \in \Delta} \mathfrak{g}_{\alpha}
 $$
-This is great, as this is essentially a simultaneous generalised eigenspace decomposition. In particular, we see that each ${} \mathfrak{g}_{\alpha} {}$ is the intersection of the generalised eigenspaces of ${} \ad h \in \ad \mathfrak{h} {}$ with eigenvalue ${} \alpha(h) {}$. 
+If you didn't fully catch that, that's fine. All you need to know is that the roots of every semisimple lie algebra are entirely determined by $\mathfrak{h} {}$, and that $\mathfrak{g} {}$ may be directly decomposed into root spaces. This is great, as this is essentially a simultaneous generalised eigenspace decomposition.
 
 We now only have a couple things left before we may start diving into the properties of root spaces. The first is Killing forms. They have nothing to do with death, they're just named after someone called Wilhelm Killing... Giving some Lie algebra ${} \mathfrak{g} {}$, and  ${} x,\, y \in \mathfrak{g} {}$
 $$
-
+(x,\, y)=\tr  (\ad (x) \ad (y))
+$$
+Since $\tr$ is linear and symmetric, then this is a symmetric bilinear form. Furthermore, we see that
+$$
+\begin{align}
+ ([x,\, y],\, z) -(x,\, [y,\, z]) & =\tr  (\ad [x,\, y] \ad (z)-\ad (x)\ad [y,\, z]) \\
+ & =\tr  (XYZ-YXZ-XYZ+XZY) \\
+ & =\tr  
+ \end{align}
 $$
