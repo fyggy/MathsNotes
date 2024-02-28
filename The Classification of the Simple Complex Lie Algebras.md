@@ -102,7 +102,13 @@ $$
 Since $\tr$ is linear and symmetric, then this is a symmetric bilinear form. Furthermore, we see that
 $$
 \begin{align}
-([a, x],\, y)-(x, [y, a]) & =\tr  (\ad [a,\, x]\ad (y)-\ad (x)\ad [y,\, a]) \\
+([x, y],\, z)-(y, [z, x]) & =\tr  (\ad [a,\, x]\ad (y)-\ad (x)\ad [y,\, a]) \\
  & =\tr  (AXY-XAY-XYA+XAY)
+ \end{align}
+$$
+$$
+\begin{align}
+ ([a,\, b],\, c)-(a,\, [b,\, c]) & =\tr    ([A,\, B]C-A[B,\, C]) \\
+ & =\tr  (ABC-BAC-ABC+ACB)
  \end{align}
 $$
