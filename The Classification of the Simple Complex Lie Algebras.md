@@ -110,4 +110,8 @@ $$
 $$
 since the trace of any commutator is zero. We have Cartan's criterion for semi-simplicity, which tells us that a Lie algebra is semisimple if and only if the killing form is non-degenerate, meaning that no vector is orthogonal to every vector. The killing form gives a sort of inner product, although it is not positive definite. However, it does give us the basis for the geometry and therefore structure of the semisimples.
 
-We now dive in head first into
+We now dive in head first into the structure of the semisimple Lie algebras. Let $\mathfrak{g}$ be a semisimple finite dimensional Lie algebra over $\mathbb{C}$, let $\mathfrak{h} {}$ be a Cartan subalgebra, and let $\Delta$ be the set of it's roots. We see that $0$, the functional that maps all ${} h \in \mathfrak{h} {}$ to $0$, is a root, as ${} (\ad h)(h)=0h {}$ for all $h$, so $0$ is an eigenvalue for every $\ad h$. We also see that ${} \mathfrak{g}_{0}=\{ x \in \mathfrak{g} \mid \forall h \in \mathfrak{h}:(\ad h)^{k}(x)=0 \text{ for some }k \} {}$ contains $\mathfrak{h} {}$, as if ${} h \in \mathfrak{h} {}$, then ${} (\ad h)(k)=[h,\, k]=0 {}$ for all ${} k \in \mathfrak{h} {}$, so it is in ${} \mathfrak{g}_{0} {}$. We have
+$$
+\mathfrak{g} = \bigoplus_{\alpha \in \Delta} \mathfrak{g}_{\alpha}=\mathfrak{g}_{0} \oplus \mathfrak{g}_{\alpha_{1}} \oplus \mathfrak{g}_{\alpha_{2}}\oplus \dots
+$$
+Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h)$. Therefore, the trace of 
