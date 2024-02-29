@@ -122,4 +122,17 @@ and otherwise,
 $$
 [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] =0
 $$
-The proof requires tensor products and a time consuming induction, so I'm afraid is beyond the scope of this talk, so it shall be taken for granted. Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h)$. Therefore, 
+The proof requires tensor products and a time consuming induction, so I'm afraid is beyond the scope of this talk, so it shall be taken for granted. Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h) {}$. Therefore, the matrix corresponding to the restriction of ${} \ad h {}$ to ${} \mathfrak{g}_{\alpha} {}$ is of the form
+$$
+\begin{pmatrix}
+\alpha(h) & 0 & \dots & 0 \\
+* & \alpha(h) & \dots & 0 \\
+\vdots  & \vdots & \ddots & \vdots \\
+*  & * & \dots & \alpha(h)
+\end{pmatrix}
+$$
+and
+$$
+(h,\,  k)=\sum_{\alpha \in \Delta} \dim (\mathfrak{g}_{\alpha})\alpha(h) \alpha(k)
+$$
+for some ${} h,\, k \in \mathfrak{h} {}$. Now since the Killing form is non-degenerate, then a standard result of linear algebra tells us that the dual space, ${} \mathfrak{h}^{*}$, the space of all linear functionals on $\mathfrak{h}$
