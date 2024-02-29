@@ -135,4 +135,7 @@ and
 $$
 (h,\,  k)=\sum_{\alpha \in \Delta} \dim (\mathfrak{g}_{\alpha})\alpha(h) \alpha(k)
 $$
-for some ${} h,\, k \in \mathfrak{h} {}$. Now since the Killing form is non-degenerate, then a standard result of linear algebra tells us that the dual space, ${} \mathfrak{h}^{*}$, the space of all linear functionals on $\mathfrak{h}$
+for some ${} h,\, k \in \mathfrak{h} {}$. If we now write ${} \mathfrak{h}^{*} {}$ as the dual space, the space of all linear functionals on ${} \mathfrak{h} {}$, then we see that every root is an element of ${} \mathfrak{h}^{*} {}$. A standard result from linear algebra tells us that since the killing form is non-degenerate, then for every element ${} \alpha \in \mathfrak{h}^{*} {}$, there exists some unique element ${} \mathbf{h}_{\alpha} {}$ with ${} (\mathbf{h}_{\alpha}, h)=\alpha(h) {}$ for all $h$, where this mapping ${} \alpha\mapsto \mathbf{h}_{\alpha} {}$ is bijective. This induces an analogue of the killing form on ${} \mathfrak{h}^{*}$, where if ${} \alpha,\, \beta \in \mathfrak{h}^{*} {}$, then
+$$
+(\alpha,\, \beta)=(\mathbf{h}_{\alpha},\, \mathbf{h}_{\beta})=\alpha(\mathbf{h}_{\beta})=\beta(\mathbf{h}_{\alpha})
+$$
