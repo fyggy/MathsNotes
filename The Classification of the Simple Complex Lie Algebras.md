@@ -102,13 +102,12 @@ $$
 Since $\tr$ is linear and symmetric, then this is a symmetric bilinear form. Furthermore, we see that
 $$
 \begin{align}
-([x, y],\, z)-(y, [z, x]) & =\tr  (\ad [a,\, x]\ad (y)-\ad (x)\ad [y,\, a]) \\
- & =\tr  (AXY-XAY-XYA+XAY)
+([x, y],\, z)-(x, [y, z]) & =\tr  (\ad [x,\, y]\ad (z)-\ad (x)\ad [y,\, z]) \\
+ & =\tr  (XYZ-YXZ-XYZ+XZY) \\
+ & =\tr  [XZ,\, Y] \\
+ & =0
  \end{align}
 $$
-$$
-\begin{align}
- ([a,\, b],\, c)-(a,\, [b,\, c]) & =\tr    ([A,\, B]C-A[B,\, C]) \\
- & =\tr  (ABC-BAC-ABC+ACB)
- \end{align}
-$$
+since the trace of any commutator is zero. We have Cartan's criterion for semi-simplicity, which tells us that a Lie algebra is semisimple if and only if the killing form is non-degenerate, meaning that no vector is orthogonal to every vector. The killing form gives a sort of inner product, although it is not positive definite. However, it does give us the basis for the geometry and therefore structure of the semisimples.
+
+We now dive in head first into
