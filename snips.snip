@@ -170,6 +170,8 @@
 	{trigger: "aut", replacement: "\\aut($0)$1", options: "mA"}, 
 	{trigger: "var", replacement: "\\var($0)$1", options: "mA"}, 
 	{trigger: "char", replacement: "\\Char ", options: "mA"}, 
+	{trigger: "Int", replacement: "\\Int($0)$1", options: "mA"}, 
+	{trigger: "Fr", replacement: "\\Fr($0)$1", options: "mA"}, 
 	
     {trigger: ",,", replacement: ",\\, $0", options: "mA"},
     {trigger: "&*", replacement: "^{*}", options: "mA"},
@@ -387,6 +389,7 @@
 	{trigger: "_", replacement: "\\substack{${0:${VISUAL}}} $1", options: "mA"},
     {trigger: "([A-Za-z])sum", replacement: "\\sum_{[[0]]=${0:0}}^{${1:\\infty}} $2", options: "rmA"},
 	{trigger: "([A-Za-z])ssum", replacement: "\\sum_{[[0]]\\in ${0:\\mathbb{N}}} $1", options: "rmA"},
+	
 	
     {trigger: "([A-Za-z])prod", replacement: "\\prod_{[[0]]=${0:0}}^{${1:\\infty}} $2", options: "rmA"},
 	{trigger: "([A-Za-z])sprod", replacement: "\\prod_{[[0]]\\in ${0:\\mathbb{N}}} $1", options: "rmA"},

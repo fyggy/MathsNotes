@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf39ef1e75a71a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Boundary and Interior of a Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md",
+                "file": "6. Boundary and Interior of a Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md",
+                "file": "6. Boundary and Interior of a Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Classification of the Simple Complex Lie Algebras.md"
+                "file": "6. Boundary and Interior of a Set.md"
               }
             }
           },
@@ -157,13 +170,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "478010b1c135b77d",
+  "active": "bf39ef1e75a71a25",
   "lastOpenFiles": [
+    "6. Boundary and Interior of a Set.md",
+    "The Classification of the Simple Complex Lie Algebras.md",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
     "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
     "Pasted image 20240226125749.png",
     "Homework/LinearAlgGeo2 HW5.pdf",
-    "The Classification of the Simple Complex Lie Algebras.md",
     "Homework/DynamicalSystemsHW5.pdf",
     "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Textbooks/Linear Algebra - Werner Greub.pdf",
