@@ -114,4 +114,12 @@ We now dive in head first into the structure of the semisimple Lie algebras. Let
 $$
 \mathfrak{g} = \bigoplus_{\alpha \in \Delta} \mathfrak{g}_{\alpha}=\mathfrak{g}_{0} \oplus \mathfrak{g}_{\alpha_{1}} \oplus \mathfrak{g}_{\alpha_{2}}\oplus \dots
 $$
-Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h)$. Therefore, the trace of 
+It may be shown that, given roots ${} \alpha {} {}$, ${} \beta {}$, if ${} \alpha+\beta {}$ is a root, then
+$$
+[\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] \subseteq \mathfrak{g}_{\alpha+\beta}
+$$
+and otherwise, 
+$$
+[\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] =0
+$$
+The proof requires tensor products and a time consuming induction, so I'm afraid is beyond the scope of this talk, so it shall be taken for granted. Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h)$. Therefore, 
