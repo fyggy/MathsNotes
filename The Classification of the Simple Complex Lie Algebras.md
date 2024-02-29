@@ -122,7 +122,7 @@ and otherwise,
 $$
 [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] =0
 $$
-The proof requires tensor products and a time consuming induction, so I'm afraid is beyond the scope of this talk, so it shall be taken for granted. Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h) {}$. Therefore, the matrix corresponding to the restriction of ${} \ad h {}$ to ${} \mathfrak{g}_{\alpha} {}$ is of the form
+The proof requires tensor products and a time consuming induction, so I'm afraid is beyond the scope of this talk, so it shall be taken for granted.Now recall that the restriction of $\ad h$ to $\mathfrak{g}_{\alpha}$ has only one eigenvalue, ${} \alpha(h) {}$. Therefore, the matrix corresponding to the restriction of ${} \ad h {}$ to ${} \mathfrak{g}_{\alpha} {}$ is of the form
 $$
 \begin{pmatrix}
 \alpha(h) & 0 & \dots & 0 \\
@@ -139,3 +139,6 @@ for some ${} h,\, k \in \mathfrak{h} {}$. If we now write ${} \mathfrak{h}^{*} {
 $$
 (\alpha,\, \beta)=(\mathbf{h}_{\alpha},\, \mathbf{h}_{\beta})=\alpha(\mathbf{h}_{\beta})=\beta(\mathbf{h}_{\alpha})
 $$
+it's immediate that this is again bilinear, symmetric, and non-degenerate. It is more difficult, too difficult for this talk, to show that ${} (\alpha,\, \alpha)\neq 0 {}$ for all nonzero roots. 
+
+Now if we let ${} e_{\alpha} \in \mathfrak{g}_{\alpha} {}$ such that it is an eigenvector for all $\ad h$, then 
