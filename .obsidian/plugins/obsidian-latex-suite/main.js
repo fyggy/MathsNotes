@@ -7683,6 +7683,7 @@ function conceal(view) {
           ...concealModifier(eqn, "dot", "\u0307"),
           ...concealModifier(eqn, "ddot", "\u0308"),
           ...concealModifier(eqn, "overline", "\u0304"),
+          ...concealModifier(eqn, "conj", "\u0304"),
           ...concealModifier(eqn, "bar", "\u0304"),
           ...concealModifier(eqn, "tilde", "\u0303"),
           ...concealModifier(eqn, "vec", "\u20D7"),
