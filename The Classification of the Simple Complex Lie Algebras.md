@@ -150,6 +150,14 @@ While planning this talk I didn't want to do this, I'm afraid I'm going to have 
 2. If $\alpha,\, \beta {}$ are roots and $\alpha+\beta {}$ is also a root, then ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] \subseteq \mathfrak{g}_{\alpha+\beta} {}$, otherwise, ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}]=0 {}$.
 If you are familiar with the tensor product, then this can be seen by seeing that ${} \mathfrak{g}_{\alpha}\otimes \mathfrak{g}_{\beta} {}$ has a root of $\alpha+\beta {}$.
 3. If ${} \alpha {}$ is a nonzero root, then the only complex ${} k {}$ such that ${} k\alpha {}$ is a root is ${} k=-1,\, 0,\, 1 {}$, and ${} -\alpha {}$ is always a root. Moreover, ${} \dim \mathfrak{g}_{\alpha}=1 {}$
-4. The dual space , of ${} \mathfrak{h} {}$, the space of all linear functionals ${} \rho:\mathfrak{h}\to{}\mathbb{C} {}$, written ${} \mathfrak{h}^{*} {}$, is spanned by all roots $\alpha$. Let $l$ be the dimension of ${} \mathfrak{h} {}$, that is, the number of linearly independent roots
+4. The dual space , of ${} \mathfrak{h} {}$, the space of all linear functionals ${} \rho:\mathfrak{h}\to{}\mathbb{C} {}$, written ${} \mathfrak{h}^{*} {}$, is spanned by all roots $\alpha$. Let ${} \ell {}$ be the dimension of ${} \mathfrak{h} {}$, that is, the number of linearly independent roots
 This tells us that we have an isomorphism, ${} \mathbf{h}:\mathfrak{h}^{*}\to{}\mathfrak{h} {}$, mapping from each root ${} \alpha\to{}\mathbf{h}(\alpha)=\mathbf{h}_{\alpha} {}$ an element such that for all ${} h \in \mathfrak{h} {}$, ${} (\mathbf{h}_{\alpha},\, h)=\alpha(h) {}$. This allows us to induce a symmetric bilinear non-degenerate form on ${} \mathfrak{h}^{*}$ by, given 2 roots, ${} (\alpha,\, \beta)=(\mathbf{h}_{\alpha},\, \mathbf{h}_{\beta})=\alpha(\mathbf{h}_{\beta})=\beta(\mathbf{h}_{\alpha}) {}$. This leads us to fact 5:
-5. For all roots $\alpha$, there exist some ${} e_{\alpha} \in \mathfrak{g}_{\alpha} {}$ and ${} e_{-\alpha} \in \mathfrak{g}_{-\alpha} {}$ with ${} [e_{\alpha},\, e_{-\alpha}]=\mathbf{h}_{\alpha} {}$.
+5. For all roots $\alpha {}$, there exist some ${} \mathbf{e}_{\alpha} \in \mathfrak{g}_{\alpha} {}$ and ${} \mathbf{e}_{-\alpha} \in \mathfrak{g}_{-\alpha} {}$ with ${} [\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha}]=\mathbf{h}_{\alpha} {}$.
+6. for all nonzero roots, ${} (\alpha,\, \alpha)\neq 0 {}$. (for some reason the best proof of this I could find is long, tedious, and not very insightful)
+This leaves us in the following position. We may decompose ${} \mathfrak{g} {}$ by $\mathfrak{h} {}$ as
+$$
+\mathfrak{g}=\mathfrak{h} \oplus \mathfrak{g}_{\alpha} \oplus \mathfrak{g}_{-\alpha} \oplus \mathfrak{g}_{\beta} \oplus \dots
+$$
+with $\ell$ linearly independent roots, and each ${} \mathfrak{g}_{\alpha}=\mathbf{e}_{\alpha} \mathbb{C} {}$ is one dimensional, and ${} [\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha}]=\mathbf{h}_{\alpha} {}$, where ${} (\mathbf{h}_{\alpha},\, h)=\alpha(h) {}$. Also, if $\beta$ is a nonzero multiple of another nonzero root $\alpha$, then ${} \beta=-\alpha_{}. {}$ 
+
+Now we do our best to establish a theorem which blows the structure wide open. As it turns out, we may construct a canonical basis for every semisimple Lie algebra out of only the ${} e$
