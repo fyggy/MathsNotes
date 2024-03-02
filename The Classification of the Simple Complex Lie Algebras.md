@@ -201,3 +201,16 @@ $$
 \end{pmatrix}
 $$
 where $N {}$ is the dimension of $\mathfrak{g} {}$. Note that ${} \ell=\dim \mathfrak{h} {}$ of the roots shall be zero, and the rest shall be distinct. It is clear that the restriction of ${} \ad h$ to ${} \mathfrak{g}_{\alpha} {}$ is simply equal to multiplication by ${} \alpha(h) {}$. 
+
+ Now if ${} \alpha,\, \beta {}$ are roots, then we have integers ${} q,\, r {}$ such that ${} \beta+q\alpha {}$ is a root but ${} \beta+(q+1)\alpha {}$ isn't, and ${} \beta-r\alpha {}$ is a root but ${} \beta-(r+1)\alpha {}$ isn't. We have that if ${} -r\leq k\leq q {}$, then ${} \beta+k\alpha {}$ is a root. Sadly, we shall have to wave the magic representation-theory wand again, and see in the crystal ball that $$
+\frac{2(\beta,\, \alpha)}{(\alpha,\, \alpha)}=r-q
+$$
+The good news is that we can do better. Call the $\alpha$-string containing $\beta$ the arithmetic progression
+$$
+\beta-r\alpha,\, \beta-(r-1)\alpha,\,\dots,\,\beta+q\alpha
+$$
+Assume that ${} \beta\neq\alpha, {}$ or ${} \neq-\alpha {}$, as we know what happens there (${} r=q=1 {}$). Assume that we have at least 5 roots, relabelling such that they are
+$$
+\beta-2\alpha,\, \quad \beta-\alpha,\, \quad \beta\phantom{+\alpha},\,\quad  \beta+\alpha,\, \quad \beta+2\alpha
+$$
+
