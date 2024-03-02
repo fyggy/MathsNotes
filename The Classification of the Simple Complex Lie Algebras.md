@@ -65,7 +65,7 @@ Since $\tr {}$ is linear and symmetric, then this is a symmetric bilinear form. 
 
 We now dive in head first into the structure of the semisimple Lie algebras. Let ${} \mathfrak{g}$ be a semisimple finite dimensional Lie algebra over $\mathbb{C}$, let $\mathfrak{h} {}$ be a Cartan subalgebra, and let $\Delta$ be the set of it's roots. We see that $0$, the functional that maps all ${} h \in \mathfrak{h} {}$ to $0$, is a root, as ${} (\ad h)(h)=0h {}$ for all $h$, so $0$ is an eigenvalue for every $\ad h$. We also see that ${} \mathfrak{g}_{0}=\{ x \in \mathfrak{g} \mid \forall h \in \mathfrak{h}:(\ad h)^{k}(x)=0 \text{ for some }k \} {}$ contains $\mathfrak{h} {}$, as if ${} h \in \mathfrak{h} {}$, then ${} (\ad h)(k)=[h,\, k]=0 {}$ for all ${} k \in \mathfrak{h} {}$, so it is in ${} \mathfrak{g}_{0} {}$. 
 
-While planning this talk I didn't want to do this, I'm afraid I'm going to have to provide several proofs by magic, chiefly due to time constraints. So, I will ask you to accept without proof the following facts:
+While planning this talk I didn't want to do this, I'm afraid I'm going to have to provide several proofs by magic and clairvoyance, chiefly due to time constraints. So, I will ask you to accept without proof the following facts:
 1. ${} \mathfrak{g}_{0} {}$ is abelian. Since ${} \mathfrak{h} {}$ is maximal abelian and contains $\mathfrak{g}_{0} {}$, then ${} \mathfrak{h}=\mathfrak{g}_{0} {}$.
 2. If $\alpha,\, \beta {}$ are roots and $\alpha+\beta {}$ is also a root, then ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] \subseteq \mathfrak{g}_{\alpha+\beta} {}$, otherwise, ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}]=0 {}$.
 If you are familiar with the tensor product, then this can be seen by seeing that ${} \mathfrak{g}_{\alpha}\otimes \mathfrak{g}_{\beta} {}$ has a root of $\alpha+\beta {}$.
@@ -88,11 +88,11 @@ $$
 $$
 Thanks to the same magic that we can choose ${} \mathbf{e}_{\alpha} {}$ and ${} \mathbf{e}_{-\alpha} {}$, we have that
 $$
-[\mathbf{h}_{\alpha},\, \mathbf{e}_{\alpha}]=(\alpha,\, \alpha)\mathbf{e}_{\alpha}
+[\mathbf{h}_{\alpha},\, \mathbf{e}_{\alpha}]=\alpha(\mathbf{h}_{\alpha})\mathbf{e}_{\alpha}=(\alpha,\, \alpha)\mathbf{e}_{\alpha}
 $$
 and
 $$
-[\mathbf{h}_{\alpha},\, \mathbf{e}_{-\alpha}]=-(\alpha,\, \alpha)\mathbf{e}_{-\alpha}
+[\mathbf{h}_{\alpha},\, \mathbf{e}_{-\alpha}]=-\alpha(\mathbf{h}_{\alpha})\mathbf{e}_{-\alpha}=-(\alpha,\, \alpha)\mathbf{e}_{-\alpha}
 $$
 and if we set
 $$
