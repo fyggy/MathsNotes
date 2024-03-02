@@ -158,6 +158,30 @@ This leaves us in the following position. We may decompose ${} \mathfrak{g} {}$ 
 $$
 \mathfrak{g}=\mathfrak{h} \oplus \mathfrak{g}_{\alpha} \oplus \mathfrak{g}_{-\alpha} \oplus \mathfrak{g}_{\beta} \oplus \dots
 $$
-with $\ell$ linearly independent roots, and each ${} \mathfrak{g}_{\alpha}=\mathbf{e}_{\alpha} \mathbb{C} {}$ is one dimensional, and ${} [\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha}]=\mathbf{h}_{\alpha} {}$, where ${} (\mathbf{h}_{\alpha},\, h)=\alpha(h) {}$. Also, if $\beta$ is a nonzero multiple of another nonzero root $\alpha$, then ${} \beta=-\alpha_{}. {}$ 
+with $\ell$ linearly independent roots, and each ${} \mathfrak{g}_{\alpha}=\mathbf{e}_{\alpha} \mathbb{C} {}$ is one dimensional, and ${} [\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha}]=\mathbf{h}_{\alpha} {}$, where ${} (\mathbf{h}_{\alpha},\, h)=\alpha(h) {}$, and the ${} \mathbf{h}_{\alpha} {}$ span $\mathfrak{h} {}$. Also, if ${} \beta$ is a nonzero multiple of another nonzero root $\alpha$, then ${} \beta=-\alpha_{}. {}$ 
 
-Now we do our best to establish a theorem which blows the structure wide open. As it turns out, we may construct a canonical basis for every semisimple Lie algebra out of only the ${} e$
+Now we do our best to establish a theorem which blows the structure wide open. First, let
+$$
+\mathfrak{L}_{\alpha}=\mathfrak{g}_{\alpha} \oplus  \mathfrak{g}_{-\alpha} \oplus  \mathfrak{h}=\span\{\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha},\, \mathfrak{h}\}
+$$
+and let
+$$
+\mathfrak{M}_{\alpha}= \span\{\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha},\, \mathbf{h}_{\alpha}\}
+$$
+Thanks to the same reason that we can choose $\mathbf{e}_{\alpha} {}$ and ${} \mathbf{e}_{-\alpha} {}$, we have that
+$$
+[\mathbf{h}_{\alpha},\, \mathbf{e}_{\alpha}]=(\alpha,\, \alpha)\mathbf{e}_{\alpha}
+$$
+and
+$$
+[\mathbf{h}_{\alpha},\, \mathbf{e}_{-\alpha}]=-(\alpha,\, \alpha)\mathbf{e}_{-\alpha}
+$$
+and if we set
+$$
+\mathbf{e}'_{\alpha}=\mathbf{e}_{\alpha},\, \qquad \mathbf{e}_{-\alpha}'=\frac{2\mathbf{e}_{-\alpha}}{(\alpha,\, \alpha)},\, \qquad \mathbf{h}_{\alpha}'=\frac{2\mathbf{h}_{\alpha}}{(\alpha,\, \alpha)}
+$$
+then we get the relations
+$$
+[\mathbf{e}_{\alpha}',\, \mathbf{e}_{-\alpha}']=\mathbf{h}_{\alpha}',\, \qquad [\mathbf{h}'_{\alpha},\, \mathbf{e}_{\alpha}']=2\mathbf{e}_{\alpha}',\, \qquad [\mathbf{h}_{\alpha}',\, \mathbf{e}_{-\alpha}']=-2\mathbf{e}'_{-\alpha}
+$$
+If you're paying attention, you may notice this as exactly the relations for the Lie algebra ${} \mathfrak{sl}_{2}(\mathbb{C}) {}$.

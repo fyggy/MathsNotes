@@ -100,11 +100,11 @@
 	{trigger: "Sp", replacement: "\\mathrm{Sp}", options: "mA"}, 
 	
 	// Lie algebras
-	{trigger: "sl#", replacement: "\\mathfrak{sl}", options: "mA"}, 
-	{trigger: "gl#", replacement: "\\mathfrak{gl}", options: "mA"}, 
-	{trigger: "so#", replacement: "\\mathfrak{so}", options: "mA"}, 
-	{trigger: "su#", replacement: "\\mathfrak{su}", options: "mA"}, 
-	{trigger: "sp#", replacement: "\\mathfrak{sp}", options: "mA"}, 
+	{trigger: "sl#", replacement: "\\mathfrak{sl}", options: "mA", priority: 1}, 
+	{trigger: "gl#", replacement: "\\mathfrak{gl}", options: "mA", priority: 1}, 
+	{trigger: "so#", replacement: "\\mathfrak{so}", options: "mA", priority: 1}, 
+	{trigger: "su#", replacement: "\\mathfrak{su}", options: "mA", priority: 1}, 
+	{trigger: "sp#", replacement: "\\mathfrak{sp}", options: "mA", priority: 1}, 
 	
 	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
 	{trigger: "2perm", replacement: "\\begin{pmatrix}1&2\\\\ $0 & $1 \\end{pmatrix} $2", options: "mA"},
