@@ -195,6 +195,6 @@ $$
 0 & \alpha_{2}(h) & 0 & \dots & 0 \\
 0 & 0 & \alpha_{3}(h) & \dots & 0 \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
-0 & 0 & 0 & \dots & \alpha_{\ell}(h)
+0 & 0 & 0 & \dots & \alpha_{N}(h)
 \end{pmatrix}
 $$
