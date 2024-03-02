@@ -141,4 +141,15 @@ $$
 $$
 it's immediate that this is again bilinear, symmetric, and non-degenerate. It is more difficult, too difficult for this talk, to show that ${} (\alpha,\, \alpha)\neq 0 {}$ for all nonzero roots. 
 
-Now if we let ${} e_{\alpha} \in \mathfrak{g}_{\alpha} {}$ such that it is an eigenvector for all $\ad h$, then 
+Now if we let ${} e_{\alpha} \in \mathfrak{g}_{\alpha} {}$ such that it is an eigenvector for all $\ad h$, then
+
+We now dive in head first into the structure of the semisimple Lie algebras. Let $\mathfrak{g}$ be a semisimple finite dimensional Lie algebra over $\mathbb{C}$, let $\mathfrak{h} {}$ be a Cartan subalgebra, and let $\Delta$ be the set of it's roots. We see that $0$, the functional that maps all ${} h \in \mathfrak{h} {}$ to $0$, is a root, as ${} (\ad h)(h)=0h {}$ for all $h$, so $0$ is an eigenvalue for every $\ad h$. We also see that ${} \mathfrak{g}_{0}=\{ x \in \mathfrak{g} \mid \forall h \in \mathfrak{h}:(\ad h)^{k}(x)=0 \text{ for some }k \} {}$ contains $\mathfrak{h} {}$, as if ${} h \in \mathfrak{h} {}$, then ${} (\ad h)(k)=[h,\, k]=0 {}$ for all ${} k \in \mathfrak{h} {}$, so it is in ${} \mathfrak{g}_{0} {}$. 
+
+While planning this talk I didn't want to do this, I'm afraid I'm going to have to provide several proof by "trust me" style facts, chiefly due to time constraints. So, I will ask you to accept without proof the following facts:
+1. ${} \mathfrak{g}_{0} {}$ is abelian. Since ${} \mathfrak{h} {}$ is maximal abelian and contains $\mathfrak{g}_{0} {}$, then ${} \mathfrak{h}=\mathfrak{g}_{0} {}$.
+2. If $\alpha,\, \beta {}$ are roots and $\alpha+\beta {}$ is also a root, then ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}] \subseteq \mathfrak{g}_{\alpha+\beta} {}$, otherwise, ${} [\mathfrak{g}_{\alpha},\, \mathfrak{g}_{\beta}]=0 {}$.
+If you are familiar with the tensor product, then this can be seen by seeing that ${} \mathfrak{g}_{\alpha}\otimes \mathfrak{g}_{\beta} {}$ has a root of $\alpha+\beta {}$.
+3. If ${} \alpha {}$ is a nonzero root, then the only complex ${} k {}$ such that ${} k\alpha {}$ is a root is ${} k=-1,\, 0,\, 1 {}$, and ${} -\alpha {}$ is always a root. Moreover, ${} \dim \mathfrak{g}_{\alpha}=1 {}$
+4. The dual space , of ${} \mathfrak{h} {}$, the space of all linear functionals ${} \rho:\mathfrak{h}\to{}\mathbb{C} {}$, written ${} \mathfrak{h}^{*} {}$, is spanned by all roots $\alpha$. Let $l$ be the dimension of ${} \mathfrak{h} {}$, that is, the number of linearly independent roots
+This tells us that we have an isomorphism, ${} \mathbf{h}:\mathfrak{h}^{*}\to{}\mathfrak{h} {}$, mapping from each root ${} \alpha\to{}\mathbf{h}(\alpha)=\mathbf{h}_{\alpha} {}$ an element such that for all ${} h \in \mathfrak{h} {}$, ${} (\mathbf{h}_{\alpha},\, h)=\alpha(h) {}$. This allows us to induce a symmetric bilinear non-degenerate form on ${} \mathfrak{h}^{*}$ by, given 2 roots, ${} (\alpha,\, \beta)=(\mathbf{h}_{\alpha},\, \mathbf{h}_{\beta})=\alpha(\mathbf{h}_{\beta})=\beta(\mathbf{h}_{\alpha}) {}$. This leads us to fact 5:
+5. For all roots $\alpha$, there exist some ${} e_{\alpha} \in \mathfrak{g}_{\alpha} {}$ and ${} e_{-\alpha} \in \mathfrak{g}_{-\alpha} {}$ with ${} [e_{\alpha},\, e_{-\alpha}]=\mathbf{h}_{\alpha} {}$.

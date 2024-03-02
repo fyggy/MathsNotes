@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Boundary and Interior of a Set.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Boundary and Interior of a Set.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Boundary and Interior of a Set.md"
+                "file": "The Classification of the Simple Complex Lie Algebras.md"
               }
             }
           },
@@ -170,7 +169,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bf39ef1e75a71a25",
+  "active": "478010b1c135b77d",
   "lastOpenFiles": [
     "6. Boundary and Interior of a Set.md",
     "The Classification of the Simple Complex Lie Algebras.md",
