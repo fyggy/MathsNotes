@@ -168,7 +168,7 @@ and let
 $$
 \mathfrak{M}_{\alpha}= \span\{\mathbf{e}_{\alpha},\, \mathbf{e}_{-\alpha},\, \mathbf{h}_{\alpha}\}
 $$
-Thanks to the same reason that we can choose $\mathbf{e}_{\alpha} {}$ and ${} \mathbf{e}_{-\alpha} {}$, we have that
+Thanks to the same magic that we can choose ${} \mathbf{e}_{\alpha} {}$ and ${} \mathbf{e}_{-\alpha} {}$, we have that
 $$
 [\mathbf{h}_{\alpha},\, \mathbf{e}_{\alpha}]=(\alpha,\, \alpha)\mathbf{e}_{\alpha}
 $$
@@ -184,4 +184,17 @@ then we get the relations
 $$
 [\mathbf{e}_{\alpha}',\, \mathbf{e}_{-\alpha}']=\mathbf{h}_{\alpha}',\, \qquad [\mathbf{h}'_{\alpha},\, \mathbf{e}_{\alpha}']=2\mathbf{e}_{\alpha}',\, \qquad [\mathbf{h}_{\alpha}',\, \mathbf{e}_{-\alpha}']=-2\mathbf{e}'_{-\alpha}
 $$
-If you're paying attention, you may notice this as exactly the relations for the Lie algebra ${} \mathfrak{sl}_{2}(\mathbb{C}) {}$.
+If you're paying attention, you may notice this as exactly the relations for the Lie algebra ${} \mathfrak{sl}_{2}(\mathbb{C}) {}$. Thanks to the magical beyond-scope representation theory of ${} \mathfrak{sl}_{2}(\mathbb{C}) {}$, there exists a basis for $\mathfrak{g}$ such that $\ad \mathbf{h}_{\alpha} {}$ is diagonal; recall that in the original example, then ${} h=\begin{pmatrix}1 & 0 \\ 0 & -1 \end{pmatrix}  {}$. In fact, since ${} \mathfrak{h} {}$ is abelian, then
+$$
+(\ad \mathbf{h}_{\alpha})(\ad \mathbf{h}_{\beta})= (\ad \mathbf{h}_{\beta}) (\ad  \mathbf{h}_{\alpha})
+$$
+and there exists a basis for ${} \mathfrak{g} {}$ such that *all* ${} \ad \mathbf{h}_{\alpha} {}$ are diagonal, so every ${} \ad h \in \ad \mathfrak{h} {}$ is diagonal. Now the eigenvalues of each $\ad h {}$ are exactly the roots, that is, for some ordering of the roots ${} \alpha_{i} {}$, we have some basis ${} y_{i} {}$ of ${} \mathfrak{g} {}$ with
+$$
+\ad h= \begin{pmatrix}
+\alpha_{1}(h) & 0 & 0 & \dots & 0 \\
+0 & \alpha_{2}(h) & 0 & \dots & 0 \\
+0 & 0 & \alpha_{3}(h) & \dots & 0 \\
+\vdots & \vdots & \vdots & \ddots & \vdots \\
+0 & 0 & 0 & \dots & \alpha_{\ell}(h)
+\end{pmatrix}
+$$
