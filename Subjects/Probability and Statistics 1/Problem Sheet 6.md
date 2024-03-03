@@ -88,5 +88,6 @@ $$
 a)
 ${} N\sim \mathrm{Geometric}(0.1) {}$, and 
 $$
-G_{N}(s)=\frac{ 1-0.1 }{ 1-0.1s }
+G_{N}(s)=\frac{ 0.1 }{ 1-0.9s }
 $$
+b)
