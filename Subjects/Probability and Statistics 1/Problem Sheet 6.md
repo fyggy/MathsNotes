@@ -44,4 +44,41 @@ $$
   & =1-(\mathbb{P}(F+H=0)+\mathbb{P}(F+H=1)+\mathbb{P}(F+H=2))   
  \end{align}
 $$
-Let $E=F+H {}$. 
+Let $E=F+H {}$. Let ${} G_{E}(s) {}$ be the probability generating function of $E$. Now
+$$
+\begin{align}
+ G_{E}(s) & =\mathbb{E}(s^{E})   \\
+ & =\mathbb{E}(s^{F}s^{H}) \\
+ & =\mathbb{E}(s^{F})\mathbb{E}(s^{H}) \\
+ & =e^{3(s-1)}e^{{5(s-1)}} \\
+ & =e^{8(s-1)} \\
+\Rightarrow E & \sim \mathrm{Poisson}(8)
+ \end{align}
+$$
+Now
+$$
+\begin{align}
+ \mathbb{P}(E\geq 3)  & =1-\mathbb{P}(E\leq 2) \\
+ & =1-\left( \sum_{n=0}^{2}p_{E}(n) \right) \\
+ & =1-\left( \sum_{n=0}^{2} \frac{e^{-8}8^{n}}{n!}  \right)  \\
+ & =0.986256032256\dots
+ \end{align}
+$$
+b)
+Let $A {}$ be the event that the guest has falcons as their favourite bird and ${} B$ be the event that the guest has hawks as their favourite bird. Let $Z$ be the random variable representing the number of time that guests favourite bird is seen. Now
+$$
+\begin{align}
+ \mathbb{E}(Z) & =\mathbb{E}(Z\mid A) \mathbb{P}(A) +\mathbb{E}(Z \mid B) \mathbb{P}(B)   \\
+ & =3 \cdot  \frac{2}{3}+5 \cdot  \frac{1}{3} \\
+ & =\frac{11}{3}=3.6\conj{66}\dots
+ \end{align}
+$$
+c)
+Now let $C {}$ be the event that the vehicle breaks down. We assume that ${} A,\, B,\, C {}$ are all independent (unless hawk enthusiasts have a penchant for destroying vehicles), and recall that ${} A^{\mathrm{c}}=B {}$. Now
+$$
+\begin{align}
+ \mathbb{E}(Z)  & = \mathbb{E}(Z \mid A \cap C)\mathbb{P}(A \cap C)+\mathbb{E}(Z \mid B \cap C) \mathbb{P}(B \cap C) \\
+ & +\mathbb{E}(Z \mid (A \cap C)^{\mathrm{c}})\mathbb{P}((A \cap C)^{\mathrm{c}})+\mathbb{E}(Z \mid (B \cap C)^{\mathrm{c}}) \mathbb{P}((B \cap C)^{\mathrm{c}}) \\
+ & =0+\mathbb{E}(Z \mid A)
+ \end{align}
+$$
