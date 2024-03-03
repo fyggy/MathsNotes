@@ -74,11 +74,19 @@ $$
  \end{align}
 $$
 c)
-Now let $C {}$ be the event that the vehicle breaks down. We assume that ${} A,\, B,\, C {}$ are all independent (unless hawk enthusiasts have a penchant for destroying vehicles), and recall that ${} A^{\mathrm{c}}=B {}$. Now
+Now let $C {}$ be the event that the vehicle breaks down. We assume that ${} A,\, B,\, C {}$ are all independent (unless hawk enthusiasts have a penchant for destroying vehicles).
 $$
 \begin{align}
  \mathbb{E}(Z)  & = \mathbb{E}(Z \mid A \cap C)\mathbb{P}(A \cap C)+\mathbb{E}(Z \mid B \cap C) \mathbb{P}(B \cap C) \\
- & +\mathbb{E}(Z \mid (A \cap C)^{\mathrm{c}})\mathbb{P}((A \cap C)^{\mathrm{c}})+\mathbb{E}(Z \mid (B \cap C)^{\mathrm{c}}) \mathbb{P}((B \cap C)^{\mathrm{c}}) \\
- & =0+\mathbb{E}(Z \mid A)
+ & +\mathbb{E}(Z \mid A \cap C^{\mathrm{c}})\mathbb{P}(A \cap C^{\mathrm{c}})+\mathbb{E}(Z \mid B \cap C^{\mathrm{c}}) \mathbb{P}(B \cap C^{\mathrm{c}}) \\
+ & =0+\mathbb{E}(Z \mid A)\mathbb{P}(A)\mathbb{P}(C^{\mathrm{c}})+\mathbb{E}(Z\mid B)\mathbb{P}(B)\mathbb{P}(C^{\mathrm{c}}) \\
+ & =3 \cdot \frac{2}{3}\cdot  \frac{19}{20}+5 \cdot  \frac{1}{3}\cdot \frac{19}{20} \\
+ & =\frac{209}{60}=3.483\conj{33}\dots
  \end{align}
+$$
+3. 
+a)
+${} N\sim \mathrm{Geometric}(0.1) {}$, and 
+$$
+G_{N}(s)=\frac{ 1-0.1 }{ 1-0.1s }
 $$
