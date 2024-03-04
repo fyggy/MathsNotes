@@ -113,12 +113,13 @@ where $N {}$ is the dimension of $\mathfrak{g} {}$. Note that ${} \ell=\dim \mat
  Now if ${} \alpha,\, \beta {}$ are roots, then we have integers ${} q,\, r {}$ such that ${} \beta+q\alpha {}$ is a root but ${} \beta+(q+1)\alpha {}$ isn't, and ${} \beta-r\alpha {}$ is a root but ${} \beta-(r+1)\alpha {}$ isn't. We have that if ${} -r\leq k\leq q {}$, then ${} \beta+k\alpha {}$ is a root. Sadly, we shall have to wave the magic representation-theory wand again, and see in the crystal ball that $$
 \frac{2(\beta,\, \alpha)}{(\alpha,\, \alpha)}=r-q
 $$
-The basic idea behind this comes from the subalgebra ${} \mathfrak{L}_{\alpha}=\mathfrak{g}_{\alpha} \oplus \mathfrak{g}_{-\alpha} \oplus  \mathfrak{h} {}$, where we consider subsets of $\mathfrak{g} {}$ which are stable under $\ad \mathfrak{L}_{\alpha} {}$. These subsets have at least one root $M {}$ and an associated simultaneous eigenvector ${} y$, and ${} H=\ad \mathbf{h}_{\alpha}' {}$ from above gives 
+The basic idea behind this comes from the subalgebra ${} \mathfrak{L}_{\alpha}=\mathfrak{g}_{\alpha} \oplus \mathfrak{g}_{-\alpha} \oplus  \mathfrak{h} {}$, where we consider subspaces of ${} \mathfrak{g} {}$ which are stable under $\ad \mathfrak{L}_{\alpha} {}$. These subsets have at least one root $M {}$ and an associated simultaneous eigenvector ${} y$, and ${} H=\ad \mathbf{h}_{\alpha}' {}$ from above gives 
 $$
 H(y)= \frac{2(M,\, \alpha)}{(\alpha,\, \alpha)}
 $$
+Where this is known to be an integer. Then, by fiddling around with roots, the value above can be obtained for any 2 roots.
 
-The good news is that we can do better. Call the ${} \alpha$-string containing $\beta$ the arithmetic progression
+The good news, however, is that we can do better. Call the ${} \alpha$-string containing $\beta$ the arithmetic progression
 $$
 \beta-r\alpha,\, \beta-(r-1)\alpha,\,\dots,\,\beta+q\alpha
 $$
@@ -133,7 +134,7 @@ $$
 2(\alpha+\beta) & =(\beta+2\alpha)+\beta
  \end{align}
 $$
-are not roots, so the ${} \beta {}$-string containing ${} \beta+2\alpha {}$ has only one element. Therefore, we have ${} r=q=1 {}$, so 
+are not roots, so the ${} \beta {}$-string containing ${} \beta+2\alpha {}$ has only one element. Therefore, we have ${} r=q=0 {}$, so 
 $$
 \frac{2(\beta+2\alpha,\, \beta)}{(\beta,\, \beta)}=r-q=0
 $$
@@ -145,4 +146,9 @@ which contradicts one of our facts from earlier that ${} (\beta,\, \beta)\neq 0$
 $$
 \frac{2(\beta,\, \alpha)}{(\alpha,\, \alpha)}=0,\, \pm1,\, \pm 2,\, \pm 3
 $$
-This *heavily* restricts the geometry of the roots 
+This *heavily* restricts the geometry of the roots. Finally, to restrict it even further, we introduce our last magical fact: if ${} \alpha,\, \beta {}$ are roots, then
+$$
+\beta'=\beta-\frac{2(\beta,\, \alpha)}{(\alpha,\, \alpha)}\alpha
+$$
+is a root. You may recognise this as the reflection around the hyperplane ${} \alpha^{\perp} {}$ of roots perpendicular to $\alpha$. This maps ${} \alpha\to{}-\alpha {}$.
+
