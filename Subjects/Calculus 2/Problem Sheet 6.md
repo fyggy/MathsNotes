@@ -14,4 +14,3 @@ f_{yy}(x,\, y) & =-2
 $$
 so the determinant of the hessian is ${} 2\cdot (-2)-2^{2}=-8 {}$, so ${} (-3 /4,\, 3 /4) {}$ is a saddle point.
 4.4.4:
-

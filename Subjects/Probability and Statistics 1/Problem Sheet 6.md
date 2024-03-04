@@ -91,4 +91,4 @@ $$
 G_{N}(s)=\frac{ 0.1 }{ 1-0.9s }
 $$
 b)
-If ${} X_{i}\sim\mathrm{Bernoulli}(0.25) {}$ for all ${} i {}$, then ${} X_{i}$
+If ${} X_{i}\sim\mathrm{Bernoulli}(0.25) {}$ for all ${} i {}$, then ${} X_{i} {}$
