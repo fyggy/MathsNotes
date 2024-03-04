@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "independantly",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9afcd23c210192dd",
+  "active": "8b5b4e9de2cf7162",
   "lastOpenFiles": [
     "Homework/PS1 participation 2.pdf",
     "Subjects/Probability and Statistics 1/Problem Sheet 6.md",

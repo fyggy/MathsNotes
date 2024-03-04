@@ -88,7 +88,7 @@ $$
 a)
 ${} N\sim \mathrm{Geometric}(0.1) {}$, and 
 $$
-G_{N}(s)=\frac{ 0.1 }{ 1-0.9s }
+G_{N}(s)=\frac{ 0.1s }{ 1-0.9s }
 $$
 b)
 If ${} X_{i}\sim\mathrm{Geometric}(0.25) {}$ for all ${} i {}$, then ${} X_{i} {}$ represents the gap between trips. Now the number of days in total will be
@@ -98,7 +98,7 @@ $$
 c)
 $$
 \begin{align}
- G_{D}(s) & =\sum_{n=1}^{N} \frac{0.25}{1-0.75s}   \\
+ G_{D}(s) & =\sum_{n=1}^{N} \frac{0.25s}{1-0.75s}   \\
  & =0.25\sum_{n=1}^{N}\sum_{k=0}^{\infty} (0.75s)^{k} \\
  & =0.25 \sum_{k=0}^{\infty} \sum_{n=1}^{N} (0.75s)^{k} \\
  & =0.25 \sum_{k=0}^{\infty} N
@@ -112,23 +112,18 @@ $$
  G_{D}(s) & = \mathbb{E}(s^{D})   \\
  & =\mathbb{E}(s^{X_{1}+\dots+X_{N}}) \\
  & =\mathbb{E}(s^{X_{1}})\cdot{\dots}\cdot \mathbb{E}(s^{X_{N}}) \\
- & =\prod_{i=1}^{N} \frac{0.25}{1-0.75s} \\
-  & =\left( \frac{0.25}{1-0.75s} \right)^{N} \\
- & =\mathbb{E}\left( \left( \frac{0.25}{1-0.75s} \right)^{N} \right) \\
- & =\frac{0.1}{1-0.9\left( \frac{0.25}{1-0.75s} \right)} \\
- & =\frac{0.1}{1-\frac{0.225}{1-0.75s}} \\
- & =\frac{0.1}{\frac{ 1-0.75s-0.225 }{ 1-0.75s }} \\
- & =\frac{0.1(1-0.75s)}{0.775-0.75s} \\
- & =0.1 \frac{0.225}{0.775-0.75s}+0.1 \frac{ 0.775-0.75s }{ 0.775-0.75s }  \\
- & =\frac{0.0225}{0.775-0.75s}+0.1 \\ 
- & = \frac{ 9 /310 }{ 1-30/31 s }+0.1
- \end{align}
+ & =\prod_{i=1}^{N} \frac{0.25s}{1-0.75s} \\
+  & =\left( \frac{0.25s}{1-0.75s} \right)^{N} \\
+ & =\mathbb{E}\left( \left( \frac{0.25s}{1-0.75s} \right)^{N} \right) \\
+ & =\frac{0.1\cdot \frac{0.25s}{1-0.75s}}{1-0.9\left( \frac{0.25s}{1-0.75s} \right)} \\
+ & =\frac{ 0.025s }{ (1-0.75s)-0.225s } \\
+ & =\frac{0.025s}{1-0.975s} \\
+ & =\frac{ 1/40\cdot s }{1-39 /40 \cdot s  }
+\end{align}
 $$
-Therefore, we have, for $D\geq 1 {}$
+Therefore, ${} D\sim \mathrm{Geometric}\left( \frac{1}{40} \right) {}$.
+d)
+The simpler way of doing things is to note that on each day, there is a a ${} 1/4 {}$ chance that she goes out, and independently, there is a ${} 1/10 {}$ chance that she then finds a golden eagle. Therefore, there is a ${} 1 /40 {}$ chance each day that she finds a golden eagle, so this is a geometric distribution and 
 $$
-D\sim \frac{10}{9} \mathrm{Geometric}\left( \frac{1}{31} \right)
-$$
-or for ${} D=0 {}$
-$$
-D~
+D\sim \mathrm{Geometric}\left( \frac{1}{40} \right)
 $$
