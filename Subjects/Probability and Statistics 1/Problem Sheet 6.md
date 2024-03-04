@@ -91,4 +91,36 @@ $$
 G_{N}(s)=\frac{ 0.1 }{ 1-0.9s }
 $$
 b)
-If ${} X_{i}\sim\mathrm{Bernoulli}(0.25) {}$ for all ${} i {}$, then ${} X_{i} {}$
+If ${} X_{i}\sim\mathrm{Geometric}(0.25) {}$ for all ${} i {}$, then ${} X_{i} {}$ represents the gap between trips. Now the number of days in total will be
+$$
+D=X_{1}+\dots+X_{N}
+$$
+c)
+$$
+\begin{align}
+ G_{D}(s) & =\sum_{n=1}^{N} \frac{0.25}{1-0.75s}   \\
+ & =0.25\sum_{n=1}^{N}\sum_{k=0}^{\infty} (0.75s)^{k} \\
+ & =0.25 \sum_{k=0}^{\infty} \sum_{n=1}^{N} (0.75s)^{k} \\
+ & =0.25 \sum_{k=0}^{\infty} N
+ \end{align}
+$$
+$$
+D=N
+$$
+$$
+\begin{align}
+ G_{D}(s) & = \mathbb{E}(s^{D})   \\
+ & =\mathbb{E}(s^{X_{1}+\dots+X_{N}}) \\
+ & =\mathbb{E}(s^{X_{1}})\cdot{\dots}\cdot \mathbb{E}(s^{X_{N}}) \\
+ & =\prod_{i=1}^{N} \frac{0.25}{1-0.75s} \\
+  & =\left( \frac{0.25}{1-0.75s} \right)^{N} \\
+ & =\mathbb{E}\left( \left( \frac{0.25}{1-0.75s} \right)^{N} \right) \\
+ & =\frac{0.1}{1-0.9\left( \frac{0.25}{1-0.75s} \right)} \\
+ & =\frac{0.1}{1-\frac{0.225}{1-0.75s}} \\
+ & =\frac{0.1}{\frac{ 1-0.75s-0.225 }{ 1-0.75s }} \\
+ & =\frac{0.1(1-0.75s)}{0.775-0.75s} \\
+ & =0.1 \frac{0.225}{0.775-0.75s}+0.1 \frac{ 0.775-0.75s }{ 0.775-0.75s }  \\
+ & =\frac{0.0225}{0.775-0.75s}+0.1 \\
+
+ \end{align}
+$$
