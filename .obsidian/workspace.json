@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/PS1 participation 2.pdf",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/PS1 participation 2.pdf",
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/PS1 participation 2.pdf"
+                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "893fe80e0f0979a0",
+  "active": "9afcd23c210192dd",
   "lastOpenFiles": [
-    "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
     "Homework/PS1 participation 2.pdf",
+    "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
     "Subjects/Calculus 2/Problem Sheet 6.md",
     "Homework/Calculus 2 HW6.pdf",
     "6. Boundary and Interior of a Set.md",
