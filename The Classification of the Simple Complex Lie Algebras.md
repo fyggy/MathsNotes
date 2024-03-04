@@ -1,4 +1,4 @@
-We start by defining Lie algberas. Given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map, the lie bracket from g to itself ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
+We start by defining Lie algebras. Given a vector space ${} \mathfrak{g} {}$ over some field $F$, we call $\mathfrak{g} {}$ a *Lie Algebra* if we have a bilinear map, the lie bracket from g to itself ${} [{}\cdot{} ,{}\cdot{} ]:\mathfrak{g}\times \mathfrak{g}\to{}\mathfrak{g} {}$ satisfying, for all ${} x,\, y,\, z \in \mathfrak{g} {}$, 
 $$
 \begin{align}
 [x,\, x] & =0\\
@@ -113,7 +113,12 @@ where $N {}$ is the dimension of $\mathfrak{g} {}$. Note that ${} \ell=\dim \mat
  Now if ${} \alpha,\, \beta {}$ are roots, then we have integers ${} q,\, r {}$ such that ${} \beta+q\alpha {}$ is a root but ${} \beta+(q+1)\alpha {}$ isn't, and ${} \beta-r\alpha {}$ is a root but ${} \beta-(r+1)\alpha {}$ isn't. We have that if ${} -r\leq k\leq q {}$, then ${} \beta+k\alpha {}$ is a root. Sadly, we shall have to wave the magic representation-theory wand again, and see in the crystal ball that $$
 \frac{2(\beta,\, \alpha)}{(\alpha,\, \alpha)}=r-q
 $$
-The good news is that we can do better. Call the $\alpha$-string containing $\beta$ the arithmetic progression
+The basic idea behind this comes from the subalgebra ${} \mathfrak{L}_{\alpha}=\mathfrak{g}_{\alpha} \oplus \mathfrak{g}_{-\alpha} \oplus  \mathfrak{h} {}$, where we consider subsets of $\mathfrak{g} {}$ which are stable under $\ad \mathfrak{L}_{\alpha} {}$. These subsets have at least one root $M {}$ and an associated simultaneous eigenvector ${} y$, and ${} H=\ad \mathbf{h}_{\alpha}' {}$ from above gives 
+$$
+H(y)= \frac{2(M,\, \alpha)}{(\alpha,\, \alpha)}
+$$
+
+The good news is that we can do better. Call the ${} \alpha$-string containing $\beta$ the arithmetic progression
 $$
 \beta-r\alpha,\, \beta-(r-1)\alpha,\,\dots,\,\beta+q\alpha
 $$

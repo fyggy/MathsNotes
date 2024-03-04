@@ -8,45 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9afcd23c210192dd",
+            "id": "2b65dabffa0a901b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "93b6c586e7fefb33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14cd8f8babe0e5bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/Calculus 2 HW6.pdf"
-              }
-            }
-          },
-          {
-            "id": "893fe80e0f0979a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Homework/PS1 participation 2.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
+                "file": "The Classification of the Simple Complex Lie Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Probability and Statistics 1/Problem Sheet 6.md"
+                "file": "The Classification of the Simple Complex Lie Algebras.md"
               }
             }
           },
@@ -185,12 +157,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b5b4e9de2cf7162",
+  "active": "2b65dabffa0a901b",
   "lastOpenFiles": [
-    "Homework/PS1 participation 2.pdf",
     "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
-    "Subjects/Calculus 2/Problem Sheet 6.md",
+    "Homework/PS1 participation 2.pdf",
     "Homework/Calculus 2 HW6.pdf",
+    "Subjects/Calculus 2/Problem Sheet 6.md",
     "6. Boundary and Interior of a Set.md",
     "The Classification of the Simple Complex Lie Algebras.md",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
