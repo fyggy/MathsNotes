@@ -190,4 +190,11 @@ Since if $\alpha,\, \beta {}$ are simple then ${} (\alpha,\, \beta)\leq 0$, then
 $$
 0 \text{ lines if } \theta_{\alpha\beta} = \frac{\pi}{2}\qquad 1 \text{ line if } \theta_{\alpha\beta} =\frac{2\pi}{3} \qquad 2 \text{ lines if } \theta_{\alpha\beta}= \frac{3\pi}{4}\qquad 4 \text{ lines if } \theta_{\alpha\beta}=\frac{5\pi}{6}
 $$
-When we have $2$ lines or $3$ lines, then we draw an arrow pointing from the shorter root to the longer root. Since the simple roots generate the entirety of the roots, then a Dynkin diagram describes exactly every root system
+that is, ${} 4(\alpha,\, \beta)^{2} {}$ is the number of incident lines. When we have ${} 2$ lines or $3$ lines, then we draw an arrow pointing from the shorter root to the longer root. Since the simple roots generate the entirety of the roots, then a Dynkin diagram describes exactly every root system. 
+
+Now suppose we have a Dynkin diagram like so which has 2 disconnected components. Then every vector in the first is orthogonal to the second, and so the associated root systems can be described as the direct product of 2 different lie algebras. Therefore, a semisimple lie algebra is simple iff it's Dynkin diagram is connected. Now we may classify every connected dynkin diagram in their entirety. First, we may ignore the arrows and focus only on the lines. These are known as conway diagrams. Consider an arbitrary dynkin diagram. First, it is clear that if we delete a root and all of it's incident nodes, then we get a dykin diagram. 
+
+Now suppose we have a diagram with a loop in it. Then we have simple roots ${} \alpha_{i}$ with ${} (\alpha_{i},\, \alpha_{i+1})\neq 0 {}$, and ${} (\alpha_{k}, \alpha_{1})\neq 0 {}$. Then let ${} \alpha=\sum_{i} \alpha_{i} {}$, and
+$$
+0<(\alpha,\, \alpha)=\sum (\alpha_{i},\, \alpha_{i})
+$$
