@@ -199,3 +199,15 @@ $$
 0<(u,\, u)=\sum_{i}(u_{i},\, u_{i})+\sum_{i<j} 2(u_{i},\, u_{j})\leq l-l=0
 $$
 which is a contradiction. Therefore, we cannot have any loops. In a similar vein, we may show that the number of lines incident to any point may not be greater than $3$. 
+
+In particular, consider a vector $u$ with $k$ ${} v_{i}$ incident to $u$ like so. No ${} v_{i}$ may be connected as that would be a loop. Therefore, the ${} v_{i} {}$ form an orthonormal basis for their span $S {}$, but ${} u$ is not in $S {}$, as it is simple. Therefore a well known theorem says that the projection ${} u' {}$ of ${} u$ onto $S$ has squared norm equal to ${} \sum_{i} (u',\, v_{i})^{2} {}$, which is strictly less than the norm of ${} v {}$, which is ${} 1 {}$. Therefore, 
+$$
+\sum_{i}(u,\, v_{i})^{2} <1\Rightarrow \sum 4(u,\, v_{i})^{2} <4
+$$
+which is exactly the number of lines incident on $u$. Therefore, diagrams like this may be discarded. Finally, we discuss compressing of diagrams.
+
+In particular, if a diagram has a string of roots connected by only 1 line like so, then we may merge those roots into a single root and end up with another dynkin diagram. In particular, if we havr roots ${} u_{i}$ with ${} 4(u_{i},\, u_{i+1})^{2}=1 {}$, then ${} u=\sum_{i} u_{i} {}$ is a unit vector, as
+$$
+(u,\, u)=\sum_{i}(u_{i}, u_{i})+2\sum_{i<j} (u_{i},\, u_{j})=l-(l-1)=1
+$$
+and if a vector $a$ is incident on $u_{1}$ or ${} u_{k} {}$, then it is incident on $u$, as every other ${} u_{i}$ is necessarily disconnected. This rules out dynkin diagrams like the following. This leaves us with only the following diagrams. This, this and this may be ruled out using the same methods as before, albeit slightly more sophsticated and time consuming. Every other diagram is actually admissable, and is named and classified as so. The explicit construction of their corrasponding simple lie algebras is possible, time consuming, and not worth the trouble. Howeverm the ${} A {}$ family corrasponds to lie algebras of matrices of dimension $\ell \times \ell$ with trace $0$
