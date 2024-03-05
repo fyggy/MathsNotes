@@ -152,3 +152,11 @@ $$
 $$
 is a root. You may recognise this as the reflection around the hyperplane ${} \alpha^{\perp} {}$ of roots perpendicular to $\alpha$. This maps ${} \alpha\to{}-\alpha {}$.
 
+We are now ready to fully characterise the geometry of the roots of a semisimple Lie algebra. Since the killing form is positive definite, symmetric, and bilinear, then this can be seen as an inner product on some vector space ${} \mathbb{R}^{n} {}$, with the roots as vectors. Since the only scalar multiples of a root which are also roots are just ${} -1, 0, 1 {}$, then we can embed this as a real vector space. Now we can give an angle between roots, in particular, 
+$$
+(\alpha,\, \beta)=\lVert \alpha \rVert \lVert \beta \rVert \cos\theta=\sqrt{(\alpha,\, \alpha)(\beta,\, \beta)} \cos\theta
+$$
+so rearranging we get
+$$
+\frac{2(\alpha,\, \beta)}{(\alpha,\, \alpha)}=2\frac{ \lVert \beta \rVert }{ \lVert \alpha \rVert  } \cos\theta
+$$
