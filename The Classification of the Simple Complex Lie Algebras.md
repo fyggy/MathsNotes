@@ -190,4 +190,4 @@ Since if $\alpha,\, \beta {}$ are simple then ${} (\alpha,\, \beta)\leq 0$, then
 $$
 0 \text{ lines if } \theta_{\alpha\beta} = \frac{\pi}{2}\qquad 1 \text{ line if } \theta_{\alpha\beta} =\frac{2\pi}{3} \qquad 2 \text{ lines if } \theta_{\alpha\beta}= \frac{3\pi}{4}\qquad 4 \text{ lines if } \theta_{\alpha\beta}=\frac{5\pi}{6}
 $$
-When we have $2$ lines or $3$ lines, then we draw an arrow pointing to the longer to
+When we have $2$ lines or $3$ lines, then we draw an arrow pointing from the shorter root to the longer root. Since the simple roots generate the entirety of the roots, then a Dynkin diagram describes exactly every root system
