@@ -173,3 +173,9 @@ If we now plot the roots as vectors according to these rules, if we normalise a 
 these are all root systems of *rank* 2, here they correspond to Cartan subalgebras of dimension 2, and so are embedded in 2 dimensional Euclidian space. This is actually *every* rank 2 root system, as shall be seen shortly. If we now introduce a hyperplane, or, as normal people say, a line, which intersects with no roots and passes through the origin, then we may call all roots above it positive, and all roots below, negative. This may be done arbitrarily. 
 
 Now, call a positive root *simple* if ${} \alpha$ cannot be written as a sum of 2 positive roots. Let $\pi$ the set of simple roots. On these systems, see that the roots highlighted in red are the simple roots. Now clearly $\pi$ spans the roots, and if we have any 2 distinct roots $\alpha$ and $\beta$, then if ${} \alpha-\beta {}$ is a positive root, then ${} \beta+(\alpha-\beta)=\alpha {}$, so $\alpha$ isn't simple. Likewise, if it is negative, then ${} \alpha+(\beta-\alpha)=\beta {}$, so $\beta$ isn't simple. Therefore, $\alpha-\beta {}$ isn't a root. this implies that ${} r=0 {}$ in the $\alpha$ string containing $\beta$, so $n_{\alpha\beta}\leq 0$. Now since ${} (\alpha,\, \alpha)>0 {}$, then ${} (\beta,\, \alpha)\leq 0$. 
+
+Now we observe some properties of the $n_{\alpha\beta}$. First, note that ${} n_{\alpha\alpha}=2 {}$, clearly. Now if $\alpha\neq\beta {}$ are simple roots, then then angle between them, $\theta_{\alpha\beta} {}$ is given by ${} 0\leq \cos ^{2}\theta_{\alpha\beta}\leq 1 {}$, so
+$$
+n_{\alpha\beta}n_{\beta\alpha}=4\cos ^{2}\theta_{\alpha\beta}\quad \Rightarrow\quad  0\leq n_{\alpha\beta} n_{\beta\alpha}\leq 4
+$$
+Now if ${} n_{\alpha\beta} n_{\beta\alpha}=4 {}$, then ${} n_{\alpha\beta } = n_{\beta\alpha}=-2 {}$
