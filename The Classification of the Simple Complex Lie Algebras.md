@@ -174,8 +174,20 @@ these are all root systems of *rank* 2, here they correspond to Cartan subalgebr
 
 Now, call a positive root *simple* if ${} \alpha$ cannot be written as a sum of 2 positive roots. Let $\pi$ the set of simple roots. On these systems, see that the roots highlighted in red are the simple roots. Now clearly $\pi$ spans the roots, and if we have any 2 distinct roots $\alpha$ and $\beta$, then if ${} \alpha-\beta {}$ is a positive root, then ${} \beta+(\alpha-\beta)=\alpha {}$, so $\alpha$ isn't simple. Likewise, if it is negative, then ${} \alpha+(\beta-\alpha)=\beta {}$, so $\beta$ isn't simple. Therefore, $\alpha-\beta {}$ isn't a root. this implies that ${} r=0 {}$ in the $\alpha$ string containing $\beta$, so $n_{\alpha\beta}\leq 0$. Now since ${} (\alpha,\, \alpha)>0 {}$, then ${} (\beta,\, \alpha)\leq 0$. 
 
-Now we observe some properties of the $n_{\alpha\beta}$. First, note that ${} n_{\alpha\alpha}=2 {}$, clearly. Now if $\alpha\neq\beta {}$ are simple roots, then then angle between them, $\theta_{\alpha\beta} {}$ is given by ${} 0\leq \cos ^{2}\theta_{\alpha\beta}\leq 1 {}$, so
+Now we observe some properties of the $n_{\alpha\beta}$. First, note that ${} n_{\alpha\alpha}=2 {}$, clearly. Now if $\alpha\neq\beta {}$ are positive roots, then then angle between them, ${} \theta_{\alpha\beta} {}$ is given by ${} 0\leq \cos ^{2}\theta_{\alpha\beta}< 1 {}$, as if the angle is $\pi {}$, then ${} \alpha=-\alpha {}$. Now
 $$
-n_{\alpha\beta}n_{\beta\alpha}=4\cos ^{2}\theta_{\alpha\beta}\quad \Rightarrow\quad  0\leq n_{\alpha\beta} n_{\beta\alpha}\leq 4
+n_{\alpha\beta}n_{\beta\alpha}=4\cos ^{2}\theta_{\alpha\beta}\quad \Rightarrow\quad  0\leq n_{\alpha\beta} n_{\beta\alpha}< 4 \quad \Rightarrow  \quad n_{\alpha\beta} n_{\beta\alpha}=0,\, 1,\, 2,3
 $$
-Now if ${} n_{\alpha\beta} n_{\beta\alpha}=4 {}$, then ${} n_{\alpha\beta } = n_{\beta\alpha}=-2 {}$
+so one of ns is equal to 1, and the other is equal to 1, 2 or 3, thanks to a simple result from number theory. Therefore, the only angles between roots may be given by this table, as well as the ratios of their lengths, if we assume that ${} \lVert \alpha \rVert \leq \lVert \beta \rVert{} {}$:
+
+| ${} \cos\theta_{\alpha\beta} {}$                                | ${} \sqrt{3} /2 {}$        | ${} \sqrt{2} /2 {}$         | ${} 1/2 {}$                  | 0                           | ${} -1 /2 {}$                | ${} - \sqrt{2} /2 {}$          | ${} -\sqrt{3} /2 {}$           |
+| --------------------------------------------------------------- | -------------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
+| $\theta_{\alpha\beta}$                                          | ${} \pi /6=30^{\circ } {}$ | ${} \pi /4 =45^{\circ } {}$ | ${} \pi /3 =60 ^{\circ } {}$ | ${} \pi /2 =90^{\circ } {}$ | ${} 2\pi /3=120^{\circ } {}$ | ${} 3\pi /4 = 135^{\circ } {}$ | ${} 5 \pi /6 =150^{\circ } {}$ |
+| $n_{\alpha\beta}$                                               | $3$                        | $2 {}$                      | $1 {}$                       | $0$                         | $-1 {}$                      | $-2 {}$                        | ${} -3 {}$                     |
+| ${} n_{\beta\alpha} {}$                                         | $1 {}$                     | $1 {}$                      | $1 {}$                       | $0 {}$                      | ${} -1 {}$                   | ${} -1 {}$                     | ${} -1 {}$                     |
+| ${} \frac{ \lVert \beta \rVert }{ \lVert \alpha \rVert  }   {}$ | ${} \sqrt{3}$              | ${} \sqrt{2}$               | $1$                          | $*$                         | $1$                          | ${} \sqrt{2}$                  | ${} \sqrt{3} {}$               |
+Since if $\alpha,\, \beta {}$ are simple then ${} (\alpha,\, \beta)\leq 0$, then the angle between any 2 simple roots is obtuse. Now we establish Dynkin diagrams. Take some set of simple roots, and notate them as points on a plane. Now connect them by lines corresponding to the angles between them;
+$$
+0 \text{ lines if } \theta_{\alpha\beta} = \frac{\pi}{2}\qquad 1 \text{ line if } \theta_{\alpha\beta} =\frac{2\pi}{3} \qquad 2 \text{ lines if } \theta_{\alpha\beta}= \frac{3\pi}{4}\qquad 4 \text{ lines if } \theta_{\alpha\beta}=\frac{5\pi}{6}
+$$
+When we have $2$ lines or $3$ lines, then we draw an arrow pointing to the longer to
