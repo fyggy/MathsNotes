@@ -213,3 +213,9 @@ $$
 and if a vector $a$ is incident on $u_{1}$ or ${} u_{k} {}$, then it is incident on $u$, as every other ${} u_{i} {}$ is necessarily disconnected. This rules out Dynkin diagrams like the following. This leaves us with only the following diagrams. This, this and this may be ruled out using the same methods as before, albeit slightly more sophisticated and time consuming. Every other diagram is actually admissible, and is named and classified as so. The explicit construction of their corresponding simple lie algebras is possible, time consuming, and not worth the trouble. However the ${} A {}$ family corresponds to lie algebras of matrices of dimension ${} \ell \times \ell$ with trace $0$, that is,${} \mathfrak{sl}_{l}(\mathbb{C}) {}$, the $B$ family corresponds to lie algebras of matrices of dimension ${} \ell \times  \ell {}$ where $\ell {}$ is even, and the matrices are orthogonal, that is ${} A = -A^{\mathrm{T}} {}$, also known as ${} \mathfrak{so}_{2\ell}(\mathbb{C}) {}$.
 
 The $C$ family corrasppon
+
+
+
+
+
+
