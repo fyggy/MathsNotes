@@ -220,4 +220,17 @@ The $C$ family corrasppon
 
 
 
-
+$$
+\left( \begin{array}{cccc|cccc}
+ 0&  &  &  \phantom{\ddots}& 1 \\
+  & 0 &  &\phantom{\ddots}  & & 1 \\
+ &  &  {\ddots}&  & \phantom{\ddots} &  & \ddots \\
+  &  &  & 0 &\phantom{\ddots} &  &  & 1 \\ \\
+\hline
+-1  &  &  & \phantom{\ddots} & 0\\
+ & -1 &  &\phantom{\ddots}  &  & 0\\
+ &  & \ddots &  \phantom{\ddots}&  &   &  \ddots\\
+ \phantom{\ddots}&\phantom{\ddots}  & \phantom{\ddots} & -1& \phantom{\ddots} & \phantom{\ddots} &\phantom{\ddots}  & 0
+\end{array} \right)
+$$
+	
