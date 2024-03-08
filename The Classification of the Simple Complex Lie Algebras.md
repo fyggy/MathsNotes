@@ -233,6 +233,4 @@ $$
  \phantom{\ddots}&\phantom{\ddots}  & \phantom{\ddots} & -1& \phantom{\ddots} & \phantom{\ddots} &\phantom{\ddots}  & 0
 \end{array} \right)
 $$
-$$
-\mathfrak{N} \mathfrak{R}
-$$	
+	
