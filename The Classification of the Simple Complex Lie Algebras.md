@@ -186,7 +186,9 @@ so one of ns is equal to 1, and the other is equal to 1, 2 or 3, thanks to a sim
 | $n_{\alpha\beta}$                                               | $3$                        | $2 {}$                      | $1 {}$                       | $0$                         | $-1 {}$                      | $-2 {}$                        | ${} -3 {}$                     |
 | ${} n_{\beta\alpha} {}$                                         | $1 {}$                     | $1 {}$                      | $1 {}$                       | $0 {}$                      | ${} -1 {}$                   | ${} -1 {}$                     | ${} -1 {}$                     |
 | ${} \frac{ \lVert \beta \rVert }{ \lVert \alpha \rVert  }   {}$ | ${} \sqrt{3}$              | ${} \sqrt{2}$               | $1$                          | $*$                         | $1$                          | ${} \sqrt{2}$                  | ${} \sqrt{3} {}$               |
-Since if $\alpha,\, \beta {}$ are simple then ${} (\alpha,\, \beta)\leq 0 {}$, then the angle between any 2 simple roots is obtuse. Now we establish Dynkin diagrams. First we normalise the simple roots by setting ${} u_{i}=k\alpha_{i} {}$ for every root ${} \alpha_{i}$ such that ${} \lVert u_{i} \rVert =(u_{i},\, u_{i})=1 {}$. Take some set of simple roots, and notate them as points on a plane. Now connect them by lines corresponding to the angles between them;
+Since if $\alpha,\, \beta {}$ are simple then ${} (\alpha,\, \beta)\leq 0 {}$, then the angle between any 2 simple roots is obtuse. 
+
+Now we establish Dynkin diagrams. First we normalise the simple roots by setting ${} u_{i}=k\alpha_{i} {}$ for every root ${} \alpha_{i}$ such that ${} \lVert u_{i} \rVert =(u_{i},\, u_{i})=1 {}$. Take some set of simple roots, and notate them as points on a plane. Now connect them by lines corresponding to the angles between them;
 $$
 0 \text{ lines if } \theta_{ij} = \frac{\pi}{2}\qquad 1 \text{ line if } \theta_{ij} =\frac{2\pi}{3} \qquad 2 \text{ lines if } \theta_{ij}= \frac{3\pi}{4}\qquad 4 \text{ lines if } \theta_{ij}=\frac{5\pi}{6}
 $$
