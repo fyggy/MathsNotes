@@ -47,5 +47,18 @@ No, as they don't have the same rank
 d)
 Yes, see that
 $$
-
+\begin{pmatrix}0 & 1 & 0 \\ -1 & 0 & 0 \\ 0 & 0 & 1 \end{pmatrix} \begin{pmatrix} 1 \\ i \\ 0 \end{pmatrix} =\begin{pmatrix} i  \\ -1 \\ 0 \end{pmatrix} =i \begin{pmatrix} 1 \\ i \\ 0 \end{pmatrix} 
 $$
+$$
+\begin{pmatrix}0 & 1 & 0 \\ -1 & 0 & 0 \\ 0 & 0 & 1 \end{pmatrix} \begin{pmatrix} 1 \\ -i \\ 0 \end{pmatrix} =\begin{pmatrix} -i \\ -1 \\ 0 \end{pmatrix} =-i \begin{pmatrix} 1 \\ -i \\ 0 \end{pmatrix} 
+$$
+and finally
+$$
+\begin{pmatrix}0 & 1 & 0 \\ -1 & 0 & 0 \\ 0 & 0 & 1 \end{pmatrix} \begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} =1 \begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} 
+$$
+and so
+$$
+\frac{1}{\sqrt{2}}\begin{pmatrix} 1 \\ i \\ 0 \end{pmatrix} ,\, \quad \frac{1}{\sqrt{2}}\begin{pmatrix} 1 \\ -i \\ 0 \end{pmatrix} ,\, \quad \begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} 
+$$
+is an orthonormal basis and is unitarily diagonalisable. 
+e)
