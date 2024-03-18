@@ -60,5 +60,18 @@ and so
 $$
 \frac{1}{\sqrt{2}}\begin{pmatrix} 1 \\ i \\ 0 \end{pmatrix} ,\, \quad \frac{1}{\sqrt{2}}\begin{pmatrix} 1 \\ -i \\ 0 \end{pmatrix} ,\, \quad \begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix} 
 $$
-is an orthonormal basis and is unitarily diagonalisable. 
+is an orthonormal basis and $A {}$ is unitarily diagonalisable. Therefore, since the eigenvalues of $A$ are ${} 1,\, i,\, -i {}$, then $A {}$ is unitarily equivalent to ${} B {}$
 e)
+No, as
+$$
+\begin{pmatrix}1 & 2 & 0 \\ 0 & 2 & 3 \\ 0 & 0 & 4 \end{pmatrix} \begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix} =\begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix} 
+$$
+and
+$$
+\begin{pmatrix}1 & 2 & 0 \\ 0 & 2 & 3 \\ 0 & 0 & 4 \end{pmatrix} \begin{pmatrix} 2 \\ 1 \\ 0 \end{pmatrix} =2 \begin{pmatrix} 2 \\ 1 \\0\end{pmatrix} 
+$$
+but 
+$$
+\begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix}\cdot \begin{pmatrix} 2 \\ 1 \\ 0 \end{pmatrix} =2\neq 0
+$$
+so there is no orthonormal eigenbasis for $A$, and so it cannot be unitarily diagonalised.
