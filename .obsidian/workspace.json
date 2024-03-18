@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4da5ac9badef94",
+        "id": "63403b606f1bf8f1",
         "type": "tabs",
         "children": [
           {
-            "id": "2b65dabffa0a901b",
+            "id": "616299d27cc1f7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b229eacec8bca8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md",
+                "file": "Problem Sheet 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1b9a8e68ba66c51a",
+        "id": "1fd83dc4a96d3bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "e745fcea7a5dc6e2",
+            "id": "babb419f22b79c60",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf"
+                "file": "Homework/HWsheet8-24.pdf"
               }
             }
           }
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md",
+                "file": "Problem Sheet 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md",
+                "file": "Problem Sheet 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md"
+                "file": "Problem Sheet 8.md"
               }
             }
           },
@@ -185,8 +172,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b229eacec8bca8a7",
+  "active": "616299d27cc1f7a5",
   "lastOpenFiles": [
+    "Homework/HWsheet8-24.pdf",
+    "Problem Sheet 8.md",
     "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
     "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md",
     "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
@@ -221,7 +210,6 @@
     "Subjects/Probability and Statistics 1/8..md",
     "Subjects/Probability and Statistics 1/6..md",
     "Homework/LinearAlgGeo2 HW2.pdf",
-    "Subjects/Linear Algebra and Geometry 2/Problem Sheet 2.md",
     "Homework/Dynamics HW3.pdf",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
