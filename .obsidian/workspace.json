@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -166,6 +167,7 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
@@ -191,7 +193,6 @@
     "Subjects/Grillet Abstract Algebra/14.4. Distributive Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.3. Modular Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.2. Complete Lattices Exercises.md",
-    "Subjects/Grillet Abstract Algebra/14.1. Definitions Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
