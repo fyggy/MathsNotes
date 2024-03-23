@@ -18,7 +18,7 @@ completed:
 year: 1
 level: 7
 ---
-[[Directory]]
+[[Directory|Directory]]
 
 Textbook:
 [[Abstract Algebra - P. A. Grillet.pdf]]

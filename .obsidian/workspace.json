@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,6 +29,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4592c1a555c2931c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f97ca08c5ae78f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md"
+                "file": "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md"
               }
             }
           },
@@ -168,8 +184,9 @@
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
+    "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+    "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises.md",
@@ -192,7 +209,6 @@
     "Subjects/Grillet Abstract Algebra/14.5. Boolean Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.4. Distributive Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.3. Modular Lattices Exercises.md",
-    "Subjects/Grillet Abstract Algebra/14.2. Complete Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
@@ -202,7 +218,6 @@
     "Subjects/Grillet Abstract Algebra/16.9. Tripleability Exercises",
     "Subjects/Grillet Abstract Algebra/16.8. Triples Exercises",
     "Subjects/Grillet Abstract Algebra/16.7. The Adjoint Functor Theorem Exercises",
-    "Subjects/Grillet Abstract Algebra/16.6. Adjoint Functors Exercises",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
