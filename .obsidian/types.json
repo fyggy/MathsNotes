@@ -8,6 +8,7 @@
     "year": "number",
     "level": "number",
     "completed": "checkbox",
-    "pset": "number"
+    "pset": "number",
+    "count": "number"
   }
 }

@@ -19,5 +19,7 @@ year: 1
 level: 7
 ---
 [[Directory]]
-
-[[Grilet]]
+```dataview
+LIST FROM #grillet_abstract_alg AND #exercises 
+SORT count ASC
+```

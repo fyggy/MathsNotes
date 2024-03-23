@@ -11,15 +11,24 @@
             "id": "5ceeea6589f3ac18",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a58fadb390f88c8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md"
+                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md"
               }
             }
           },
@@ -155,45 +164,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5ceeea6589f3ac18",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Subjects/Grillet Abstract Algebra",
-    "Homework/HWsheet8-24.pdf",
-    "Problem Sheet 8.md",
-    "Textbooks/Abstract Algebra - David S. Dummit, Richard M. Foote.pdf",
-    "Subjects/D&F Abstract Algebra/3.5 Transpositions and the Alternating Group.md",
-    "Subjects/D&F Abstract Algebra/3.4 Composition Series and the Hölder Program.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "The Classification of the Simple Complex Lie Algebras.md",
-    "Subjects/Probability and Statistics 1/Problem Sheet 6.md",
-    "Homework/PS1 participation 2.pdf",
-    "Homework/Calculus 2 HW6.pdf",
-    "Subjects/Calculus 2/Problem Sheet 6.md",
-    "6. Boundary and Interior of a Set.md",
-    "Subjects/Linear Algebra and Geometry 2/Problem Sheet 5.md",
-    "Subjects/Intro to Dynamical Systems 1/Problem Sheet 5.md",
+    "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
+    "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises.md",
+    "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises.md",
+    "Subjects/Grillet Abstract Algebra/A.2. The Axiom of Choice Exercises.md",
+    "Subjects/Grillet Abstract Algebra/A.1. Chain Conditions Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.10. Varieties Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.9. Tripleability Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.8. Triples Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.7. The Adjoint Functor Theorem Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.6. Adjoint Functors Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.5. Additive Categories Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.4. Completeness Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.3. Limits and Colimits Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.2. Functors Exercises.md",
+    "Subjects/Grillet Abstract Algebra/16.1. Definition and Examples Exercises.md",
+    "Subjects/Grillet Abstract Algebra/15.4. Subdirect Products Exercises.md",
+    "Subjects/Grillet Abstract Algebra/15.3. Varieties Exercises.md",
+    "Subjects/Grillet Abstract Algebra/15.2. Word Algebras Exercises.md",
+    "Subjects/Grillet Abstract Algebra/15.1. Universal Algebras Exercises.md",
+    "Subjects/Grillet Abstract Algebra/14.5. Boolean Lattices Exercises.md",
+    "Subjects/Grillet Abstract Algebra/14.4. Distributive Lattices Exercises.md",
+    "Subjects/Grillet Abstract Algebra/14.3. Modular Lattices Exercises.md",
+    "Subjects/Grillet Abstract Algebra/14.2. Complete Lattices Exercises.md",
+    "Subjects/Grillet Abstract Algebra/14.1. Definitions Exercises.md",
+    "Subjects/Grillet Abstract Algebra/13.7. Simple Algebras over a Field Exercises.md",
+    "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
+    "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
+    "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
+    "Subjects/Grillet Abstract Algebra/A.2. The Axiom of Choice Exercises",
+    "Subjects/Grillet Abstract Algebra/A.1. Chain Conditions Exercises",
+    "Subjects/Grillet Abstract Algebra/16.10. Varieties Exercises",
+    "Subjects/Grillet Abstract Algebra/16.9. Tripleability Exercises",
+    "Subjects/Grillet Abstract Algebra/16.8. Triples Exercises",
+    "Subjects/Grillet Abstract Algebra/16.7. The Adjoint Functor Theorem Exercises",
+    "Subjects/Grillet Abstract Algebra/16.6. Adjoint Functors Exercises",
     "Pasted image 20240226125749.png",
-    "Homework/LinearAlgGeo2 HW5.pdf",
-    "Homework/DynamicalSystemsHW5.pdf",
-    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
-    "Textbooks/Linear Algebra - Werner Greub.pdf",
-    "Subjects/Greub Linear Algebra 1/2.1 Basic Properties Exercises.md",
-    "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
-    "Directory.md",
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
-    "Subjects/D&F Abstract Algebra/3.2 More on Cosets and Lagrange's Theorem.md",
-    "Subjects/D&F Abstract Algebra/3.3 The Isomorphism Theorems.md",
-    "Subjects/D&F Abstract Algebra/2.4 Subgroups Generated by Subsets of a Group Exercises.md",
-    "Subjects/T. Tao Analysis 1/Exercises 2.2.md",
-    "Subjects/T. Tao Analysis 1/5.3 The Construction of the Real Numbers.md",
-    "Homework/PS1 participation 1.pdf",
-    "The Plan/KCL Modules.md",
-    "The Plan/The plan.md",
-    "Subjects/Probability and Statistics 1/Problem Sheet 4.md",
-    "Subjects/Linear Algebra and Geometry 2/8..md",
-    "Subjects/Probability and Statistics 1/8..md",
-    "Subjects/Probability and Statistics 1/6..md",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
