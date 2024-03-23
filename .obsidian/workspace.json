@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md"
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises.md",
@@ -191,7 +192,6 @@
     "Subjects/Grillet Abstract Algebra/14.3. Modular Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.2. Complete Lattices Exercises.md",
     "Subjects/Grillet Abstract Algebra/14.1. Definitions Exercises.md",
-    "Subjects/Grillet Abstract Algebra/13.7. Simple Algebras over a Field Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
