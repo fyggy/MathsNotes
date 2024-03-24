@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md"
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
               }
             }
           },
@@ -181,10 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a58fadb390f88c8",
+  "active": "c5f97ca08c5ae78f",
   "lastOpenFiles": [
-    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
+    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.4. Symmetric Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
