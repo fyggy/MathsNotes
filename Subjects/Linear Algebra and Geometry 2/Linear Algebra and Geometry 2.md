@@ -5,7 +5,7 @@ tags:
   - linear_algebra
   - current
 date: 2024-01-16
-completed: false
+completed: true
 year: 1
 level: 4
 ---

@@ -11,8 +11,12 @@
             "id": "5ceeea6589f3ac18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,26 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4592c1a555c2931c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5f97ca08c5ae78f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
               }
             }
           }
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,19 +163,33 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a58fadb390f88c8",
+  "active": "5ceeea6589f3ac18",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.4. Symmetric Groups Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
+    "Untitled.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+    "Directory.md",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
+    "Subjects/Grillet Abstract Algebra/2.4. Symmetric Groups Exercises.md",
+    "Subjects/Linear Algebra and Geometry 2/Problem Sheet 1.md",
+    "Subjects/Linear Algebra and Geometry 2/8..md",
+    "Subjects/Linear Algebra and Geometry 2/4..md",
+    "Subjects/Linear Algebra and Geometry 2/3..md",
+    "Subjects/Linear Algebra and Geometry 2/2..md",
+    "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
+    "Subjects/Calculus 2/1. Intro.md",
+    "Subjects/Calculus 2/Calculus 2.md",
+    "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
+    "Subjects/Grillet Abstract Algebra/16.1. Definition and Examples Exercises.md",
+    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
+    "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises.md",
@@ -196,19 +197,6 @@
     "Subjects/Grillet Abstract Algebra/A.2. The Axiom of Choice Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.1. Chain Conditions Exercises.md",
     "Subjects/Grillet Abstract Algebra/16.10. Varieties Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.9. Tripleability Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.8. Triples Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.7. The Adjoint Functor Theorem Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.6. Adjoint Functors Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.5. Additive Categories Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.4. Completeness Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.3. Limits and Colimits Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.2. Functors Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.1. Definition and Examples Exercises.md",
-    "Subjects/Grillet Abstract Algebra/15.4. Subdirect Products Exercises.md",
-    "Subjects/Grillet Abstract Algebra/15.3. Varieties Exercises.md",
-    "Subjects/Grillet Abstract Algebra/15.2. Word Algebras Exercises.md",
-    "Subjects/Grillet Abstract Algebra/15.1. Universal Algebras Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",

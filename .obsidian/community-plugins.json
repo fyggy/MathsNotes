@@ -4,11 +4,11 @@
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
   "obsidian-latex-suite",
-  "inline-math",
   "obsidian-git",
   "omnisearch",
   "text-extractor",
   "obsidian-local-rest-api",
   "better-word-count",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "inline-math"
 ]
