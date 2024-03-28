@@ -307,6 +307,7 @@
     {trigger: "para", replacement: "\\parallel", options: "mA"},
     {trigger: "!T", replacement: "\\bot", options: "mA"}, 
 	{trigger: "!!T", replacement: "\\top", options: "mA"}, 
+	{trigger: "\\bot!", replacement: "\\top", options: "mA"}, 
 	{trigger: "!A", replacement: "\\forall $0", options: "mA"},
     {trigger: "&^", replacement: "\\wedge", options: "mA"}, 
 	{trigger: "|V", replacement: "\\vee", options: "mA"}, 
@@ -359,8 +360,6 @@
 	{trigger: "ad", replacement: "\\ad $0", options: "mA"},
 	{trigger: "rad", replacement: "\\rad $0", options: "mA"},
 	{trigger: "\\\\mathfrak{([A-Za-z])}(\\d)", replacement: "\\mathfrak{[[0]]}_{[[1]]}", options: "rmA"},
-	
-
 
     // Derivatives
     {trigger: "par", replacement: "\\frac{ \\partial ${0:y} }{ \\partial ${1:x} } $2", options: "mA"},

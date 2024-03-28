@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ceeea6589f3ac18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a58fadb390f88c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md"
               }
             }
           },
@@ -168,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ceeea6589f3ac18",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
-    "Untitled.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+    "Untitled.md",
     "Directory.md",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
