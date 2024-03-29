@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "f8b7c622f92d16ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158ea82b75ce8dcd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,6 +174,8 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Untitled.md",
     "Directory.md",
@@ -174,8 +192,6 @@
     "Subjects/Calculus 2/Calculus 2.md",
     "Subjects/Linear Algebra and Geometry 2/Linear Algebra and Geometry 2.md",
     "Subjects/Grillet Abstract Algebra/16.1. Definition and Examples Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
@@ -184,7 +200,6 @@
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.2. The Axiom of Choice Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.1. Chain Conditions Exercises.md",
-    "Subjects/Grillet Abstract Algebra/16.10. Varieties Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
