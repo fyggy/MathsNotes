@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md"
               }
             }
           },
@@ -172,11 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "158ea82b75ce8dcd",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/2.8. The General Linear Group Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.7. Composition Series Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
@@ -200,7 +200,6 @@
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.12. Gröbner Bases Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises.md",
-    "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
