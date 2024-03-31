@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "16ea4a3f33cd8bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd2bd2ea4dd03beb",
             "type": "leaf",
             "state": {
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f8b7c622f92d16ab",
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md"
+                "file": "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md"
               }
             }
           },
@@ -185,20 +196,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd2bd2ea4dd03beb",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
+    "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Directory.md",
-    "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.8. The General Linear Group Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.7. Composition Series Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.6. Small Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.5. The Sylow Theorems Exercises.md",
     "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Untitled.md",
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Grillet Abstract Algebra/2.4. Symmetric Groups Exercises.md",
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 1.md",
     "Subjects/Linear Algebra and Geometry 2/8..md",
