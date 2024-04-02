@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md"
+                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md"
               }
             }
           },
@@ -198,8 +198,9 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/2.12. Group Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
