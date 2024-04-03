@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md"
               }
             }
           },
@@ -196,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "158ea82b75ce8dcd",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.4. Domains and Fields Exercises.md",
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/3.3. Homomorphisms Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
@@ -224,7 +224,6 @@
     "Subjects/Linear Algebra and Geometry 2/3..md",
     "Subjects/Linear Algebra and Geometry 2/2..md",
     "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
-    "Subjects/Calculus 2/1. Intro.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
