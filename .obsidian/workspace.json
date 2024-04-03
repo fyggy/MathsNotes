@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b43b04da0bd2d0f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           },
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f8b7c622f92d16ab",
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md"
+                "file": "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md"
               }
             }
           },
@@ -207,10 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b43b04da0bd2d0f6",
+  "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/2.12. Group Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
