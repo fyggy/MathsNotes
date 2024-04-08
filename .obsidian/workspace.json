@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md"
+                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md"
               }
             }
           },
@@ -198,9 +198,10 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
-    "Pasted image 20240406031544.png",
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/3.6. Polynomials in Several Variables Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Pasted image 20240406031544.png",
     "Subjects/Grillet Abstract Algebra/3.4. Domains and Fields Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.3. Homomorphisms Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
@@ -224,7 +225,6 @@
     "Subjects/Linear Algebra and Geometry 2/4..md",
     "Subjects/Linear Algebra and Geometry 2/3..md",
     "Subjects/Linear Algebra and Geometry 2/2..md",
-    "Subjects/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
@@ -243,7 +243,6 @@
     "Homework/aled.jpg",
     "Pasted image 20231211124957.png",
     "Pasted image 20231204155931.png",
-    "Pasted image 20231130185631.png",
     "Untitled.canvas"
   ]
 }
