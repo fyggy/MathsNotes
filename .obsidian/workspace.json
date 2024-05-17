@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16ea4a3f33cd8bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
+                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,12 +38,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "158ea82b75ce8dcd",
+            "id": "16ea4a3f33cd8bca",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           }
@@ -109,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
+                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
+                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md"
+                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md"
               }
             }
           },
@@ -197,6 +186,10 @@
   },
   "active": "7a58fadb390f88c8",
   "lastOpenFiles": [
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
+    "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
+    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
+    "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.6. Polynomials in Several Variables Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
@@ -209,7 +202,6 @@
     "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.10. Nilpotent Groups Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.9. Solvable Groups Exercises.md",
-    "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Jacobson Lie Algebras/Jacobson Lie Algebras.md",
     "Directory.md",
     "Subjects/Grillet Abstract Algebra/2.8. The General Linear Group Exercises.md",
@@ -222,8 +214,6 @@
     "Subjects/Linear Algebra and Geometry 2/Problem Sheet 1.md",
     "Subjects/Linear Algebra and Geometry 2/8..md",
     "Subjects/Linear Algebra and Geometry 2/4..md",
-    "Subjects/Linear Algebra and Geometry 2/3..md",
-    "Subjects/Linear Algebra and Geometry 2/2..md",
     "Subjects/Grillet Abstract Algebra/A.5. Cardinal Numbers Exercises",
     "Subjects/Grillet Abstract Algebra/A.4. Ordinal Induction Exercises",
     "Subjects/Grillet Abstract Algebra/A.3. Ordinal Numbers Exercises",
@@ -232,7 +222,6 @@
     "Subjects/Grillet Abstract Algebra/16.10. Varieties Exercises",
     "Subjects/Grillet Abstract Algebra/16.9. Tripleability Exercises",
     "Subjects/Grillet Abstract Algebra/16.8. Triples Exercises",
-    "Subjects/Grillet Abstract Algebra/16.7. The Adjoint Functor Theorem Exercises",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
