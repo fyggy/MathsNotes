@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md"
+                "file": "Textbooks/Lie algebras - Nathan Jacobson.pdf"
               }
             }
           },
@@ -184,10 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a58fadb390f88c8",
+  "active": "16ea4a3f33cd8bca",
   "lastOpenFiles": [
-    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/1. Basic Concepts.md",
+    "Textbooks/Lie algebras - Nathan Jacobson.pdf",
     "Subjects/Jacobson Lie Algebras/2. Solvable and Nilpotent Lie Algebras.md",
     "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
     "Subjects/Grillet Abstract Algebra/3.6. Polynomials in Several Variables Exercises.md",
