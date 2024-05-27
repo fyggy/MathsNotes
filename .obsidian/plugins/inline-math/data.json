@@ -1,4 +1,8 @@
 {
+  "disableInTable": false,
+  "disableOnIME": true,
+  "disableDecorations": false,
+  "disableAtomicRanges": false,
   "deletionKeys": [
     {
       "key": "Backspace",
@@ -14,8 +18,5 @@
       "shiftKey": false,
       "altKey": false
     }
-  ],
-  "disableInTable": false,
-  "disableDecorations": false,
-  "disableAtomicRanges": false
+  ]
 }
