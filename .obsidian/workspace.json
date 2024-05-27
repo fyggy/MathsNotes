@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Undergraduate Studies.md",
+                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Undergraduate Studies.md",
+                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Undergraduate Studies.md",
+                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Undergraduate Studies.md"
+                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   },
   "active": "bf519d7236ae8eea",
   "lastOpenFiles": [
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/15..md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
-    "Excalidraw/Drawing 2024-05-27 17.17.18.excalidraw.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/10. Dimension.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/11. Linear Maps.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/1. Introduction.md",
     "University/Undergraduate/Undergraduate Studies.md",
+    "Excalidraw/Drawing 2024-05-27 17.17.18.excalidraw.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 6.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 4.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 3.md",
@@ -181,12 +185,8 @@
     "University/Undergraduate/First Year/Linear Algebra and Geometry 2/8..md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 2/4..md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 2/3..md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 2/2..md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 2/1. Intro, Eigenvectors and Eigenvalues.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 2",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/temp.html",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 9.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 8.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/output.html",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1",
     "University/Undergraduate/First Year/Intro to Dynamical Systems 1",

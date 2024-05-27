@@ -19,8 +19,8 @@ KEATS: https://keats.kcl.ac.uk/course/view.php?id=109731
 Directory:
 ```dataview
 LIST FROM #linear_algebra1 AND #chapter
-SORT date ASC
 ```
+
 
 Homework:
 
