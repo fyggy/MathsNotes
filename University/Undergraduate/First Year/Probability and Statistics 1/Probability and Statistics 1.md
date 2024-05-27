@@ -5,9 +5,8 @@ tags:
   - probability
   - statistics
   - applied
-  - current
 date: 2024-01-12
-completed: 
+completed: true
 year: 1
 level: 4
 ---
