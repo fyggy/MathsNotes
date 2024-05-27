@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 725.5
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -151,15 +151,15 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "bf519d7236ae8eea",
   "lastOpenFiles": [
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/15..md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Linear Algebra and Geometry 1.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/15..md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/10. Dimension.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/11. Linear Maps.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/1. Introduction.md",

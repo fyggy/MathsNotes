@@ -3,12 +3,12 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-latex",
-  "obsidian-latex-suite",
   "obsidian-git",
   "omnisearch",
   "text-extractor",
   "obsidian-local-rest-api",
   "better-word-count",
   "obsidian-tikzjax",
-  "inline-math"
+  "inline-math",
+  "obsidian-latex-suite"
 ]
