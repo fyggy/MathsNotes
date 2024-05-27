@@ -14815,6 +14815,21 @@ function concealAtoZ(eqn, prefix, suffix, symbolMap, className) {
   }
   return concealments;
 }
+
+function concealAtoZatoz(eqn, prefix, suffix, symbolMap, className) {
+  const regexStr = prefix + "([A-Za-z]+)" + suffix;
+  const symbolRegex = new RegExp(regexStr, "g");
+  const matches = [...eqn.matchAll(symbolRegex)];
+  const concealments = [];
+  for (const match of matches) {
+    const symbol = match[1];
+    const letters = Array.from(symbol);
+    const replacement = letters.map((el) => symbolMap[el]).join("");
+    concealments.push({ start: match.index, end: match.index + match[0].length, replacement, class: className });
+  }
+  return concealments;
+}
+
 function concealBraKet(eqn, selection, eqnStartBound, mousedown) {
   const langle = "\u3008";
   const rangle = "\u3009";
@@ -14942,7 +14957,7 @@ function conceal(view) {
           ...concealModifier(eqn, "vec", "\u20D7"),
           ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
           ...concealAtoZ(eqn, "\\\\mathcal{", "}", mathscrcal),
-          ...concealAtoZ(eqn, "\\\\mathfrak{", "}", mathscrfrak),
+          ...concealAtoZatoz(eqn, "\\\\mathfrak{", "}", mathscrfrak),
           ...concealModifiedGreekLetters(eqn, greek),
           ...concealModified_A_to_Z_0_to_9(eqn, mathbb),
           ...concealText(eqn),
