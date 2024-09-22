@@ -20,7 +20,7 @@ TAG = "grp_sym1"
 YEAR = 2
 LEVEL = 5
 
-root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
+root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\DATAVIEW WORK AND MY LIFE IS YOURS"
 template_dir = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Templates"
 lecture_temp = "Lecture Template.md"
 preamble_temp = "Preamble Template.md"
@@ -90,7 +90,8 @@ with open(template_dir + "\\" + lecture_temp, mode="r", encoding="utf-8") as f:
     lec_template = f.read()
 
 for date in next_event(start_date, end_date, start_dates, breaks):
-    DATE = f"{date.year}-{date.month}-{date.day}"
+    DATE = f"{date.year:04d}-{date.month:02d}-{date.day:02d}"
+    print(DATE)
     print(TITLE)
     current = lec_template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
                               TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=NAME,
