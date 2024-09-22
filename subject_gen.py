@@ -18,11 +18,11 @@ breaks = [
 name = "Groups and Symmetries 1"
 TAG = "grp_sym1"
 root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
-template = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year\{TITLE}"
+template = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year\{TITLE}.md"
 
 ## SET
 
-path = root + r"\\" + name
+path = root + "\\" + name
 def next_event(start, end, starts, breaks):
     week = 0
     while True:
@@ -44,27 +44,36 @@ def next_event(start, end, starts, breaks):
 
 def relativise(path):
     indx = path.find(r"MathsNotes")
-    print(indx)
     return path[indx + len("MathsNotes\\"):]
 
-print(relativise(root))
-quit()
-    
+
+[print(i) for i in next_event(start_date, end_date, start_dates, breaks)]
 nr_lecs = len([i for i in next_event(start_date, end_date, start_dates, breaks)])
-indx = 1
+print(nr_lecs)
+indx = 2
 FIRST = "1. "
 LAST = f"{nr_lecs}. "
 PREV = ""
 NEXT = "2. "
-TITLE = "1. "
+TITLE = "1."
+PREFIX = (relativise(path) + "\\").replace("\\", "/")
+print(PREFIX)
+try:
+    os.mkdir(path)
+except FileExistsError:
+    pass
 
-os.mkdir(path)
-
-with open(template, mode=r, encoding="utf-8") as f:
+with open(template, mode="r", encoding="utf-8") as f:
     template = f.read()
 
 for date in next_event(start_date, end_date, start_dates, breaks):
     DATE = f"{date.year}-{date.month}-{date.day}"
-    current = template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, TITLE=TITLE,
-                              TAG=TAG, DATE=DATE)
+    current = template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
+                              TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=name)
+    with open(path + "\\" + TITLE + ".md", mode="w+", encoding="utf-8") as f:
+        f.write(current)
+    PREV = TITLE + " "
+    TITLE = NEXT[:-1]
+    NEXT = str(indx) + ". "
+    indx += 1
     
