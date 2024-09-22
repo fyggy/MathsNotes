@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directory.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directory.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directory.md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "77fb0626bd275d3c",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 11.md",
@@ -183,8 +185,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/14..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/13..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/12..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/11..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/10..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures",
