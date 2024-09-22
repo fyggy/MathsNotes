@@ -1,12 +1,7 @@
 ---
 tags:
   - preamble
-  - current
-  - classdyn1
-  - mechanics
-  - newtonian_mechanics
-  - dynamicssss
-  - applied
+  - "#todo"
 date: 2024-09-23
 completed: false
 year: 2
@@ -18,7 +13,7 @@ Textbooks:
 #todo 
 
 KEATS:
-https://keats.kcl.ac.uk/course/view.php?id=119766
+#todo
 Due Homework:
 ```dataview
 LIST FROM #classdyn1 AND #homework 

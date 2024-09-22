@@ -23,11 +23,9 @@
             "id": "d4e0fbd85f06ba2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/Lecture Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbooks/Sequences and Series Lecture Notes.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Lecture Template.md",
+                "file": "Textbooks/Sequences and Series Lecture Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Lecture Template.md",
+                "file": "Textbooks/Sequences and Series Lecture Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Lecture Template.md"
+                "file": "Textbooks/Sequences and Series Lecture Notes.pdf"
               }
             }
           },
@@ -169,12 +167,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4e0fbd85f06ba2c",
+  "active": "7eabd4803f8aea32",
   "lastOpenFiles": [
+    "__pycache__/subject_gen.cpython-312.pyc",
+    "__pycache__",
+    "Textbooks/Undergraduate/Third Year",
+    "Textbooks/Undergraduate/Second Year",
+    "Textbooks/Undergraduate/First Year",
+    "Textbooks/Postgraduate",
+    "Textbooks/Graduate",
+    "Textbooks/Undergraduate",
+    "Textbooks/Untitled.md",
+    "Textbooks/Sequences and Series Lecture Notes.pdf",
+    "Templates/Lecture Template.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
     "Templates/Exercises Template.md",
     "Templates/Textbook Preamble Template.md",
-    "Templates/Lecture Template.md",
     "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
     "Subjects/Grillet Abstract Algebra/1.8. Free Products Exercises.md",
@@ -196,17 +204,7 @@
     "textbook_gen.py",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 11.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 10.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework",
-    "University/Undergraduate/Second Year/Classical Dynamics 1",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
