@@ -4,8 +4,8 @@ tags:
   - {TAG}
 date: {DATE}
 ---
-[[Directory]], [[{SUB_DIR}|Subject Directory]]
-[[{FIRST}|🞀🞀]] [[{PREV}|◀]] [[{NEXT}|▶]] [[{LAST}|🞂🞂]]
+[[Directory]], [[{PREFIX}{SUB_DIR}|Subject Directory]]
+[[{PREFIX}{FIRST}|🞀🞀]] [[{PREFIX}{PREV}|◀]] [[{PREFIX}{NEXT}|▶]] [[{PREFIX}{LAST}|🞂🞂]]
 # 
 ## 
 ### 

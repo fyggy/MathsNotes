@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/First Year/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
+                "file": "University/Undergraduate/First Year/Intro to Dynamical Systems 1/6..md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/{TITLE}.md",
+                "file": "University/Undergraduate/First Year/Intro to Dynamical Systems 1/6..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/{TITLE}.md",
+                "file": "University/Undergraduate/First Year/Intro to Dynamical Systems 1/6..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/{TITLE}.md"
+                "file": "University/Undergraduate/First Year/Intro to Dynamical Systems 1/6..md"
               }
             }
           },
@@ -174,13 +174,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7eabd4803f8aea32",
+  "active": "3d508979a174ec32",
   "lastOpenFiles": [
-    "{LAST}.md",
-    "{NEXT}.md",
-    "University/Undergraduate/Second Year/{TITLE}.md",
+    "Subjects/Intro to Dynamical Systems 1/5..md",
+    "University/Undergraduate/First Year/Intro to Dynamical Systems 1/6..md",
+    "Subjects/Intro to Dynamical Systems 1",
+    "University/Undergraduate/First Year/Intro to Dynamical Systems 1/Intro to Dynamical Systems 1.md",
+    "University/Undergraduate/First Year/Intro to Dynamical Systems 1/4. Peano's and Picard's Theorems.md",
+    "University/Undergraduate/First Year/Intro to Dynamical Systems 1/3. Linear ODEs and Initial Value Problems.md",
     "University/Undergraduate/First Year/Intro to Dynamical Systems 1/2. Homogenous and First Order ODEs.md",
+    "University/Undergraduate/Second Year/{TITLE}.md",
+    "{LAST}.md",
     "University/Undergraduate/First Year/Intro to Dynamical Systems 1/1. Intro, Explicit, and Separable ODEs.md",
+    "{NEXT}.md",
     "University/Undergraduate/First Year/Calculus 1/1. Introduction.md",
     "University/Undergraduate/First Year/Calculus 2/1. Intro.md",
     "6. Boundary and Interior of a Set.md",
@@ -199,11 +205,6 @@
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 4.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 3.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 1.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 2.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/8..md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/6..md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/3..md",
     "University/Undergraduate/First Year/Probability and Statistics 1",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 2",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/temp.html",
@@ -211,7 +212,6 @@
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1",
     "University/Undergraduate/First Year/Intro to Dynamical Systems 1",
     "University/Undergraduate/First Year/Intro to Algebra 1/Problem sheet 1.html",
-    "University/Undergraduate/First Year/Intro to Algebra 1",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
