@@ -12,5 +12,5 @@ level: {LEVEL}
 Textbook: [[{TEXTBOOK}]]
 ```dataview
 LIST FROM #{TAG} AND #exercises 
-SORT date ASC
+SORT count ASC
 ```

@@ -4,28 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6b12cba0bedc77",
+        "id": "c5676debbe0a738d",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f437be66edd99b",
+            "id": "8cadc14c583b6098",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d4d47c74b101b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
+                "file": "Templates/Exercises Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4e0fbd85f06ba2c",
+            "id": "fe5b1e91fa5d02fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbooks/Sequences and Series Lecture Notes.pdf"
+                "file": "Templates/Textbook Preamble Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Sequences and Series Lecture Notes.pdf",
+                "file": "Templates/Exercises Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Sequences and Series Lecture Notes.pdf",
+                "file": "Templates/Exercises Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Sequences and Series Lecture Notes.pdf"
+                "file": "Templates/Exercises Template.md"
               }
             }
           },
@@ -167,8 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eabd4803f8aea32",
+  "active": "3d4d47c74b101b4c",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji",
+    "Templates/Textbook Preamble Template.md",
+    "Templates/Exercises Template.md",
+    "Textbooks/Sequences and Series Lecture Notes.pdf",
     "__pycache__/subject_gen.cpython-312.pyc",
     "__pycache__",
     "Textbooks/Undergraduate/Third Year",
@@ -176,13 +192,9 @@
     "Textbooks/Undergraduate/First Year",
     "Textbooks/Postgraduate",
     "Textbooks/Graduate",
-    "Textbooks/Undergraduate",
     "Textbooks/Untitled.md",
-    "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Templates/Lecture Template.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
-    "Templates/Exercises Template.md",
-    "Templates/Textbook Preamble Template.md",
     "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
     "Subjects/Grillet Abstract Algebra/1.8. Free Products Exercises.md",
@@ -201,10 +213,8 @@
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "textbook_gen.py",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
