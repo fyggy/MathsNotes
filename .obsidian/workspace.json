@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+                "file": "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+                "file": "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md"
+                "file": "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md"
               }
             }
           },
@@ -170,15 +170,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0896dc05edbd6be6",
+  "active": "bf519d7236ae8eea",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/8..md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/2. Probability Measures.md",
