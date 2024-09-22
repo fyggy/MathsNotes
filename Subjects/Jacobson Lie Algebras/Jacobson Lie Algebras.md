@@ -5,7 +5,6 @@ tags:
   - lie_algebras
   - lie_theory
   - linear_algebra
-  - current
 date: 2024-01-22
 completed: 
 year: 1

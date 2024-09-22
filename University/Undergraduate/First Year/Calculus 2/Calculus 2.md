@@ -4,9 +4,8 @@ tags:
   - calculus
   - analysis
   - linear_algebra
-  - current
 date: 
-completed: 
+completed: true
 year: 1
 level: 4
 ---

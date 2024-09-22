@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#calculus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "77fb0626bd275d3c",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
-    "Templates/Preamble Template.md",
-    "Templates/Homework Template.md",
-    "Templates/Lecture Template.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 3.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 2.md",
-    "{LAST}.md",
-    "{TITLE}.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 10.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 11.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 9.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 8.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 7.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 6.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 5.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 4.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Probability and Statistics 1.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/1..md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/8..md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/2. Probability Measures.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/7..md",
-    "Subjects/Probability and Statistics 1/1. Intro.md",
-    "Subjects/Probability and Statistics 1",
-    "University/Undergraduate/First Year/Probability and Statistics 1/1. Intro.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/21..md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures/15..md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Lectures",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/21",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/20",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/19",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/18",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/17",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notespdf.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 11.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 10.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 9.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 8.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 7.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 6.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 5.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 4.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 3.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/22..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/21..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/20..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/19..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/18..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/17..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures",
+    "University/Undergraduate/Second Year/Geometric Topology 1",
+    "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets",
+    "University/Undergraduate/Second Year/Real Analysis 1/Textbooks",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",

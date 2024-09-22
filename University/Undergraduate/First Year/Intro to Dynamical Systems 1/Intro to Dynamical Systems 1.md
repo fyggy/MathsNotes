@@ -6,19 +6,17 @@ tags:
   - newtonian_mechanics
   - calculus
   - analysis
-  - current
   - preamble
 date: 2024-01-12
-completed: 
+completed: true
 level: 4
 year: 1
 ---
 [[Directory]]
 Textbooks:
-#todo 
+ 
 
 Lecture Notes:
-#todo / weird
 
 KEATS: https://keats.kcl.ac.uk/course/view.php?id=109728
 

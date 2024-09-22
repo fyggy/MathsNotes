@@ -8,18 +8,18 @@ end_date = dt.date(2024, 12, 13)
 
 start_dates = [
     dt.date(2024, 9, 23),
-    dt.date(2024, 9, 24),
+    dt.date(2024, 9, 26),
     ]
 
 breaks = [
     [dt.date(2024, 10, 28), dt.date(2024, 11, 3)],
     ]
 
-NAME = "Groups and Symmetries 1"
-TAG = "grp_sym1"
+NAME = "Geometric Topology 1"
+TAG = "geotop1"
 YEAR = 2
-LEVEL = 5
-worksheet = "Group_Sym_{PSET}.pdf"
+LEVEL = 6
+worksheet = "geo_top_{PSET}.pdf"
 
 root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
 template_dir = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Templates"
@@ -33,6 +33,7 @@ path = root + "\\" + NAME
 lec_path = path + "\\" + "Lectures"
 hw_path = path + "\\" + "Homework"
 ws_path = hw_path + "\\" + "Worksheets"
+textbook_path = path + "\\" + "Textbooks"
 
 def next_event(start, end, starts, breaks):
     week = 0
@@ -91,6 +92,11 @@ try:
 except FileExistsError:
     pass
 
+try:
+    os.mkdir(textbook_path)
+except FileExistsError:
+    pass
+
 with open(template_dir + "\\" + preamble_temp, mode="r", encoding="utf-8") as f:
     pre_template = f.read()
 
@@ -105,6 +111,7 @@ with open(template_dir + "\\" + lecture_temp, mode="r", encoding="utf-8") as f:
 
 for date in next_event(start_date, end_date, start_dates, breaks):
     DATE = f"{date.year:04d}-{date.month:02d}-{date.day:02d}"
+    print(f"Lecture at {DATE}")
     current = lec_template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
                               TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=NAME,
                               PREFIX_N=PREFIX_N, PREFIX_P=PREFIX_P,
@@ -122,7 +129,7 @@ for date in next_event(start_date, end_date, start_dates, breaks):
     indx += 1
 
 with open(template_dir + "\\" + homework_temp, mode="r", encoding="utf-8") as f:
-    hw_tempalte = f.read()
+    hw_template = f.read()
 
 nr_hws = len([i for i in next_event(mondays, end_date, [mondays], breaks)])
 PSET = 1
@@ -141,10 +148,12 @@ PREFIX_W = (relativise(ws_path) + "\\").replace("\\", "/")
 WORKSHEET = worksheet.format(PSET=PSET)
 for date in next_event(mondays, end_date, [mondays], breaks):
     DATE = f"{date.year:04d}-{date.month:02d}-{date.day:02d}"
-    current = hw_tempalte.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
+    print(f"Homework at {DATE}")
+    current = hw_template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
                               TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=NAME,
                               PREFIX_N=PREFIX_N, PREFIX_P=PREFIX_P,
                               PREFIX_S=PREFIX_S, PSET=PSET, PREFIX_W=PREFIX_W, WORKSHEET=WORKSHEET)
+
     with open(hw_path + "\\" + TITLE + ".md", mode="w+", encoding="utf-8") as f:
         f.write(current)
         
@@ -161,5 +170,5 @@ for date in next_event(mondays, end_date, [mondays], breaks):
         PREFIX_N = ""
 
 
-
+print("Remember to fill in data to the preamble")
 

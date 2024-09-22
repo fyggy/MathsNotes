@@ -2,7 +2,7 @@
 tags:
   - homework
   - grp_sym1
-date: 2024-09-21
+date: 2024-09-23
 pset: 1
 completed: false
 ---

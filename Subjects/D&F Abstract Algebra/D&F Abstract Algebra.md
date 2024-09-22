@@ -2,7 +2,6 @@
 tags:
   - preamble
   - algebra
-  - current
 date: 2023-10-19
 completed: false
 year: 1
