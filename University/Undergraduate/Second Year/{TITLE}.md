@@ -1,7 +1,11 @@
 ---
-tags: 
-date: 2001-09-11
+tags:
+  - chapter
+  - {TAG}
+date: {DATE}
 ---
-[[Directory]], [[{SUB_DIR|Subject Directory]]
-[[{FIRST}|⏮]] [[{PREV}|◀]] [[{NEXT}|▶]] [[{LAST}|]]
-
+[[Directory]], [[{SUB_DIR}|Subject Directory]]
+[[{FIRST}|🞀🞀]] [[{PREV}|◀]] [[{NEXT}|▶]] [[{LAST}|🞂🞂]]
+# 
+## 
+### 
