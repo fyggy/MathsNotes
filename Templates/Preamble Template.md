@@ -1,21 +1,21 @@
 ---
 tags:
   - preamble
-  - todo
 date: {START_DATE}
 completed: false
 year: {YEAR}
 level: {LEVEL}
 ---
+
 [[Directory]]
 
-Textbooks: #todo
+Textbooks:
 
-KEATS: #todo
+KEATS:
 
 Due Homework:
 ```dataview
-LIST FROM #{TAG} AND #homework 
+LIST FROM {TAG} AND #homework 
 WHERE NOT completed AND date <= date(sow)
 SORT date ASC
 ```
