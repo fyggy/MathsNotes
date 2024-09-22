@@ -47,17 +47,19 @@ def relativise(path):
     return path[indx + len("MathsNotes\\"):]
 
 
-[print(i) for i in next_event(start_date, end_date, start_dates, breaks)]
+#[print(i) for i in next_event(start_date, end_date, start_dates, breaks)]
 nr_lecs = len([i for i in next_event(start_date, end_date, start_dates, breaks)])
-print(nr_lecs)
-indx = 2
+#print(nr_lecs)
+indx = 3
 FIRST = "1. "
 LAST = f"{nr_lecs}. "
 PREV = ""
 NEXT = "2. "
 TITLE = "1."
 PREFIX = (relativise(path) + "\\").replace("\\", "/")
-print(PREFIX)
+PREFIX_P = ""
+PREFIX_N = PREFIX
+#print(PREFIX)
 try:
     os.mkdir(path)
 except FileExistsError:
@@ -68,12 +70,19 @@ with open(template, mode="r", encoding="utf-8") as f:
 
 for date in next_event(start_date, end_date, start_dates, breaks):
     DATE = f"{date.year}-{date.month}-{date.day}"
+    print(TITLE)
     current = template.format(FIRST=FIRST, LAST=LAST, PREV=PREV, NEXT=NEXT,
-                              TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=name)
+                              TAG=TAG, DATE=DATE, PREFIX=PREFIX, SUB_DIR=name,
+                              PREFIX_N=PREFIX_N, PREFIX_P=PREFIX_P)
     with open(path + "\\" + TITLE + ".md", mode="w+", encoding="utf-8") as f:
         f.write(current)
     PREV = TITLE + " "
     TITLE = NEXT[:-1]
-    NEXT = str(indx) + ". "
+    if indx <= nr_lecs:
+        NEXT = str(indx) + ". "
+    else:
+        NEXT = ""
+        PREFIX_N = ""
+    PREFIX_P = PREFIX
     indx += 1
     
