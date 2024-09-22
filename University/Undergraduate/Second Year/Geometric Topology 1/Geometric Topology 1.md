@@ -1,7 +1,12 @@
 ---
 tags:
   - preamble
-  - "#todo"
+  - current
+  - topology
+  - geotop1
+  - geometric_topology
+  - algebraic_topology
+  - knot_theory
 date: 2024-09-23
 completed: false
 year: 2

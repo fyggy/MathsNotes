@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md"
+                "file": "Directory.md"
               }
             }
           },
@@ -158,42 +159,42 @@
   },
   "active": "77fb0626bd275d3c",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notespdf.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 11.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 10.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 9.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 8.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 7.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 6.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 5.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 4.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 3.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/22..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/21..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/20..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/19..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/18..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/17..md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures",
-    "University/Undergraduate/Second Year/Geometric Topology 1",
-    "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Real Analysis 1/Textbooks",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 11.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 10.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 9.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 8.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 7.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 6.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 5.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 4.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 3.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/22..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/21..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/20..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/19..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/18..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/17..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/16..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/15..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/14..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/13..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/12..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/11..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/10..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework",
+    "University/Undergraduate/Second Year/Classical Dynamics 1",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",

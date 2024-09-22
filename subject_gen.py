@@ -7,19 +7,19 @@ start_date = dt.date(2024, 9, 23)
 end_date = dt.date(2024, 12, 13)
 
 start_dates = [
-    dt.date(2024, 9, 23),
     dt.date(2024, 9, 26),
+    dt.date(2024, 9, 27),
     ]
 
 breaks = [
     [dt.date(2024, 10, 28), dt.date(2024, 11, 3)],
     ]
 
-NAME = "Geometric Topology 1"
-TAG = "geotop1"
+NAME = "Classical Dynamics 1"
+TAG = "classdyn1"
 YEAR = 2
-LEVEL = 6
-worksheet = "geo_top_{PSET}.pdf"
+LEVEL = 5
+worksheet = "classic_dyn_{PSET}.pdf"
 
 root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
 template_dir = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Templates"
