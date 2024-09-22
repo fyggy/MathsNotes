@@ -14,8 +14,8 @@ KEATS:
 
 Due Homework:
 ```dataview
-LIST FROM grp_sym1 AND #homework 
-WHERE NOT completed AND date <= date(sow)
+LIST FROM #grp_sym1 AND #homework 
+WHERE !completed AND date > date(sow)
 SORT date ASC
 ```
 

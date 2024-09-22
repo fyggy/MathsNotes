@@ -6,7 +6,6 @@ completed: false
 year: {YEAR}
 level: {LEVEL}
 ---
-
 [[Directory]]
 
 Textbooks:
@@ -15,8 +14,8 @@ KEATS:
 
 Due Homework:
 ```dataview
-LIST FROM {TAG} AND #homework 
-WHERE NOT completed AND date <= date(sow)
+LIST FROM #{TAG} AND #homework 
+WHERE !completed AND date <= date(sow)
 SORT date ASC
 ```
 
