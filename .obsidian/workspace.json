@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cadc14c583b6098",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d4d47c74b101b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Exercises Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe5b1e91fa5d02fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Textbook Preamble Template.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Exercises Template.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Exercises Template.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Exercises Template.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md"
               }
             }
           },
@@ -177,13 +156,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d4d47c74b101b4c",
+  "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
+    "Templates/Textbook Preamble Template.md",
+    "Templates/Preamble Template.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/152. Locally trivial fiber structures.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/151. The uniformization theorem of Hurewicz.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/150. Fiber spaces for the class of all spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/149. Fiber spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/148. Path spaces on H-Spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/147. Associativity.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/146. Inversion.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/145. Units.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/144. H-Spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/143. H-Homomorphisms.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/142. H-structures.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/141. Path spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/140. Change of bases in C(f).md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/139. Properties of X in C(f).md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/138. Mapping cylinder.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/137. Homotopy of pairs.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/136. Homotopy type invariants.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/135. Homotopy type.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/134. The jordan curve theorem.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/133. Deformations of subsets of En+1.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/132. Domain invarience.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/131. Borsuk´s separation theorem.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/130. Components of compact sets in En+1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji",
-    "Templates/Textbook Preamble Template.md",
-    "Templates/Exercises Template.md",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
     "__pycache__/subject_gen.cpython-312.pyc",
     "__pycache__",
@@ -191,30 +194,6 @@
     "Textbooks/Undergraduate/Second Year",
     "Textbooks/Undergraduate/First Year",
     "Textbooks/Postgraduate",
-    "Textbooks/Graduate",
-    "Textbooks/Untitled.md",
-    "Templates/Lecture Template.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
-    "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.11. Semidirect Products Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.8. Free Products Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.7. Presentations Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.5. The Isomorphism Theorems Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.3. Subgroups Exercises.md",
-    "Subjects/D&F Abstract Algebra/1.1 Introduction to Groups Exercises.md",
-    "Subjects/D&F Abstract Algebra/1. Introduction to Groups.md",
-    "Subjects/D&F Abstract Algebra/D&F Abstract Algebra.md",
-    "Subjects/Greub Linear Algebra 1/Greub Linear Algebra 1.md",
-    "Subjects/Grillet Abstract Algebra/2.4. Symmetric Groups Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.4. Homomorphisms Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.2. Groups Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.1. Semigroups Exercises.md",
-    "Directory.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",

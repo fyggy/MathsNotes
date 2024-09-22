@@ -9,7 +9,7 @@ year: {YEAR}
 level: {LEVEL}
 ---
 [[Directory]]
-Textbook: [[{TEXTBOOK}]]
+Textbook: [[{TEXTBOOK}|{NAME}]]
 ```dataview
 LIST FROM #{TAG} AND #exercises 
 SORT count ASC
