@@ -4,7 +4,7 @@
   "snippetsEnabled": true,
   "snippetsTrigger": "Tab",
   "suppressSnippetTriggerOnIME": true,
-  "removeSnippetWhitespace": true,
+  "removeSnippetWhitespace": false,
   "loadSnippetsFromFile": true,
   "loadSnippetVariablesFromFile": false,
   "snippetsFileLocation": "snips.snip",
