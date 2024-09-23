@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md"
               }
             }
           },
@@ -167,8 +167,14 @@
   },
   "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
+    "Pasted image 20240923172709.png",
+    "Pasted image 20240923171509.png",
+    "Pasted image 20240923171450.png",
+    "Pasted image 20240923171100.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Introduction.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
@@ -193,7 +199,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/144. H-Spaces.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/143. H-Homomorphisms.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/142. H-structures.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/141. Path spaces.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
@@ -201,7 +206,6 @@
     "__pycache__",
     "Textbooks/Undergraduate/Third Year",
     "Textbooks/Undergraduate/Second Year",
-    "Textbooks/Undergraduate/First Year",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
@@ -209,9 +213,6 @@
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
     "Pasted image 20240112102401.png",
-    "Homework/aled.jpg",
-    "Pasted image 20231211124957.png",
-    "Pasted image 20231204155931.png",
     "Untitled.canvas"
   ]
 }
