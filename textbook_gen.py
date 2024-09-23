@@ -72,6 +72,7 @@ with open(template_dir + "\\" + exercises_temp, mode="r", encoding="utf-8") as f
 
 reader = pdf.PdfReader(textbook_path)
 outline = reader.outline
+print(outline)
 
 contents = [i for i in traverse(outline, contents_depths, exclude=exclude_list)]
 nr_exercises = len(contents)

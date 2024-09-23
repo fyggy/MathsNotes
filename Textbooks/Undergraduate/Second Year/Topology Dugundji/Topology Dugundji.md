@@ -2,6 +2,7 @@
 tags:
   - preamble
   - textbook
+  - "#todo"
 date: 2024-09-23
 completed: false
 year: 2
