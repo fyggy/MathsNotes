@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c726e4250bcedf81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -156,14 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe5b1e91fa5d02fc",
+  "active": "c726e4250bcedf81",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
+    "Untitled 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/20..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/21..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/22..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Templates/Textbook Preamble Template.md",
     "Templates/Preamble Template.md",
@@ -184,7 +198,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/139. Properties of X in C(f).md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/138. Mapping cylinder.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/137. Homotopy of pairs.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/136. Homotopy type invariants.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
