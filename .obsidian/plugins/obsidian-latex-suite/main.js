@@ -13965,7 +13965,12 @@ var tabout = (view, ctx) => {
     if ([")", "]", ">", "|", "$"].contains(text.charAt(i)) && !(["$"].contains(text.charAt(i+1)))) {
       setCursor(view, i + 1);
       return true;
-	}
+	} else if (!(text.slice(i, i+2) === "}$") && (text.slice(i, i+1) === "}")) {
+	  setCursor(view, i + 1);
+      return true;
+	} else if (text.slice(i, i+2) === "}$") {
+	  setCursor(view, i + 2);
+	  return true;
     } else if (text.slice(i, i + rangle.length) === rangle) {
       setCursor(view, i + rangle.length);
       return true;
