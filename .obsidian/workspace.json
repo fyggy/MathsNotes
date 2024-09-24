@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5676debbe0a738d",
+        "id": "e0b4c564b29de6cd",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5b1e91fa5d02fc",
+            "id": "62405cbb85311ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,8 +164,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe5b1e91fa5d02fc",
+  "active": "62405cbb85311ceb",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
@@ -194,7 +195,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/13..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/12..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/11..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/10..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures",
