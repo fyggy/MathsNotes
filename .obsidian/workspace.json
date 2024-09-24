@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c960ff5640ebf466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d163c8785a6fca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
               }
             }
           }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
               }
             }
           },
@@ -164,14 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe5b1e91fa5d02fc",
+  "active": "64d163c8785a6fca",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notespdf.pdf",
     "Directory.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 2.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.5.md",
@@ -194,7 +212,6 @@
     "University/Undergraduate/First Year/Intro to Dynamical Systems 1/Problem Sheet 3.md",
     "University/Undergraduate/First Year/Intro to Algebra 1/Problem sheet 1.md",
     "University/Undergraduate/First Year/Intro to Algebra 1/Problem Sheet 9.md",
-    "University/Undergraduate/First Year/Intro to Algebra 1/Problem Sheet 3.md",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
