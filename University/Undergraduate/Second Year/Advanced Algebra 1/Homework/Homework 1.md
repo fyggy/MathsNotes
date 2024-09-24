@@ -24,7 +24,6 @@ $$
 $$
 First note that since ${} S \subseteq H {}$ for all ${} H \in  \mathcal{A}_{S} {}$, then ${} S \subseteq  \langle S \rangle  {}$. Now suppose that ${} H\leq G {}$ with ${} S\subseteq H {}$. Since ${} H \in  \mathcal{A}_{S} {}$, then ${} \langle S \rangle \subseteq H {}$. Therefore, ${} \langle S \rangle  {}$ is the smallest subgroup of $G {}$ containing $S {}$.
 c)
-Since ${} \varnothing \subseteq H {}$ for all subgroups ${} H\leq G {}$, then ${} A_{\varnothing}= {}$
-$$
-\trianglelefteq x^{2} 
-$$
+Since ${} \varnothing \subseteq H {}$ for all subgroups ${} H\leq G {}$, then ${} A_{\varnothing}=\{ S \subseteq G \mid  S\leq  G \} {}$. Therefore, ${} \langle \varnothing \rangle=\bigcup_{S\leq  G}  S=\{ 1 \}=1 {}$ 
+d)
+Clearly, ${} \langle S \rangle \leq  \mathrm{SL}_{2}(\mathbb{R}) {}$. Now suppose that ${} \langle S \rangle \leq H {}$ for some ${} H\leq \mathrm{GL}_{2}(\mathbb{R}) {}$
