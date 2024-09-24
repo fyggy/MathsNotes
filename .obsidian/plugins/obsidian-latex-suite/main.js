@@ -13962,9 +13962,10 @@ var tabout = (view, ctx) => {
   const text = d.toString();
   const rangle = "\\rangle";
   for (let i = pos; i < end2; i++) {
-    if (["}", ")", "]", ">", "|", "$"].contains(text.charAt(i))) {
+    if ([")", "]", ">", "|", "$"].contains(text.charAt(i)) && !(["$"].contains(text.charAt(i+1)))) {
       setCursor(view, i + 1);
       return true;
+	}
     } else if (text.slice(i, i + rangle.length) === rangle) {
       setCursor(view, i + rangle.length);
       return true;

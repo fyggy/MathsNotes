@@ -12,7 +12,7 @@ level: 5
 [[Directory]]
 
 Textbooks:
-[[number_theory_lecture_notes.pdf]]
+[[number_theory_lecture_notes.pdf|Lecture Notes]]
 #todo 
 
 KEATS:
