@@ -22,4 +22,9 @@ Let ${} \mathcal{A}_{S}=\{ H\leq G \mid S \subseteq H \} {}$, and set
 $$
 \langle S \rangle =\bigcap_{H\in \mathcal{A}_{S}} H 
 $$
-First note that since ${} S \subseteq H {}$ for all , then 
+First note that since ${} S \subseteq H {}$ for all ${} H \in  \mathcal{A}_{S} {}$, then ${} S \subseteq  \langle S \rangle  {}$. Now suppose that ${} H\leq G {}$ with ${} S\subseteq H {}$. Since ${} H \in  \mathcal{A}_{S} {}$, then ${} \langle S \rangle \subseteq H {}$. Therefore, ${} \langle S \rangle  {}$ is the smallest subgroup of $G {}$ containing $S {}$.
+c)
+Since ${} \varnothing \subseteq H {}$ for all subgroups ${} H\leq G {}$, then ${} A_{\varnothing}= {}$
+$$
+\trianglelefteq x^{2} 
+$$

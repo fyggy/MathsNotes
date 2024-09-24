@@ -14227,6 +14227,8 @@ var cmd_symbols = {
   "times": "\xD7",
   "top": "\u22A4",
   "to": "\u2192",
+  "trianglelefteq": "\u22B4",
+  "trianglerighteq": "\u22B5",
   "triangleleft": "\u22B2",
   "triangleright": "\u22B3",
   "triangle": "\u2206",
@@ -14254,7 +14256,9 @@ var cmd_symbols = {
   " ": "",
   "begin": "",
   "end": "",
-  "pmatrix": "pmat"
+  "pmatrix": "pmat",
+  "varnothing": "\u2205",
+ 
 };
 var operators = (
   // From https://www.overleaf.com/learn/latex/Operators

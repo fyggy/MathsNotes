@@ -1,0 +1,3 @@
+$$
+\trianglelefteq x^{2} 
+$$

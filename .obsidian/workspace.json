@@ -6,6 +6,7 @@
       {
         "id": "e0b4c564b29de6cd",
         "type": "tabs",
+        "dimension": 72.14484679665738,
         "children": [
           {
             "id": "62405cbb85311ceb",
@@ -18,12 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bc250569c228d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "052efd5fd227b2e5",
         "type": "tabs",
+        "dimension": 27.85515320334262,
         "children": [
           {
             "id": "1b36ebd52ee68112",
@@ -102,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -181,10 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62405cbb85311ceb",
+  "active": "5bc250569c228d42",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
+    "Untitled.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
