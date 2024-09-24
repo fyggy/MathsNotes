@@ -4,6 +4,7 @@ tags:
   - calculus1
 date: 2023-10-17
 pset: 3
+completed: true
 ---
 [[Directory]], [[Calculus 1|Subject Directory]]
 15. a) ${} c=\sqrt{1+1}=\sqrt{2} {}$${} \sin\alpha=\frac{1}{\sqrt{2}} {}$, ${} \cos\alpha=\frac{1}{\sqrt{2}} {}$. Therefore, we have ${} \alpha=\frac{\pi}{4} {}$, and ${} c=\sqrt{2} {}$. ${} \sin\theta+\cos\theta=\sqrt{2}\sin\left( \theta+\frac{\pi}{4} \right) {}$

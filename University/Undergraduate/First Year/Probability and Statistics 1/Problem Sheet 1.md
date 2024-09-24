@@ -4,7 +4,7 @@ tags:
   - homework
 date: 2024-01-19
 pset: 1
-completed:
+completed: true
 ---
 [[Directory]], [[Probability and Statistics 1|Subject Directory]]
 [[ProbStatsHW1.pdf|Problem Sheet]]

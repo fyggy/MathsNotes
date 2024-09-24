@@ -4,7 +4,7 @@ tags:
   - homework
 date: 2024-01-19
 pset: 1
-completed:
+completed: true
 ---
 [[Directory]], [[Linear Algebra and Geometry 2|Subject Directory]]
 [[LAG2_HW1.pdf|Problem Sheet]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md"
               }
             }
           },
@@ -167,52 +166,52 @@
   },
   "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notespdf.pdf",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 2.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.5.md",
+    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 8.md",
+    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 5.md",
+    "Homework/SeqSeries HW5.pdf",
+    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 4.md",
+    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 3.md",
+    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 2.md",
+    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 3.md",
+    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 1.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 2/Problem Sheet 1.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 5.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 3.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 2.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 8.md",
+    "University/Undergraduate/First Year/Calculus 1/Problem Sheet 10.md",
+    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 10.md",
+    "University/Undergraduate/First Year/Intro to Dynamical Systems 1/Problem Sheet 3.md",
+    "University/Undergraduate/First Year/Intro to Algebra 1/Problem sheet 1.md",
+    "University/Undergraduate/First Year/Intro to Algebra 1/Problem Sheet 9.md",
+    "University/Undergraduate/First Year/Intro to Algebra 1/Problem Sheet 3.md",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
     "Pasted image 20240923171100.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
-    "Directory.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "Untitled 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/20..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/21..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/22..md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Templates/Textbook Preamble Template.md",
-    "Templates/Preamble Template.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/152. Locally trivial fiber structures.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/151. The uniformization theorem of Hurewicz.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/150. Fiber spaces for the class of all spaces.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/149. Fiber spaces.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/148. Path spaces on H-Spaces.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/147. Associativity.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/146. Inversion.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/145. Units.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/144. H-Spaces.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/143. H-Homomorphisms.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/142. H-structures.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
     "__pycache__/subject_gen.cpython-312.pyc",
-    "__pycache__",
-    "Textbooks/Undergraduate/Third Year",
-    "Textbooks/Undergraduate/Second Year",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
     "Pasted image 20240115094344.png",
     "Pasted image 20240115093949.png",
     "Pasted image 20240112102556.png",
-    "Pasted image 20240112102401.png",
     "Untitled.canvas"
   ]
 }

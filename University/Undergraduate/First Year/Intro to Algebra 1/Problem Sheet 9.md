@@ -3,6 +3,7 @@ tags:
   - intro_algebra1
   - homework
 date: 2023-12-03
+completed: true
 ---
 [[Directory]], [[Intro to Algebra 1|Subject Directory]]
 [[IntroAlgebra HW9.pdf|Exercise Sheet]]

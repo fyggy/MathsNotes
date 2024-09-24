@@ -4,6 +4,7 @@ tags:
   - intro_algebra1
 date: 2023-10-14
 pset: 3
+completed: true
 ---
 [[Directory]], [[Intro to Algebra 1|Subject Directory]]
 1. First, we show that ${} (A \cup B)\times C\subseteq(A\times C)\cup(B\times C)$. Let ${} x \in (A\cup B)\times C {}$. Therefore, ${} x=(x_{1},\, x_{2}) {}$, with ${} x_{1}\in A\cup B {}$ and ${} x_{2} \in  C {}$. We have 2 cases:

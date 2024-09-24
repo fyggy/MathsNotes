@@ -3,6 +3,7 @@ tags:
   - seq_and_series1
   - homework
 date: 2023-11-30
+completed: true
 ---
 [[Directory]], [[Sequences and Series 1|Subject Directory]]
 [[SeqSeries HW8.pdf|Exercise Sheet]]

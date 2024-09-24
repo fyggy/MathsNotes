@@ -4,6 +4,7 @@ tags:
   - homework
 pset: 1
 date: 2023-09-27
+completed: true
 ---
 [[Directory]], [[Linear Algebra and Geometry 1|Subject Directory]]
 1.  a)

@@ -4,6 +4,7 @@ tags:
   - calculus1
 date: 2023-10-10
 pset: 2
+completed: true
 ---
 [[Directory]], [[Calculus 1|Subject Directory]]
 # Tutors Example

@@ -1,7 +1,15 @@
 ---
 tags:
   - preamble
-  - "#todo"
+  - current
+  - dynamics
+  - classdyn1
+  - mechanics
+  - newtonian_mechanics
+  - applied
+  - physics
+  - differential_equations
+  - calculus
 date: 2024-09-23
 completed: false
 year: 2
@@ -10,10 +18,12 @@ level: 5
 [[Directory]]
 
 Textbooks:
+[[classical_dynamics_lecture_notes.pdf]]
 #todo 
 
 KEATS:
-#todo
+https://keats.kcl.ac.uk/course/view.php?id=119766
+
 Due Homework:
 ```dataview
 LIST FROM #classdyn1 AND #homework 

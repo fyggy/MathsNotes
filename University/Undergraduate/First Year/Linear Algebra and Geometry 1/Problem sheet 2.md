@@ -4,6 +4,7 @@ tags:
   - linear_algebra1
 date: 2023-10-09
 pset: 2
+completed: true
 ---
 [[Directory]], [[Linear Algebra and Geometry 1|Subject Directory]]
 1. a) 

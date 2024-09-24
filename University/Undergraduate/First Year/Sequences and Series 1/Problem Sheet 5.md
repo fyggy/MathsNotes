@@ -4,6 +4,7 @@ tags:
   - seq_and_series1
 date: 2023-11-09
 pset: 5
+completed: true
 ---
 [[Directory]], [[Sequences and Series 1|Subject Directory]]
 [[SeqSeries HW5.pdf|Problem Sheet]]

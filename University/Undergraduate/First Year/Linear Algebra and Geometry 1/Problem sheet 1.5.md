@@ -3,6 +3,7 @@ tags:
   - homework
   - linear_algebra1
 date: 2023-09-28
+completed: true
 ---
 [[Directory]], [[Linear Algebra and Geometry 1|Subject Directory]]
 ### Problem 1

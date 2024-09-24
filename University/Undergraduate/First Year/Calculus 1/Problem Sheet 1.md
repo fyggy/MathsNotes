@@ -3,6 +3,7 @@ tags:
   - homework
   - calculus1
 date: 2023-10-03
+completed: true
 ---
 [[Directory]], [[Calculus 1|Subject Directory]]
 

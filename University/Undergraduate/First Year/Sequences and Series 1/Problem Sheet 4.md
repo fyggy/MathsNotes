@@ -3,6 +3,7 @@ tags:
   - homework
   - seq_and_series1
 date: 2023-10-26
+completed: true
 ---
 [[Directory]], [[Sequences and Series 1|Subject Directory]]
 1. 

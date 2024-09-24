@@ -3,6 +3,7 @@ tags:
   - calculus1
   - homework
 date: 2023-11-14
+completed: true
 ---
 [[Directory]], [[Calculus 1|Subject Directory]]
 [[Calculus 1 HW6.pdf|Problem Sheet]]

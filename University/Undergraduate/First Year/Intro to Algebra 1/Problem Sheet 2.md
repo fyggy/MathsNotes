@@ -4,6 +4,7 @@ tags:
   - intro_algebra1
 date: 2023-10-13
 pset: 2
+completed: true
 ---
 [[Directory]], [[Intro to Algebra 1|Subject Directory]]
 1. Let $a,\, b,\,c\in\mathbb{Z}$, and let $a\mid b$ and $b\mid c$. Therefore, there exist $x,\,y\in\mathbb{Z}$ such that 

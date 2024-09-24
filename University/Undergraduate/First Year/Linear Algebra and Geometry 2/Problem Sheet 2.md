@@ -4,7 +4,7 @@ tags:
   - homework
 date: 2024-02-04
 pset: 2
-completed:
+completed: true
 ---
 [[Directory]], [[Linear Algebra and Geometry 2|Subject Directory]]
 [[LinearAlgGeo2 HW2.pdf|Problem Sheet]]

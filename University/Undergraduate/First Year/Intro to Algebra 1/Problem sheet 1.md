@@ -4,6 +4,7 @@ tags:
   - intro_algebra1
 pset: 1
 date: 2023-09-26
+completed: true
 ---
 [[Directory]], [[Intro to Algebra 1|Subject Directory]] 
 1. 

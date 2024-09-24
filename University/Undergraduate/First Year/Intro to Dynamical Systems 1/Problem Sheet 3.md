@@ -4,7 +4,7 @@ tags:
   - homework
 date: 2024-02-02
 pset: 3
-completed:
+completed: true
 ---
 [[Directory]], [[Intro to Dynamical Systems 1|Subject Directory]]
 [[Dynamics HW3.pdf|Problem Sheet]]
