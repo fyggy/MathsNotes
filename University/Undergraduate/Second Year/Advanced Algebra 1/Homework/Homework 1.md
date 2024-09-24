@@ -27,3 +27,23 @@ c)
 Since ${} \varnothing \subseteq H {}$ for all subgroups ${} H\leq G {}$, then ${} A_{\varnothing}=\{ S \subseteq G \mid  S\leq  G \} {}$. Therefore, ${} \langle \varnothing \rangle=\bigcup_{S\leq  G}  S=\{ 1 \}=1 {}$ 
 d)
 Clearly, ${} \langle S \rangle \leq  \mathrm{SL}_{2}(\mathbb{R}) {}$. Now suppose that ${} \langle S \rangle \leq H {}$ for some ${} H\leq \mathrm{GL}_{2}(\mathbb{R}) {}$
+$$
+d=\frac{ 1+bc }{ a }
+$$
+$$
+\begin{align}
+ \det  \begin{pmatrix}a-\lambda & b \\ c & d-\lambda \end{pmatrix}  & =(a-\lambda)(d-\lambda)-bc   \\
+ & =ad-(a+d)\lambda +\lambda^{2}-b c \\
+ & =\lambda^{2}-(a+d)\lambda+1 \\ \\
+
+ \end{align}
+$$
+$$
+\begin{align}
+\lambda^{2}-(a+d)\lambda+1  & =0 \\
+\lambda & =\frac{ (a+d)\pm \sqrt{(a+d)^{2}-4} }{ 2 }
+\end{align}
+$$
+$$
+\begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} =\lambda \begin{pmatrix} x \\ y \end{pmatrix} =\begin{pmatrix} ax+by \\ cx+dy \end{pmatrix} 
+$$
