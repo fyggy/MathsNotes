@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md"
               }
             }
           },
@@ -166,10 +167,14 @@
   },
   "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Directory.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "Directory.md",
+    "README.md",
+    "Problem Sheet 8.md",
+    "The Classification of the Simple Complex Lie Algebras.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
     "export1-crop.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
@@ -193,10 +198,6 @@
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 5.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 3.md",
     "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 2.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 8.md",
-    "University/Undergraduate/First Year/Calculus 1/Problem Sheet 10.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem Sheet 10.md",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
