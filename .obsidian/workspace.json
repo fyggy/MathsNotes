@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md"
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2..md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
@@ -201,7 +202,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1",
     "export1-crop.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notes.pdf",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
