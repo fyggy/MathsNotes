@@ -22,11 +22,11 @@ if __name__ == "__main__":
         [dt.date(2024, 10, 28), dt.date(2024, 11, 3)],
         ]
 
-    NAME = "Classical Dynamics 1"
-    TAG = "classdyn1"
+    NAME = "Advanced Algebra 1"
+    TAG = "advalg1"
     YEAR = 2
-    LEVEL = 5
-    worksheet = "classic_dyn_{PSET}.pdf"
+    LEVEL = 7
+    worksheet = "advanced_algebra_{PSET}.pdf"
 
     root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
     template_dir = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Templates"

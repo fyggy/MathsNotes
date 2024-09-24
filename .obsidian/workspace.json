@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md"
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md"
               }
             }
           },
@@ -167,46 +166,46 @@
   },
   "active": "fe5b1e91fa5d02fc",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Directory.md",
-    "README.md",
-    "Problem Sheet 8.md",
-    "The Classification of the Simple Complex Lie Algebras.md",
-    "Untitled.md",
-    "Untitled 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 11.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 10.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 9.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 8.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 7.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 6.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 5.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 4.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 3.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/22..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/21..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/20..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/19..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/18..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/17..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/16..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/15..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/14..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/13..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/12..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/11..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/10..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework",
+    "University/Undergraduate/Second Year/Advanced Algebra 1",
     "export1-crop.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/classical_dynamics_lecture_notespdf.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 2.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.5.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 8.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 5.md",
-    "Homework/SeqSeries HW5.pdf",
-    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 4.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 3.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/Problem Sheet 2.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 3.md",
-    "University/Undergraduate/First Year/Probability and Statistics 1/Problem Sheet 1.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 2/Problem Sheet 1.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 5.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 3.md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/Problem sheet 1.md",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
     "Pasted image 20240923171100.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji",
-    "Textbooks/Sequences and Series Lecture Notes.pdf",
     "Pasted image 20240406031544.png",
     "Pasted image 20240226125749.png",
     "Pasted image 20240118114503.png",
