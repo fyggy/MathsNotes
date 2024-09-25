@@ -105,12 +105,12 @@ $$
 and so ${} a=d {}$ and ${} b=c {}$. Now
 $$
 \begin{align}
-\begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix}0 & 1 \\ 0 & 0 \end{pmatrix}  & =\begin{pmatrix}0 & a \\ 0 & c \end{pmatrix}  \\
- & =\begin{pmatrix}c & d \\ 0 & 0 \end{pmatrix}  \\
- & =\begin{pmatrix}0 & 1 \\ 0 & 0 \end{pmatrix} \begin{pmatrix}a & b \\ c & d \end{pmatrix} 
+\begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix}0 & 1 \\ -1 & 0 \end{pmatrix}  & =\begin{pmatrix}-b & a \\ -d & c \end{pmatrix}  \\
+ & =\begin{pmatrix}c & d \\ -a & -b \end{pmatrix}  \\
+ & =\begin{pmatrix}0 & 1 \\ 1 & 0 \end{pmatrix} \begin{pmatrix}a & b \\ c & d \end{pmatrix} 
 \end{align}
 $$
-and so ${} b=c=0 {}$, and ${} A=\begin{pmatrix}a & 0 \\ 0 & a \end{pmatrix}  {}$. Note that ${} A=aI {}$ where $I {}$ is the ${} 2\times 2 {}$ identity, and that for some matrix $B {}$
+and so ${} b=c=-c=-b=0 {}$, and ${} A=\begin{pmatrix}a & 0 \\ 0 & a \end{pmatrix}  {}$. Note that ${} A=aI {}$ where $I {}$ is the ${} 2\times 2 {}$ identity, and that for some matrix $B {}$
 $$
 AB=aIB=aB=B(aI)=BA
 $$
@@ -238,3 +238,16 @@ and so ${} \conj{H} \trianglelefteq \conj{G} {}$.
 Conversely, suppose that ${} \conj{H} \trianglelefteq \conj{G} {}$. Then, given ${} g \in G {}$, we have that ${} gxg^{-1}N \in \conj{H} {}$, and so there exists some ${} h \in H {}$ with ${} hN=gxg^{-1}N {}$, so ${} hgxg^{-1} \in N \subseteq H {}$. Therefore, ${} hgxg^{-1}=n {}$ for some ${} n \in N {}$, and ${} gxg^{-1}=h^{-1}n \in H {}$, and ${} gHg^{-1}=H {}$, so ${} H \trianglelefteq G {}$.
 d)
 (already proved in 5. b)
+
+6. 
+a)
+First, let ${} g \in G {}$. Then if ${} x=aba^{-1}b^{-1} \in [G,\, G] {}$, then
+$$
+\begin{align}
+ gxg^{-1} & =gaba^{-1}b^{-1}g^{-1} \\
+ & =(gag^{-1})(gbg^{-1})(gb^{-1}g^{-1})(ga^{-1} g^{-1}) \in [G,\, G]
+ \end{align}
+$$
+Therefore, ${} [G,\, G]\trianglelefteq G {}$. Let ${} N\trianglelefteq G {}$ such that ${} G /N {}$ is abelian. Then ${} xyN=yxN {}$, so ${} xyx^{-1}y^{-1} \in N {}$, and ${} [G, G]\leq  N {}$.
+b)
+${} ABA^{-1}B {}$
