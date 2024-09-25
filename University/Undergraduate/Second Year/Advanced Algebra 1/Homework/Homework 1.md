@@ -186,7 +186,18 @@ $$
 $$
 Therefore, ${} \varphi_{h} {}$ is bijective and an isomorphism, so therefore an automorphism, so ${} \varphi_{h} \in \aut(G) {}$
 c)
-First, note that $\varphi(xy)=\varphi_{xy} {}$, and that ${} \varphi_{xy}(g)=xygy^{-1}x=(\varphi_{x}\circ \varphi_{y})(g) {}$, so $$
-$$
+First, note that $\varphi(xy)=\varphi_{xy} {}$, and that ${} \varphi_{xy}(g)=xygy^{-1}x=(\varphi_{x}\circ \varphi_{y})(g) {}$, so ${} \varphi(xy)=\varphi(x)\varphi(y) {}$, and ${} \varphi {}$ is a homomorphism. 
 
+Now let ${} g \in \ker \varphi {}$. Now ${} \varphi_{g}=\mathrm{id} {}$, and ${} gxg^{-1}=x {}$ for all ${} x \in G {}$. Therefore, ${} gx=xg {}$ for all ${} x \in G {}$, so ${} g \in Z(G) {}$. 
+
+Finally, let ${} \varphi_{g} \in  \im \varphi {}$, and ${} \alpha \in \aut(G) {}$. Now note that
 $$
+\begin{align}
+ (\alpha \circ  \varphi_{g} \circ  \alpha ^{-1})(x)  & =\alpha(g\alpha ^{-1}(x)g^{-1}) \\
+  & =\alpha(g)x\alpha (g^{-1}) \\
+ & =\varphi_{\alpha(g)}(x)
+ \end{align}
+$$
+and so ${} \alpha \circ \varphi_{g}\circ  \alpha ^{-1} \in \im \varphi {}$, and that ${} \im \varphi \trianglelefteq \aut(G) {}$
+d)
+Since ${} \mathbb{Z} /n\mathbb{Z} = \langle 1 \rangle  {}$, then automorphisms are determined entirely by their value at 1. In particular, if ${} \alpha \in  \aut(G) {}$, then if ${} \alpha(1)=k {}$, then ${} \alpha(x)=kx {}$, since ${} x=x\cdot 1 {}$. Now if ${} \gcd(k,\, n)\neq 1 {}$, then the map ${} x \mapsto kx {}$ is not injective, as ${} kx=kx-mn {}$ for some $n {}$, and so the smallest non-negative number achievable is ${} \gcd(k,\, n)\geq 2 {}$, so since there are ${} n-1 {}$ possibilities but $n {}$ values, by the pigeonhole principle there must exist some number $z {}$ with ${} a,\, b {}$ such that ${} ka=kb=z {}$. Therefore,  ${} x \mapsto kx {}$ is not injective, and ${} \gcd(k,\, n)=1 {}$. 
