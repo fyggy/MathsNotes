@@ -94,3 +94,42 @@ Let ${} h \in G {}$. Suppose that ${} H\leq  G {}$, and that ${} h \in Z(H) {}$.
 c)
 Let ${} K \leq G {}$ such that ${} H\trianglelefteq K {}$. Therefore, for all ${} k \in K {}$, ${} kHk^{-1} =H {}$. Therefore, ${} K \leq  N_{G}(H) {}$
 d)
+Suppose that ${} A =\begin{pmatrix}a & b \\ c & d \end{pmatrix} \in  Z(G) {}$. Then 
+$$
+\begin{align}
+ \begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix}0 & 1 \\ 1 & 0 \end{pmatrix}   & = \begin{pmatrix}b & a \\ d & c \end{pmatrix}  \\
+ & =\begin{pmatrix}c & d \\ a & b \end{pmatrix}  \\
+ & =\begin{pmatrix}0 & 1 \\ 1 & 0  \end{pmatrix} \begin{pmatrix}a & b \\ c & d \end{pmatrix} 
+ \end{align}
+$$
+and so ${} a=d {}$ and ${} b=c {}$. Now
+$$
+\begin{align}
+\begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix}0 & 1 \\ 0 & 0 \end{pmatrix}  & =\begin{pmatrix}0 & a \\ 0 & c \end{pmatrix}  \\
+ & =\begin{pmatrix}c & d \\ 0 & 0 \end{pmatrix}  \\
+ & =\begin{pmatrix}0 & 1 \\ 0 & 0 \end{pmatrix} \begin{pmatrix}a & b \\ c & d \end{pmatrix} 
+\end{align}
+$$
+and so ${} b=c=0 {}$, and ${} A=\begin{pmatrix}a & 0 \\ 0 & a \end{pmatrix}  {}$. Note that ${} A=aI {}$ where $I {}$ is the ${} 2\times 2 {}$ identity, and that for some matrix $B {}$
+$$
+AB=aIB=aB=B(aI)=BA
+$$
+and so every such matrix commutes. Therefore
+$$
+Z(G)=\{ aI \mid a \in \mathbb{R} \}
+$$
+Now Let ${} A=\begin{pmatrix}a & b \\ c & d \end{pmatrix}  \in Z_{G}(h) {}$. Then
+$$
+\begin{align}
+ \begin{pmatrix}a & b \\ c & d \end{pmatrix}  \begin{pmatrix}1 & 1 \\ 0 & 1 \end{pmatrix}   & =\begin{pmatrix}a & a+b \\ c & c+d \end{pmatrix}  \\
+ & =\begin{pmatrix} a+c&b+d  \\ c & d \end{pmatrix}   \\
+ & =\begin{pmatrix}1 & 1 \\ 0 & 1 \end{pmatrix} \begin{pmatrix}a & b \\ c & d \end{pmatrix} 
+ \end{align}
+$$
+and so ${} a=a+c {}$, so ${} c=0 {}$, ${} a+b=b+d {}$, so ${} a=d {}$, ${} c+d=d {}$, so ${} c=0 {}$. Therefore, 
+$$
+A=\begin{pmatrix}a & b \\ 0 & a \end{pmatrix} 
+$$
+and so ${} Z_{G}(h)=\left\{ \begin{pmatrix}a & b \\ 0 & a \end{pmatrix} \mid a,\, b \in \mathbb{R} \right\} {}$
+
+Finally, Let ${} A=\begin{pmatrix}a & b \\ c & d \end{pmatrix} \in N_{G}(\langle h \rangle ) {}$. Then 
