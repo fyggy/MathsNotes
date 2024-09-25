@@ -212,7 +212,7 @@
     {trigger: "\\\\vec{([A-Za-z])}_{([^}]+)}([A-Za-z\\d]) ", replacement: "\\vec{[[0]]}_{[[1]][[2]]}$0 $1", options: "rmA"},
 	
     {trigger: "\\\\{([A-Za-z])}(\\d)", replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
-    {trigger: "([a-zA-Z])bar", replacement: "\\conj{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z])bar", replacement: "\\conj{[[0]]}", options: "rmA", priority: 1000},
     {trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 3},
     {trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: 1},
@@ -409,7 +409,6 @@
 	{trigger: "([A-Za-z])([A-Za-z])seq", replacement: "\\{[[0]]_{[[1]]}\\}_{[[1]]=${0:1}}^{${1:\\infty}} $2", options: "rmA"},
 	
     // Quantum mechanics
-    {trigger: "hba", replacement: "\\hbar", options: "mA"},
     {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
     {trigger: "o+", replacement: "\\oplus ", options: "mA"},
     {trigger: "ox", replacement: "\\otimes ", options: "mA"},

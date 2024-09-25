@@ -200,4 +200,23 @@ $$
 $$
 and so ${} \alpha \circ \varphi_{g}\circ  \alpha ^{-1} \in \im \varphi {}$, and that ${} \im \varphi \trianglelefteq \aut(G) {}$
 d)
-Since ${} \mathbb{Z} /n\mathbb{Z} = \langle 1 \rangle  {}$, then automorphisms are determined entirely by their value at 1. In particular, if ${} \alpha \in  \aut(G) {}$, then if ${} \alpha(1)=k {}$, then ${} \alpha(x)=kx {}$, since ${} x=x\cdot 1 {}$. Now if ${} \gcd(k,\, n)\neq 1 {}$, then the map ${} x \mapsto kx {}$ is not injective, as ${} kx=kx-mn {}$ for some $n {}$, and so the smallest non-negative number achievable is ${} \gcd(k,\, n)\geq 2 {}$, so since there are ${} n-1 {}$ possibilities but $n {}$ values, by the pigeonhole principle there must exist some number $z {}$ with ${} a,\, b {}$ such that ${} ka=kb=z {}$. Therefore,  ${} x \mapsto kx {}$ is not injective, and ${} \gcd(k,\, n)=1 {}$. 
+Since ${} \mathbb{Z} /n\mathbb{Z} = \langle 1 \rangle  {}$, then automorphisms are determined entirely by their value at 1. In particular, if ${} \alpha \in  \aut(G) {}$, then if ${} \alpha(1)=k {}$, then ${} \alpha(x)=kx {}$, since ${} x=x\cdot 1 {}$. Let ${} \alpha :G\to{}G {}$ defined by ${} \alpha(x)=kx {}$ for some $k {}$. Now if ${} d=\gcd(n,\, k)\neq 1 {}$, then we have 
+$$
+\alpha(n/d)=\frac{kn}{d}=\frac{k}{d}n=0
+$$
+and so ${} \alpha {}$ is not injective. However, if ${} d=1 {}$, then ${} \alpha(x)=0 \Rightarrow kx=n\Rightarrow n \mid x {}$, so ${} x=mn=0 {}$, and ${} \ker \alpha=\{ 0 \} {}$, and ${} \alpha {}$ is injective. Since it is an endomorphism of a finite group, then ${} \alpha {}$ is surjective, and ${} \alpha {}$ is an automorphism. 
+
+Now, consider ${} \alpha,\, \beta \in \aut(G) {}$ defined by ${} \alpha(x)=ax {}$ and ${} \beta(x)=bx {}$. Then
+$$
+\begin{align}
+ (\alpha \circ  \beta )  & =abx
+ \end{align}
+$$
+since ${} a,\, b {}$ are coprime to $n {}$, then ${} ab {}$ is coprime to $n {}$, and ${} \gamma(x)=abx {}$ is an automorphism.
+
+Therefore, define ${} \theta:(\mathbb{Z} /n \mathbb{Z})^{\times }\to{}\aut(G) {}$ by ${} \theta(k)=\alpha_{k} {}$, where ${} \alpha_{k}:G\to{}G {}$ is defined by ${} \alpha_{k}(x)=kx {}$. Since every ${} k \in (\mathbb{Z} /n\mathbb{Z})^{\times } {}$ has ${} \gcd(k,\, n)=1 {}$, then this is well defined. As proved above, ${} \theta(ab)=\theta(a)\theta(b) {}$. Furthermore, if ${} \theta(a)=\theta(b) {}$, then ${} ax=bx {}$ for all ${} x \in G {}$, so ${} a=b {}$. Finally, if ${} \alpha \in \aut(G) {}$, then there exists some ${} k=\alpha(1) {}$ such that ${} \alpha(x)=kx {}$. Therefore, ${} \theta(k)=\alpha {}$, so ${} \theta {}$ is bijective and is an isomorphism.
+5. 
+a)
+Let ${} \theta:\mathcal{A}\to{}\mathcal{B} {}$ where ${} \mathcal{B}=\{ \conj{A} \subseteq \conj{G} \mid \conj{A} \leq  \conj{G} \} {}$ defined by ${} \theta(H)=\conj{H} {}$. First, suppose that ${} H,\, K\in \mathcal{A} {}$ such that ${} \theta(H)=\theta(K) {}$. Therefore, ${} H /N = K / N {}$. Therefore, for each element ${} \conj{h} \in \conj{H} {}$, ${} \conj{h} \in \conj{K} {}$. Therefore, since ${} H=\bigcup \conj{H} {}$, then ${} H \subseteq K=\bigcup \conj{K} {}$. Likewise for ${} \conj{K} {}$, so ${} H=k {}$.
+
+Now if ${} \conj{H} \in \mathcal{B} {}$, then let ${} H=\bigcup \conj{H} {}$. Note that, since ${} N \in  \conj{H} {}$, then ${} N \subseteq H {}$. Furthermore, if ${} x,\, y \in H {}$, then ${} \conj{xy^{-1}} \in \conj{H} {}$, so ${} xy^{-1} \in H {}$, and ${} H\leq G {}$. Therefore, $$
