@@ -75,4 +75,22 @@ Now if the eigenvalues of $A {}$ are real but distinct, then it is similar to a 
 $$
 \begin{pmatrix}r & 0 \\ 0 & r^{-1} \end{pmatrix} 
 $$
-which is an element of $S {}$. If they are real but 
+which is an element of $S {}$. If they are real but indistinct, then it is similar to 
+$$
+\begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix} 
+$$
+and if they are complex, then it is similar to
+$$
+\begin{align}
+\begin{pmatrix}\cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{pmatrix}  & =\begin{pmatrix}1 & -\tan\left( \frac{\theta}{2} \right) \\ 0 & 1 \end{pmatrix} \begin{pmatrix}1 & 0 \\ \cos\theta & 1 \end{pmatrix} \begin{pmatrix}1 & -\tan\left( \frac{\theta}{2} \right) \\ 0 & 1 \end{pmatrix} \in \langle S \rangle 
+\end{align}
+$$
+Therefore, ${} A \in \langle S \rangle  {}$, so ${} \langle S \rangle =\mathrm{SL}_{2}(\mathbb{R}) {}$.
+2. 
+a)
+Let ${} g \in G {}$, ${} z \in Z(G) {}$. Then ${} gzg^{-1}=zgg^{-1}=z \in Z(G) {}$, therefore ${} Z(G)\trianglelefteq G {}$
+b)
+Let ${} h \in G {}$. Suppose that ${} H\leq  G {}$, and that ${} h \in Z(H) {}$. Then for all ${} k \in H {}$, ${} hk=kh {}$, Therefore, ${} H \subseteq Z_{G}(h) {}$.
+c)
+Let ${} K \leq G {}$ such that ${} H\trianglelefteq K {}$. Therefore, for all ${} k \in K {}$, ${} kHk^{-1} =H {}$. Therefore, ${} K \leq  N_{G}(H) {}$
+d)
