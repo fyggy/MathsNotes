@@ -61,4 +61,12 @@ A=\begin{pmatrix}1 & m \\ 0 & 1 \end{pmatrix} \text{ or } A=\begin{pmatrix}1 & 0
 $$
 Since ${} A \in \langle S \rangle  {}$ as established above, then ${} ASA^{-1} \subseteq \langle S \rangle  {}$. Therefore, for any ${} A \in \mathrm{GL}_{2}(\mathbb{R}) {}$, then ${} A \langle S \rangle A^{-1} \subseteq  \langle S \rangle  {}$, and ${} \langle S \rangle  {}$ is normal in ${} \mathrm{GL}_{2}(\mathbb{R}) {}$. In particular, this gives us that if any matrix is similar to a matrix in ${} \langle S \rangle$, then it is also an element of ${} \langle S \rangle  {}$. 
 
-Now let $$
+Now let ${} A \in  \mathrm{SL}_{2}(\mathbb{R}) {}$. Then, it's eigenvalues are either of the form ${} r,\, r^{-1} {}$, ${} r \in \mathbb{R}^{\times } {}$, or they are complex. If they are complex, then since they are roots of a real polynomial, then they must be conjugate. So if ${} r_{1}=a+bi {}$ is a eigenvalue, then the other, ${} r_{2} {}$, must be equal to
+$$
+r_{2}=\frac{1}{r_{1}}=\frac{1}{a+bi}=\frac{ a-bi }{ a^{2}+b^{2} }
+$$
+but 
+$$
+r_{2}=a-bi
+$$
+so ${} a^{2}+b^{2}=1 {}$.
