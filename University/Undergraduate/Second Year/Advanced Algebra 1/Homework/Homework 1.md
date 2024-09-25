@@ -69,4 +69,4 @@ but
 $$
 r_{2}=a-bi
 $$
-so ${} a^{2}+b^{2}=1 {}$.
+so ${} a^{2}+b^{2}=1 {}$. Therefore, ${} |r_{1}|=|r_{2}|=1 {}$. In particular, set ${} r_{1}=e^{i\theta} {}$. Then ${} r_{2}=e^{-i\theta} {}$, and the
