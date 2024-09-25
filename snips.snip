@@ -87,10 +87,10 @@
 	{trigger: ">:", replacement: "\\rhd", options: "mA"},
 	{trigger: "\\lhd=", replacement: "\\trianglelefteq", options: "mA"},
 	{trigger: "\\leq:", replacement: "\\trianglelefteq", options: "mA"},
-	{trigger: "\\leq;", replacement: "\\trianglelefteq", options: "mA"},
+	{trigger: "\\leq ;", replacement: "\\trianglelefteq", options: "mA", priority: 1000},
 	{trigger: "\\rhd=", replacement: "\\trianglerighteq", options: "mA"},
 	{trigger: "\\geq:", replacement: "\\trianglerighteq", options: "mA"},
-	{trigger: "\\geq;", replacement: "\\trianglerighteq", options: "mA"},
+	{trigger: "\\geq ;", replacement: "\\trianglerighteq", options: "mA", priority: 1000},
 	
 	// Matrix Groups / Lie groups
 	{trigger: "SL", replacement: "\\mathrm{SL}", options: "mA"}, 

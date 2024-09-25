@@ -221,4 +221,20 @@ Let ${} \theta:\mathcal{A}\to{}\mathcal{B} {}$ where ${} \mathcal{B}=\{ \conj{A}
 
 Now if ${} \conj{H} \in \mathcal{B} {}$, then let ${} H=\bigcup \conj{H} {}$. Note that, since ${} N \in  \conj{H} {}$, then ${} N \subseteq H {}$. Furthermore, if ${} x,\, y \in H {}$, then ${} \conj{xy^{-1}} \in \conj{H} {}$, so ${} xy^{-1} \in H {}$, and ${} H\leq G {}$, so ${} H \in \mathcal{A} {}$. Finally, given some $\conj{x} \in \conj{H} {}$, and some ${} x \in \conj{x} {}$, then ${} xN=\conj{x} {}$ by definition, and so ${} H/N=\conj{H} {}$. Therefore, ${} \theta(H)=\conj{H} {}$, and ${} \theta {}$ is bijective. 
 b)
-Let $xH {}$ be a coset of ${} G {}$. Now consider ${} \theta {}$ mapping from the cosets of $H {}$ to the cosets of ${} \conj{H} {}$ by ${} xH \mapsto \conj{x} \conj{H} {}$. First, suppose that ${} xH=yH {}$, so ${} xy^{-1} \in H {}$. Then ${} \conj{x}\conj{y}^{-1}=xy^{-1}N \in \conj{H} {}$. Therefore, ${} \conj{x} {}$
+Let $xH {}$ be a coset of ${} G {}$. Now consider ${} \theta {}$ mapping from the cosets of $H {}$ to the cosets of ${} \conj{H} {}$ by ${} xH \mapsto \conj{x} \conj{H} {}$. First, suppose that ${} xH=yH {}$, so ${} xy^{-1} \in H {}$. Then ${} \conj{x}\conj{y}^{-1}=xy^{-1}N \in \conj{H} {}$. Therefore, ${} \conj{x}\conj{H}=\conj{y}\conj{H} {}$, and ${} \theta {}$ is well defined. Now let ${} \theta(xH)=\theta(yH) {}$. Then by above, ${} xH=yH {}$. Finally, given ${} \conj{x}\conj{H} {}$, let ${} x \in \conj{x} {}$, and ${} \theta(xH)=xN\conj{H}=\conj{x}\conj{H} {}$, and so ${} \theta {}$ is surjective. Therefore, ${} \theta {}$ is a bijection between the cosets, and ${} [G:H]=[\conj{G}:\conj{H}] {}$. 
+
+Just for kicks, let ${} x,\, y \in G {}$. Then ${} \theta(xyH)=\conj{x}\conj{y} \conj{H}=\conj{x} \conj{H} \conj{y}\conj{H}=\theta(xH)\theta(yH) {}$. Therefore, ${} \theta {}$ is a homomorphism if $H {}$ is normal in $G {}$
+c)
+Let ${} H \in \mathcal{A} {}$. First, suppose that ${} H\trianglelefteq G {}$. Then, given ${} \conj{g} \in \conj{G} {}$, we have that
+$$
+\begin{align}
+\conj{g}\conj{H}\conj{g}^{-1} & =\{ gxg^{-1}N \mid x \in H \} \\
+ & =\{ yN \mid y \in H \} \\
+ & =\conj{H}
+\end{align}
+$$
+and so ${} \conj{H} \trianglelefteq \conj{G} {}$. 
+
+Conversely, suppose that ${} \conj{H} \trianglelefteq \conj{G} {}$. Then, given ${} g \in G {}$, we have that ${} gxg^{-1}N \in \conj{H} {}$, and so there exists some ${} h \in H {}$ with ${} hN=gxg^{-1}N {}$, so ${} hgxg^{-1} \in N \subseteq H {}$. Therefore, ${} hgxg^{-1}=n {}$ for some ${} n \in N {}$, and ${} gxg^{-1}=h^{-1}n \in H {}$, and ${} gHg^{-1}=H {}$, so ${} H \trianglelefteq G {}$.
+d)
+(already proved in 5. b)
