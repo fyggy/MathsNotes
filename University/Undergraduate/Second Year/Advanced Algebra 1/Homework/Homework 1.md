@@ -132,4 +132,61 @@ A=\begin{pmatrix}a & b \\ 0 & a \end{pmatrix}
 $$
 and so ${} Z_{G}(h)=\left\{ \begin{pmatrix}a & b \\ 0 & a \end{pmatrix} \mid a,\, b \in \mathbb{R} \right\} {}$
 
-Finally, Let ${} A=\begin{pmatrix}a & b \\ c & d \end{pmatrix} \in N_{G}(\langle h \rangle ) {}$. Then 
+Finally, Let ${} A=\begin{pmatrix}a & b \\ c & d \end{pmatrix} \in N_{G}(\langle h \rangle ) {}$. Then for all ${} n \in \mathbb{Z} {}$, then 
+$$
+Ah^{n}A^{-1}=h^{k}
+$$
+for some ${} k \in \mathbb{Z} {}$. First, note that 
+$$
+\begin{pmatrix}1 & a \\ 0 & 1 \end{pmatrix} \begin{pmatrix}1 & b \\ 0 & 1 \end{pmatrix} =\begin{pmatrix}1 & a+b \\ 0 & 1 \end{pmatrix} 
+$$
+Then ${} h^{n}=\begin{pmatrix}1 & n \\ 0 & 1 \end{pmatrix}  {}$. Now
+$$
+\begin{align}
+\frac{1}{ad-bc}\begin{pmatrix}a & b \\ c & d \end{pmatrix} \begin{pmatrix}1 & n \\ 0 & 1 \end{pmatrix} \begin{pmatrix} d& -b \\ -c & a \end{pmatrix}  & =\frac{1}{a d-bc} \begin{pmatrix}ad-bc-nac  & na^{2} \\  -nc^{2}& ad-bc+nac \end{pmatrix}  \\
+ & =\begin{pmatrix}1 & k \\ 0 & 1 \end{pmatrix} 
+\end{align}
+$$
+and so ${} c=0 {}$, and we have
+$$
+\begin{align}
+\frac{1}{a d-bc} \begin{pmatrix}ad-bc-nac  & na^{2} \\  -nc^{2}& ad-bc+nac \end{pmatrix}  & =\begin{pmatrix}1 & \frac{na}{d} \\ 0 & 1 \end{pmatrix} 
+\end{align}
+$$
+so ${} \frac{na}{d} \in \mathbb{Z} {}$. In particular, since this holds for all ${} n \in Z {}$, we have ${} \frac{a}{d} \in \mathbb{Z} {}$. Therefore, 
+$$
+N_{G}(\langle h \rangle )=\left\{ \begin{pmatrix}a & b \\ 0 & d \end{pmatrix} \mid a,\, b,\, d \in \mathbb{R},\, d\neq 0,\, \frac{a}{d} \in \mathbb{Z} \right\} 
+$$
+3. 
+a)
+We have that ${} \im f=\{ f(n)\mid n \in \mathbb{Z} \}=\{ g^{n} \mid  n \in \mathbb{Z} \}=\langle g \rangle  {}$.
+b)
+We have 2 cases: 
+Case 1: if ${} |g| {}$ is finite, then 
+$$
+\ker f=\{ n|g|  \mid n \in \mathbb{Z} \}=[n]
+$$
+Case 2: if ${} |g| {}$ is infinite, then
+$$
+\ker f=\{ 0 \}
+$$
+c)
+Let $C {}$ be a cyclic group. Then there exists some element ${} c \in C {}$ such that ${} \langle c \rangle =C {}$. Define ${} f:\mathbb{Z} \to{}C {}$ to be ${} f(n)=c^{n}$. It is clear that ${} f {}$ is surjective. We have 2 cases:
+
+Case 1: if ${} |g|=n {}$ is finite, then ${} \ker f=[n]=n\mathbb{Z} {}$, and so $f {}$ factors through a unique isomorphism ${} \theta:\mathbb{Z} / n\mathbb{Z} \to{}C {}$, and $C {}$ is isomorphic to ${} \mathbb{Z} /n\mathbb{Z} {}$.
+
+Case 2: if ${} |g| {}$ is infinite, then ${} \ker f=\{ 0 \} {}$ is trivial, and so $f {}$ is injective. Since $f {}$ is surjective, then $f {}$ is an isomorphism
+4. 
+a)
+First note that composition is associative. Now we have the identity automorphism, ${} \mathrm{id}:G\to{}G {}$ defined by ${} x \mapsto x {}$. Note that given an automorphism ${} \alpha \in \aut(G) {}$, then ${} \mathrm{id} \circ  \alpha=\alpha=\alpha \circ  \mathrm{id} {}$. Finally, since each automorphism ${} \alpha {}$ is bijective, then there exists a inverse isomorphism ${} \alpha ^{-1} {}$, with the property ${} \alpha\alpha ^{-1}=\mathrm{id}=\alpha ^{-1} \alpha {}$. Therefore, ${} \aut(G) {}$ is a group. 
+b)
+Let ${} h \in G {}$. First note that ${} \varphi_{h}(ab)=habh^{-1}=hah^{-1} hbh^{-1}=\varphi_{h}(a) \varphi_{h}(b) {}$, so ${} \varphi_{h} {}$ is a homomorphism. Now simply note that ${} \psi_{h}:G\to{}G {}$ defined by ${} \psi_{h}(x)=h^{-1} xh {}$ is an inverse of ${} \varphi_{h} {}$. In particular, 
+$$
+\varphi_{h}(\psi_{h}(x))=hh^{-1} xh h^{-1}=x=h^{-1}hxh^{-1}h=\psi_{h}(\varphi_{h}(x))
+$$
+Therefore, ${} \varphi_{h} {}$ is bijective and an isomorphism, so therefore an automorphism, so ${} \varphi_{h} \in \aut(G) {}$
+c)
+First, note that $\varphi(xy)=\varphi_{xy} {}$, and that ${} \varphi_{xy}(g)=xygy^{-1}x=(\varphi_{x}\circ \varphi_{y})(g) {}$, so $$
+$$
+
+$$
