@@ -52,7 +52,7 @@ A \begin{pmatrix}r & 0 \\ 0 & r^{-1} \end{pmatrix} A^{-1}=\begin{pmatrix}r & 0 \
 $$
 likewise, 
 $$
-A \begin{pmatrix}1 & 1 \\ 0 & 1 \end{pmatrix} A^{-1}=\begin{pmatrix}m & m \\ 0 & 1 \end{pmatrix} A^{-1}=\begin{pmatrix}1 & m \\ 0 & 1 \end{pmatrix} =\begin{pmatrix}m & 0 \\ 0 & m^{-1} \end{pmatrix} \begin{pmatrix} 1& 1 \\ 0 & 1 \end{pmatrix} \in \langle S \rangle 
+A \begin{pmatrix}1 & 1 \\ 0 & 1 \end{pmatrix} A^{-1}=\begin{pmatrix}m & m \\ 0 & 1 \end{pmatrix} A^{-1}=\begin{pmatrix}1 & m \\ 0 & 1 \end{pmatrix} =\begin{pmatrix}\sqrt{m} & 0 \\ 0 & \sqrt{ m }^{\;-1} \end{pmatrix} \begin{pmatrix} 1& 1 \\ 0 & 1 \end{pmatrix} \begin{pmatrix}\sqrt{m} ^{\;-1} & 0 \\ 0 & \sqrt{ m } \end{pmatrix}\in \langle S \rangle 
 $$
 and likewise for ${} \begin{pmatrix} 1 & 0 \\ 1 & 1 \end{pmatrix}  {}$ or if ${} A=\begin{pmatrix}1 & 0 \\ 0 & m \end{pmatrix}  {}$.
 Finally, if $A {}$ is an addition matrix, then 
