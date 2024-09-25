@@ -69,4 +69,10 @@ but
 $$
 r_{2}=a-bi
 $$
-so ${} a^{2}+b^{2}=1 {}$. Therefore, ${} |r_{1}|=|r_{2}|=1 {}$. In particular, set ${} r_{1}=e^{i\theta} {}$. Then ${} r_{2}=e^{-i\theta} {}$, and the
+so ${} a^{2}+b^{2}=1 {}$. Therefore, ${} |r_{1}|=|r_{2}|=1 {}$. In particular, set ${} r_{1}=e^{i\theta} {}$. Then ${} r_{2}=e^{-i\theta} {}$. 
+
+Now if the eigenvalues of $A {}$ are real but distinct, then it is similar to a diagonal matrix of the form
+$$
+\begin{pmatrix}r & 0 \\ 0 & r^{-1} \end{pmatrix} 
+$$
+which is an element of $S {}$. If they are real but 
