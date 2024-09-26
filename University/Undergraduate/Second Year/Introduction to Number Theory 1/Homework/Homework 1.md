@@ -147,4 +147,7 @@ and so ${} r_{2} < \frac{b}{2} {}$
 b)
 We proceed by strong induction. First, note that ${} \lambda(a,\, 2)\leq 2\ceil*{\log_{2}(2)}=2  {}$, as either ${} 2 \mid a {}$ and ${} r_{1}=0 {}$, or ${} r_{1}=1 {}$, so ${} r_{2}=0 {}$. Now suppose that ${} \lambda(a,\, b)\leq 2 \ceil*{\log_{2}(b)}  {}$ for all ${} b\leq n {}$. 
 
-Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore, ${} \lambda(a,\, n+1)=2+@ {}$
+Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore, ${} \lambda(a,\, n+1)=2+\lambda(r_{1},\, r_{2}) {}$. Since ${} r_{2} < (n+1) /2 {}$, then ${} \lambda(r_{1},\, r_{2})\leq 2\ceil*{\log _{2}\left( \frac{n+1}{2} \right)} =2\ceil*{\log _{2}(n+1)}-2  {}$. Therefore, ${} \lambda(a,\, n+1)\leq 2 \ceil*{\log_{2}(n+1)}  {}$, and by induction the hypothesis holds.
+6. 
+a)
+First note that $$
