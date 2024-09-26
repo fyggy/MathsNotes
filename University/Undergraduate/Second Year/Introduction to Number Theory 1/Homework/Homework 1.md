@@ -129,7 +129,22 @@ $$
  & =5\cdot 260-7\cdot 185 \\
  & =5\cdot 260 - 7\cdot (1485-5\cdot 260) \\
  & =40\cdot 260-7\cdot 1485 \\
- & =40\cdot (1745-1\cdot 1485)-5\cdot 1485 \\
- & =28\cdot 1745-33\cdot 1485
+ & =40\cdot (1745-1\cdot 1485)-7\cdot 1485 \\
+ & =40\cdot 1745-47\cdot 1485
 \end{align}
 $$
+and so ${} u=47 {}$, and ${} v=40 {}$. Now the solutions ${} (x,\, y) {}$ are given by 
+$$
+\{ (141+351n,\, 120+297n)\mid n \in \mathbb{Z} \}
+$$
+5. 
+a)
+We see that since ${} q_{2}\geq 1 {}$, and ${} r_{1}> r_{2} {}$, then
+$$
+b=q_{2} r_{1} +r_{2} \geq r_{1} + r_{2} >   2r_{2}
+$$
+and so ${} r_{2} < \frac{b}{2} {}$
+b)
+We proceed by strong induction. First, note that ${} \lambda(a,\, 2)\leq 2\ceil*{\log_{2}(2)}=2  {}$, as either ${} 2 \mid a {}$ and ${} r_{1}=0 {}$, or ${} r_{1}=1 {}$, so ${} r_{2}=0 {}$. Now suppose that ${} \lambda(a,\, b)\leq 2 \ceil*{\log_{2}(b)}  {}$ for all ${} b\leq n {}$. 
+
+Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore, ${} \lambda(a,\, n+1)=2+@ {}$
