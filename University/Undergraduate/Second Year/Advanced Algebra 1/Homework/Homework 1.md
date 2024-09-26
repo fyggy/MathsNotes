@@ -264,3 +264,6 @@ $$
 and so ${} [G, G] \subseteq \mathrm{SL}_{2}(\mathbb{R}) {}$.
 
 Now we have ${} \mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / \mathbb{R}I {}$ where ${} \mathbb{R} I=\{ xI \mid x \in \mathbb{R} \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} \mathbb{R}I {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Since the only element of ${} \mathbb{R} I {}$ with determinant $1 {}$ is the identity, and since ${} xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then for each element ${} A \in [\mathrm{PGL}_{2}(\mathbb{R}),\, \mathrm{PGL}_{2}(\mathbb{R})]=C {}$ there exists a unique element ${} s \in \mathrm{SL}_{2}(\mathbb{R}) {}$, and so we may identify $C {}$ with at least a subgroup of ${} \mathrm{SL}_{2}(\mathbb{R}) {}$. 
+
+Now let ${} s \in \mathrm{SL}_{2}(\mathbb{R}) {}$. ${} s=xyx^{-1}y^{-1} {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$, and so ${} s \mathbb{R}I=xyx^{-1}y^{-1} \mathbb{R}I=XYX^{-1}Y^{-1} {}$ for ${} X=x\mathbb{R}I {}$ and ${} Y=y \mathbb{R}I {}$. Therefore, ${} s \mathbb{R} I \in C {}$, and so ${} \mathrm{SL}_{2}(\mathbb{R}) \mathbb{R}I=\{ s\mathbb{R} I \mid s \in \mathrm{SL}_{2} (\mathbb{R}) \}=C {}$.
+c)
