@@ -250,4 +250,17 @@ $$
 $$
 Therefore, ${} [G,\, G]\trianglelefteq G {}$. Let ${} N\trianglelefteq G {}$ such that ${} G /N {}$ is abelian. Then ${} xyN=yxN {}$, so ${} xyx^{-1}y^{-1} \in N {}$, and ${} [G, G]\leq  N {}$.
 b)
-${} ABA^{-1}B {}$
+Note the following:
+If ${} A=\begin{pmatrix}1 & \frac{1}{2} \\ 0 & 1 \end{pmatrix}  {}$ and ${} B=\begin{pmatrix}1 & -\frac{1}{2} \\ 0 & -1 \end{pmatrix}  {}$, then ${} ABA^{-1}B^{-1}=\begin{pmatrix}1 & 1 \\ 0 & 1 \end{pmatrix} {}$.
+If ${} A=\begin{pmatrix}1 & 0\\ \frac{1}{2}  & 1 \end{pmatrix}  {}$ and ${} B=\begin{pmatrix}1 & 0 \\ -\frac{1}{2} & -1 \end{pmatrix}  {}$, then ${} ABA^{-1}B^{-1}=\begin{pmatrix}1 & 0 \\ 1 & 1 \end{pmatrix} {}$.
+If ${} A=\begin{pmatrix}0 & r \\ 1 & 0 \end{pmatrix}  {}$ and ${} B=\begin{pmatrix}0 & 1 \\ 1 & 0 \end{pmatrix}  {}$, then ${} ABA^{-1}B^{-1}=\begin{pmatrix}r & 0 \\ 0 & r^{-1} \end{pmatrix}  {}$.
+Therefore, ${} \mathrm{SL}_{2}(\mathbb{R}) \subseteq [\mathrm{GL}_{2}(\mathbb{R}),\, \mathrm{GL}_{2}(\mathbb{R})] {}$. Now note that if ${} A=XYX^{-1}Y^{-1} \in [G,\, G] {}$, we have
+$$
+\begin{align}
+ \det(A)=\det  (XYX^{-1}Y^{-1}) & =\det  (X)\det  (Y)\det  (X^{-1})\det  (Y^{-1})   \\
+ & =1
+ \end{align}  
+$$
+and so ${} [G, G] \subseteq \mathrm{SL}_{2}(\mathbb{R}) {}$.
+
+Now we have ${} \mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / \mathbb{R}I {}$ where ${} \mathbb{R} I=\{ xI \mid x \in \mathbb{R} \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} \mathbb{R}I {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Since the only element of ${} \mathbb{R} I {}$ with determinant $1 {}$ is the identity, and since ${} xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then for each element ${} A \in [\mathrm{PGL}_{2}(\mathbb{R}),\, \mathrm{PGL}_{2}(\mathbb{R})]=C {}$ there exists a unique element ${} s \in \mathrm{SL}_{2}(\mathbb{R}) {}$, and so we may identify $C {}$ with at least a subgroup of ${} \mathrm{SL}_{2}(\mathbb{R}) {}$. 
