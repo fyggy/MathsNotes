@@ -97,4 +97,4 @@ $$
 $$
 2. 
 a)
-Let ${} m \in \mathbb{Z} {}$, ${} m\neq 0 {}$. Let ${} a,\, b \in \mathbb{Z} {}$, and ${} d=\gcd(a,\, b) {}$. Now let ${} d' {}$ such that
+Let ${} m \in \mathbb{Z} {}$, ${} m\neq 0 {}$. Let ${} a,\, b \in \mathbb{Z} {}$, and ${} d=\gcd(a,\, b) {}$. Since $d \mid a {}$, then ${} |m|d \mid  ma {}$, and since ${} d \mid b {}$, then ${} |m| d \mid  mb {}$. Therefore, ${} |m|d \mid \gcd(ma,\, mb) {}$. Now suppose that ${} d'=\gcd(ma,\, mb) {}$. Then ${} m \mid d' {}$, so we have ${} d'=mk {}$. Now ${} mk \mid ma {}$, so ${} k \mid a {}$ and ${} mk \mid  mb {}$, so ${} k \mid  b {}$. Therefore, ${} k \mid d {}$, so ${} mk=d'\mid md {}$, and ${} d'=md {}$
