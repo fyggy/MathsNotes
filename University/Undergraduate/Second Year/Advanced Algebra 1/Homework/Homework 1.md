@@ -4,7 +4,7 @@ tags:
   - advalg1
 date: 2024-09-23
 pset: 1
-completed: false
+completed: true
 ---
 [[Directory]], [[University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1|Subject Directory]]
 [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1|🞀🞀]] [[|◀]] [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2|▶]] [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 11|🞂🞂]]
@@ -282,4 +282,13 @@ $$
 $$
 
 c)
-Note that 
+Note that ${} C=[\mathrm{GL}_{2}(\mathbb{R}),\, \mathrm{GL}_{2}(\mathbb{R})]=\mathrm{SL}_{2}(\mathbb{R}) {}$, but that 
+$$
+\begin{align}
+ D & =[\mathbb{R}^{\times } \times  \mathrm{PGL}_{2}(\mathbb{R}),\, \mathbb{R}^{\times } \times  \mathrm{PGL}_{2}(\mathbb{R})]   \\
+ & =\{ (xyx^{-1}y^{-1},\, XYX^{-1}Y^{-1}) \mid x,\, y \in \mathbb{R}^{\times },\, X,\, Y \in \mathrm{PGL}_{2}(\mathbb{R}) \} \\
+ & =\{ xyx^{-1}y^{-1} \mid x,\, y \in \mathbb{R}^{\times } \}\times \{ XYX^{-1}Y^{-1} \mid  \mathrm{PGL}_{2}(\mathbb{R}) \} \\
+ & \cong \{ 1 \} \times  \mathrm{PSL}_{2}(\mathbb{R})\cong \mathrm{PSL}_{2}(\mathbb{R})
+ \end{align}
+$$
+and that ${} \mathrm{PSL}_{2}(\mathbb{R}) \not\cong \mathrm{SL}_{2}(\mathbb{R})  {}$, and so ${} \mathrm{GL}_{2}(\mathbb{R}) \not\cong \mathbb{R}^{\times } \times  \mathrm{PGL}_{2}(\mathbb{R}) {}$.
