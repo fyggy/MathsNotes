@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "0ca3929dc755584c",
+        "id": "957c8cfdba7bfef6",
         "type": "tabs",
         "children": [
           {
-            "id": "9b80af275a2e9f7f",
+            "id": "27e4792df577fb42",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf"
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf"
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md"
               }
             }
           },
@@ -181,21 +181,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b80af275a2e9f7f",
+  "active": "62405cbb85311ceb",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
-    "Directory.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
     "Pasted image 20240926114830.png",
     "Pasted image 20240926114506.png",
@@ -219,10 +222,7 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 10.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 9.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 8.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 7.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 6.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
