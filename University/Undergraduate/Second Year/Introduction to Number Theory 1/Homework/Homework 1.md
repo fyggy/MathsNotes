@@ -150,4 +150,5 @@ We proceed by strong induction. First, note that ${} \lambda(a,\, 2)\leq 2\ceil*
 Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore, ${} \lambda(a,\, n+1)=2+\lambda(r_{1},\, r_{2}) {}$. Since ${} r_{2} < (n+1) /2 {}$, then ${} \lambda(r_{1},\, r_{2})\leq 2\ceil*{\log _{2}\left( \frac{n+1}{2} \right)} =2\ceil*{\log _{2}(n+1)}-2  {}$. Therefore, ${} \lambda(a,\, n+1)\leq 2 \ceil*{\log_{2}(n+1)}  {}$, and by induction the hypothesis holds.
 6. 
 a)
-First note that $$
+First note that ${} f_{n+2}<2f_{n+1} {}$, so ${} q_{1}=1 {}$. Therefore, ${} r_{1}=f_{n} {}$, and by induction, ${} \lambda (f_{n+2},\, f_{n+1})=n {}$
+b)
