@@ -263,8 +263,20 @@ $$
 $$
 and so ${} [G, G] \subseteq \mathrm{SL}_{2}(\mathbb{R}) {}$.
 
-Now we have ${} \mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / Z {}$ where ${} Z=\mathbb{R} I=\{ xI \mid x \in \mathbb{R} \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} Z {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Therefore, since ${} s=xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then ${} sZ=XYX^{-1}Y^{-1} {}$. Since the only elements in $Z {}$ with determinant $1 {}$ are
+Now let ${} G=\mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / Z {}$ where ${} Z=\mathbb{R} I=\{ xI \mid x \in \mathbb{R} \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} Z {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Therefore, since ${} s=xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then ${} sZ=XYX^{-1}Y^{-1} {}$. Since the only elements in $Z {}$ with determinant $1 {}$ are
 $$
 \begin{pmatrix}1 & 0 \\ 0 & 1 \end{pmatrix} ,\, \begin{pmatrix}-1 & 0 \\ 0 & -1 \end{pmatrix}  \in Z
 $$
-Then if we take ${} \mathrm{PSL}_{2}(\mathbb{R})=\mathrm{SL}_{2}(\mathbb{R}) / Z(\mathrm{SL}_{2}(\mathbb{R}))=\mathrm{SL}_{2}(\mathbb{R}) / \{ I, -I \} {}$, then each element ${} p \in \mathrm{PSL}_{2}(\mathbb{R}) {}$ corresponds precisely to 
+Set ${} Q=\{ I,\, -I \}\subset Z {}$. Then if we take ${} \mathrm{PSL}_{2}(\mathbb{R})=\mathrm{SL}_{2}(\mathbb{R}) / Z(\mathrm{SL}_{2}(\mathbb{R}))=\mathrm{SL}_{2}(\mathbb{R}) / {}Q {}$, then the map ${} \theta:[G,\,  G]\to{}\mathrm{PSL}_{2}(\mathbb{R}) {}$ defined by ${} \theta(pZ)=pQ {}$, where ${} p \in \mathrm{SL}_{2}(\mathbb{R}) {}$ is well defined.
+
+Now let ${} pZ,\, qZ \in  [G,\, G] {}$ such that ${} \theta(pZ)=\theta(qZ) {}$. Then ${} pQ=qQ {}$, and either ${} p=q {}$ or ${} p=-q {}$. In either case, since ${} -I \in Z {}$, then ${} pZ=qZ {}$, and so ${} \theta {}$ is injective.
+
+Now Let ${} pQ \in \mathrm{PSL}_{2}(\mathbb{R}) {}$. Then ${} p=xyx^{-1}y^{-1} {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$, and setting ${} X=xZ {}$ and ${} Y=yZ {}$, we get ${} P=XYX^{-1}Y^{-1} \in [G,\, G] {}$ with ${} p \in P {}$, and so ${} \theta(pZ)=pQ {}$, and ${} \theta {}$ is bijective and an isomorphism. 
+
+Therefore, ${} [\mathrm{PGL}_{2}(\mathbb{R}),\, \mathrm{PGL}_{2}(\mathbb{R})]\cong \mathrm{PSL}_{2}(\mathbb{R}){} {}$, in particular, since ${} QZ=Z {}$
+$$
+[\mathrm{PGL}_{2}(\mathbb{R}),\, \mathrm{PGL}_{2}(\mathbb{R})] = \mathrm{PSL}_{2}(\mathbb{R}) Z=\{ pQZ \mid pQ \in \mathrm{PSL}_{2}(\mathbb{R}) \}=\{ pZ \mid pQ \in \mathrm{PSL}_{2}(\mathbb{R}) \}
+$$
+
+c)
+Note that 
