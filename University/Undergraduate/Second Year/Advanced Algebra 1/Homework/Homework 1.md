@@ -263,7 +263,10 @@ $$
 $$
 and so ${} [G, G] \subseteq \mathrm{SL}_{2}(\mathbb{R}) {}$.
 
-Now let ${} G=\mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / Z {}$ where ${} Z=\mathbb{R} I=\{ xI \mid x \in \mathbb{R} \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} Z {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Therefore, since ${} s=xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then ${} sZ=XYX^{-1}Y^{-1} {}$. Since the only elements in $Z {}$ with determinant $1 {}$ are
+
+
+
+Now let ${} G=\mathrm{PGL}_{2}(\mathbb{R})=\mathrm{GL}_{2}(\mathbb{R}) / Z {}$ where ${} Z=\mathbb{R} I=\{ xI \mid x \in \mathbb{R}^{\times } \} {}$, and $I {}$ is the ${} 2\times 2 {}$ identity matrix. Given ${} X, Y \in \mathrm{PGL}_{2}(\mathbb{R}) {}$, then ${} XYX^{-1}Y^{-1}=xyx^{-1}y^{-1} Z {}$ for some ${} x,\, y \in \mathrm{GL}_{2}(\mathbb{R}) {}$. Therefore, since ${} s=xyx^{-1}y^{-1} \in \mathrm{SL}_{2}(\mathbb{R}) {}$, then ${} sZ=XYX^{-1}Y^{-1} {}$. Since the only elements in $Z {}$ with determinant $1 {}$ are
 $$
 \begin{pmatrix}1 & 0 \\ 0 & 1 \end{pmatrix} ,\, \begin{pmatrix}-1 & 0 \\ 0 & -1 \end{pmatrix}  \in Z
 $$
