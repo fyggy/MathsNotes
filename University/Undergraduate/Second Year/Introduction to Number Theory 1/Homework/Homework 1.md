@@ -152,3 +152,4 @@ Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore
 a)
 First note that ${} f_{n+2}<2f_{n+1} {}$, so ${} q_{1}=1 {}$. Therefore, ${} r_{1}=f_{n} {}$, and by induction, ${} \lambda (f_{n+2},\, f_{n+1})=n {}$
 b)
+Suppose that ${} \lambda(a,\, b)=n {}$, and that ${} \lambda(c,\, d)=n\Rightarrow c\geq a {}$. First, note that ${} \gcd(a,\, b)=1 {}$, as otherwise, we have ${} 1\neq d=\gcd(a,\, b) {}$ and so ${} \lambda(a /d,\, b /d)=n {}$, but ${} a /d <a {}$. Therefore, ${} \gcd(a,\, b)=1 {}$, and so ${} r_{n-1}=1 {}$. In order to minimise $a {}$, then we shall pick the smallest possible numbers at each step. Therefore, we shall pick ${} q_{1}=\dots=q_{n}=1 {}$, and pick ${} r_{n-2}=1 {}$. Now we get that ${} r_{n-k}=r_{n-k+1}+r_{n-k+2} {}$, and so clearly ${} a,\, b {}$ are consecutive Fibonacci numbers.
