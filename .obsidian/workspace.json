@@ -6,7 +6,6 @@
       {
         "id": "e0b4c564b29de6cd",
         "type": "tabs",
-        "dimension": 52.01072386058981,
         "children": [
           {
             "id": "62405cbb85311ceb",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "052efd5fd227b2e5",
-        "type": "tabs",
-        "dimension": 47.98927613941019,
-        "children": [
-          {
-            "id": "1b36ebd52ee68112",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf"
               }
             }
           }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md"
               }
             }
           },
@@ -185,13 +167,18 @@
   },
   "active": "62405cbb85311ceb",
   "lastOpenFiles": [
+    "Pasted image 20240926112411.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.2. The Krull-Schmidt Theorem Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.1. Direct products Exercises.md",
     "Subjects/Grillet Abstract Algebra/1.8. Free Products Exercises.md",
     "Subjects/Grillet Abstract Algebra/1.7. Presentations Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "Untitled.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
@@ -211,11 +198,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 3.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/22..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/21..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/20..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/19..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/18..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/17..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures",
