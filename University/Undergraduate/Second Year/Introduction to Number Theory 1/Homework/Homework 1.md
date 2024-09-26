@@ -97,4 +97,39 @@ $$
 $$
 2. 
 a)
-Let ${} m \in \mathbb{Z} {}$, ${} m\neq 0 {}$. Let ${} a,\, b \in \mathbb{Z} {}$, and ${} d=\gcd(a,\, b) {}$. Since $d \mid a {}$, then ${} |m|d \mid  ma {}$, and since ${} d \mid b {}$, then ${} |m| d \mid  mb {}$. Therefore, ${} |m|d \mid \gcd(ma,\, mb) {}$. Now suppose that ${} d'=\gcd(ma,\, mb) {}$. Then ${} m \mid d' {}$, so we have ${} d'=mk {}$. Now ${} mk \mid ma {}$, so ${} k \mid a {}$ and ${} mk \mid  mb {}$, so ${} k \mid  b {}$. Therefore, ${} k \mid d {}$, so ${} mk=d'\mid md {}$, and ${} d'=md {}$
+Let ${} m \in \mathbb{Z} {}$, ${} m\neq 0 {}$. Let ${} a,\, b \in \mathbb{Z} {}$, and ${} d=\gcd(a,\, b) {}$. Since $d \mid a {}$, then ${} md \mid  ma {}$, and since ${} d \mid b {}$, then ${} m d \mid  mb {}$. Therefore, ${} md \mid \gcd(ma,\, mb) {}$. Now suppose that ${} d'=\gcd(ma,\, mb) {}$. Then ${} m \mid d' {}$, so we have ${} d'=mk {}$. Now ${} mk \mid ma {}$, so ${} k \mid a {}$ and ${} mk \mid  mb {}$, so ${} k \mid  b {}$. Therefore, ${} k \mid d {}$, so ${} mk=d'\mid md {}$, and ${} d'=\pm md {}$. Therefore, ${} d'=|m d|=|m|d {}$, as required.
+
+b)
+Let ${} a,\, b \in \mathbb{Z} {}$, and let ${} d=\gcd(a,\, b) {}$. Then ${} a=dm {}$ and ${} b=dn {}$. Now 
+$$
+d=\gcd(a,\, b)=\gcd(dm,\, dn)=d\gcd(m,\, n)
+$$
+so ${} \gcd(m,\, n)=1 {}$, and ${} a /d {}$ and ${} b /d {}$ are coprime
+3. 
+Let ${} a,\, b \in \mathbb{Z}^{+} {}$ with ${} \gcd(a,\, b)=\lcm(a,\, b) {}$. Since ${} \lcm(a,\, b)=ab /\gcd(a,\, b) {}$, then ${} \gcd(a,\, b)^{2}=ab {}$. WLOG, suppose that ${} a\geq b {}$. Then ${} \gcd(a,\, b)^{2}\geq b^{2} {}$, or ${} \gcd(a,\, b)\geq b {}$ (since ${} b {}$ is positive). Therefore, ${} \gcd(a,\, b)=b {}$, so ${} b^{2}=ab {}$, and ${} a=b {}$.
+4. 
+First, we calculate ${} \gcd(1485,\, 1745) {}$:
+$$
+\begin{align}
+1745 & =1\cdot 1485+260 \\
+1485 & =5\cdot 260 +185 \\
+ 260 & =1\cdot 185 +75 \\
+ 185 & =2\cdot 75 +35 \\
+75 & =2\cdot 35+5 \\
+35 & =7\cdot 5
+\end{align}
+$$
+so ${} \gcd(1485,\, 1745)=5 {}$. Next we find ${} u,\, v {}$ such that ${} 1485u+1745v=5 {}$:
+$$
+\begin{align}
+5 & =75-2\cdot 35 \\
+ & =75-2\cdot (185-2\cdot 75) \\
+ & =5\cdot 75-2\cdot 185 \\
+ & =5\cdot (260-1\cdot 185)-2\cdot 185 \\
+ & =5\cdot 260-7\cdot 185 \\
+ & =5\cdot 260 - 7\cdot (1485-5\cdot 260) \\
+ & =40\cdot 260-7\cdot 1485 \\
+ & =40\cdot (1745-1\cdot 1485)-5\cdot 1485 \\
+ & =28\cdot 1745-33\cdot 1485
+\end{align}
+$$

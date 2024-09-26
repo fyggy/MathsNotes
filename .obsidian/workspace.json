@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d82b7ec6653e1fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4bd0c620ac19730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -34,8 +58,19 @@
                 "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf"
               }
             }
+          },
+          {
+            "id": "a8c9c32604723150",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +218,15 @@
   },
   "active": "62405cbb85311ceb",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
@@ -222,8 +258,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 11.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 10.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
     "Pasted image 20240923171450.png",
