@@ -89,7 +89,12 @@ $$
  & =53\cdot 188-81\cdot 123 \\
  & =53\cdot 188-81\cdot (687-3\cdot 188) \\
  & =296\cdot 188-81\cdot 687 \\
- & =296\cdot (875-1\cdot 687) \\
-
+ & =296\cdot (875-1\cdot 687)-81\cdot 687 \\
+ & =296\cdot 875-377\cdot 687 \\
+ & =296\cdot 875-377\cdot (2437-2\cdot 875) \\
+ & =1050\cdot 875-377\cdot 2437
 \end{align}
 $$
+2. 
+a)
+Let ${} m \in \mathbb{Z} {}$, ${} m\neq 0 {}$. Let ${} a,\, b \in \mathbb{Z} {}$, and ${} d=\gcd(a,\, b) {}$. Now let ${} d' {}$ such that
