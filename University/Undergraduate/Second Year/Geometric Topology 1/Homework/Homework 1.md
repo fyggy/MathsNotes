@@ -4,7 +4,7 @@ tags:
   - geotop1
 date: 2024-09-23
 pset: 1
-completed: false
+completed: true
 ---
 [[Directory]], [[University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1|Subject Directory]]
 [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1|🞀🞀]] [[|◀]] [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2|▶]] [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 11|🞂🞂]]
@@ -29,3 +29,11 @@ i)
 The writhes are $2 {}$, ${} -4 {}$, ${} 1 {}$
 ii)
 The linking numbers are ${} 1, -2, 0 {}$. Therefore, $0 {}$ linking number is not indicative of two linked components being seperate
+4. 
+![[Pasted image 20240927201826.png]]
+![[Pasted image 20240927201842.png]]
+5. 
+i)
+![[Pasted image 20240927202133.png]]
+ii)
+yes

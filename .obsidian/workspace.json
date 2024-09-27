@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,16 +44,16 @@
         ]
       },
       {
-        "id": "08b59c410afb7e77",
+        "id": "c4d19e1e67cbd0da",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad4fcf8b60a2a72",
+            "id": "83f99439d3c30f12",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf"
               }
             }
           },
@@ -204,14 +204,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942906d069459e8d",
+  "active": "83f99439d3c30f12",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "Pasted image 20240927202133.png",
+    "Pasted image 20240927201842.png",
+    "Pasted image 20240927201826.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "Directory.md",
     "Pasted image 20240927192142.png",
     "Pasted image 20240927191126.png",
     "Pasted image 20240927191112.png",
@@ -225,18 +231,12 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Pasted image 20240927165045.png",
-    "Pasted image 20240927164021.png",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Pasted image 20240927163346.png",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
