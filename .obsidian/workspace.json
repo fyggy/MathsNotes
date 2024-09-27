@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2..md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md"
               }
             }
           },
@@ -167,11 +168,15 @@
   },
   "active": "942906d069459e8d",
   "lastOpenFiles": [
-    "Pasted image 20240927163346.png",
-    "Pasted image 20240927162658.png",
+    "Pasted image 20240927165045.png",
+    "Pasted image 20240927164021.png",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
+    "Pasted image 20240927163346.png",
+    "Pasted image 20240927162658.png",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
@@ -203,16 +208,12 @@
     "Subjects/Grillet Abstract Algebra/2.2. The Krull-Schmidt Theorem Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.1. Direct products Exercises.md",
     "Subjects/Grillet Abstract Algebra/1.8. Free Products Exercises.md",
-    "Subjects/Grillet Abstract Algebra/1.7. Presentations Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "Untitled.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
     "Pasted image 20240923172709.png",
     "Pasted image 20240923171509.png",
-    "Pasted image 20240923171450.png",
-    "Pasted image 20240923171100.png",
     "Untitled.canvas"
   ]
 }

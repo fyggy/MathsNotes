@@ -2,7 +2,11 @@
 tags:
   - preamble
   - textbook
-  - "#todo"
+  - current
+  - topology
+  - set_theory
+  - foundations
+  - algebraic_topology
 date: 2024-09-23
 completed: false
 year: 2
