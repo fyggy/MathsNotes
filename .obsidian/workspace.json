@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dbcf26c92db1831",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf"
+              }
+            }
           }
         ]
       },
@@ -184,15 +194,18 @@
   },
   "active": "942906d069459e8d",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "Pasted image 20240927192142.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
     "Pasted image 20240927191126.png",
     "Pasted image 20240927191112.png",
     "Pasted image 20240927191058.png",
     "Pasted image 20240927191041.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "Pasted image 20240927190344.png",
     "Pasted image 20240927184653.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
@@ -204,7 +217,6 @@
     "Pasted image 20240927164021.png",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Pasted image 20240927163346.png",
-    "Pasted image 20240927162658.png",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
@@ -220,8 +232,6 @@
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
-    "Pasted image 20240926114830.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
     "Subjects/Grillet Abstract Algebra/2.2. The Krull-Schmidt Theorem Exercises.md",
@@ -229,7 +239,6 @@
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
     "Untitled.canvas"
   ]
 }
