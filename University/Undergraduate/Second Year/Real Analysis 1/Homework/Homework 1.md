@@ -59,3 +59,22 @@ Since ${} \sin x=1 {}$ when ${} x=\frac{\pi}{2}+2\pi n {}$ for all ${} n \in \ma
 ![[Pasted image 20240928000219.png]]
 f)
 Note that ${} f(x)=g\left( \frac{1}{x} \right) {}$, where ${} g=x\sin x {}$ from ${} 3. {}$e. Therefore, $f {}$ is unbounded:
+![[Pasted image 20240928001421.png]]
+4. 
+a)
+We say that
+$$
+\lim_{x\tto x_{0}} f(x)=\infty
+$$
+iff for all ${} M>0 {}$ there exists some ${} \delta>0 {}$ such that for all ${} x \in \mathbb{R} {}$ such that ${} 0<|x_{0}-x|< \delta {}$, we have ${} f(x)>M {}$.
+
+For example, ${} \lim_{x\tto 1} \frac{1}{1-x^{2}}=\infty {}$, as for all ${} M>0 {}$, if we pick ${} \delta {}$
+$$
+\begin{align}
+ \frac{1}{1-x^{2}} & >M   \\
+\frac{1}{M} & >1-x^{2} \\
+x^{2} & >1-\frac{1}{M} \\
+\sqrt{1-\frac{1}{M}}>x & >-\sqrt{1-\frac{1}{M}}
+ \end{align}
+$$
+
