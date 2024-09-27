@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b4c564b29de6cd",
+        "id": "049e3334ac748018",
         "type": "tabs",
         "children": [
           {
-            "id": "62405cbb85311ceb",
+            "id": "942906d069459e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82b7ec6653e1fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4bd0c620ac19730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,26 +22,16 @@
         ]
       },
       {
-        "id": "150c4a56414a5991",
+        "id": "72d7cfdc205776c6",
         "type": "tabs",
         "children": [
           {
-            "id": "34f0b58bd7c43109",
+            "id": "a86288e108e3b0e5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "a8c9c32604723150",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
               }
             }
           }
@@ -136,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
               }
             }
           },
@@ -215,18 +181,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62405cbb85311ceb",
+  "active": "a86288e108e3b0e5",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
@@ -237,8 +205,6 @@
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
     "Pasted image 20240926114830.png",
     "Pasted image 20240926114506.png",
