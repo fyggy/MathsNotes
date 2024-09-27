@@ -38,3 +38,15 @@ $$
 D=[0,\, \infty) \setminus \mathbb{Z}
 $$
 3. 
+a)
+We have 
+$$
+f(x)=\frac{x}{1+x}=\frac{x+1-1}{1+x} =1-\frac{1}{1+x}
+$$
+So $f {}$ is bounded on the interval:
+![[Pasted image 20240927231954.png]]
+b)
+We have that ${} f(x)=(\sqrt{x})^{-1} {}$, and since as ${} x\to{}0 {}$, ${} \sqrt{x}\to{}0 {}$, then ${} f(x)\to{}\infty {}$. Therefore, $f {}$ isn't bounded:
+![[Pasted image 20240927232328.png]]
+c)
+This is clearly bounded, as for any finite interval, all of the constituent functions are bounded
