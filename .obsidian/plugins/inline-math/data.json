@@ -17,6 +17,5 @@
   ],
   "disableInTable": false,
   "disableDecorations": false,
-  "disableAtomicRanges": false,
-  "disableOnIME": true
+  "disableAtomicRanges": false
 }

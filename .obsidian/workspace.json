@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md"
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md"
               }
             }
           },
@@ -168,17 +168,18 @@
   },
   "active": "942906d069459e8d",
   "lastOpenFiles": [
-    "Pasted image 20240927165045.png",
-    "Pasted image 20240927164021.png",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
+    "Pasted image 20240927165045.png",
+    "Pasted image 20240927164021.png",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Pasted image 20240927163346.png",
     "Pasted image 20240927162658.png",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/1. Introduction.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
@@ -191,7 +192,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
@@ -213,7 +213,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Textbooks/Advanced Algebra Notes.pdf",
     "Pasted image 20240923172709.png",
-    "Pasted image 20240923171509.png",
     "Untitled.canvas"
   ]
 }

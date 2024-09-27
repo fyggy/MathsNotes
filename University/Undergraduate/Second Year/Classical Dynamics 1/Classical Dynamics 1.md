@@ -18,7 +18,7 @@ level: 5
 [[Directory]]
 
 Textbooks:
-[[classical_dynamics_lecture_notes.pdf]]
+[[classical_dynamics_lecture_notes.pdf|Lecture Notes]]
 #todo 
 
 KEATS:
