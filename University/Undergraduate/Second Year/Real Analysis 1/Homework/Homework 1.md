@@ -50,3 +50,12 @@ We have that ${} f(x)=(\sqrt{x})^{-1} {}$, and since as ${} x\to{}0 {}$, ${} \sq
 ![[Pasted image 20240927232328.png]]
 c)
 This is clearly bounded, as for any finite interval, all of the constituent functions are bounded
+![[Pasted image 20240927234913.png]]
+d)
+Since ${} \sqrt{1+x^{2}}>x {}$, then as ${} x\to{}\infty {}$, then ${} \sqrt{1+x^{2}}\to{}\infty {}$, therefore, $f {}$ is unbounded:
+![[Pasted image 20240927235200.png]]
+e)
+Since ${} \sin x=1 {}$ when ${} x=\frac{\pi}{2}+2\pi n {}$ for all ${} n \in \mathbb{Z} {}$, then $f {}$ is unbounded, as given a upper bound $M {}$, ${} f(2\pi M+\pi /2)=2\pi M+ \pi /2 >M {}$:
+![[Pasted image 20240928000219.png]]
+f)
+Note that ${} f(x)=g\left( \frac{1}{x} \right) {}$, where ${} g=x\sin x {}$ from ${} 3. {}$e. Therefore, $f {}$ is unbounded:
