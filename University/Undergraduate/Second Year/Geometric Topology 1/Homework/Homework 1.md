@@ -26,3 +26,6 @@ ii)
 ![[Pasted image 20240927192142.png]]
 3. 
 i)
+The writhes are $2 {}$, ${} -4 {}$, ${} 1 {}$
+ii)
+The linking numbers are ${} 1, -2, 0 {}$. Therefore, $0 {}$ linking number is not indicative of two linked components being seperate

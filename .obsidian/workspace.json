@@ -28,6 +28,18 @@
                 "file": "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf"
               }
             }
+          },
+          {
+            "id": "1ef7b589580d1ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -194,19 +206,19 @@
   },
   "active": "942906d069459e8d",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
-    "Pasted image 20240927192142.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "Directory.md",
+    "Pasted image 20240927192142.png",
     "Pasted image 20240927191126.png",
     "Pasted image 20240927191112.png",
     "Pasted image 20240927191058.png",
     "Pasted image 20240927191041.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "Pasted image 20240927190344.png",
     "Pasted image 20240927184653.png",
-    "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
