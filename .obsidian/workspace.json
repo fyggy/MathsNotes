@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "942906d069459e8d",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "Pasted image 20240927165045.png",
     "Pasted image 20240927164021.png",
