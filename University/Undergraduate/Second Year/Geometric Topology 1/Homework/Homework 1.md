@@ -11,3 +11,14 @@ completed: false
 
 [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf|Worksheet]]
 1. 
+i)
+![[Pasted image 20240927184653.png]]
+${} D {}$ has $5 {}$ crossings.
+ii)
+![[Pasted image 20240927190344.png]]
+2. 
+i)
+![[Pasted image 20240927191041.png]]
+![[Pasted image 20240927191058.png]]
+![[Pasted image 20240927191112.png]]
+![[Pasted image 20240927191126.png]]
