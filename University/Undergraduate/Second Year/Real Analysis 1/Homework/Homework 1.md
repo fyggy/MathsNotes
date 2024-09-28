@@ -84,4 +84,28 @@ $$
 $$
 iff for all ${} M \in \mathbb{R} {}$, there exists some ${} \delta>0 {}$ such that for all ${} x \in \mathbb{R} {}$ with ${} 0 < |x_{0}-x|< \delta {}$, then we have ${} f(x) <M {}$. 
 
-For example,
+For example, ${} \lim_{x\tto 0} -\cot^{2}(x)=-\infty {}$ since for all ${} M \in \mathbb{R} {}$, if we assume that ${} M<0 {}$, then we may pick ${} \delta=\arccot(\sqrt{-M}) {}$, and so for all ${} x \in \mathbb{R} {}$ with ${} 0<|x|< \delta {}$, we have
+$$
+\begin{align}
+f(x) & =-\cot^{2}(x) \\
+ & =-\cot ^{2}(|x|) \qquad \text{ by symmetry} \\
+ & <-\cot ^{2}(\arccot(\sqrt{-M})) \\
+ & <M
+\end{align}
+$$
+c)
+We say that
+$$
+\lim_{x\tto \infty} f(x)=-\infty
+$$
+iff for all ${} M \in \mathbb{R} {}$, there exists some ${} R \in \mathbb{R} {}$ such that for all ${} x\geq R {}$, ${} f(x)<M {}$.
+
+For example, ${} \lim_{x\tto \infty} \ln (x^{-x})=-\infty {}$, since for all ${} M \in \mathbb{R} {}$, we may assume that ${} M<-e {}$, and so if we set ${} R=-M {}$, then for all ${} x \in \mathbb{R} {}$ such that ${} x\geq R {}$
+$$
+\begin{align}
+f(x) & =\ln (x^{-x}) \\
+	 & =-x \ln x \\
+	  & < -x\qquad \text{ if } x>e \\
+ & <M
+\end{align}
+$$

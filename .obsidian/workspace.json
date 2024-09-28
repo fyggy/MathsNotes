@@ -20,28 +20,29 @@
             }
           },
           {
-            "id": "0dbcf26c92db1831",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf"
-              }
-            }
-          },
-          {
-            "id": "1ef7b589580d1ce1",
+            "id": "fb70f031dd82cbba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e79466265110c15b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c4d19e1e67cbd0da",
@@ -107,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf"
               }
             }
           },
@@ -202,8 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eabd4803f8aea32",
+  "active": "e79466265110c15b",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/1. Introduction.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "Pasted image 20240928001421.png",
@@ -224,8 +229,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
     "Pasted image 20240927192142.png",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
