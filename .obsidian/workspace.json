@@ -103,13 +103,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -204,16 +202,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942906d069459e8d",
+  "active": "7eabd4803f8aea32",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "Pasted image 20240928001421.png",
     "Pasted image 20240928000219.png",
     "Pasted image 20240927235200.png",
     "Pasted image 20240927234913.png",
     "Pasted image 20240927232328.png",
     "Pasted image 20240927231954.png",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
@@ -226,7 +224,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
     "Pasted image 20240927192142.png",
-    "Pasted image 20240927191126.png",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",

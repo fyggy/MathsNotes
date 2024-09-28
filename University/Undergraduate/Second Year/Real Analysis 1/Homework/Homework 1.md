@@ -66,15 +66,22 @@ We say that
 $$
 \lim_{x\tto x_{0}} f(x)=\infty
 $$
-iff for all ${} M>0 {}$ there exists some ${} \delta>0 {}$ such that for all ${} x \in \mathbb{R} {}$ such that ${} 0<|x_{0}-x|< \delta {}$, we have ${} f(x)>M {}$.
+iff for all ${} M \in \mathbb{R} {}$ there exists some ${} \delta>0 {}$ such that for all ${} x \in \mathbb{R} {}$ such that ${} 0<|x_{0}-x|< \delta {}$, we have ${} f(x)>M {}$.
 
-For example, ${} \lim_{x\tto 1} \frac{1}{1-x^{2}}=\infty {}$, as for all ${} M>0 {}$, if we pick ${} \delta {}$
+For example, ${} \lim_{x\tto 1} \frac{1}{1-2x+x^{2}}=\infty {}$, as for all ${} M>0 {}$, if we pick ${} \delta=\frac{1}{\sqrt{M}} {}$, then if ${} x \in \mathbb{R} {}$ such that ${} 0<|x-1|< \delta {}$, then 
 $$
 \begin{align}
- \frac{1}{1-x^{2}} & >M   \\
-\frac{1}{M} & >1-x^{2} \\
-x^{2} & >1-\frac{1}{M} \\
-\sqrt{1-\frac{1}{M}}>x & >-\sqrt{1-\frac{1}{M}}
+ f(x) & =\frac{1}{(x-1)^{2}}   \\
+  & >\frac{1}{\left( \frac{1}{\sqrt{M}} \right)^{2}} \\
+ & >\frac{1}{\frac{1}{M}} \\
+ & >M
  \end{align}
 $$
+b)
+We say that
+$$
+\lim_{x\tto x_{0}} f(x)=-\infty
+$$
+iff for all ${} M \in \mathbb{R} {}$, there exists some ${} \delta>0 {}$ such that for all ${} x \in \mathbb{R} {}$ with ${} 0 < |x_{0}-x|< \delta {}$, then we have ${} f(x) <M {}$. 
 
+For example,
