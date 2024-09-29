@@ -109,3 +109,12 @@ f(x) & =\ln (x^{-x}) \\
  & <M
 \end{align}
 $$
+5. 
+a) i)
+We have that ${} \frac{ 2x-x^{2} }{ x }=2-x {}$ is bounded around $0 {}$, clearly.
+ii)
+We have that ${} 2-x\to{}-\infty {}$ as ${} x\to{} \infty {}$, as if ${} M \in \mathbb{R} {}$, then if ${} R = -M+3 {}$, then for all ${} x\geq R {}$, we have
+$$
+2-x \leq 2-(-M+2)=M-1 <M
+$$
+and so
