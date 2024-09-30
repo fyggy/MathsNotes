@@ -539,10 +539,10 @@
 	
 	// Tikz-cd Wizardry
 	{trigger: "tikzcd", replacement: "```tikz\n\\usepackage{tikz-cd}\n\\begin{document}\n\\begin{tikzcd}\n $0\n\\end{tikzcd}\n\\end{document}\n```", options: "tA"},
-	{trigger: "->", replacement: "\\ar[r]", options: "mAc", priority: 1},
-	{trigger: "<-", replacement: "\\ar[l]", options: "mAc", priority: 1},
-	{trigger: "\\ar[](l|r|d|u)", replacement: "\\arrow[[[0]][[1]]]", options: "rmAc", priority: 1},
-	{trigger: "([l|r])a", replacement: "success", options: "mA", priority: 1000},
+	{trigger: "->", replacement: "\\ar[r]", options: "Ac", priority: 1},
+	{trigger: "<-", replacement: "\\ar[l]", options: "Ac", priority: 1},
+	{trigger: "\\\\ar\\[(l|r|d|u)\\](l|r|d|u)", replacement: "\\ar[[[0]][[1]]]", options: "rAc", priority: 1},
+
 	
 	// Common corrections
 	{trigger: "Im ", replacement: "I'm ", options: "tAw"}, 

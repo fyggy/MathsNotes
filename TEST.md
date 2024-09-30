@@ -12,10 +12,10 @@ F & G & H
 \usepackage{tikz-cd}
 \begin{document}
 \begin{tikzcd}
- A \ar[r] & D
+ A \ar[r] & D \to{}
 \end{tikzcd}
 \end{document}
 ```
 $$
-la
+\to{}
 $$
