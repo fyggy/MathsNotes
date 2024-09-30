@@ -539,8 +539,8 @@
 	
 	// Tikz-cd Wizardry
 	{trigger: "tikzcd", replacement: "```tikz\n\\usepackage{tikz-cd}\n\\begin{document}\n\\begin{tikzcd}\n $0\n\\end{tikzcd}\n\\end{document}\n```", options: "tA"},
-	{trigger: "->", replacement: "\\ar[r]", options: "Ac", priority: 1},
-	{trigger: "<-", replacement: "\\ar[l]", options: "Ac", priority: 1},
+	{trigger: "->", replacement: "\\ar[r]", options: "Act", priority: 1000},
+	{trigger: "<-", replacement: "\\ar[l]", options: "Ac", priority: 100},
 	{trigger: "\\\\ar\\[(l|r|d|u)\\](l|r|d|u)", replacement: "\\ar[[[0]][[1]]]", options: "rAc", priority: 1},
 
 	
