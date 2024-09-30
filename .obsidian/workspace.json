@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbc822988cf12fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
+                "file": "TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
+                "file": "TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md"
+                "file": "TEST.md"
               }
             }
           },
@@ -178,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c746329fa53839d0",
+  "active": "bbc822988cf12fc4",
   "lastOpenFiles": [
+    "TEST.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "Pasted image 20240930150916.png",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "Directory.md",
@@ -205,7 +220,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
-    "Pasted image 20240927192142.png",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
@@ -222,7 +236,6 @@
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "Subjects/Grillet Abstract Algebra/2.3. Group Actions Exercises.md",
-    "Subjects/Grillet Abstract Algebra/2.2. The Krull-Schmidt Theorem Exercises.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",

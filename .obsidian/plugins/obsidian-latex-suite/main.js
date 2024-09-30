@@ -14258,6 +14258,8 @@ var cmd_symbols = {
   "end": "",
   "pmatrix": "pmat",
   "varnothing": "\u2205",
+  "circlearrowleft": "\u21BA",
+  
  
 };
 var operators = (
@@ -14691,7 +14693,7 @@ function getEndIncludingLimits(eqn, end2) {
   return end2;
 }
 function concealSymbols(eqn, prefix, suffix, symbolMap, className, allowSucceedingLetters = true) {
-  const symbolNames = Object.keys(symbolMap);
+  const symbolNames = Object.keys(symbolMap).toSorted(((a, b) => {return b.length - a.length}));
   const regexStr = prefix + "(" + escapeRegex(symbolNames.join("|")) + ")" + suffix;
   const symbolRegex = new RegExp(regexStr, "g");
   const matches = [...eqn.matchAll(symbolRegex)];
@@ -14963,6 +14965,7 @@ function conceal(view) {
           ...concealModifier(eqn, "ddot", "\u0308"),
           ...concealModifier(eqn, "overline", "\u0304"),
           ...concealModifier(eqn, "bar", "\u0304"),
+          ...concealModifier(eqn, "conj", "\u0304"),
           ...concealModifier(eqn, "tilde", "\u0303"),
           ...concealModifier(eqn, "vec", "\u20D7"),
           ...concealSymbols(eqn, "\\\\", "", brackets, "cm-bracket"),
