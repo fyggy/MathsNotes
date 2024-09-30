@@ -15304,7 +15304,7 @@ var handleKeydown = (key, shiftKey, ctrlKey, isIME, view) => {
         return true;
     }
   }
-  if (settings.matrixShortcutsEnabled && ctx.mode.blockMath) {
+  if (settings.matrixShortcutsEnabled && (ctx.mode.blockMath || ctx.mode.codeMath)) {
     if (["Tab", "Enter"].contains(key)) {
       success = runMatrixShortcuts(view, ctx, key, shiftKey);
       if (success)
