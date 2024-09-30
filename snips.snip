@@ -53,7 +53,7 @@
     {trigger: ":s", replacement: "\\psi", options: "mA"}, 
     {trigger: ":S", replacement: "\\Psi", options: "mA"}, 
 	
-    {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
+    {trigger: "([^\\\\])(${GREEK}|${SYMBOL}|)", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
 
 
     // Insert space after greek letters and symbols, etc
@@ -109,7 +109,11 @@
 	{trigger: "sp#", replacement: "\\mathfrak{sp}", options: "mA", priority: 1}, 
 	
 	// Catagories
-	{trigger: 
+	{trigger: "Set", replacement: "\\mathbf{Set} ", options: "mA"},
+	{trigger: "Gr", replacement: "\\mathbf{Grp} ", options: "mA"},
+	{trigger: "Ab", replacement: "\\mathbf{Ab} ", options: "mA"},
+	{trigger: "(.*)-vec", replacement: "\\mathbf{[[0]]-vec} ", options: "rmA"},
+	{trigger: "Mon", replacement: "\\mathbf{Mon} ", options: "mA"}, 
 	
 	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
 	{trigger: "2perm", replacement: "\\begin{pmatrix}1&2\\\\ $0 & $1 \\end{pmatrix} $2", options: "mA"},
@@ -533,6 +537,9 @@
 	{trigger: "([A-Za-z|${GREEK}])_{([A-Za-z\\d])}([A-Za-z\\d])lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
 	
 	
+	// Tikz wizardry
+	{trigger: "tikz", replacement: "```tikz\n\\begin{document}\n\\begin{tikzpicture}\n\n$0\\end{tikzpicture}\n\\end{document}\n```", options: "tA"},
+	
 	// Common corrections
 	{trigger: "Im ", replacement: "I'm ", options: "tAw"}, 
 	{trigger: "im ", replacement: "I'm ", options: "tAw"}, 
@@ -611,7 +618,11 @@
 	{trigger: "GIven ", replacement: "Given ", options: "tA"},
 	{trigger: "THrough ", replacement: "Through ", options: "tA"},
 	{trigger: "nhood ", replacement: "neighbourhood ", options: "tA"},
+	{trigger: "nbd", replacement: "neighbourhood ", options: "tA"},
 	{trigger: "Nhood ", replacement: "Neighbourhood ", options: "tA"},
+	{trigger: "Nbd", replacement: "Neighbourhood ", options: "tA"},
+	{trigger: "NBd", replacement: "Neighbourhood ", options: "tA"},
+	{trigger: "NBD", replacement: "Neighbourhood ", options: "tA"},
 	{trigger: "NHood ", replacement: "Neighbourhood ", options: "tA"}
 	
 
