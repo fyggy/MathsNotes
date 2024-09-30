@@ -23,7 +23,7 @@
   "autoEnlargeBrackets": true,
   "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$",
   "autofractionExcludedEnvs": "[\n\t\t[\"^{\", \"}\"],\n\t\t[\"\\\\pu{\", \"}\"]\n\t]",
-  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix",
+  "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix, tikzcd, document",
   "autoEnlargeBracketsTriggers": "sum, int, frac, prod, bigcup, bigcap, right, left",
-  "forceMathLanguages": "math"
+  "forceMathLanguages": "tikz, math"
 }
