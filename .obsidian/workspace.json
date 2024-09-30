@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "942906d069459e8d",
+  "active": "c746329fa53839d0",
   "lastOpenFiles": [
+    "Pasted image 20240930150916.png",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
