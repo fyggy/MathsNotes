@@ -117,4 +117,36 @@ We have that ${} 2-x\to{}-\infty {}$ as ${} x\to{} \infty {}$, as if ${} M \in \
 $$
 2-x \leq 2-(-M+2)=M-1 <M
 $$
-and so
+and so ${} 2-x {}$ is not bounded, and ${} 2x-x^{2} \neq O(x)  {}$
+b) i)
+We have that 
+$$
+\frac{ x\sin \sqrt{|x|} }{ |x|^{3 /2} }=\operatorname{sgn}(x) \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} }
+$$
+Since ${} \lim_{x\tto 0} \sqrt{|x|}=0 {}$, and ${} \lim_{x\tto 0}  (\sin x) /x=1 {}$, then ${} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} } {}$ is bounded around $0$, and so ${} \operatorname{sgn}(x) {}{} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} } {}  {}$ is also bounded around $0 {}$. 
+ii)
+As ${} x\to{}\infty {}$, then ${} \operatorname{sgn}(x) \to{}1 {}$, and so ${} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} }\to{}0 {}$ as ${} x\to{}\infty {}$, and is bounded.
+c)
+i) ii)
+We have that
+$$
+\frac{ x \sin\left(  \frac{1}{x} \right) }{ x }=\sin \frac{1}{x}
+$$
+and so since ${} 1\geq \sin r\geq -1 {}$ for all ${} r \in \mathbb{R} {}$, then ${} \sin \frac{1}{x} {}$ is bounded around $0$, and around ${} \infty {}$
+d)
+i)
+we have that
+$$
+\frac{ \log |x| }{ |x|^{\varepsilon} }
+$$
+and so as ${} x\to{}0 {}$, then since ${} \log |x|\to{}-\infty {}$, and ${} 1 / |x|^{\varepsilon}\to{}\infty {}$, then ${} \log |x| / |x|^{\varepsilon} \to{}-\infty {}$, and it is not bounded around $0$, so ${} \log |x| \neq o(|x|^{\varepsilon}) {}$. 
+ii)
+We have that
+$$
+\begin{align}
+ \lim_{x\tto \infty} \frac{ \log |x| }{ |x|^{\varepsilon} } & =\lim_{x\tto \infty} \frac{\log x}{x^{\varepsilon}}    \\
+  & =\lim_{x\tto \infty} \frac{ x^{-\varepsilon} }{ 1 / \log x } \\
+  & =\lim_{x\tto \infty} \frac{(-\varepsilon)x^{-\varepsilon-1}}{-\frac{1}{x( \log x )^{2}}}  \\
+  & =\varepsilon \lim_{x\tto \infty} \frac{(\log x)^{2}}{x^{\varepsilon}}
+ \end{align}
+$$
