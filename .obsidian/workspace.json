@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,8 +47,19 @@
                 "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf"
               }
             }
+          },
+          {
+            "id": "85d419f6d10e6220",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md"
               }
             }
           },
@@ -197,9 +208,16 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3. Cartesian Product.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/1. Sets.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Directory.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
@@ -213,8 +231,6 @@
     "Pasted image 20241001155635.png",
     "Pasted image 20241001154200.png",
     "Pasted image 20241001153856.png",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
@@ -234,14 +250,10 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "Untitled.canvas"
   ]
 }
