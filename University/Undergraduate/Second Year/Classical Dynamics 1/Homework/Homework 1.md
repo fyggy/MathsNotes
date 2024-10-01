@@ -65,5 +65,40 @@ $$
  \end{align}
 $$
 3. 
-
+We have that
+$$
+\begin{align}
+ \sqrt{x^{2}+y^{2}+z^{2}}  & =\sqrt{r^{2}(\cos ^{2} \theta +\sin ^{2} \theta ( \cos ^{2} \phi +\sin ^{2} \phi))}  \\
+  & =r\sqrt{\cos ^{2}\theta+\sin ^{2}\theta} \\
+  & =r
+ \end{align}
+$$
+Now
+$$
+\begin{align}
+\frac{y}{x} & =\frac{r \sin \theta \sin \phi}{r \sin \theta \cos \phi}  \\
+  & =\tan \phi
+\end{align}
+$$
+and so ${} \phi=\arctan (y /x) {}$. Finally, 
+$$
+\begin{align}
+ \left(  \frac{x}{z}  \right)^{2}+\left(  \frac{y}{z}  \right)^{2}  & =\left(  \frac{r \sin \theta \cos \phi}{r \cos \theta}    \right)^{2}+\left(  \frac{r \sin \theta \sin \phi}{r \cos \theta}    \right)^{2} \\
+  & =\tan ^{2}\theta \cos ^{2} \phi+\tan ^{2}\theta \sin ^{2}\phi \\
+  & =\tan ^{2}\theta
+ \end{align}
+$$
+and so 
+$$
+\theta=\arctan \left( \sqrt{\left(  \frac{x}{z}  \right)^{2}+\left(  \frac{y}{z}  \right)^{2}} \right) 
+$$
+4. 
+We have
+$$
+\begin{align}
+ \nabla f & =\begin{pmatrix} \frac{ \partial  }{ \partial x }  \\ \frac{ \partial  }{ \partial y }  \\ \frac{ \partial  }{ \partial z }  \end{pmatrix}\begin{pmatrix}  \\  \\  \end{pmatrix}     \\
+  & = 
+ \end{align}
+$$
+#todo
 
