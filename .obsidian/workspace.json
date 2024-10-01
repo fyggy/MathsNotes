@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4..md",
                 "mode": "source",
                 "source": false
               }
@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "60495844abf3f757",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69b030972bfb99db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md"
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4..md"
               }
             }
           },
@@ -196,12 +181,15 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Pasted image 20241001160342.png",
@@ -210,7 +198,6 @@
     "Pasted image 20241001153856.png",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
@@ -238,7 +225,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
-    "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
     "Untitled.canvas"

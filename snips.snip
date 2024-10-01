@@ -108,9 +108,9 @@
 	{trigger: "su#", replacement: "\\mathfrak{su}", options: "mA", priority: 1}, 
 	{trigger: "sp#", replacement: "\\mathfrak{sp}", options: "mA", priority: 1}, 
 	
-	// Catagories
+	// Categories
 	{trigger: "Set", replacement: "\\mathbf{Set} ", options: "mA"},
-	{trigger: "Gr", replacement: "\\mathbf{Grp} ", options: "mA"},
+	{trigger: "Grp", replacement: "\\mathbf{Grp} ", options: "mA"},
 	{trigger: "Ab", replacement: "\\mathbf{Ab} ", options: "mA"},
 	
 	{trigger: "Mon", replacement: "\\mathbf{Mon}", options: "mA"}, 
@@ -177,6 +177,7 @@
 	{trigger: "ord", replacement: "\\ord($0)$1", options: "mA"}, 
 	{trigger: "Aut", replacement: "\\aut($0)$1", options: "mA"}, 
 	{trigger: "aut", replacement: "\\aut($0)$1", options: "mA"}, 
+	{trigger: "\\aut(_", replacement: "\\aut_{$0}(", options: "mA", priority: 10}, 
 	{trigger: "var", replacement: "\\var($0)$1", options: "mA"}, 
 	{trigger: "char", replacement: "\\Char ", options: "mA"}, 
 	{trigger: "Int", replacement: "\\Int($0)$1", options: "mA"}, 
