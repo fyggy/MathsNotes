@@ -126,15 +126,13 @@ $$
 Since ${} \lim_{x\tto 0} \sqrt{|x|}=0 {}$, and ${} \lim_{x\tto 0}  (\sin x) /x=1 {}$, then ${} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} } {}$ is bounded around $0$, and so ${} \operatorname{sgn}(x) {}{} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} } {}  {}$ is also bounded around $0 {}$. 
 ii)
 As ${} x\to{}\infty {}$, then ${} \operatorname{sgn}(x) \to{}1 {}$, and so ${} \frac{ \sin \sqrt{|x|} }{ \sqrt{|x|} }\to{}0 {}$ as ${} x\to{}\infty {}$, and is bounded.
-c)
-i) ii)
+c) i) ii)
 We have that
 $$
 \frac{ x \sin\left(  \frac{1}{x} \right) }{ x }=\sin \frac{1}{x}
 $$
 and so since ${} 1\geq \sin r\geq -1 {}$ for all ${} r \in \mathbb{R} {}$, then ${} \sin \frac{1}{x} {}$ is bounded around $0$, and around ${} \infty {}$
-d)
-i)
+d) i)
 we have that
 $$
 \frac{ \log |x| }{ |x|^{\varepsilon} }
@@ -145,8 +143,20 @@ We have that
 $$
 \begin{align}
  \lim_{x\tto \infty} \frac{ \log |x| }{ |x|^{\varepsilon} } & =\lim_{x\tto \infty} \frac{\log x}{x^{\varepsilon}}    \\
-  & =\lim_{x\tto \infty} \frac{ x^{-\varepsilon} }{ 1 / \log x } \\
-  & =\lim_{x\tto \infty} \frac{(-\varepsilon)x^{-\varepsilon-1}}{-\frac{1}{x( \log x )^{2}}}  \\
-  & =\varepsilon \lim_{x\tto \infty} \frac{(\log x)^{2}}{x^{\varepsilon}}
+  & = \lim_{x\tto \infty} \frac{ x^{-1}}{ \varepsilon x^{\varepsilon-1} } \\
+  & =\lim_{x\tto \infty} \varepsilon x^{-\varepsilon} \\
+  & =0
  \end{align}
 $$
+and so ${} \log |x|=o(|x|^{\varepsilon}) {}$ as ${} x \to{}\infty {}$
+e) i)
+We have that
+$$
+\begin{align}
+ \frac{\sqrt{x+\sqrt{x}}}{\sqrt{x}}  & =\sqrt{\frac{x+\sqrt{x}}{x} }  \\
+  & =\sqrt{1+\frac{1}{\sqrt{x}}}
+ \end{align}
+$$
+and so as ${} x\to{}0 {}$, then ${} \frac{1}{\sqrt{x}} \to{}\infty {} {}$, and so ${} \sqrt{1+\frac{1}{\sqrt{x}}}\to{}\infty {}$, and is not bounded around $0$.
+ii)
+We have that as ${} x \to{}\infty {}$, then ${} \frac{1}{\sqrt{x}}\to{}0 {}$, and so ${} \sqrt{1+\frac{1}{\sqrt{x}}}\to{}0 {}$, and so is bounded around $\infty {}$.

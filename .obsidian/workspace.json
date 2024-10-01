@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "d6f51ddc714150c9",
+        "id": "60495844abf3f757",
         "type": "tabs",
         "children": [
           {
-            "id": "2d19594769986921",
+            "id": "69b030972bfb99db",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf"
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md"
               }
             }
           },
@@ -196,10 +196,15 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Pasted image 20241001154200.png",
+    "Pasted image 20241001153856.png",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
@@ -218,16 +223,13 @@
     "Pasted image 20240927234913.png",
     "Pasted image 20240927232328.png",
     "Pasted image 20240927231954.png",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
     "Pasted image 20240927202133.png",
     "Pasted image 20240927201842.png",
-    "Pasted image 20240927201826.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/2. Shadows and Writhe.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
@@ -240,7 +242,6 @@
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 1.md",
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/advanced_algebra_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Textbooks/Advanced Algebra Notes.pdf",
     "Untitled.canvas"
   ]
 }
