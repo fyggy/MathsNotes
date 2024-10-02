@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/5. Power set.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3. Cartesian Product.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/1. Sets.md",
