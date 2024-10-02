@@ -273,6 +273,8 @@
     {trigger: "lim", replacement: "\\lim_{${0:n}\\tto ${1:\\infty}} $2", options: "mA"},
     {trigger: "LIM", replacement: "\\LIM_{n\\tto\\infty} $0", options: "mA"},
     {trigger: "Lim", replacement: "\\Lim ", options: "mA"},
+    {trigger: "inf", replacement: "\\inf ", options: "mA"},
+    {trigger: "sup", replacement: "\\sup ", options: "mA"},
     {trigger: "([^\\\\])pm", replacement: "[[0]]\\pm ", options: "rm"},
     {trigger: "([^\\\\])mp", replacement: "[[0]]\\mp ", options: "rm"},
     {trigger: "+-", replacement: "\\pm ", options: "mA"},
@@ -381,7 +383,10 @@
 	{trigger: "\\\\mathbb{F}([A-Za-np-z\\d])", replacement: "\\mathbb{F}^{[[0]]}", options: "rmA"},
 	{trigger: "PP", replacement: "\\mathbb{P}", options: "mA"},
 	{trigger: "EE", replacement: "\\mathbb{E}", options: "mA"},
+	{trigger: "([A-Za-z])~", replacement: "\\mathscr{[[0]]}", options: "rmA"},
+	{trigger: "~([A-Za-z])", replacement: "\\mathscr{[[0]]}", options: "rmA"},
 	{trigger: "\\\\mathbb{P}([A-Za-np-z\\d])", replacement: "\\mathbb{P}_{[[0]]}", options: "rmA"},
+	
 	
 	//Lie alebra stuff
 	{trigger: "([A-Za-z])#", replacement: "\\mathfrak{[[0]]}", options: "rmA"},

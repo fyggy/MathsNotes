@@ -14266,7 +14266,12 @@ var operators = (
     "dim",
     "liminf",
     "min",
-    "max"
+    "max",
+	"aut",
+	"Lim",
+	"end",
+	"Hom",
+	"Ob",
     // "inf" // Fix "\\infty" being concealed as "inf∞"
   ]
 );
