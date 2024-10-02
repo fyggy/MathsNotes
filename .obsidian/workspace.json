@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/5. Power set.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
@@ -247,7 +248,6 @@
     "Pasted image 20240927235200.png",
     "Pasted image 20240927234913.png",
     "Pasted image 20240927232328.png",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
