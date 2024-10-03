@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,16 +34,16 @@
         ]
       },
       {
-        "id": "b3cde00b89a511e8",
+        "id": "5b6227f0dac36057",
         "type": "tabs",
         "children": [
           {
-            "id": "cd96203b5b280d2c",
+            "id": "220f5b7911f7b7bb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md"
               }
             }
           },
@@ -195,6 +195,13 @@
   },
   "active": "2e7a4af65ba3ea3f",
   "lastOpenFiles": [
+    "Pasted image 20241003231453.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
+    "Pasted image 20241003225854.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md",
     "Pasted image 20241003205830.png",
     "Pasted image 20241003204841.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3. Mirror Images, Links, Reidemeister Moves.md",
@@ -202,15 +209,11 @@
     "Pasted image 20241003200819.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Pasted image 20241003194756.png",
     "Pasted image 20241003194536.png",
     "Pasted image 20241003194150.png",
     "Pasted image 20241003193308.png",
     "Pasted image 20241003191841.png",
-    "Pasted image 20241003190253.png",
-    "Pasted image 20241003185547.png",
-    "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
@@ -223,7 +226,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4. Colouring of Diagrams.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
@@ -239,8 +241,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/8. Axiomatics.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
     "Untitled.canvas"
   ]
 }
