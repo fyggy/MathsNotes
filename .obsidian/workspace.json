@@ -18,6 +18,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a9f51172106f073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3cde00b89a511e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd96203b5b280d2c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf"
+              }
+            }
           }
         ]
       }
@@ -167,19 +195,22 @@
   },
   "active": "2e7a4af65ba3ea3f",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
+    "Pasted image 20241003194756.png",
+    "Pasted image 20241003194536.png",
+    "Pasted image 20241003194150.png",
+    "Pasted image 20241003193308.png",
     "Pasted image 20241003191841.png",
     "Pasted image 20241003190253.png",
     "Pasted image 20241003185547.png",
     "Pasted image 20241003185143.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md",
     "Pasted image 20241003163918.png",
     "Pasted image 20241003163911.png",
-    "Pasted image 20241003163630.png",
-    "Pasted image 20241003163218.png",
-    "Pasted image 20241003163019.png",
-    "Pasted image 20241003162524.png",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Tutorial 1.md",
@@ -191,8 +222,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
-    "Pasted image 20241003144411.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
@@ -210,9 +239,7 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/8. Axiomatics.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/5. Power set.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "Untitled.canvas"
   ]
 }
