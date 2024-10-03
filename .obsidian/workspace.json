@@ -25,36 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "94dfc2d79595a4be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6c1ed11b3f15bb1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "85d419f6d10e6220",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
               }
             }
           }
@@ -127,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md"
               }
             }
           },
@@ -208,6 +181,12 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "Directory.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.sync-conflict-20241003-004519-NEJCSIE.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/~syncthing~9. General Cartesian Products.md.tmp",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.sync-conflict-20241003-004438-NEJCSIE.md",
@@ -215,12 +194,9 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/~syncthing~10. Orderings.md.tmp",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/~syncthing~11. Zorn´s Lemma; Zermelo´s Theorem.md.tmp",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/10. Orderings.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/8. Axiomatics.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/7. Binary relations; equivalence relations.md",
@@ -231,14 +207,10 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/1. Sets.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/2. Limit of a Function.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/2. Properties of Quotients and Homomorphisms.md",
     "Pasted image 20241001160342.png",
     "Pasted image 20241001155635.png",
     "Pasted image 20241001154200.png",
