@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -169,9 +170,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
@@ -180,6 +181,10 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
+    "Pasted image 20241003144411.png",
+    "Pasted image 20241003144003.png",
+    "Pasted image 20241003143558.png",
+    "Pasted image 20241003143120.png",
     "Pasted image 20241003140518.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
@@ -218,11 +223,7 @@
     "Pasted image 20241001154200.png",
     "Pasted image 20241001153856.png",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
-    "Pasted image 20240930150916.png",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
-    "Pasted image 20240928001421.png",
-    "Pasted image 20240928000219.png",
-    "Pasted image 20240927235200.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
