@@ -4,7 +4,7 @@ tags:
   - geotop1
 date: 2024-09-30
 pset: 2
-completed: false
+completed: true
 ---
 [[Directory]], [[University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1|Subject Directory]]
 [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1|🞀🞀]] [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 1|◀]] [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 3|▶]] [[University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 11|🞂🞂]]
@@ -57,3 +57,13 @@ e & =0
  \end{align}
 $$
 Therefore, the colouring number is $7$.
+4. 
+i)
+![[Pasted image 20241004000724.png]]
+ii)
+Since the writhe of the first knot is $4$, but the writhe of the second is $3$, but regular isotopy preserves writhe, then they cannot be regularly isotopic.
+5. 
+i)
+Pick a point and travel along the shadow in a direction. Upon reaching a vertex, if that vertex is undecided, then pick for the vertex to be an underpass for the current strand you are following.
+ii)
+Suppose that the unknotting number ${} k> c /2 {}$. Then, take the set of all crossings which are *not* changed, and instead change those. Then we end up with a mirror of the unknot, which is of course AI to the unknot. We have now flipped ${} c-k < c/2 <k {}$ crossings, which is a contradiction. Therefore, the unknotting number ${} k < c /2 {}$
