@@ -12,9 +12,6 @@ F:\hom_{\mathscr{C}} (A,\, B)\to{} \hom _{\mathscr{D}}(F(A),\, F(B))
 $$
 such that ${} F(\id _{A})=\id _{F(A)} {}$, and ${} F(f \circ  g)= F(f) \circ  F(g) {}$. 
 ### Lemma: Yondea Lemma
-Says that an object ${} A \in \Ob(\mathscr{C}) {}$ 
-
-
 More precisely, given ${} A {}$, Let a functor ${} h_{A}:\mathscr{C} \to{} \mathbf{Set}  {}$ mapping 
 $$
 X\mapsto \hom _{\mathscr{C}}(A,\, X)

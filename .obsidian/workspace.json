@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "049e3334ac748018",
+        "id": "446ca9272003822d",
         "type": "tabs",
         "children": [
           {
-            "id": "942906d069459e8d",
+            "id": "2e7a4af65ba3ea3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fb70f031dd82cbba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3208ca5c0026c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "56c12de61c635422",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ac9985577ddacaf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf"
               }
             }
           }
@@ -127,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md"
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3..md"
               }
             }
           },
@@ -206,16 +165,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c3208ca5c0026c4",
+  "active": "2e7a4af65ba3ea3f",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Directory.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Tutorial 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Tutorial 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
+    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
     "Pasted image 20241003144411.png",
     "Pasted image 20241003144003.png",
@@ -237,7 +200,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/~syncthing~11. Zorn´s Lemma; Zermelo´s Theorem.md.tmp",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/10. Orderings.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/8. Axiomatics.md",
@@ -245,15 +207,11 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/6. Functions, or Maps.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/5. Power set.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/4. Families of Sets.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3. Cartesian Product.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "Pasted image 20241001160342.png",
     "Pasted image 20241001155635.png",
     "Pasted image 20241001154200.png",
-    "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "Untitled.canvas"
   ]
 }
