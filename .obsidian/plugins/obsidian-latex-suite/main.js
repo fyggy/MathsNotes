@@ -14020,7 +14020,7 @@ var runMatrixShortcuts = (view, ctx, key, shiftKey) => {
       const nextLine = d.line(nextLineNo);
       setCursor(view, nextLine.to);
     } else {
-      view.dispatch(view.state.replaceSelection(" \\\\\n "));
+      view.dispatch(view.state.replaceSelection(" \\\\\n"));
     }
     return true;
   } else {
