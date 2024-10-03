@@ -10,7 +10,7 @@ completed: true
 [[University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 1|🞀🞀]] [[|◀]] [[University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 2|▶]] [[University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 11|🞂🞂]]
 
 [[University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf|Worksheet]]
-1. 
+1.
 a)
 $$
 \begin{align}
@@ -105,9 +105,9 @@ $$
 d=\gcd(a,\, b)=\gcd(dm,\, dn)=d\gcd(m,\, n)
 $$
 so ${} \gcd(m,\, n)=1 {}$, and ${} a /d {}$ and ${} b /d {}$ are coprime
-3. 
+3.
 Let ${} a,\, b \in \mathbb{Z}^{+} {}$ with ${} \gcd(a,\, b)=\lcm(a,\, b) {}$. Since ${} \lcm(a,\, b)=ab /\gcd(a,\, b) {}$, then ${} \gcd(a,\, b)^{2}=ab {}$. WLOG, suppose that ${} a\geq b {}$. Then ${} \gcd(a,\, b)^{2}\geq b^{2} {}$, or ${} \gcd(a,\, b)\geq b {}$ (since ${} b {}$ is positive). Therefore, ${} \gcd(a,\, b)=b {}$, so ${} b^{2}=ab {}$, and ${} a=b {}$.
-4. 
+4.
 First, we calculate ${} \gcd(1485,\, 1745) {}$:
 $$
 \begin{align}
@@ -137,7 +137,7 @@ and so ${} u=47 {}$, and ${} v=40 {}$. Now the solutions ${} (x,\, y) {}$ are gi
 $$
 \{ (141+351n,\, 120+297n)\mid n \in \mathbb{Z} \}
 $$
-5. 
+5.
 a)
 We see that since ${} q_{2}\geq 1 {}$, and ${} r_{1}> r_{2} {}$, then
 $$
@@ -148,7 +148,7 @@ b)
 We proceed by strong induction. First, note that ${} \lambda(a,\, 2)\leq 2\ceil*{\log_{2}(2)}=2  {}$, as either ${} 2 \mid a {}$ and ${} r_{1}=0 {}$, or ${} r_{1}=1 {}$, so ${} r_{2}=0 {}$. Now suppose that ${} \lambda(a,\, b)\leq 2 \ceil*{\log_{2}(b)}  {}$ for all ${} b\leq n {}$. 
 
 Then, we take the fact that ${} \gcd(a,\, b)=\gcd(r_{1},\, r_{2}) {}$. Therefore, ${} \lambda(a,\, n+1)=2+\lambda(r_{1},\, r_{2}) {}$. Since ${} r_{2} < (n+1) /2 {}$, then ${} \lambda(r_{1},\, r_{2})\leq 2\ceil*{\log _{2}\left( \frac{n+1}{2} \right)} =2\ceil*{\log _{2}(n+1)}-2  {}$. Therefore, ${} \lambda(a,\, n+1)\leq 2 \ceil*{\log_{2}(n+1)}  {}$, and by induction the hypothesis holds.
-6. 
+6.
 a)
 First note that ${} f_{n+2}<2f_{n+1} {}$, so ${} q_{1}=1 {}$. Therefore, ${} r_{1}=f_{n} {}$, and by induction, ${} \lambda (f_{n+2},\, f_{n+1})=n {}$
 b)

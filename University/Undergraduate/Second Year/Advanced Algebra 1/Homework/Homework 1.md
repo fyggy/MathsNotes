@@ -10,7 +10,8 @@ completed: true
 [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 1|🞀🞀]] [[|◀]] [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2|▶]] [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 11|🞂🞂]]
 
 [[University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Worksheets/advanced_algebra_1.pdf|Worksheet]]
-1. Let $G {}$ be a group and let ${} S \subseteq G {}$
+1.
+Let ${} G {}$ be a group and let ${} S \subseteq G {}$
 a)
 Let $\mathcal{A} {}$ be a non-empty set of subgroups of $G {}$. Set
 $$
@@ -86,7 +87,7 @@ $$
 \end{align}
 $$
 Therefore, ${} A \in \langle S \rangle  {}$, so ${} \langle S \rangle =\mathrm{SL}_{2}(\mathbb{R}) {}$.
-2. 
+2.
 a)
 Let ${} g \in G {}$, ${} z \in Z(G) {}$. Then ${} gzg^{-1}=zgg^{-1}=z \in Z(G) {}$, therefore ${} Z(G)\trianglelefteq G {}$
 b)
@@ -157,7 +158,7 @@ so ${} \frac{na}{d} \in \mathbb{Z} {}$. In particular, since this holds for all 
 $$
 N_{G}(\langle h \rangle )=\left\{ \begin{pmatrix}a & b \\ 0 & d \end{pmatrix} \mid a,\, b,\, d \in \mathbb{R},\, d\neq 0,\, \frac{a}{d} \in \mathbb{Z} \right\} 
 $$
-3. 
+3.
 a)
 We have that ${} \im f=\{ f(n)\mid n \in \mathbb{Z} \}=\{ g^{n} \mid  n \in \mathbb{Z} \}=\langle g \rangle  {}$.
 b)
@@ -176,7 +177,7 @@ Let $C {}$ be a cyclic group. Then there exists some element ${} c \in C {}$ suc
 Case 1: if ${} |g|=n {}$ is finite, then ${} \ker f=[n]=n\mathbb{Z} {}$, and so $f {}$ factors through a unique isomorphism ${} \theta:\mathbb{Z} / n\mathbb{Z} \to{}C {}$, and $C {}$ is isomorphic to ${} \mathbb{Z} /n\mathbb{Z} {}$.
 
 Case 2: if ${} |g| {}$ is infinite, then ${} \ker f=\{ 0 \} {}$ is trivial, and so $f {}$ is injective. Since $f {}$ is surjective, then $f {}$ is an isomorphism
-4. 
+4.
 a)
 First note that composition is associative. Now we have the identity automorphism, ${} \mathrm{id}:G\to{}G {}$ defined by ${} x \mapsto x {}$. Note that given an automorphism ${} \alpha \in \aut(G) {}$, then ${} \mathrm{id} \circ  \alpha=\alpha=\alpha \circ  \mathrm{id} {}$. Finally, since each automorphism ${} \alpha {}$ is bijective, then there exists a inverse isomorphism ${} \alpha ^{-1} {}$, with the property ${} \alpha\alpha ^{-1}=\mathrm{id}=\alpha ^{-1} \alpha {}$. Therefore, ${} \aut(G) {}$ is a group. 
 b)
@@ -215,7 +216,7 @@ $$
 since ${} a,\, b {}$ are coprime to $n {}$, then ${} ab {}$ is coprime to $n {}$, and ${} \gamma(x)=abx {}$ is an automorphism.
 
 Therefore, define ${} \theta:(\mathbb{Z} /n \mathbb{Z})^{\times }\to{}\aut(G) {}$ by ${} \theta(k)=\alpha_{k} {}$, where ${} \alpha_{k}:G\to{}G {}$ is defined by ${} \alpha_{k}(x)=kx {}$. Since every ${} k \in (\mathbb{Z} /n\mathbb{Z})^{\times } {}$ has ${} \gcd(k,\, n)=1 {}$, then this is well defined. As proved above, ${} \theta(ab)=\theta(a)\theta(b) {}$. Furthermore, if ${} \theta(a)=\theta(b) {}$, then ${} ax=bx {}$ for all ${} x \in G {}$, so ${} a=b {}$. Finally, if ${} \alpha \in \aut(G) {}$, then there exists some ${} k=\alpha(1) {}$ such that ${} \alpha(x)=kx {}$. Therefore, ${} \theta(k)=\alpha {}$, so ${} \theta {}$ is bijective and is an isomorphism.
-5. 
+5.
 a)
 Let ${} \theta:\mathcal{A}\to{}\mathcal{B} {}$ where ${} \mathcal{B}=\{ \conj{A} \subseteq \conj{G} \mid \conj{A} \leq  \conj{G} \} {}$ defined by ${} \theta(H)=\conj{H} {}$. First, suppose that ${} H,\, K\in \mathcal{A} {}$ such that ${} \theta(H)=\theta(K) {}$. Therefore, ${} H /N = K / N {}$. Therefore, for each element ${} \conj{h} \in \conj{H} {}$, ${} \conj{h} \in \conj{K} {}$. Therefore, since ${} H=\bigcup \conj{H} {}$, then ${} H \subseteq K=\bigcup \conj{K} {}$. Likewise for ${} \conj{K} {}$, so ${} H=K {}$, and ${} \theta {}$ is surjective.
 
@@ -238,8 +239,7 @@ and so ${} \conj{H} \trianglelefteq \conj{G} {}$.
 Conversely, suppose that ${} \conj{H} \trianglelefteq \conj{G} {}$. Then, given ${} g \in G {}$, we have that ${} gxg^{-1}N \in \conj{H} {}$, and so there exists some ${} h \in H {}$ with ${} hN=gxg^{-1}N {}$, so ${} hgxg^{-1} \in N \subseteq H {}$. Therefore, ${} hgxg^{-1}=n {}$ for some ${} n \in N {}$, and ${} gxg^{-1}=h^{-1}n \in H {}$, and ${} gHg^{-1}=H {}$, so ${} H \trianglelefteq G {}$.
 d)
 (already proved in 5. b)
-
-6. 
+6.
 a)
 First, let ${} g \in G {}$. Then if ${} x=aba^{-1}b^{-1} \in [G,\, G] {}$, then
 $$
