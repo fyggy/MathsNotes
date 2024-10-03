@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
                 "mode": "source",
                 "source": false
               }
@@ -61,12 +61,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md"
               }
             }
           },
@@ -181,11 +180,13 @@
   },
   "active": "fb70f031dd82cbba",
   "lastOpenFiles": [
+    "Pasted image 20241003140518.png",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/3..md",
     "Pasted image 20241003120220.png",
     "Pasted image 20241003115218.png",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_1.pdf",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/4..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
@@ -212,7 +213,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/1. Review of topology and intro to knots.md",
     "Pasted image 20241001160342.png",
     "Pasted image 20241001155635.png",
     "Pasted image 20241001154200.png",
@@ -223,7 +223,6 @@
     "Pasted image 20240928001421.png",
     "Pasted image 20240928000219.png",
     "Pasted image 20240927235200.png",
-    "Pasted image 20240927234913.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Textbooks/geometric_topology_lecture_notes.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_1.pdf",
