@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4..md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4..md"
               }
             }
           },
@@ -179,13 +179,14 @@
   },
   "active": "2e7a4af65ba3ea3f",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
     "Pasted image 20241004000724.png",
@@ -224,7 +225,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/~syncthing~11. Zorn´s Lemma; Zermelo´s Theorem.md.tmp",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/10. Orderings.md",
     "Untitled.canvas"
   ]
 }
