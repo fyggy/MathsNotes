@@ -125,6 +125,6 @@ $$
 \begin{align}
 \mathbf{N}(t) & =\mathbf{r}(t) \times  \mathbf{F}(t) \\
  & =m \left(  \begin{pmatrix} t^{2} \\ 1 \\ -\sin t \end{pmatrix} \times  \begin{pmatrix} 2 \\ 0 \\ \sin t \end{pmatrix}  \right)  \\
- & =m \begin{pmatrix} \sin t \\ (t^{2}+2) \sin t  \\  \end{pmatrix} 
+ & =m \begin{pmatrix} \sin t \\ (t^{2}+2) \sin t  \\  -2\end{pmatrix} 
 \end{align}
 $$
