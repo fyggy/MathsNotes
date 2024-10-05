@@ -404,7 +404,7 @@
     {trigger: "pa_{2}([A-Za-z])([A-Za-z])", replacement: "\\frac{ \\partial^{2} [[0]] }{ \\partial [[1]]^{2} } ", options: "rmA"},
     {trigger: "d([A-Za-z])d([A-Za-z])", replacement: "\\frac{d[[0]]}{d[[1]]} ", options: "rmA"},
     {trigger: "\\\\frac{d([A-Za-z])}{d([A-Za-z])}([A-Za-z\\d])", replacement: "\\frac{d^{[[2]]}[[0]]}{d[[1]]^{[[2]]}} ", options: "rmA"},
-    {trigger: "dd([A-Za-z])", replacement: "\\frac{d}{d[[0]]} ", options: "rmA"},
+    {trigger: "dd([A-Za-np-z])", replacement: "\\frac{d}{d[[0]]} ", options: "rmA"},
 	{trigger: "\\\\frac{d}{d([A-Za-z])}([A-Za-z\\d])", replacement: "\\frac{d^{[[1]]}}{d[[0]]^{[[1]]}} ", options: "rmA"},
 	{trigger: "dat([A-Za-z])", replacement: "\\left.\\frac{d}{d[[0]]}\\right|_{[[0]]=${0:0}}\  $1", options: "rmA"},
 

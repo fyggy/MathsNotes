@@ -56,13 +56,75 @@ b)
 $$
 \begin{align}
  v  & =\frac{dr}{dt}  \\
- & =-\frac{1}{2}gt+v(0) \\
- & =-5t \mathrm{s} \\
+ & =-gt+v(0) \\
+ & =-10t \;\mathrm{s} \\
  \end{align}
 $$
 and
 $$
-p=mv=0.001\cdot -5t=-0.005t \;\mathrm{kgms^{-1}}
-$$$$
--70.71=0.07071\mathrm{kgms}^{-1}
+p=mv=0.001\cdot -10t=-0.01t \;\mathrm{kgms^{-1}}
+$$
+c)
+@$t=10\sqrt{2}=14.14 \mathrm{s} {}$
+$$
+v =-10 \cdot 10 \sqrt{2}=-100 \sqrt{2} =-141.4 \mathrm{ms}^{-1} 
+$$
+and
+$$
+p=-0.01\cdot 10\sqrt{2}=-0.1414\mathrm{kgms}^{-1}
+$$
+d)
+We see that
+$$
+\begin{align}
+0 & =r(t) \\
+ & =1-\frac{1}{2}gt^{2}+0t \\
+  5t^{2} & =1 \\
+t  & =\frac{1}{\sqrt{5}}=0.4472\mathrm{s}
+\end{align}
+$$
+and so
+$$
+v=-gt+v(0)=-4.472\mathrm{ms^{-1}}
+$$
+and
+$$
+p=mv=-4.472 \mathrm{kgms^{-1}}
+$$
+Since the momentum of the brick is ${} 10 \sqrt{10}=31.6 {}$ times more momentum than the rain drop I predict it will probably hurt quite a lot comparatively.
+3. 
+a)
+We have that
+$$
+\dot{\mathbf{r}}(t)=\frac{d}{dt} (t^{2}\mathbf{e}_{x}+\mathbf{e}_{y}-(\sin t)\mathbf{e}_{z})=2t\mathbf{e}_{x}+0\mathbf{e}_{y}-(\cos t)\mathbf{e}_{z}
+$$
+and
+$$
+\ddot{\mathbf{r}}=\frac{d}{dt} \dot{\mathbf{r}}(t)=\frac{d}{dt} (2t\mathbf{e}_{x}-(\cos t)\mathbf{e}_{z})=2\mathbf{e}_{x}+(\sin t)\mathbf{e}_{z}
+$$
+Finally, 
+$$
+\mathbf{p}(t)=m\dot{\mathbf{r}}(t)=2 mt \mathbf{e}_{x}-m(\cos t)\mathbf{e}_{z}
+$$
+b)
+Since ${} \mathbf{F}(t)=m\ddot{\mathbf{r}}(t) {}$, then
+$$
+\mathbf{F}(t)=2m \mathbf{e}_{x}+m(\sin t)\mathbf{e}_{z} 
+$$
+c)
+We have
+$$
+\begin{align}
+ \mathbf{L}(t) & =\mathbf{r}(t) \times  \mathbf{p}(t) \\
+ & =m\left( \begin{pmatrix} t^{2} \\ 1 \\ -\sin t \end{pmatrix} \times  \begin{pmatrix} 2t \\ 0 \\ -\cos t \end{pmatrix}  \right)  \\
+ & =m \begin{pmatrix} -\cos t \\ -t^{2} \cos t+2t \sin t \\ -2t \end{pmatrix}   
+ \end{align}
+$$
+and
+$$
+\begin{align}
+\mathbf{N}(t) & =\mathbf{r}(t) \times  \mathbf{F}(t) \\
+ & =m \left(  \begin{pmatrix} t^{2} \\ 1 \\ -\sin t \end{pmatrix} \times  \begin{pmatrix} 2 \\ 0 \\ \sin t \end{pmatrix}  \right)  \\
+ & =m \begin{pmatrix} \sin t \\ (t^{2}+2) \sin t  \\  \end{pmatrix} 
+\end{align}
 $$
