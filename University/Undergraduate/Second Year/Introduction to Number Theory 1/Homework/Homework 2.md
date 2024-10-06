@@ -65,4 +65,26 @@ $$
 $$
 and so the number of divisors is ${} (6+1)(4+1)=35 {}$
 2. 
+a)
+If ${} \gcd(a,\, p^{2})=p {}$, then ${} p \mid a {}$, and so ${} p^{2} \mid a^{2} {}$, and clearly ${} p^{2} \mid  p^{2} {}$, so ${} \gcd(a^{2},\, p^{2}) {}$
+b)
+Let ${} p=2 {}$, ${} a=2 {}$, ${} b=8 {}$. Then ${} \gcd(a,\, p^{2})=p {}$, ${} \gcd(b,\, p^{2})=p^{2} {}$, but ${} \gcd(ab,\, p^{4})=p^{4}\neq p^{3} {}$
+c)
+If ${} \gcd(a,\, p^{2})=p {}$, then ${} a=xp {}$. Likewise, ${} b=yp {}$. Then ${} ab=p^{2}xy {}$, so ${} p^{2} \mid ab {}$. Now suppose that ${} p^{3} \mid ab {}$. Then ${} p \mid xy {}$. WLOG, suppose that ${} p \mid x {}$. Then ${} a=p^{2}z {}$, and ${} \gcd(a,\, p^{2})=p^{2} {}$, which is a contradiction. Therefore, ${} \gcd(ab,\, p^{4})=p^{2} {}$.
+d)
+Let ${} a=6 {}$ and ${} p=2 {}$. Then ${} \gcd(a,\, p^{2})=p {}$, but ${} \gcd(a+p,\, p^{2})=p^{2} {}$.
+3. 
+Given some residue system ${} A=(a_{1},\,\dots,\,a_{17}) {}$, we may turn this into the required form in the following process. Let ${} k_{i}\equiv a_{i} \:(\mathrm{mod}\  3)  {}$, with ${} 0\leq k_{i}\leq 2$. Then Since ${} 17\equiv 2 \:(\mathrm{mod}\  3)  {}$, then we set
+$$
+A'=\{ a_{i}+17k_{i} \}=\{ b_{i} \}
+$$
+Note that now ${} b_{i} \equiv a_{i}+17k_{i}\equiv k_{i}+2k_{i}\equiv 3k_{i}\equiv 0\:(\mathrm{mod}\  3)  {}$, and ${} b_{i}\equiv a_{i}+17k_{i}\equiv a_{i} \:(\mathrm{mod}\  17)   {}$.
 
+We apply this process to the trivial residue:
+$$
+\begin{align}
+ & (0,\, 1,\, 2,\, 3,\, 4,\, 5,\, 6,\, 7,8,\, 9,\, 10,\, 11,\, 12,\, 13,\, 14,\, 15,\, 16,\, 17) \\
+ &\qquad \qquad \qquad \qquad \qquad \qquad  \downarrow  \\
+ & (0,\, 18,\, 36,\, 3,\, 21,\, 39,\, 6,\, 24,\, 42,\, 9,\, 27,\, 45,\, 12,\, 30,\, 48,\, 15,\, 33,\, 51)
+\end{align}
+$$
