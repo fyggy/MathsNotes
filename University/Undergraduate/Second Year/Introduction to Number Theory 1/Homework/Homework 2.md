@@ -116,3 +116,38 @@ $$
  x^{3}+x^{2}+x & \equiv 0 \:(\mathrm{mod}\  5)  
  \end{align} 
 $$
+In ${} \:(\mathrm{mod}\  3)  {}$, we have
+$$
+\begin{align}
+ x=0 & \Rightarrow f(x)=0\equiv 0 \:(\mathrm{mod}\  3)   \\
+x=1  & \Rightarrow f(x)=3\equiv 0 \:(\mathrm{mod}\  3)  \\
+x=2 & \Rightarrow f(x)=14\not\equiv 0 \:(\mathrm{mod}\  3)  \\
+ \end{align}
+$$
+and in ${} \:(\mathrm{mod}\  5)  {}$, we have
+$$
+\begin{align}
+ x=0 & \Rightarrow f(x)=0\equiv 0 \:(\mathrm{mod}\  5)   \\
+x=1  & \Rightarrow f(x)=3\not\equiv 0 \:(\mathrm{mod}\  5)  \\
+x=2 & \Rightarrow f(x)=14\not\equiv 0 \:(\mathrm{mod}\  5)  \\
+x=3 & \Rightarrow f(x)=39\not\equiv 0 \:(\mathrm{mod}\  5)  \\
+x=4 & \Rightarrow f(x)=84\not\equiv 0 \:(\mathrm{mod}\  5)  \\
+ \end{align}
+$$
+Therefore, the only solution is when 
+$$
+x \equiv 0\:(\mathrm{mod}\  5) \qquad x\equiv 0,\, 1 \:(\mathrm{mod}\  3) \qquad x\equiv 0,\, 2,\, 4 \:(\mathrm{mod}\  7) 
+$$
+First note that ${} 7-2\cdot 3=1 {}$, and so we have by the CRT, we have $6 {}$ possibilities for $x$:
+$$
+\begin{align}
+x & =0\cdot 7-0\cdot 2\cdot 3=0 &  x & =0\cdot 7-2\cdot 2\cdot 3=-12 & x & =0\cdot 7-4\cdot 2\cdot 3=-24 \\
+x & =1\cdot 7-0\cdot 2\cdot 3=7 & x & =1\cdot 7-2\cdot 2\cdot 3 =-5 & x & =1\cdot 7-4\cdot 2\cdot 3 =-17
+\end{align}
+$$
+so, ${} \:(\mathrm{mod}\  21) {}$, we have
+$$
+x\equiv 0,\, 9,\, 18,\, 7,\, 16,\, 4 \:(\mathrm{mod}\  21) 
+$$
+Finally, ${} 21-4\cdot 5 {}$
+
