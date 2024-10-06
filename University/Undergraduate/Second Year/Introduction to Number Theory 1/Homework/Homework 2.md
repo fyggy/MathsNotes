@@ -93,8 +93,8 @@ a)
 First, note that $105=15 \cdot 7 {}$. Since ${} \gcd(15,\, 7)=1 {}$, then we may set
 $$
 \begin{align}
- x^{3}+x^{2}+x\equiv 0 \:(\mathrm{mod}\  15)  \\
- x^{3}+x^{2}+x\equiv 0 \:(\mathrm{mod}\  7)  
+ x^{3}+x^{2}+x & \equiv 0 \:(\mathrm{mod}\  15)  \\
+ x^{3}+x^{2}+x & \equiv 0 \:(\mathrm{mod}\  7)  
  \end{align} 
 $$
 In ${} \:(\mathrm{mod}\  7)  {}$, we have
@@ -105,6 +105,14 @@ x=1  & \Rightarrow f(x)=3\not\equiv 0 \:(\mathrm{mod}\  7)  \\
 x=2 & \Rightarrow f(x)=14\equiv 0 \:(\mathrm{mod}\  7)  \\
 x=3 & \Rightarrow f(x)=39\not\equiv 0 \:(\mathrm{mod}\  7)  \\
 x=4 & \Rightarrow f(x)=84\equiv 0 \:(\mathrm{mod}\  7)  \\
-x=
+x=5 & \Rightarrow f(x)=155\not\equiv 0\:(\mathrm{mod}\  7)  \\
+x=6 & \Rightarrow f(x)=258 \not\equiv 0\:(\mathrm{mod}\  7) 
  \end{align}
+$$
+Now in ${} \:(\mathrm{mod}\  15)  {}$, note that ${} 15=3\cdot 5 {}$, and since ${} \gcd(3,\, 5)=1 {}$, then we may set
+$$
+\begin{align}
+ x^{3}+x^{2}+x & \equiv 0 \:(\mathrm{mod}\  3)  \\
+ x^{3}+x^{2}+x & \equiv 0 \:(\mathrm{mod}\  5)  
+ \end{align} 
 $$
