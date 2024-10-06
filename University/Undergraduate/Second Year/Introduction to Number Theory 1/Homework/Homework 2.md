@@ -149,5 +149,53 @@ so, ${} \:(\mathrm{mod}\  21) {}$, we have
 $$
 x\equiv 0,\, 9,\, 18,\, 7,\, 16,\, 4 \:(\mathrm{mod}\  21) 
 $$
-Finally, ${} 21-4\cdot 5 {}$
-
+Finally, ${} 21-4\cdot 5=1 {}$, and so by the CRT, we have $6$ possibilities for $x$:
+$$
+\begin{align}
+ x & =-20  \cdot 0=0 & x & =-20\cdot 9=-180 & x & =-20\cdot 18=-360 \\
+x & =-20\cdot 7=-140 & x & =-20\cdot 16=-320 & x & =-20\cdot 4=-80
+ \end{align}
+$$
+that is, 
+$$
+x\equiv 0,\, 30,\, 60,\, 70,\, 100,\, 25
+$$
+b)
+Note that ${} 143=11\cdot 13 {}$, and ${} \gcd(11,\, 13)=1 {}$. Now
+$$
+\begin{align}
+x=0 & \Rightarrow f(x)=1 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=1 & \Rightarrow f(x)=4 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=2 & \Rightarrow f(x)=15 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=3 & \Rightarrow f(x)=40 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=4 & \Rightarrow f(x)=85 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=5 & \Rightarrow f(x)=156 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \equiv 0 \:(\mathrm{mod}\  13)  \\
+x=6 & \Rightarrow f(x)=259 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=7 & \Rightarrow f(x)=400 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=8 & \Rightarrow f(x)=585 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \equiv 0 \:(\mathrm{mod}\  13)  \\
+x=9 & \Rightarrow f(x)=820 \not\equiv 0 \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=10 & \Rightarrow f(x)=1111 \equiv  \:(\mathrm{mod}\  11) \quad \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=11 & \Rightarrow f(x)=1464  \not\equiv 0 \:(\mathrm{mod}\  13)  \\
+x=12 & \Rightarrow f(x)=1885  \equiv 0 \:(\mathrm{mod}\  13)  
+\end{align}
+$$
+Therefore, ${} x\equiv 10 \:(\mathrm{mod}\  11)  {}$, and ${} x\equiv 5,\, 8,\, 12 \:(\mathrm{mod}\  13)  {}$. Now note that ${} 6\cdot11-5\cdot13=1 {}$, so by the CRT, we have
+$$
+\begin{align}
+x & =5\cdot 6\cdot 11-10\cdot 5\cdot 13=-320 & x & =8\cdot 6\cdot 11-10\cdot 5\cdot 13=-122  \\
+x & =12\cdot 6\cdot 11-10\cdot 5\cdot 13=142
+\end{align}
+$$
+and so
+$$
+x\equiv 109,\, 21,\, 142
+$$
+c)
+Suppose there exists some ${} x \in \mathbb{Z} {}$ such that
+$$
+f(x)=x^{3}+x^{2}-x+3=0
+$$
+Then ${} f(x)\equiv 0 \:(\mathrm{mod}\  m)  {}$ for all ${} m>0 {}$. Then
+$$
+x^{3}
+$$
