@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
+            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md"
           }
         }
       }
@@ -123,7 +123,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -135,20 +134,22 @@
   },
   "active": "e520ba2e4beb7d0a",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Pasted image 20241001155635.png",
     "Pasted image 20241001160342.png",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/10. Orderings.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Directory.md",
     "6. Boundary and Interior of a Set.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "Untitled",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/2. Linear Diophantine Equations.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Subjects/Intro to Algebra 1/8. Congruences and Groups.md",
@@ -172,14 +173,11 @@
     "Knowledge/Identities",
     "Knowledge",
     "Subjects/Linear Algebra and Geometry 1/5. Introduction to Vectors.md",
-    "Subjects/Calculus 1/Calculus 1.md",
     "Pasted image 20231009134706.png",
     "Pasted image 20231009130903.png",
     "Pasted image 20231009125526.png",
     "Pasted image 20231009125529.png",
-    "Pasted image 20231009121430.png",
     "Textbooks/Classic Set Theory For Guided Independent Study - Derek C Goldrei.pdf",
-    "Textbooks/Intro to Abstract Algebra lecture notes.pdf",
-    "Textbooks/Discrete Mathematics Lecture notes KCL.pdf"
+    "Textbooks/Intro to Abstract Algebra lecture notes.pdf"
   ]
 }
