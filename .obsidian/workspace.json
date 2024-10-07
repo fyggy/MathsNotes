@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d557d157b85416cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "545cdd37a1fc3161",
             "type": "leaf",
             "state": {
@@ -195,11 +207,13 @@
   },
   "active": "45f7a4117f2ee2ba",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
@@ -219,7 +233,6 @@
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Homework 2.md",
     "Pasted image 20241004000724.png",
