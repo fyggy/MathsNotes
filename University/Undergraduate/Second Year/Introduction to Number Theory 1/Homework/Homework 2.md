@@ -191,11 +191,14 @@ $$
 x\equiv 109,\, 21,\, 142
 $$
 c)
-Suppose there exists some ${} x \in \mathbb{Z} {}$ such that
-$$
-f(x)=x^{3}+x^{2}-x+3=0
-$$
-Then ${} f(x)\equiv 0 \:(\mathrm{mod}\  m)  {}$ for all ${} m>0 {}$. Then
-$$
-x^{3}
-$$
+Let ${} f(x)=x^{3}+x^{2}-x+3 {}$. First, note that, if ${} x\geq -2 {}$, then ${} f(x)>0 {}$. As, if ${} x=-2 {}$, then ${} f(x)=1 {}$, if ${} x=-1 {}$, then ${} f(x)=4 {}$, if ${} x=0 {}$, then ${} f(x)=3 {}$ and if ${} x=1 {}$, then ${} f(x)=4 {}$. 
+
+Now if ${} x>1 {}$, then we have that ${} f(x)>x^{2}-x {}$, and ${} x^{2}>x {}$, so ${} f(x)>0 {}$
+
+Now note that if ${} x \leq -3 {}$, then ${} f(x)<0 {}$. In particular, ${} f'(x)=3x^{2}+2x-1>0 {}$, so if $x\leq -3 {}$, then ${} f(x)\leq f(-3)=-12 {}$, and so ${} f(x)<0 {}$.
+
+Therefore, the only root for $f$ is between $-2 {}$ and $-3 {}$, and so there are no integer solutions.
+5. 
+First note that ${} 6k-1=6k'+5 {}$ where ${} k' \in \mathbb{N} {}$ is a non-negative integer. Now note that if ${} n \in \mathbb{Z}^{+} {}$, then ${} n=6k,\, 6k+1,\, 6k+2,\, 6k+3,\, 6k+4,\, 6k+5 {}$. However, if $n$ is prime, then ${} n=6k+1 {}$ or ${} n=6k+5 {}$, as all other forms have a common divisor. 
+
+Now suppose th
