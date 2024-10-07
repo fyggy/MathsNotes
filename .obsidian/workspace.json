@@ -56,6 +56,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "28bcd01db59f49de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4745f967f20d2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +220,15 @@
   "active": "45f7a4117f2ee2ba",
   "lastOpenFiles": [
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
+    "Pasted image 20241007173531.png",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
-    "Pasted image 20241007163915.png",
-    "Pasted image 20241007163032.png",
+    "Pasted image 20241007173046.png",
+    "Pasted image 20241007172424.png",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "Pasted image 20241007171807.png",
+    "Pasted image 20241007163915.png",
+    "Pasted image 20241007163032.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
@@ -238,10 +258,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Homework 2.md",
     "Pasted image 20241004000724.png",
-    "Pasted image 20241003232848.png",
-    "Pasted image 20241003232527.png",
-    "Pasted image 20241003232124.png",
-    "Pasted image 20241003231453.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
