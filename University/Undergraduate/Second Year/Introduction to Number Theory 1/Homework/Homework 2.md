@@ -201,4 +201,18 @@ Therefore, the only root for $f$ is between $-2 {}$ and $-3 {}$, and so there ar
 5. 
 First note that ${} 6k-1=6k'+5 {}$ where ${} k' \in \mathbb{N} {}$ is a non-negative integer. Now note that if ${} n \in \mathbb{Z}^{+} {}$, then ${} n=6k,\, 6k+1,\, 6k+2,\, 6k+3,\, 6k+4,\, 6k+5 {}$. However, if $n$ is prime, then ${} n=6k+1 {}$ or ${} n=6k+5 {}$, as all other forms have a common divisor. 
 
-Now suppose th
+Now let ${} x=6a+1 {}$, and ${} y=6b+1 {}$. Then we have
+$$
+\begin{align}
+xy & =(6a+1)(6b+1) \\
+ & =36ab+6a+6b+1 \\
+ & =6(6ab+a+b)+1
+\end{align}
+$$
+so ${} xy=6c+1 {}$ for some ${} c \in \mathbb{N} {}$. 
+
+Now suppose that there are finitely many primes of the form ${} 6k-1 {}$. List them as
+$$
+P=(p_{1},\,\dots,\,p_{r})
+$$
+Let ${} n=6(p_{1}\dots p_{r}) {}$, and let ${} N=n-1 {}$. Let a prime $p {}$ such that ${} p \mid N {}$. We know that since $N$ is odd, then ${} p=6a+1 {}$ or ${} p=6a-1 {}$. However, if ${} p=6a-1 {}$, then ${} p \mid n {}$, which is a contradiction. Therefore, ${} p=6a+1 {}$, and all prime divisors of $N$ are of the form ${} 6a+1 {}$. Therefore, ${} N=6a+1 {}$, and ${} n=6a+2 {}$, so ${} 2\equiv n\equiv 0 \:(\mathrm{mod}\  6)  {}$, which is a contradiction. Therefore, there are infinitely many primes of the form ${} 6k-1 {}$.
