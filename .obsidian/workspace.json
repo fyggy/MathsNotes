@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28bcd01db59f49de",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
               }
             }
           },
@@ -218,17 +217,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d557d157b85416cc",
+  "active": "45f7a4117f2ee2ba",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007175646.png",
     "Pasted image 20241007175607.png",
     "Pasted image 20241007175421.png",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007173531.png",
     "Pasted image 20241007173046.png",
     "Pasted image 20241007172424.png",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Pasted image 20241007171807.png",
     "Pasted image 20241007163915.png",
@@ -237,7 +236,6 @@
     "Directory.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
     "Pasted image 20241007151150.png",
-    "Pasted image 20241007143247.png",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
