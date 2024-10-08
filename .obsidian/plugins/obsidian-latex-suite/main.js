@@ -14233,8 +14233,7 @@ var cmd_symbols = {
   "pmatrix": "pmat",
   "varnothing": "\u2205",
   "circlearrowleft": "\u21BA",
-  
- 
+  "not": "",
 };
 var operators = (
   // From https://www.overleaf.com/learn/latex/Operators

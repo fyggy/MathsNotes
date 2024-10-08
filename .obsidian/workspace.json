@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28bcd01db59f49de",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md"
               }
             }
           },
@@ -217,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45f7a4117f2ee2ba",
+  "active": "d557d157b85416cc",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
