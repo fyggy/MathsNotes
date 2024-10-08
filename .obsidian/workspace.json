@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "d557d157b85416cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e789d9e26a4e2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5..md",
                 "mode": "source",
                 "source": false
               }
@@ -57,22 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "28bcd01db59f49de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a4745f967f20d2d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5..md"
               }
             }
           },
@@ -218,13 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d557d157b85416cc",
+  "active": "7e789d9e26a4e2d9",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4. Continuity and Convergent Sequences.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Hensel's Lemma.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007175646.png",
     "Pasted image 20241007175607.png",
@@ -239,8 +215,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
     "Pasted image 20241007151150.png",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
@@ -254,8 +228,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Untitled 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/4. Confusing Rotating Bullshit.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4..md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Homework/Homework 2.md",
