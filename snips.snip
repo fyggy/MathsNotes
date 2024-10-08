@@ -110,10 +110,20 @@
 	
 	// Categories
 	{trigger: "Set", replacement: "\\mathbf{Set} ", options: "mA"},
+	{trigger: "SEt", replacement: "\\mathbf{Set} ", options: "mA"},
 	{trigger: "Grp", replacement: "\\mathbf{Grp} ", options: "mA"},
+	{trigger: "grp", replacement: "\\mathbf{Grp} ", options: "mA"},
+	{trigger: "GRp", replacement: "\\mathbf{Grp} ", options: "mA"},
 	{trigger: "Ab", replacement: "\\mathbf{Ab} ", options: "mA"},
-	
 	{trigger: "Mon", replacement: "\\mathbf{Mon}", options: "mA"}, 
+	{trigger: "MOn", replacement: "\\mathbf{Mon}", options: "mA"}, 
+	{trigger: "mon", replacement: "\\mathbf{Mon}", options: "mA"}, 
+	{trigger: "CRing", replacement: "\\mathbf{CRing}", options: "mA"}, 
+	{trigger: "Cring", replacement: "\\mathbf{CRing}", options: "mA"}, 
+	{trigger: "\\circle ing", replacement: "\\mathbf{CRing}", options: "mA"}, 
+	{trigger: "ring", replacement: "\\mathbf{Ring}", options: "mA"}, 
+	{trigger: "Ring", replacement: "\\mathbf{Ring}", options: "mA"}, 
+	{trigger: "RIng", replacement: "\\mathbf{Ring}", options: "mA"}, 
 	
 	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
 	{trigger: "2perm", replacement: "\\begin{pmatrix}1&2\\\\ $0 & $1 \\end{pmatrix} $2", options: "mA"},
@@ -188,8 +198,8 @@
 	{trigger: "Stab", replacement: "\\stab ", options: "mA"}, 
 	{trigger: "hom", replacement: "\\hom ", options: "mA"}, 
 	{trigger: "Hom", replacement: "\\hom ", options: "mA"}, 
-	{trigger: "ob", replacement: "\\Ob()", options: "mA"}, 
-	{trigger: "Ob", replacement: "\\Ob()", options: "mA"}, 
+	{trigger: "ob", replacement: "\\Ob($0)$1", options: "mA"}, 
+	{trigger: "Ob", replacement: "\\Ob($0)$1", options: "mA"}, 
 	
 	
     {trigger: ",,", replacement: ",\\, $0", options: "mA"},
