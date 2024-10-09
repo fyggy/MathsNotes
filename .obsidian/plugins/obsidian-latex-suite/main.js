@@ -13713,12 +13713,17 @@ function setSelectionToNextTabstop(view) {
     if (!nextGrp)
       return false;
     const currSel = view.state.selection;
+
     let nextGrpSel = nextGrp.toEditorSelection();
     if (nextGrp.containsSelection(currSel)) {
       nextGrpSel = nextGrp.toEditorSelection(true);
     }
+
     if (currSel.eq(nextGrpSel))
       return aux(nextGrpIndex + 1);
+  	if (view.state.doc.slice(nextGrpSel[0].from, nextGrpSel[0].to + 1).text[0] === " {}$") {
+	  nextGrpSel.ranges[0].to = nextGrpSel.ranges[0].from
+	}
     view.dispatch({
       selection: nextGrpSel
     });
