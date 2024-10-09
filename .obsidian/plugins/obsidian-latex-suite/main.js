@@ -13682,6 +13682,7 @@ function handleUndoKeypresses(view, snippets2) {
   });
 }
 function computeTabstops(view, snippets2, originalDocLength) {
+	
   const changeSet = import_state9.ChangeSet.of(snippets2, originalDocLength);
   const oldPositions = snippets2.map((change) => change.from);
   const newPositions = oldPositions.map((pos) => changeSet.mapPos(pos));
@@ -13710,8 +13711,9 @@ function setSelectionToNextTabstop(view) {
   const tabstopGroups = view.state.field(tabstopsStateField);
   function aux(nextGrpIndex) {
     const nextGrp = tabstopGroups[nextGrpIndex];
-    if (!nextGrp)
+    if (!nextGrp) {
       return false;
+	}
     const currSel = view.state.selection;
 
     let nextGrpSel = nextGrp.toEditorSelection();
@@ -13719,14 +13721,17 @@ function setSelectionToNextTabstop(view) {
       nextGrpSel = nextGrp.toEditorSelection(true);
     }
 
-    if (currSel.eq(nextGrpSel))
+    if (currSel.eq(nextGrpSel)) {
       return aux(nextGrpIndex + 1);
-  	if (view.state.doc.slice(nextGrpSel[0].from, nextGrpSel[0].to + 1).text[0] === " {}$") {
-	  nextGrpSel.ranges[0].to = nextGrpSel.ranges[0].from
 	}
-    view.dispatch({
-      selection: nextGrpSel
-    });
+  	
+	if (view.state.doc.slice(nextGrpSel.ranges[0].from, nextGrpSel.ranges[0].to + 1).text[0] === " {}$") {
+		nextGrpSel.ranges[0].to = nextGrpSel.ranges[0].from
+	} else {
+		view.dispatch({
+			selection: nextGrpSel
+		});
+	}
     resetCursorBlink();
     return true;
   }
