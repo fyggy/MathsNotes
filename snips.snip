@@ -1,6 +1,6 @@
 [    
     // Math mode
-    {trigger: "mk", replacement: "$$0$", options: "tA"},
+    {trigger: "mk", replacement: "${}$0{}$", options: "tA"},
     {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
     {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
@@ -356,10 +356,10 @@
     {trigger: "¬", replacement: "\\neg $0", options: "mA"},
     {trigger: "empt", replacement: "\\varnothing ", options: "mA"},
     {trigger: "cr", replacement: "\\circ ", options: "mA"},
-    {trigger: "<#", replacement: "\\prec ", options: "mA"},
-    {trigger: "#<", replacement: "\\prec ", options: "mA"},
-    {trigger: ">#", replacement: "\\succ ", options: "mA"},
-    {trigger: "#>", replacement: "\\succ ", options: "mA"},
+    {trigger: "<#", replacement: "\\prec $0", options: "mA"},
+    {trigger: "#<", replacement: "\\prec $0", options: "mA"},
+    {trigger: ">#", replacement: "\\succ $0", options: "mA"},
+    {trigger: "#>", replacement: "\\succ $0", options: "mA"},
     {trigger: "\\leq #", replacement: "\\preceq ", options: "mA"},
     {trigger: "\\prec =", replacement: "\\preceq ", options: "mA"},
     {trigger: "\\geq #", replacement: "\\succeq ", options: "mA"},

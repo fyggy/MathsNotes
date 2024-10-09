@@ -16,6 +16,6 @@
     }
   ],
   "disableInTable": false,
-  "disableDecorations": false,
+  "disableDecorations": true,
   "disableAtomicRanges": false
 }
