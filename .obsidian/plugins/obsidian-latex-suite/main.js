@@ -13727,11 +13727,11 @@ function setSelectionToNextTabstop(view) {
   	
 	if (view.state.doc.slice(nextGrpSel.ranges[0].from, nextGrpSel.ranges[0].to + 1).text[0] === " {}$") {
 		nextGrpSel.ranges[0].to = nextGrpSel.ranges[0].from
-	} else {
-		view.dispatch({
-			selection: nextGrpSel
-		});
 	}
+	view.dispatch({
+		selection: nextGrpSel
+	});
+	
     resetCursorBlink();
     return true;
   }
