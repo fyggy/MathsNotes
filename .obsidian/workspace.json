@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
                 "mode": "source",
                 "source": false
               }
@@ -28,22 +28,6 @@
                 "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "80c504801218ac9e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3930f1287efc0837",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
               }
             }
           }
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md"
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md"
               }
             }
           },
@@ -195,15 +179,18 @@
   },
   "active": "45f7a4117f2ee2ba",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "Directory.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/12. Ordinals.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Untitled 2.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/6. Introduction to Rings.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4. Continuity and Convergent Sequences.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
@@ -229,12 +216,8 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3. Newtons Law.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.sync-conflict-20241006-171630-NEJCSIE.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "Untitled 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_1.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
