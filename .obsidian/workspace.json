@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4714366230c2d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. H.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d60cd2926914ea1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "71f2897a0dbc2297",
@@ -115,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. H.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md"
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. H.md"
               }
             }
           },
@@ -194,12 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a86a590cdcb54a1",
+  "active": "f4714366230c2d59",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. H.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Directory.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
@@ -212,8 +239,6 @@
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4. Continuity and Convergent Sequences.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Hensel's Lemma.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007175646.png",
     "Pasted image 20241007175607.png",
