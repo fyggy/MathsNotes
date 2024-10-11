@@ -13,21 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "545cdd37a1fc3161",
+            "id": "4a86a590cdcb54a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "71f2897a0dbc2297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f406433a7eccee9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
               }
             }
           }
@@ -98,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md"
               }
             }
           },
@@ -177,16 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45f7a4117f2ee2ba",
+  "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+    "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "Directory.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/12. Ordinals.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Untitled 2.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/6. Introduction to Rings.md",
