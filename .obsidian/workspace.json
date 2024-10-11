@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "71f2897a0dbc2297",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md"
               }
             }
           },
@@ -218,21 +218,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4714366230c2d59",
+  "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "Pasted image 20241011163112.png",
     "Pasted image 20241011162738.png",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/12. Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
@@ -256,8 +257,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 2.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
