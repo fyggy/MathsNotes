@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6..md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "71f2897a0dbc2297",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6..md"
               }
             }
           },
@@ -218,13 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a86a590cdcb54a1",
+  "active": "f4714366230c2d59",
   "lastOpenFiles": [
+    "Pasted image 20241011163112.png",
+    "Pasted image 20241011162738.png",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Directory.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
@@ -237,7 +240,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4. Continuity and Convergent Sequences.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007175646.png",
@@ -251,13 +253,11 @@
     "Pasted image 20241007163032.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
-    "Pasted image 20241007151150.png",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Homework 2.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3. Newtons Law.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
