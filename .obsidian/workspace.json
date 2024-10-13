@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45f7a4117f2ee2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a86a590cdcb54a1",
             "type": "leaf",
             "state": {
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4714366230c2d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60cd2926914ea1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "71f2897a0dbc2297",
@@ -220,11 +183,12 @@
   },
   "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/15. Ordinal numbers.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "Directory.md",
@@ -235,7 +199,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/12. Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
