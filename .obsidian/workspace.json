@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md"
               }
             }
           },
@@ -218,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f406433a7eccee9",
+  "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/15. Ordinal numbers.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
@@ -257,7 +257,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/2. Boolean Algebra.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
     "University/Undergraduate/Second Year/Geometric Topology 1/Homework/Worksheets/geo_top_2.pdf",
