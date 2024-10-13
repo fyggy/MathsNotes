@@ -56,7 +56,7 @@
 
 
     // Insert space after greek letters and symbols, etc
-    {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL}|lhd|trianglelefteq|rhd|trianglerighteq)([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
+    {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL}|lhd|trianglelefteq|rhd|trianglerighteq|aleph)([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) sd", replacement: "\\[[0]]^{2}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) cd", replacement: "\\[[0]]^{3}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) hat", replacement: "\\hat{\\[[0]]}", options: "rmA"},

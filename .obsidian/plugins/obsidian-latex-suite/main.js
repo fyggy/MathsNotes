@@ -14051,7 +14051,12 @@ var import_view9 = require("@codemirror/view");
 var import_language5 = require("@codemirror/language");
 
 // src/editor_extensions/conceal_maps.ts
-var cmd_symbols = {
+function sortSymbols(symbols) {
+	sKeys = Object.keys(symbols).toSorted(((a, b) => {return b.length - a.length}));
+	return Object.fromEntries(sKeys.map( x => [x, symbols[x]]));
+}
+
+var cmd_symbols = sortSymbols({
   "aleph": "\u2135",
   "amalg": "\u2210",
   "angle": "\u2220",
@@ -14244,7 +14249,8 @@ var cmd_symbols = {
   "varnothing": "\u2205",
   "circlearrowleft": "\u21BA",
   "not": "",
-};
+});
+
 var operators = (
   // From https://www.overleaf.com/learn/latex/Operators
   [
@@ -14734,7 +14740,7 @@ function getEndIncludingLimits(eqn, end2) {
   return end2;
 }
 function concealSymbols(eqn, prefix, suffix, symbolMap, className, allowSucceedingLetters = true) {
-  const symbolNames = Object.keys(symbolMap).toSorted(((a, b) => {return b.length - a.length}));
+  const symbolNames = Object.keys(symbolMap);
   const regexStr = prefix + "(" + escapeRegex(symbolNames.join("|")) + ")" + suffix;
   const symbolRegex = new RegExp(regexStr, "g");
   const matches = [...eqn.matchAll(symbolRegex)];
