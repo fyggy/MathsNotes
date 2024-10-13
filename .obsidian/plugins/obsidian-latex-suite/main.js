@@ -14284,6 +14284,7 @@ var operators = (
 	"end",
 	"Hom",
 	"Ob",
+	"ord",
     // "inf" // Fix "\\infty" being concealed as "inf∞"
   ]
 );
