@@ -231,15 +231,20 @@
     {trigger: "([A-Za-z])_{(\\d)(\\d)}(\\d)", replacement: "[[0]]_{[[1]][[2]][[3]]}", options: "rmA"},
     {trigger: "([A-Za-z])_{ ([^}]+)}([A-Za-z\\d])", replacement: "[[0]]_{ [[1]][[2]]}", options: "rmA"},
 	
-	{trigger: "\\\\hat{([a-zA-Z])}\\.", replacement: "\\hat{[[0]]}_{}", options: "rmA"},
+	{trigger: "\\\\hat{([a-zA-Z])}\\.", replacement: "\\hat{[[0]]}_{ }", options: "rmA"},
     {trigger: "\\\\hat{([A-Za-z])}(\\d)", replacement: "\\hat{[[0]]}_{[[1]]}", options: "rmA"},
-	{trigger: "\\\\hat{([A-Za-z])}_{}([A-Za-z\\d])", replacement: "\\hat{[[0]]}_{[[1]]}$0 $1", options: "rmA"},
-    {trigger: "\\\\hat{([A-Za-z])}_{([^}]+)}([A-Za-z\\d]) ", replacement: "\\hat{[[0]]}_{[[1]][[2]]}$0 $1", options: "rmA"},
+	{trigger: "\\\\hat{([A-Za-z])}_{ }([A-Za-z\\d])", replacement: "\\hat{[[0]]}_{ [[1]]}$0 $1", options: "rmA"},
+    {trigger: "\\\\hat{([A-Za-z])}_{ ([^}]+)}([A-Za-z\\d]) ", replacement: "\\hat{[[0]]}_{ [[1]][[2]]}$0 $1", options: "rmA"},
 	
-	{trigger: "\\\\mathbf{([a-zA-Z])}\\.", replacement: "\\mathbf{[[0]]}_{}", options: "rmA"},
+	{trigger: "\\\\mathbf{([a-zA-Z])}\\.", replacement: "\\mathbf{[[0]]}_{ }", options: "rmA"},
     {trigger: "\\\\mathbf{([A-Za-z])}(\\d)", replacement: "\\mathbf{[[0]]}_{[[1]]}", options: "rmA"},
-	{trigger: "\\\\mathbf{([A-Za-z])}_{}([A-Za-z\\d])", replacement: "\\mathbf{[[0]]}_{[[1]]}$0 $1", options: "rmA"},
-    {trigger: "\\\\mathbf{([A-Za-z])}_{([^}]+)}([A-Za-z\\d]) ", replacement: "\\mathbf{[[0]]}_{[[1]][[2]]}$0 $1", options: "rmA"},
+	{trigger: "\\\\mathbf{([A-Za-z])}_{ }([A-Za-z\\d])", replacement: "\\mathbf{[[0]]}_{ [[1]]}$0 $1", options: "rmA"},
+    {trigger: "\\\\mathbf{([A-Za-z])}_{ ([^}]+)}([A-Za-z\\d]) ", replacement: "\\mathbf{[[0]]}_{ [[1]][[2]]}$0 $1", options: "rmA"},
+	
+	{trigger: "\\\\mathscr{([a-zA-Z])}\\.", replacement: "\\mathscr{[[0]]}_{ }", options: "rmA"},
+    {trigger: "\\\\mathscr{([A-Za-z])}(\\d)", replacement: "\\mathscr{[[0]]}_{[[1]]}", options: "rmA"},
+	{trigger: "\\\\mathscr{([A-Za-z])}_{ }([A-Za-z\\d])", replacement: "\\mathscr{[[0]]}_{ [[1]]}$0 $1", options: "rmA"},
+    {trigger: "\\\\mathscr{([A-Za-z])}_{ ([^}]+)}([A-Za-z\\d]) ", replacement: "\\mathscr{[[0]]}_{ [[1]][[2]]}$0 $1", options: "rmA"},
 	
 	{trigger: "\\\\vec{([a-zA-Z])}\\.", replacement: "\\vec{[[0]]}_{}", options: "rmA"},
     {trigger: "\\\\vec{([A-Za-z])}(\\d)", replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
