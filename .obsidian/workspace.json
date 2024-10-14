@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md"
               }
             }
           },
@@ -193,10 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a73fb3fdccb2adb",
+  "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/19. Topological spaces.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/18. The ordinal number omega.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7. Kauffman Bracket and Jones Polynomial.md",
@@ -228,9 +231,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/12. Ordinals.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
-    "Untitled 2.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/6. Introduction to Rings.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
