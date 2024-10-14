@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "191097f789c2f8c3",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md"
               }
             }
           },
@@ -193,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a86a590cdcb54a1",
+  "active": "fe676fed0ec3ef1f",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/19. Topological spaces.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/18. The ordinal number omega.md",
