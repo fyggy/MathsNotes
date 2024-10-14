@@ -13,9 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fe676fed0ec3ef1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "191097f789c2f8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a73fb3fdccb2adb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
               }
             }
           }
@@ -86,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md"
               }
             }
           },
@@ -167,6 +195,11 @@
   },
   "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7. Kauffman Bracket and Jones Polynomial.md",
     "Pasted image 20241014174109.png",
     "Pasted image 20241014173243.png",
     "Pasted image 20241014173048.png",
@@ -177,17 +210,12 @@
     "Pasted image 20241014171334.png",
     "Pasted image 20241014164629.png",
     "Pasted image 20241014164223.png",
-    "Pasted image 20241014164144.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/15. Ordinal numbers.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
@@ -203,7 +231,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Untitled 2.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/6. Introduction to Rings.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
