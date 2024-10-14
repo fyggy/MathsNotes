@@ -66,6 +66,7 @@
     {trigger: "\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\vec{\\[[0]]}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) tild", replacement: "\\tilde{\\[[0]]}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\underline{\\[[0]]}", options: "rmA"},
+    {trigger: "\\\\(${GREEK}|${SYMBOL}) box", replacement: "\\framebox{\\[[0]]}", options: "rmA", priority: 2},
     {trigger: "\\\\(${GREEK}),\\.", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
     {trigger: "\\\\(${GREEK})\\.,", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
 	
@@ -253,6 +254,7 @@
     {trigger: "([a-zA-Z0])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z])tild", replacement: "\\tilde{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z\\d])und", replacement: "\\underline{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z\\d])box", replacement: "\\framebox{[[0]]}", options: "rmA", priority: 2},
     {trigger: "bar", replacement: "\\conj{$0}$1", options: "mA"},
     {trigger: "hat", replacement: "\\hat{$0}$1", options: "mA"},
     {trigger: "dot", replacement: "\\dot{$0}$1", options: "mA"},
@@ -260,6 +262,7 @@
     {trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
     {trigger: "tild", replacement: "\\tilde{$0}$1", options: "mA"},
     {trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
+    {trigger: "box", replacement: "\\framebox{$0}$1", options: "mA", priority: 1},
     {trigger: "\\nu nd", replacement: "\\underline{n}", options: "mA"},
     {trigger: "\\mu nd", replacement: "\\underline{n}", options: "mA"},
 

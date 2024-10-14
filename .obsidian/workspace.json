@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md"
+                "file": "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7..md"
               }
             }
           },
@@ -167,8 +167,12 @@
   },
   "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
@@ -192,8 +196,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/6. Introduction to Rings.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/4. Continuity and Convergent Sequences.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/4. Automorphisms and Free Groups.md",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "Pasted image 20241007175646.png",
     "Pasted image 20241007175607.png",
     "Pasted image 20241007175421.png",
@@ -202,8 +204,6 @@
     "Pasted image 20241007172424.png",
     "Pasted image 20241007171807.png",
     "Pasted image 20241007163915.png",
-    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/5. Free Groups and Universal Properties.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
