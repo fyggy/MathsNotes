@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "191097f789c2f8c3",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md"
+                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md"
               }
             }
           },
@@ -194,9 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe676fed0ec3ef1f",
+  "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
@@ -207,8 +211,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/15. Ordinal numbers.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/13. Comparability of Ordinals.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/7. Kauffman Bracket and Jones Polynomial.md",
     "Pasted image 20241014174109.png",
     "Pasted image 20241014173243.png",
@@ -223,8 +225,6 @@
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
@@ -232,7 +232,6 @@
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
