@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md"
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
               }
             }
           },
@@ -177,12 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a86a590cdcb54a1",
+  "active": "fe676fed0ec3ef1f",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
     "Pasted image 20241015194128.png",
     "Pasted image 20241015191326.png",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/3..md",
     "Directory.md",
@@ -192,7 +194,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
@@ -210,7 +211,6 @@
     "Pasted image 20241014173045.png",
     "Pasted image 20241014172901.png",
     "Pasted image 20241014172156.png",
-    "Pasted image 20241014171849.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
