@@ -125,26 +125,6 @@
 	{trigger: "Ring", replacement: "\\mathbf{Ring}", options: "mA"}, 
 	{trigger: "RIng", replacement: "\\mathbf{Ring}", options: "mA"}, 
 	
-	{trigger: "1perm", replacement: "\\begin{pmatrix}1\\\\ $0 \\end{pmatrix} $1", options: "mA"},
-	{trigger: "2perm", replacement: "\\begin{pmatrix}1&2\\\\ $0 & $1 \\end{pmatrix} $2", options: "mA"},
-	{trigger: "3perm", replacement: "\\begin{pmatrix}1&2&3\\\\ $0 & $1 & $2 \\end{pmatrix} $3", options: "mA"},
-	{trigger: "4perm", replacement: "\\begin{pmatrix}1&2&3&4\\\\ $0 & $1 & $2 & $3 \\end{pmatrix} $4", options: "mA"},
-	{trigger: "5perm", replacement: "\\begin{pmatrix}1&2&3&4&5\\\\ $0 & $1 & $2 & $3 & $4 \\end{pmatrix} $5", options: "mA"},
-	{trigger: "6perm", replacement: "\\begin{pmatrix}1&2&3&4&5&6\\\\ $0 & $1 & $2 & $3 & $4 & $5 \\end{pmatrix} $6", options: "mA"},
-	{trigger: "7perm", replacement: "\\begin{pmatrix}1&2&3&4&5&6&7\\\\ $0 & $1 & $2 & $3 & $4 & $5 & $6 \\end{pmatrix} $7", options: "mA"},
-	{trigger: "8perm", replacement: "\\begin{pmatrix}1&2&3&4&5&6&7&8\\\\ $0 & $1 & $2 & $3 & $4 & $5 & $6 & $7 \\end{pmatrix} $8", options: "mA"},
-	{trigger: "9perm", replacement: "\\begin{pmatrix}1&2&3&4&5&6&7&8&9\\\\ $0 & $1 & $2 & $3 & $4 & $5 & $6 & $7 & $8 \\end{pmatrix} $9", options: "mA"},
-	{trigger: "([A-Za-z])perm", replacement: "\\begin{pmatrix}1&2&\\dots&[[0]]\\\\ $0 & $1 &\\dots& $2 \\end{pmatrix} $3", options: "rmA"},
-	
-	{trigger: "1cyc", replacement: "($0)$1", options: "mA"},
-	{trigger: "2cyc", replacement: "($0\\; $1)$2", options: "mA"},
-	{trigger: "3cyc", replacement: "($0\\; $1\\; $2)$3", options: "mA"},
-	{trigger: "4cyc", replacement: "($0\\; $1\\; $2\\; $3)$4", options: "mA"},
-	{trigger: "5cyc", replacement: "($0\\; $1\\; $2\\; $3\\; $4)$5", options: "mA"},
-	{trigger: "6cyc", replacement: "($0\\; $1\\; $2\\; $3\\; $4\\; $5)$6", options: "mA"},
-	{trigger: "7cyc", replacement: "($0\\; $1\\; $2\\; $3\\; $4\\; $5\\; $6)$7", options: "mA"},
-	{trigger: "8cyc", replacement: "($0\\; $1\\; $2\\; $3\\; $4\\; $5\\; $6\\; $7)$8", options: "mA"},
-	{trigger: "9cyc", replacement: "($0\\; $1\\; $2\\; $3\\; $4\\; $5\\; $6\\; $7\\; $8)$9", options: "mA"},
 	{trigger: ";", replacement: "\\;$0", options: "mA"},
 	
 	{trigger: "mod", replacement: "\\:(\\mathrm{mod}\\  $0) $1", options: "mA"},
@@ -387,16 +367,6 @@
     {trigger: "\\supset #", replacement: "\\sqsupset ", options: "mA"},
     {trigger: "\\sqsupset eq", replacement: "\\sqsupseteq ", options: "mA"},
 
-
-    {trigger: "xnn", replacement: "x_{n}", options: "mA"},
-    {trigger: "xii", replacement: "x_{i}", options: "mA"},
-    {trigger: "xjj", replacement: "x_{j}", options: "mA"},
-    {trigger: "xp1", replacement: "x_{n+1}", options: "mA"},
-    {trigger: "ynn", replacement: "y_{n}", options: "mA"},
-    {trigger: "yii", replacement: "y_{i}", options: "mA"},
-    {trigger: "yjj", replacement: "y_{j}", options: "mA"},
-
-
     {trigger: "mcal", replacement: "\\mathcal{$0}$1", options: "mA"},
     {trigger: "scr", replacement: "\\mathscr{$0}$1", options: "mA"},
     {trigger: "frk", replacement: "\\mathfrak{$0}$1", options: "mA"},
@@ -479,16 +449,8 @@
 	{trigger: "([A-Za-z])([A-Za-z])seq", replacement: "\\{[[0]]_{[[1]]}\\}_{[[1]]=${0:1}}^{${1:\\infty}} $2", options: "rmA"},
 	
     // Quantum mechanics
-    {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
     {trigger: "o+", replacement: "\\oplus ", options: "mA"},
     {trigger: "ox", replacement: "\\otimes ", options: "mA"},
-    {trigger: "ot\\mathrm{Im}es", replacement: "\\otimes ", options: "mA"}, // Handle conflict with "im" snippet
-    {trigger: "bra", replacement: "\\bra{$0} $1", options: "mA"},
-    {trigger: "ket", replacement: "\\ket{$0} $1", options: "mA"},
-    {trigger: "brk", replacement: "\\braket{ $0 | $1 } $2", options: "mA"},
-    {trigger: "\\\\bra{([^|]+)\\|", replacement: "\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket"},
-    {trigger: "\\\\bra{(.+)}([^ ]+)>", replacement: "\\braket{ [[0]] | $0 ", options: "rmA", description: "Convert bra into braket (alternate)"},
-    {trigger: "outp", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
 
     // Environments
     {trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "mA"},
@@ -575,7 +537,6 @@
 	
 
     // Misc
-    {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
 	{trigger: "disp", replacement: "\\displaystyle", options: "mA"},
 	{trigger: "mid", replacement: "\\:\\middle|\\: ", options: "mA"},
 	{trigger: "qw", replacement: "\\quad ", options: "mA"}, 
@@ -585,14 +546,6 @@
 	{trigger: "([A-Za-z|${GREEK}])([A-Za-z\\d])([A-Za-z\\d])lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
 	{trigger: "([A-Za-z|${GREEK}])([A-Za-z\\d])_{([A-Za-z\\d])}lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
 	{trigger: "([A-Za-z|${GREEK}])_{([A-Za-z\\d])}([A-Za-z\\d])lst", replacement: "[[0]]_{[[1]]},\\,\\dots,\\,[[0]]_{[[2]]}", options: "rmA"},
-	
-	
-	// Tikz-cd Wizardry
-	{trigger: "tikzcd", replacement: "```tikz\n\\usepackage{tikz-cd}\n\\begin{document}\n\\begin{tikzcd}\n $0\n\\end{tikzcd}\n\\end{document}\n```", options: "tA"},
-	{trigger: "->", replacement: "\\ar[r]", options: "Act", priority: 1000},
-	{trigger: "<-", replacement: "\\ar[l]", options: "Ac", priority: 100},
-	{trigger: "\\\\ar\\[(l|r|d|u)\\](l|r|d|u)", replacement: "\\ar[[[0]][[1]]]", options: "rAc", priority: 1},
-
 	
 	// Common corrections
 	{trigger: "Im ", replacement: "I'm ", options: "tAw"}, 
@@ -637,7 +590,6 @@
 	{trigger: "werent ", replacement: "weren't ", options: "tAw"}, 
 	{trigger: "doesnt ", replacement: "doesn't ", options: "tAw"}, 
 	{trigger: "Doesnt ", replacement: "doesn't ", options: "tAw"}, 
-	
 	
 	
 	// Shorthand for proof words
