@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,22 +28,6 @@
                 "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "191097f789c2f8c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a73fb3fdccb2adb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
               }
             }
           }
@@ -97,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md"
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md"
               }
             }
           },
@@ -194,12 +179,16 @@
   },
   "active": "4a86a590cdcb54a1",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/3..md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
     "Pasted image 20241015175327.png",
     "Pasted image 20241015175246.png",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/7..md",
-    "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/8..md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
-    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
@@ -221,16 +210,12 @@
     "Pasted image 20241014172156.png",
     "Pasted image 20241014171849.png",
     "Pasted image 20241014171334.png",
-    "Pasted image 20241014164629.png",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Homework/Worksheets/number_theory_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/~syncthing~Homework 2.md.tmp",
