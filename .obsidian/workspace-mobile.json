@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md"
+            "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md"
           }
         }
       }
@@ -134,9 +134,17 @@
   },
   "active": "e520ba2e4beb7d0a",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Directory.md",
+    "Subjects/Grillet Abstract Algebra/3.6. Polynomials in Several Variables Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.5. Polynomials in One Variable Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.4. Domains and Fields Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.3. Homomorphisms Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.2. Subrings and Ideals Exercises.md",
+    "Subjects/Grillet Abstract Algebra/3.1. Rings Exercises.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 2.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_2.pdf",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Pasted image 20241001155635.png",
@@ -145,7 +153,6 @@
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/10. Orderings.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/9. General Cartesian Products.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "6. Boundary and Interior of a Set.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Homework/Worksheets/real_anal_1.pdf",
     "Untitled",
@@ -159,20 +166,14 @@
     "Subjects/Linear Algebra and Geometry 1/16. Dimension Theorem and Principle of Linearity.md",
     "Subjects/Linear Algebra and Geometry 1/14. Echelon Form.md",
     "Textbooks/Sequences and Series Lecture Notes.pdf",
-    "Subjects/Sequences and Series 1/Sequences and Series 1.md",
     "Homework/LinearAlgGeo1 HW3.pdf",
-    "Subjects/Linear Algebra and Geometry 1/Problem sheet 3.md",
-    "Subjects/Intro to Algebra 1/Problem Sheet 3.md",
     "Homework/Calculus 1 HW3.pdf",
     "Pasted image 20231017163925.png",
     "Pasted image 20231017164730.png",
     "unit-circle-with-trig.svg",
     "trigonometric-functions.svg",
-    "Subjects/Calculus 1/Problem Sheet 3.md",
-    "Knowledge/Identities/Trigonometry and Hyperbolic Trigonometry.md",
     "Knowledge/Identities",
     "Knowledge",
-    "Subjects/Linear Algebra and Geometry 1/5. Introduction to Vectors.md",
     "Pasted image 20231009134706.png",
     "Pasted image 20231009130903.png",
     "Pasted image 20231009125526.png",
