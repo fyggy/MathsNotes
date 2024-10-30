@@ -99,9 +99,36 @@ E=\frac{\ell^{2}}{2m}A^{2}
 $$
 and so 
 $$
-A=\sqrt{\frac{2mE}{\ell^{2}}}
+A=\sqrt{\frac{2mE}{\ell^{2}}}=\frac{\sqrt{2mE}}{\ell}
 $$
 Now finally
 $$
 \frac{1}{r}=A\cos (\theta-\theta_{0})
+$$
+which is the polar form of a straight line. If ${} \ell=0 {}$, then
+$$
+\dot{r}=\sqrt{\frac{2E}{m}}
+$$
+and so ${} r=\sqrt{\frac{2E}{m}}t {}$. Now since ${} \dot{\theta}=\frac{\ell}{mr^{2}}=0 {}$, then ${} \theta=c {}$ for some constant. Therefore, the path of the particle is a straight line passing through the origin. 
+3. 
+a)
+$$
+\begin{align}
+\mathbf{F} &=-\nabla V \\
+ & =-\begin{pmatrix} \frac{ \partial  }{ \partial x } V \\ \frac{ \partial  }{ \partial y } V \\ \frac{ \partial  }{ \partial z } V \end{pmatrix}  \\
+ & =-\frac{k}{2}  \begin{pmatrix} 2x \\2y\\2z \end{pmatrix}  \\
+ & =-k \begin{pmatrix} x \\ y \\ z \end{pmatrix} =-k\mathbf{r}
+\end{align}
+$$
+We have that
+$$
+\mathbf{F}=m\ddot{\mathbf{r}}
+$$
+in particular, 
+$$
+-k\mathbf{r}=m\ddot{\mathbf{r}}
+$$
+Since this is a 2nd order linear differential equation, we have that
+$$
+r=
 $$
