@@ -78,6 +78,30 @@ Now let ${} \mathbf{r}=\mathbf{v}t+\mathbf{r}(0) {}$. Now ${} \mathbf{p}=m\dot{\
 $$
 \begin{align}
 \mathbf{L} & =m\mathbf{r} \times  \dot{\mathbf{r}} \\
- & =m \begin{pmatrix}  \\  \\  \end{pmatrix} 
+ & =m( t\mathbf{v}+\mathbf{r}(0)) \times \mathbf{v} \\
+ & =m(t\mathbf{v} \times  \mathbf{v}+\mathbf{r}(0) \times  \mathbf{v}) \\
+ & =m\mathbf{r}(0) \times  \mathbf{v}
 \end{align}
+$$
+which is constant, as both $\mathbf{v}$ and ${} \mathbf{r}(0) {}$ are constant. 
+2. 
+Let ${} r'=\frac{dr}{d\theta}  {}$, so that ${} \dot{r}=r' \dot{\theta}=\frac{\ell r'}{mr^{2}} {}$. Now
+$$
+E=\frac{m}{2} \frac{ \ell^{2}r'^{2} }{ m^{2}r^{4} }+\frac{\ell^{2}}{2mr^{2}}=\frac{\ell^{2}(r')^{2}}{2mr^{4}}+\frac{\ell^{2}}{2mr^{2}}=\frac{\ell^{2}}{2m}\left( \frac{(r')^{2}}{r^{4}}+\frac{1}{r^{2}} \right)
+$$
+Now let ${} u=\frac{1}{r} {}$. Then ${} u'=-\frac{1}{r^{2}}r' {}$, and
+$$
+E=\frac{\ell^{2}}{2m}((u')^{2}+u^{2})
+$$
+Now we have the solution ${} u=A\cos (\theta-\theta_{0}) {}$. If we substitute it in, then
+$$
+E=\frac{\ell^{2}}{2m}A^{2}
+$$
+and so 
+$$
+A=\sqrt{\frac{2mE}{\ell^{2}}}
+$$
+Now finally
+$$
+\frac{1}{r}=A\cos (\theta-\theta_{0})
 $$
