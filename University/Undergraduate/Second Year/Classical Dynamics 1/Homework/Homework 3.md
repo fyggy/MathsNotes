@@ -69,9 +69,15 @@ $$
 $$
 This is clear since ${} \mathbf{F}=z\mathbf{r} {}$. 
 
-Now we compute
+Now since $\mathbf{N} {}$ is $\mathbf{0} {}$, then $\mathbf{L} {}$ is a constant w.r.t. to time. Therefore, 
+$$
+\mathbf{L}=m(\mathbf{r}(0) \times  \dot{\mathbf{r}}(0))=m \begin{pmatrix} 0 \\ 0 \\ 6-4 \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 2m \end{pmatrix} 
+$$
+
+Now let ${} \mathbf{r}=\mathbf{v}t+\mathbf{r}(0) {}$. Now ${} \mathbf{p}=m\dot{\mathbf{r}}=m\mathbf{v} {}$, and so ${} \dot{\mathbf{p}}=0 {}$, and so momentum is conserved. Likewise, 
 $$
 \begin{align}
-\mathbf{L}=
+\mathbf{L} & =m\mathbf{r} \times  \dot{\mathbf{r}} \\
+ & =m \begin{pmatrix}  \\  \\  \end{pmatrix} 
 \end{align}
 $$
