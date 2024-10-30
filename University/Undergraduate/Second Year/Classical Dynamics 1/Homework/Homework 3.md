@@ -61,10 +61,17 @@ $$
 $$
 and the angular momentum is
 $$
-\mathbf{L}=\mathbf{r} \times \mathbf{p}
+\mathbf{L}=\mathbf{r} \times \mathbf{p}=m\mathbf{r}\times \dot{\mathbf{r}}
 $$
 Now we compute
 $$
 \mathbf{N}=\begin{pmatrix} x \\ y \\ z \end{pmatrix} \times \begin{pmatrix} xz \\ yz \\ z^{2} \end{pmatrix} =\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} 
 $$
 This is clear since ${} \mathbf{F}=z\mathbf{r} {}$. 
+
+Now we compute
+$$
+\begin{align}
+\mathbf{L}=
+\end{align}
+$$
