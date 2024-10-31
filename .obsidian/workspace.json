@@ -37,6 +37,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "163ff5c78c8aa7ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8387c5be0dc52225",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "classic_dyn_3"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,11 +220,11 @@
   },
   "active": "ac10d9b40bad5ffa",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_3.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 3.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/4. Confusing Rotating Bullshit.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3. Newtons Law.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_3.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/7..md",
@@ -233,7 +251,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/17. Cardinal Arithmetic.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/16. Cardinals.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/15. Ordinal numbers.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/14. Transfinite induction and Construction.md",
     "Pasted image 20241014174109.png",
     "Pasted image 20241014173243.png",
     "Pasted image 20241014173048.png",

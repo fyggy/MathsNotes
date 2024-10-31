@@ -120,6 +120,7 @@ $$
  & =-k \begin{pmatrix} x \\ y \\ z \end{pmatrix} =-k\mathbf{r}
 \end{align}
 $$
+b)
 We have that
 $$
 \mathbf{F}=m\ddot{\mathbf{r}}
@@ -128,7 +129,30 @@ in particular,
 $$
 -k\mathbf{r}=m\ddot{\mathbf{r}}
 $$
-Since this is a 2nd order linear differential equation, we have that
+so
 $$
-r=
+\ddot{\mathbf{r}}+\frac{k}{m}\mathbf{r}=0
+$$
+This has determinant equation ${} m^{2}+\frac{k}{m}=0 {}$ and so has roots ${} m=\pm i\sqrt{k /m} {}$. Therefore, 
+$$
+\mathbf{r}=\mathbf{a}\sin \omega t+\mathbf{b} \cos \omega t
+$$
+with ${} \omega=\sqrt{k /m} {}$. 
+c)
+We see that
+$$
+\begin{align}
+ \mathbf{J} & =m\mathbf{r} \times \dot{\mathbf{r}}   \\
+ & =m (\mathbf{a} \sin \omega t+\mathbf{b}\cos \omega t) \times (\mathbf{a} \cos \omega t-\mathbf{b}\sin \omega t) \\
+ & =m(\mathbf{a} \times  \mathbf{b})(-\cos ^{2}\omega t-\sin ^{2}\omega t) \\ 
+ & =-m\mathbf{a}\times \mathbf{b}
+ \end{align}
+$$
+which is constant. Likewise, 
+$$
+\begin{align}
+E & =\frac{1}{2}m \dot{\mathbf{r}}\cdot \dot{\mathbf{r}} +V \\
+ & =\frac{m}{2}( \mathbf{a}\cos \omega t-\mathbf{b}\sin \omega t)^{2}+\frac{k}{2}\mathbf{r}\cdot \mathbf{r} \\
+ & =\frac{m}{2}(\lVert \mathbf{a} \rVert ^{2} \cos ^{2}\omega t-2\mathbf{a} \cdot \mathbf{b} \sin \omega t\cos \omega t+\lVert \mathbf{b} \rVert ^{2} \cos ^{2}\omega t)
+\end{align}
 $$
