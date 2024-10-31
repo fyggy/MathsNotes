@@ -151,13 +151,6 @@ $$
 which is constant. Likewise, 
 $$
 \begin{align}
-E & =\frac{1}{2}m \dot{\mathbf{r}}\cdot \dot{\mathbf{r}} +V \\
- & =\frac{m}{2}( \mathbf{a}\cos \omega t-\mathbf{b}\sin \omega t)^{2}+\frac{k}{2}\mathbf{r}\cdot \mathbf{r} \\
- & =\frac{m}{2}(\lVert \mathbf{a} \rVert ^{2} \cos ^{2}\omega t-2\mathbf{a} \cdot \mathbf{b} \sin \omega t\cos \omega t+\lVert \mathbf{b} \rVert ^{2} \sin ^{2}\omega t)
-\end{align}
-$$
-$$
-\begin{align}
  \dot{E} & =\frac{d}{dt} \left(\frac{1}{2}m \dot{\mathbf{r}}\cdot \dot{\mathbf{r}} +V \right) \\
    & =m\dot{\mathbf{r}}\cdot \ddot{\mathbf{r}}+k\mathbf{r}\cdot \dot{\mathbf{r}} \\
  & =-k\dot{\mathbf{r}}\cdot \mathbf{r}+k\mathbf{r}\cdot \dot{\mathbf{r}} \\
