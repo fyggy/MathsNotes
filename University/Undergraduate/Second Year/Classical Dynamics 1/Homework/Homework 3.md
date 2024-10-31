@@ -153,6 +153,36 @@ $$
 \begin{align}
 E & =\frac{1}{2}m \dot{\mathbf{r}}\cdot \dot{\mathbf{r}} +V \\
  & =\frac{m}{2}( \mathbf{a}\cos \omega t-\mathbf{b}\sin \omega t)^{2}+\frac{k}{2}\mathbf{r}\cdot \mathbf{r} \\
- & =\frac{m}{2}(\lVert \mathbf{a} \rVert ^{2} \cos ^{2}\omega t-2\mathbf{a} \cdot \mathbf{b} \sin \omega t\cos \omega t+\lVert \mathbf{b} \rVert ^{2} \cos ^{2}\omega t)
+ & =\frac{m}{2}(\lVert \mathbf{a} \rVert ^{2} \cos ^{2}\omega t-2\mathbf{a} \cdot \mathbf{b} \sin \omega t\cos \omega t+\lVert \mathbf{b} \rVert ^{2} \sin ^{2}\omega t)
 \end{align}
+$$
+$$
+\begin{align}
+ \dot{E} & =\frac{d}{dt} \left(\frac{1}{2}m \dot{\mathbf{r}}\cdot \dot{\mathbf{r}} +V \right) \\
+   & =m\dot{\mathbf{r}}\cdot \ddot{\mathbf{r}}+k\mathbf{r}\cdot \dot{\mathbf{r}} \\
+ & =-k\dot{\mathbf{r}}\cdot \mathbf{r}+k\mathbf{r}\cdot \dot{\mathbf{r}} \\
+ & =0
+ \end{align}
+$$
+and so the total energy is constant. 
+
+Since the force is central, then the rotational momentum must be conserved. Likewise, clearly the force has zero curl, and so is conservative and the total energy must be conserved. 
+4. 
+a)
+Let ${} p=Mv {}$ be the momentum of the rocket. Then ${} \Delta p=M\Delta v {}$, and so
+$$
+\begin{align}
+ \Delta p & =-u\Delta M   \\
+M\Delta v & =-u\Delta M \\
+\Delta v & =-u\frac{ \Delta M }{ M }
+ \end{align}
+$$
+b)
+We have that
+$$
+\frac{\Delta v}{\Delta M}=-\frac{u}{M(0)}
+$$
+so by promotion
+$$
+\frac{dv}{dM} =-\frac{u}{M(0)}
 $$
