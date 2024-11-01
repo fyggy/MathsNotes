@@ -34,27 +34,23 @@
               "icon": "lucide-file",
               "title": "22. Elementary concepts"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fd718c378ddc049c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6c014eead0d49fd0",
+            "id": "c673fbce0e3eef73",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Topology - James Dugundji"
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac10d9b40bad5ffa",
+  "active": "c673fbce0e3eef73",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Untitled 3.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/8..md",
@@ -234,7 +232,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3. Newtons Law.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Homework/Worksheets/classic_dyn_3.pdf",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/22. Elementary concepts.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/11. Zorn´s Lemma; Zermelo´s Theorem.md",
     "Pasted image 20241015194128.png",
@@ -250,7 +247,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/21. Topologizing of sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/20. Basis for a given topology.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/19. Topological spaces.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/18. The ordinal number omega.md",
     "Pasted image 20241014174109.png",
     "Pasted image 20241014173243.png",
     "Pasted image 20241014173048.png",
