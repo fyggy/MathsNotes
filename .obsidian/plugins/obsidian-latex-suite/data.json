@@ -24,6 +24,6 @@
   "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$",
   "autofractionExcludedEnvs": "[\n\t\t[\"^{\", \"}\"],\n\t\t[\"\\\\pu{\", \"}\"]\n\t]",
   "matrixShortcutsEnvNames": "pmatrix, cases, align, bmatrix, Bmatrix, vmatrix, Vmatrix, array, matrix, tikzcd, document",
-  "autoEnlargeBracketsTriggers": "sum, int, frac, prod, bigcup, bigcap, bigvee, right, left, pmatrix, begin",
+  "autoEnlargeBracketsTriggers": "sum, int, frac, prod, bigcup, bigcap, bigvee, right, left, pmatrix, begin, sup, inf, lim",
   "forceMathLanguages": "tikz, math"
 }
