@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "979aafeb3dc03382",
+  "active": "8af5f1b07bf4805f",
   "lastOpenFiles": [
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/16. Homology of Graphs.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/15. Homology and Chain Complexes.md",
