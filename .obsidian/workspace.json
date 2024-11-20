@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/11..md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/11. Primitive Roots in Prime Powers, and Quadratic Residues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11."
+              "title": "11. Primitive Roots in Prime Powers, and Quadratic Residues"
+            }
+          },
+          {
+            "id": "36fe3bf1b35dc799",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "number_theory_lecture_notes"
             }
           }
         ]
@@ -188,8 +200,11 @@
   },
   "active": "8af5f1b07bf4805f",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/11. Primitive Roots in Prime Powers, and Quadratic Residues.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/12..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/10. Applications of Primitive Roots.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/11..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/9. Didn't Happen.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/8. Primitive Roots.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/7. Euler's Totient and Orders.md",
@@ -198,8 +213,6 @@
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/5. Multiplicative Groups and Hensel's Lemma.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/12..md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/15. Improper Integrals.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/14. The Fundamental Theorem of Calculus.md",
