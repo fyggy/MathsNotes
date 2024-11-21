@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/10. Applications of Primitive Roots.md",
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/8. Primitive Roots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Applications of Primitive Roots"
+              "title": "8. Primitive Roots"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "number_theory_lecture_notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "225e40af9e09fa39",
+  "active": "8af5f1b07bf4805f",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/8. Primitive Roots.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/9. Didn't Happen.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/10. Applications of Primitive Roots.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/11. Primitive Roots in Prime Powers, and Quadratic Residues.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/12. Euler's Criterion and Applications.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/13. Properties of the Legendre Symbol.md",
@@ -226,9 +228,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Directory.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/10. Applications of Primitive Roots.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/9. Didn't Happen.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/8. Primitive Roots.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/7. Euler's Totient and Orders.md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/6. Hensel's Lemma cont..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Textbooks/Real_analysis_lecture_notes.pdf",
