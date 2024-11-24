@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "4.3. Algebraic Extensions Exercises"
             }
-          },
-          {
-            "id": "85687847d85b8630",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c1462ede4b092a01",
@@ -216,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85687847d85b8630",
+  "active": "b31fdabf78b6b95f",
   "lastOpenFiles": [
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/4.3. Algebraic Extensions Exercises.md",
