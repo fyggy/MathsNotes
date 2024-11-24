@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Grillet Abstract Algebra/4.3. Algebraic Extensions Exercises.md",
+                "file": "Subjects/Grillet Abstract Algebra/4.4. The Algebraic Closure Exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3. Algebraic Extensions Exercises"
+              "title": "4.4. The Algebraic Closure Exercises"
             }
           }
         ]
@@ -206,6 +206,7 @@
   "active": "b31fdabf78b6b95f",
   "lastOpenFiles": [
     "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/4.4. The Algebraic Closure Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.3. Algebraic Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.2. Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.1. Fields Exercises.md",
@@ -230,7 +231,6 @@
     "PC2/Grillet Abstract Algebra/3.10. Unique Factorization Domains Exercises.md",
     "PC2/Grillet Abstract Algebra/3.9. Rational Fractions Exercises.md",
     "PC2/Grillet Abstract Algebra/3.8. Principle Ideal Domains Exercises.md",
-    "PC2/Grillet Abstract Algebra/3.7. Formal Power Series Exercises.md",
     "University Search/mscmath-modulhandbuch.pdf",
     "University Search",
     "Pasted image 20241111213104.png",
