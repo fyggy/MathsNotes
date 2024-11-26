@@ -6,7 +6,5 @@
   "inline-math",
   "obsidian-git",
   "omnisearch",
-  "text-extractor",
-  "obsidian-local-rest-api",
-  "obsidian-tikzjax"
+  "text-extractor"
 ]
