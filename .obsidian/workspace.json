@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ae215a3ff299ca2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grillet Abstract Algebra"
+            }
+          },
+          {
             "id": "20c3e4b8394450ec",
             "type": "leaf",
             "state": {
@@ -63,13 +77,24 @@
               "title": "Topology Dugundji"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "627286487098da20",
+        "id": "6def66cba5f059e0",
         "type": "tabs",
         "children": [
+          {
+            "id": "7a66259c36ec9bc5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/Abstract Algebra - P. A. Grillet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Abstract Algebra - P. A. Grillet"
+            }
+          },
           {
             "id": "622f9aeea08ea7c3",
             "type": "leaf",
@@ -246,18 +271,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c58515424a4eec5",
+  "active": "881744816104def3",
   "lastOpenFiles": [
+    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
+    "Subjects/Grillet Abstract Algebra/4.8. Trancendental Extensions Exercises.md",
+    "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/24. Gfi, Fsigma and Borel sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/24. Gfi, Fsigma and Borel sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/23. Topologizing with preassigned elementary operations.md",
     "Directory.md",
-    "Subjects/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Subjects/Grillet Abstract Algebra/4.8. Trancendental Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.7. Resultants and Discriminants Exercises.md",
     "University/Undergraduate/Second Year/Advanced Algebra 1/Lectures/3. Group Actions.md",
-    "Textbooks/Abstract Algebra - P. A. Grillet.pdf",
     "Subjects/Grillet Abstract Algebra/4.6. Purely Inseparable Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.5. Seperable Extensions Exercises.md",
     "Subjects/Grillet Abstract Algebra/4.3. Algebraic Extensions Exercises.md",
@@ -293,7 +318,6 @@
     "PC1/University Search",
     "PC1/Grillet Abstract Algebra",
     "PC1",
-    "PC2/Grillet Abstract Algebra",
     "Untitled.canvas"
   ]
 }
