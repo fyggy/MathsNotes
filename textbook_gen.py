@@ -7,10 +7,10 @@ import shutil
 
 ## EDITABLE
 
-textbook_path = r"C:\Users\fyggy\OneDrive\Documents\Textbooks\Personal\Topology\Topology - James Dugundji.pdf"
-NAME = "Topology Dugundji"
-TAG = "topo_dugundji"
-LEVEL = 6
+textbook_path = r"C:\Users\fyggy\OneDrive\Documents\Textbooks\Personal\Catagory Theory\Catagory Theory in Context - Emily Riehl.pdf"
+NAME = "Category Theory in Context Riehl"
+TAG = "catinc_riehl"
+LEVEL = 7
 YEAR = 2
 
 root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Textbooks\Undergraduate\Second Year"
@@ -22,8 +22,12 @@ exercises_temp = "Exercises Template.md"
 # 2, etc
 contents_depths = [1]
 
-number_prefixes = True
-exclude_list = ["Problems"]
+number_prefixes = False
+exclude_list = ["Sample corollaries",
+"A tour of basic categorical notions",
+"Note to the reader",
+"Notational conventions",
+"Acknowledgments"]
 
 ## SET
 
@@ -35,7 +39,6 @@ TEXTBOOK = relativise(path+"\\"+textbook_name).replace("\\", "/")
 def traverse(outline, targets, exclude=[""], depth=0):
     ret = depth in targets
     for i in outline:
-        #print(type(i))
         if type(i) == pdf.generic._data_structures.Destination:
             if ret:
                 chk = i["/Title"]
