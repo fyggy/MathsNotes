@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -204,9 +205,10 @@
   },
   "active": "8ec06c2a4d239508",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.7. Relativization.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.6. Gfi, Fsigma and Borel sets.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Directory.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Category Theory in Context Riehl.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
@@ -230,8 +232,6 @@
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/4.1. Adjoint functors.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/4.6. Existence of adjoint functors.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/5.1. Monads from adjunctions.md",
-    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/5.6. Limits and colimits in categories of algebras.md",
-    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/6.1. Kan extensions.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/New",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/Old",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/New folder",
