@@ -6,5 +6,5 @@ date:
 count: 143
 ---
 [[Directory]], [[Grillet Abstract Algebra]]
-[[A.4. Ordinal Induction Exercises.md|Last]] ;; N/A
+[[/Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/A.1. Chain Conditions Exercises.md|🞀🞀]] [[/Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/A.4. Ordinal Induction Exercises.md|◀]] [[|▶]] [[/Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/A.5. Cardinal Numbers Exercises.md|🞂🞂]]
 1. 
