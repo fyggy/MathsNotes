@@ -195,8 +195,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
