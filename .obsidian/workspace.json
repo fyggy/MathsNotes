@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.1. Abstract and concrete categories.md",
+                "file": "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.2. Duality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1. Abstract and concrete categories"
+              "title": "1.2. Duality"
             }
           }
         ]
@@ -205,9 +205,10 @@
   },
   "active": "cf0daba9b6145a41",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.2. Duality.md",
+    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Catagory Theory in Context - Emily Riehl.pdf",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.1. Abstract and concrete categories.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Category Theory in Context Riehl.md",
-    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Catagory Theory in Context - Emily Riehl.pdf",
     "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.10. Continuous maps into E1.md",
@@ -233,7 +234,6 @@
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.2. Extensions Exercises.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.6. The art of the diagram chase.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.5. Equivalence of categories.md",
-    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.4. Naturality.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/New",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/Old",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/New folder",
