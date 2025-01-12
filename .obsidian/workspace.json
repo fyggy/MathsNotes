@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/9. Derivative Tests and Convexity.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/8. Taylor's Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Derivative Tests and Convexity"
+              "title": "8. Taylor's Theorem"
             }
           },
           {
@@ -219,12 +219,20 @@
   },
   "active": "8ec06c2a4d239508",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/16..md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "University/Undergraduate/Second Year/Groups and Symmetries 1/Groups and Symmetries 1.md",
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
+    "University/Undergraduate/Second Year/Geometric Topology 1/Geometric Topology 1.md",
+    "University/Undergraduate/Second Year/Classical Dynamics 1/Classical Dynamics 1.md",
+    "University/Undergraduate/Second Year/Advanced Algebra 1/Advanced Algebra 1.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/9. Derivative Tests and Convexity.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/8. Taylor's Theorem.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
-    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.12. Homeomorphism.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.11. Open maps and closed maps.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
@@ -247,14 +255,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.7. Relativization.md",
     "University/Undergraduate/First Year/Intro to Algebra 1/Intro to Algebra 1.md",
     "University/Undergraduate/First Year/Intro to Algebra 1/2. Basic High School Recap.md",
-    "University/Undergraduate/First Year/Calculus 1/Calculus 1.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/Sequences and Series 1.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/2. Diagrammatic Thinking.md",
-    "University/Undergraduate/First Year/Sequences and Series 1/1. Introduction.md",
-    "University/Undergraduate/First Year/Intro to Algebra 1/1. Introduction.md",
-    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.6. Gfi, Fsigma and Borel sets.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.9. Separability Exercises.md",
     "Pasted image 20241125154211.png",
     "Pasted image 20241125153017.png",
     "Pasted image 20241125152827.png",
