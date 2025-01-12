@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.12. Homeomorphism.md",
+                "file": "University/Undergraduate/Second Year/Real Analysis 1/Lectures/9. Derivative Tests and Convexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.12. Homeomorphism"
+              "title": "9. Derivative Tests and Convexity"
             }
           },
           {
@@ -219,6 +219,13 @@
   },
   "active": "8ec06c2a4d239508",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/8. Taylor's Theorem.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/7. Lipschitz Continuity.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/6. Uniform Continuity and Cantor's Theorem.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/5. Boundedness, Maxima and Minima, and IVT on an Interval.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
+    "Directory.md",
+    "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.12. Homeomorphism.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.11. Open maps and closed maps.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf",
     "Textbooks/University/Calculus 1/Calculus A complete course - Robert A. Adams, Christopher Essex.pdf",
@@ -232,7 +239,6 @@
     "Textbooks/Personal/Topology",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.10. Continuous maps into E1.md",
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology Dugundji.md",
-    "Directory.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.1. Abstract and concrete categories.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.2. Duality.md",
     "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Category Theory in Context Riehl.md",
@@ -249,11 +255,6 @@
     "Textbooks/Undergraduate/Second Year/Topology Dugundji/Exercises/3.6. Gfi, Fsigma and Borel sets.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.9. Separability Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.1. Fields Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.3. Algebraic Extensions Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.2. Extensions Exercises.md",
-    "Textbooks/Undergraduate/Second Year/Category Theory in Context Riehl/Exercises/1.6. The art of the diagram chase.md",
     "Pasted image 20241125154211.png",
     "Pasted image 20241125153017.png",
     "Pasted image 20241125152827.png",
