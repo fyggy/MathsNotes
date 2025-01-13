@@ -15,5 +15,17 @@ SORT date ASC
 LIST FROM #preamble 
 SORT file.name ASC, date ASC
 ```
-# Other
-- [[The plan]]
+# To do Lectures
+```dataview
+LIST FROM #chapter 
+where !completed AND date < date(now) AND date >= date(2024-06-01)
+SORT date ASC
+```
+```dataview
+length(LIST FROM #chapter WHERE !completed AND date < date(now) AND date >= date(2024-06-01))
+```
+
+`= dv.pages("#chapter").length`
+
+
+
