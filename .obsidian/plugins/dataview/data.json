@@ -20,7 +20,7 @@
   "inlineQueriesInCodeblocks": true,
   "enableInlineDataview": true,
   "enableDataviewJs": false,
-  "enableInlineDataviewJs": false,
+  "enableInlineDataviewJs": true,
   "prettyRenderInlineFields": true,
   "prettyRenderInlineFieldsInLivePreview": true,
   "dataviewJsKeyword": "dataviewjs"

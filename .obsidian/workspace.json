@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -215,8 +214,12 @@
   },
   "active": "8ec06c2a4d239508",
   "lastOpenFiles": [
-    "University/Undergraduate/Undergraduate Studies.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/3..md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
+    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/16. Absolute or Conditional Convergence.md",
+    "University/Undergraduate/Undergraduate Studies.md",
     "University/Undergraduate/Second Year/Complex Analysis/Lectures/1..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/22..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/21..md",
@@ -237,10 +240,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/5. Conservative and Central Forces.md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/4. Confusing Rotating Bullshit.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/3. Newtons Law.md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/2..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/1..md",
-    "University/Undergraduate/First Year/Linear Algebra and Geometry 1/1. Introduction.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures",
     "University/Undergraduate/Second Year/Algebraic Geometry/Textbooks",
