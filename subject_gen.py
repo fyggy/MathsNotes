@@ -38,18 +38,18 @@ if __name__ == "__main__":
     end_date = dt.date(2025, 3, 28)
 
     start_dates = [
-        dt.date(2025, 1, 13),
+        
         dt.date(2025, 1, 17),
         ]
 
     breaks = [
         ]
 
-    NAME = "Fourier Analysis"
-    TAG = "fouranal"
+    NAME = "Algebraic Geometry"
+    TAG = "alggeo"
     YEAR = 2
-    LEVEL = 6
-    worksheet = "fourier_analysis_{PSET}.pdf"
+    LEVEL = 7
+    worksheet = "alg_geo_{PSET}.pdf"
     INSTITUTION = "King's Collage London"
 
     root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"

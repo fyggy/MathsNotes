@@ -4,6 +4,7 @@ tags:
   - analysis
   - fouranal
   - fourier_analysis
+  - current
 date: 2025-01-13
 completed: false
 year: 2
