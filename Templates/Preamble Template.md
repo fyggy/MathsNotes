@@ -6,6 +6,7 @@ date: {START_DATE}
 completed: false
 year: {YEAR}
 level: {LEVEL}
+institution: {INSTITUTION}
 ---
 [[Directory]]
 

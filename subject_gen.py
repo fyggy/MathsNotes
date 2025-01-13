@@ -7,26 +7,50 @@ def relativise(path):
     indx = path.find(r"MathsNotes")
     return path[indx + len("MathsNotes\\"):]
 
+def next_event(start, end, starts, breaks):
+    week = 0
+    while True:
+        diff = dt.timedelta(days=week * 7)
+        for date in starts:
+            current = date + diff
+            # print(current)
+            for brek in breaks:
+                if brek[0] <= current <= brek[1]:
+                    break
+            else:
+                if current <= end:
+                    yield current
+                else:
+                    break
+        else:
+            week += 1
+            continue
+        break
+
+def relativise(path):
+    indx = path.find(r"MathsNotes")
+    return path[indx + len("MathsNotes\\"):]
+
 if __name__ == "__main__":
     ## EDITABLE
 
-    start_date = dt.date(2024, 9, 23)
-    end_date = dt.date(2024, 12, 13)
+    start_date = dt.date(2025, 1, 13)
+    end_date = dt.date(2025, 3, 28)
 
     start_dates = [
-        dt.date(2024, 9, 26),
-        dt.date(2024, 9, 27),
+        dt.date(2025, 1, 13),
+        dt.date(2025, 1, 17),
         ]
 
     breaks = [
-        [dt.date(2024, 10, 28), dt.date(2024, 11, 3)],
         ]
 
-    NAME = "Advanced Algebra 1"
-    TAG = "advalg1"
+    NAME = "Fourier Analysis"
+    TAG = "fouranal"
     YEAR = 2
-    LEVEL = 7
-    worksheet = "advanced_algebra_{PSET}.pdf"
+    LEVEL = 6
+    worksheet = "fourier_analysis_{PSET}.pdf"
+    INSTITUTION = "King's Collage London"
 
     root = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\University\Undergraduate\Second Year"
     template_dir = r"C:\Users\fyggy\OneDrive\Documents\Obsidian Valuts\MathsNotes\Templates"
@@ -42,28 +66,7 @@ if __name__ == "__main__":
     ws_path = hw_path + "\\" + "Worksheets"
     textbook_path = path + "\\" + "Textbooks"
 
-    def next_event(start, end, starts, breaks):
-        week = 0
-        while True:
-            diff = dt.timedelta(days = 7 * week)
-            for date in starts:
-                current = date + diff
-                for brek in breaks:
-                    if brek[0] <= current <= brek[1]:
-                        break
-                else:
-                    if current <= end:
-                        yield current
-                    else:
-                        break
-            else:
-                week += 1
-                continue
-            break
-
-    def relativise(path):
-        indx = path.find(r"MathsNotes")
-        return path[indx + len("MathsNotes\\"):]
+    
 
     mondays = start_date - dt.timedelta(days = start_date.weekday())
 
@@ -108,7 +111,7 @@ if __name__ == "__main__":
         pre_template = f.read()
 
     preamble = pre_template.format(START_DATE=start_date, YEAR=YEAR, LEVEL=LEVEL,
-                                   TAG=TAG)
+                                   TAG=TAG, INSTITUTION=INSTITUTION)
 
     with open(path + "\\" + NAME + ".md", mode="w", encoding="utf-8") as f:
         f.write(preamble)
