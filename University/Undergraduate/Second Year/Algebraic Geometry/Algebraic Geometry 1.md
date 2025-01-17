@@ -7,7 +7,6 @@ tags:
   - algebraic_geometry
   - ring_theory
   - module_theory
-  - c
 date: 2025-01-13
 completed: false
 year: 2
