@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
+                "file": "University/Undergraduate/Second Year/Applied Differential Equations/Lectures/2..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3."
+              "title": "2."
             }
           }
         ]
@@ -187,12 +187,13 @@
   },
   "active": "1751b040ec77848b",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Applied Differential Equations/Applied Differential Equations 1.md",
     "Directory.md",
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/3. Big and Little O; Continuity.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Complex Analysis/Lectures/1..md",
     "University/Undergraduate/Second Year/Complex Analysis/Complex Analysis 1.md",
-    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
     "University/Undergraduate/Second Year/Real Analysis 1/Lectures/16. Absolute or Conditional Convergence.md",
     "University/Undergraduate/Undergraduate Studies.md",
@@ -212,7 +213,6 @@
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/9..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/8..md",
     "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/7..md",
-    "University/Undergraduate/Second Year/Classical Dynamics 1/Lectures/6..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures",
     "University/Undergraduate/Second Year/Algebraic Geometry/Textbooks",
