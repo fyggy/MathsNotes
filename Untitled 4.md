@@ -1,3 +1,0 @@
-Let ${} x \in \conj{H} {}$. Then let $U$ be an neighbourhood of $x^{-1} {}$, and let $f:G\to{}G {}$ map ${} g\mapsto g^{-1} {}$. Then $f {}$ is a homeomorphism, and ${} f(U)$ is an neighbourhood of $x$. Therefore, ${} f(U) \cap  H \neq \varnothing  {}$, so ${} f(f(U))\cap H=U \cap H \neq \varnothing  {}$, so ${} x^{-1} \in \conj{H} {}$. 
-
-Let ${} x \in \conj{H} {}$. Then $x$ induces ${} \ell_{x}:\conj{H} \to{}G {}$ by ${} h\mapsto xh{} {}$, which is homeomorphism. Let ${} y \in \conj{H} {}$. Then let $U {}$ be a neighbourhood of ${} xy=l_{x}(y) {}$. Then ${} l_{x}^{-1}(U) {}$ is a neighbourhood of $y$, and therefore ${} l_{x}^{-1}(U) \cap  H \neq \varnothing  {}$, so ${} U \cap l_{x}(H) \neq \varnothing  {}$
