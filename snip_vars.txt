@@ -5,6 +5,7 @@
 	"${TEST}": "[a-zA-Z]",
 	"${SCRIPTS}": "mathbb|mathscr|mathrm|mathbf|mathcal|mathfrak",
 	"${MODS}": "dot|ddot|bar|hat|tilde|vec|underline|framebox",
+	"${MODS_NAMED}": "dot|ddot|bar|hat|tilde|vec",
 	"${SYMBOL}": "parallel|perp|partial|nabla|ell|infty|oplus|ominus|otimes|oslash|square|star|dagger|vee|wedge|subseteq|subset|supseteq|supset|emptyset|exists|nexists|forall|implies|impliedby|iff|setminus|neg|lor|land|bigcup|bigcap|cdot|times|simeq|approx",
 	"${MORE_SYMBOLS}": "leq|geq|neq|gg|ll|equiv|sim|propto|rightarrow|leftarrow|Rightarrow|Leftarrow|leftrightarrow|to|mapsto|cap|cup|in|sum|prod|exp|ln|log|det|dots|vdots|ddots|pm|mp|int|iint|iiint|oint"
 }

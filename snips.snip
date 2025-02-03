@@ -57,17 +57,23 @@
 
     // Insert space after greek letters and symbols, etc
     {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL}|lhd|trianglelefteq|rhd|trianglerighteq|aleph)([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) dot", replacement: "\\dot{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) ddot", replacement: "\\ddot{\\[[0]]}", options: "rmA", priority: 100},
-    {trigger: "\\\\(${GREEK}) bar", replacement: "\\bar{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\vec{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) tild", replacement: "\\tilde{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\underline{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) box", replacement: "\\framebox{\\[[0]]}", options: "rmA", priority: 2},
-    {trigger: "\\\\(${GREEK}),\\.", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
-    {trigger: "\\\\(${GREEK})\\.,", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
 	
-	{trigger: "((?:\\\\${MODS}{)*)((?:\\\\mathscr{)?)(${LETTERLIKES_SPACE})(}*)hat", replacement: "\\hat{[[0]][[1]][[2]][[3]]}", options: "rmA"},
+	
+	// Modifiers
+	{trigger: "((?:\\\\(?:${MODS}){)*)((?:\\\\(?:${SCRIPTS}){)?)(${LETTERLIKES_SPACE})((?:(?:\\^|_){.*}){0,2})(}*)((?:(?:\\^|_){.*}){0,2})(${MODS_NAMED})", replacement: "\\[[6]]{[[0]][[1]][[2]][[3]][[4]][[5]]}", options: "rmA"},
+	{trigger: "((?:\\\\(?:${MODS}){)*)((?:\\\\(?:${SCRIPTS}){)?)(${LETTERLIKES_SPACE})((?:(?:\\^|_){.*}){0,2})(}*)((?:(?:\\^|_){.*}){0,2})und", replacement: "\\underline{[[0]][[1]][[2]][[3]][[4]][[5]]}", options: "rmA"},
+	{trigger: "((?:\\\\(?:${MODS}){)*)((?:\\\\(?:${SCRIPTS}){)?)(${LETTERLIKES_SPACE})((?:(?:\\^|_){.*}){0,2})(}*)((?:(?:\\^|_){.*}){0,2})box", replacement: "\\framebox{[[0]][[1]][[2]][[3]][[4]][[5]]}", options: "rmA"},
+	
+	{trigger: "bar", replacement: "\\conj{$0}$1", options: "mA"},
+    {trigger: "hat", replacement: "\\hat{$0}$1", options: "mA"},
+    {trigger: "dot", replacement: "\\dot{$0}$1", options: "mA"},
+    {trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA", priority: 2},
+    {trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
+    {trigger: "tild", replacement: "\\tilde{$0}$1", options: "mA"},
+    {trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
+    // {trigger: "box", replacement: "\\framebox{$0}$1", options: "mA", priority},
+    {trigger: "\\nu nd", replacement: "\\underline{n}", options: "mA"},
+    {trigger: "\\mu nd", replacement: "\\underline{n}", options: "mA"},
 	
 	
 	// Sets
@@ -235,26 +241,8 @@
     {trigger: "\\\\vec{([A-Za-z])}_{([^}]+)}([A-Za-z\\d]) ", replacement: "\\vec{[[0]]}_{[[1]][[2]]}$0 $1", options: "rmA"},
 	
     {trigger: "\\\\{([A-Za-z])}(\\d)", replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
-    {trigger: "([a-zA-Z])bar", replacement: "\\conj{[[0]]}", options: "rmA", priority: 1000},
-    // {trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
-    // {trigger: "([a-zA-Z])_{([a-zA-Z\\d])}hat", replacement: "\\hat{[[0]]_{[[1]]}}", options: "rmA"},
-    // {trigger: "([a-zA-Z])_{( [a-zA-Z\\d])ha}t", replacement: "\\hat{[[0]]_{[[1]]}}", options: "rmA", priority: 3},
-    {trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 3},
-    {trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: 1},
-    {trigger: "([a-zA-Z0])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
-    {trigger: "([a-zA-Z])tild", replacement: "\\tilde{[[0]]}", options: "rmA"},
-    {trigger: "([a-zA-Z\\d])und", replacement: "\\underline{[[0]]}", options: "rmA"},
-    {trigger: "([a-zA-Z\\d])box", replacement: "\\framebox{[[0]]}", options: "rmA", priority: 2},
-    {trigger: "bar", replacement: "\\conj{$0}$1", options: "mA"},
-    // {trigger: "hat", replacement: "\\hat{$0}$1", options: "mA"},
-    {trigger: "dot", replacement: "\\dot{$0}$1", options: "mA"},
-    {trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA", priority: 2},
-    {trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
-    {trigger: "tild", replacement: "\\tilde{$0}$1", options: "mA"},
-    {trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
-    {trigger: "box", replacement: "\\framebox{$0}$1", options: "mA", priority: 1},
-    {trigger: "\\nu nd", replacement: "\\underline{n}", options: "mA"},
-    {trigger: "\\mu nd", replacement: "\\underline{n}", options: "mA"},
+    
+    
 
     {trigger: "([^\\\\])(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc|sec)", replacement: "[[0]]\\[[1]] ", options: "rmA"},
     {trigger: "\\\\(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc|sec)([A-Za-gi-z])", replacement: "\\[[0]] [[1]]", options: "rmA"}, // Insert space after trig funcs. Skips letter "h" to allow sinh, cosh, etc.
