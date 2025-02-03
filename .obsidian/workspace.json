@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "5fabe135a2839c2f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
             "id": "f8fe03f65e2f69cb",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +202,11 @@
   },
   "active": "f8fe03f65e2f69cb",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
+    "University/Undergraduate/Second Year/Fourier Analysis/Lectures/7..md",
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/6..md",
     "University/Undergraduate/Second Year/Fourier Analysis/Fourier Analysis 1.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Directory.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/3..md",
@@ -243,7 +232,6 @@
     "University/Undergraduate/Second Year/Real Analysis 1/Real Analysis 1.md",
     "University/Undergraduate/Second Year/Complex Analysis/Lectures/1..md",
     "University/Undergraduate/Second Year/Introduction to Number Theory 1/Lectures/4. Polynomials Modulo m.md",
-    "University/Undergraduate/Second Year/Real Analysis 1/Lectures/16. Absolute or Conditional Convergence.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures",
     "University/Undergraduate/Second Year/Algebraic Geometry/Textbooks",
