@@ -57,7 +57,7 @@
 
     // Insert space after greek letters and symbols, etc
     {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL}|lhd|trianglelefteq|rhd|trianglerighteq|aleph)([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA", priority: 1},
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) sd", replacement: "\\[[0]]^{2}", options: "rmA"},
+    // {trigger: "\\\\(${GREEK}|${SYMBOL}) sd", replacement: "\\[[0]]^{2}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) cd", replacement: "\\[[0]]^{3}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) hat", replacement: "\\hat{\\[[0]]}", options: "rmA"},
     {trigger: "\\\\(${GREEK}|${SYMBOL}) dot", replacement: "\\dot{\\[[0]]}", options: "rmA"},
@@ -69,6 +69,8 @@
     {trigger: "\\\\(${GREEK}|${SYMBOL}) box", replacement: "\\framebox{\\[[0]]}", options: "rmA", priority: 2},
     {trigger: "\\\\(${GREEK}),\\.", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
     {trigger: "\\\\(${GREEK})\\.,", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
+	
+	{trigger: "\\\\(${LETTERLIKES}) sd", replacement: "\\[[0]]^{2} booya", options: "rmA", priority: 1000000},
 	
 	// Sets
 	{trigger: "\\mathbb{Z}+", replacement: "\\mathbb{Z}^{+}", options: "mA"},
@@ -128,14 +130,14 @@
     // Operations
     {trigger: "te", replacement: "\\text{ $0}$1", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}$1", options: "mA"},
-    {trigger: "sd", replacement: "^{2}", options: "mA"},
+    // {trigger: "sd", replacement: "^{2}", options: "mA"},
     {trigger: "cd", replacement: "^{3}", options: "mA"},
     {trigger: "^", replacement: "^{$0}$1", options: "mA"},
     {trigger: "_", replacement: "_{$0}$1", options: "mA"},
     {trigger: "sts", replacement: "_\\text{$0}", options: "rmA"},
     {trigger: "sq", replacement: "\\sqrt{$0}$1", options: "mA"},
 	{trigger: "nrt", replacement: "\\sqrt[${0:3}]{$1}$2", options: "mA"},
-	{trigger: "cbt", replacement: "\\sqrt[3]{$0}$1", options: "mA"},
+	{trigger: "cbrt", replacement: "\\sqrt[3]{$0}$1", options: "mA"},
     {trigger: "//", replacement: "\\frac{$0}{$1} $2", options: "mA"},
     {trigger: "ee", replacement: "e^{$0}$1", options: "mA"},
     {trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
@@ -237,6 +239,8 @@
     {trigger: "\\\\{([A-Za-z])}(\\d)", replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
     {trigger: "([a-zA-Z])bar", replacement: "\\conj{[[0]]}", options: "rmA", priority: 1000},
     {trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
+    {trigger: "([a-zA-Z])_{([a-zA-Z\\d])}hat", replacement: "\\hat{[[0]]_{[[1]]}}", options: "rmA"},
+    {trigger: "([a-zA-Z])_{( [a-zA-Z\\d])ha}t", replacement: "\\hat{[[0]]_{[[1]]}}", options: "rmA", priority: 3},
     {trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 3},
     {trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: 1},
     {trigger: "([a-zA-Z0])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
