@@ -32,27 +32,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8c43a5529a347183",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bf9454c07734b35e",
+            "id": "f8fe03f65e2f69cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf"
+                "file": "University/Undergraduate/Second Year/Fourier Analysis/Lectures/7..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Abstract Algebra - P. A. Grillet"
+              "icon": "lucide-file",
+              "title": "7."
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,8 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fabe135a2839c2f",
+  "active": "f8fe03f65e2f69cb",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Fourier Analysis/Lectures/6..md",
+    "University/Undergraduate/Second Year/Fourier Analysis/Fourier Analysis 1.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
@@ -230,7 +228,6 @@
     "University/Undergraduate/Second Year/Algebraic Geometry/Algebraic Geometry 1.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/1..md",
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/4..md",
-    "University/Undergraduate/Second Year/Fourier Analysis/Fourier Analysis 1.md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/3..md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Discrete Mathematics 1.md",
     "University/Undergraduate/Second Year/Complex Analysis/Lectures/3..md",
