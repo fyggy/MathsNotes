@@ -1,6 +1,7 @@
 {
 	"${GREEK}": "alpha|beta|gamma|Gamma|delta|Delta|epsilon|varepsilon|zeta|eta|theta|vartheta|Theta|iota|kappa|lambda|Lambda|mu|nu|xi|omicron|pi|rho|varrho|sigma|Sigma|tau|upsilon|Upsilon|phi|varphi|Phi|chi|psi|omega|Omega|aleph",
-	"${LETERLIKES}": "alpha",
+	"${LETTERLIKES}":  "\\\\alpha|\\\\beta|\\\\gamma|\\\\Gamma|\\\\delta|\\\\Delta|\\\\epsilon|\\\\varepsilon|\\\\zeta|\\\\eta|\\\\theta|\\\\vartheta|\\\\Theta|\\\\iota|\\\\kappa|\\\\lambda|\\\\Lambda|\\\\mu|\\\\nu|\\\\xi|\\\\omicron|\\\\pi|\\\\rho|\\\\varrho|\\\\sigma|\\\\Sigma|\\\\tau|\\\\upsilon|\\\\Upsilon|\\\\phi|\\\\varphi|\\\\Phi|\\\\chi|\\\\psi|\\\\omega|\\\\Omega|\\\\aleph|[a-zA-Z]",
+	"${LETTERLIKES_SPACE}":  "\\\\alpha |\\\\beta |\\\\gamma |\\\\Gamma |\\\\delta |\\\\Delta |\\\\epsilon |\\\\varepsilon |\\\\zeta |\\\\eta |\\\\theta |\\\\vartheta |\\\\Theta |\\\\iota |\\\\kappa |\\\\lambda |\\\\Lambda |\\\\mu |\\\\nu |\\\\xi |\\\\omicron |\\\\pi |\\\\rho |\\\\varrho |\\\\sigma |\\\\Sigma |\\\\tau |\\\\upsilon |\\\\Upsilon |\\\\phi |\\\\varphi |\\\\Phi |\\\\chi |\\\\psi |\\\\omega |\\\\Omega |\\\\aleph |[a-zA-Z]",
 	"${TEST}": "[a-zA-Z]",
 	"${SCRIPTS}": "mathbb|mathscr|mathrm|mathbf|mathcal|mathfrak",
 	"${MODS}": "dot|ddot|bar|hat|tilde|vec|underline|framebox",
