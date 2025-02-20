@@ -26,4 +26,4 @@ However, in $\mathbb{R}^{2}$, consider ${} f(x,\, y)=x^{2}+y^{2}+1 {}$. Then ${}
 2. 
 a) clear
 b) 
-Let $L$ be a line passing through ${} (1,\, 1) {}$. Then the equation for $L$ is of the form ${} \{ a(x-1)+b(y-1)=0 \} {}$. Now $$
+Let $L$ be a line passing through ${} (1,\, 1) {}$. Then the equation for $L$ is of the form ${} \{ a(x-1)+b(y-1)=0 \} {}$. Now ${} a(x-1)+b(y-1)=x^{2}+2y^{2}-3 {}$ is a degree $2$ polynomial. 
