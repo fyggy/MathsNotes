@@ -35,7 +35,8 @@
               "title": "Homework 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b769219bae37bdd2",
+  "active": "a100bcf7aa0d7b34",
   "lastOpenFiles": [
-    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/5..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
+    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/5..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/4..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/3..md",
