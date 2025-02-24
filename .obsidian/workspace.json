@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -180,16 +181,6 @@
             }
           },
           {
-            "id": "c746329fa53839d0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "22228fbc565817fc",
             "type": "leaf",
             "state": {
@@ -200,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,7 +204,6 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
