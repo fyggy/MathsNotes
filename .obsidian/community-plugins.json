@@ -4,5 +4,8 @@
   "inline-math",
   "obsidian-git",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "table-editor-obsidian",
+  "better-word-count",
+  "dataview"
 ]
