@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b769219bae37bdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6."
-            }
-          },
-          {
             "id": "a100bcf7aa0d7b34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.2. Normal Extensions Exercises.md",
+                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2. Normal Extensions Exercises"
+              "title": "5.3. Galois Extensions Exercises"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8a4dfa2750e26d34",
@@ -208,11 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1864433540891ef",
+  "active": "a100bcf7aa0d7b34",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.2. Normal Extensions Exercises.md",
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
     "Directory.md",
@@ -244,7 +229,6 @@
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/5..md",
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/6..md",
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/7. Abel Summation of Fourier Series.md",
-    "University/Undergraduate/Second Year/Fourier Analysis/Lectures/2. Fourier Series and Dirichlet Kernel.md",
     "snip_vars.txt",
     "Pasted image 20250131173040.png",
     "Pasted image 20250131165329.png",
