@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -173,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
+                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abstract Algebra - P. A. Grillet"
+              "title": "Outline of 5.3. Galois Extensions Exercises"
             }
           },
           {
@@ -211,8 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1864433540891ef",
+  "active": "a453e1666bb4a6da",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.2. Normal Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
@@ -225,7 +227,6 @@
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.9. Rational Fractions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.8. Principle Ideal Domains Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Directory.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Homework 1.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
@@ -247,7 +248,6 @@
     "University/Undergraduate/Second Year/Applied Differential Equations/Lectures/7..md",
     "University/Undergraduate/Second Year/Applied Differential Equations/Applied Differential Equations 1.md",
     "University/Undergraduate/Second Year/Fourier Analysis/Lectures/3. Poisson Kernel.md",
-    "University/Undergraduate/Second Year/Fourier Analysis/Lectures/4. Uniqueness of Fourier Series, Convergence, and Convolution.md",
     "snip_vars.txt",
     "Pasted image 20250131173040.png",
     "Pasted image 20250131165329.png",
