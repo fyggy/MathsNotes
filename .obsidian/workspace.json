@@ -159,10 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/Second Year/Topology Dugundji/Topology - James Dugundji.pdf"
+                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topology - James Dugundji"
+              "title": "Outline of 5.3. Galois Extensions Exercises"
             }
           },
           {
@@ -180,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
