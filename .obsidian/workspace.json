@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
+                "file": "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.3. Galois Extensions Exercises"
+              "title": "Outline of Abstract Algebra - P. A. Grillet"
             }
           },
           {
@@ -211,8 +211,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a453e1666bb4a6da",
+  "active": "c1864433540891ef",
   "lastOpenFiles": [
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.2. Normal Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.1. Splitting Fields Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/4.9. Separability Exercises.md",
@@ -224,7 +225,6 @@
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.9. Rational Fractions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.8. Principle Ideal Domains Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Directory.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Homework 1.md",
