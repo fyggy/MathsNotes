@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/14..md",
+                "file": "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14."
+              "title": "7."
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "5.4. Infinite Galois Extensions Exercises"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8a4dfa2750e26d34",
@@ -213,12 +212,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d0aa3ae2f90f7e0",
+  "active": "a453e1666bb4a6da",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
+    "University/Undergraduate/Second Year/Algebraic Geometry/Algebraic Geometry 1.md",
+    "Directory.md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/14..md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.4. Infinite Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Grillet Abstract Algebra.md",
-    "Directory.md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/13..md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/12..md",
     "University/Undergraduate/Second Year/Discrete Mathematics 1/Lectures/11..md",
@@ -236,13 +237,11 @@
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.9. Rational Fractions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.8. Principle Ideal Domains Exercises.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Homework 1.md",
-    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/5..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/4..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/3..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_1.pdf",
-    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/2..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_6.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_5.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_4.pdf",
