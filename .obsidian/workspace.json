@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -212,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a453e1666bb4a6da",
+  "active": "c1864433540891ef",
   "lastOpenFiles": [
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.4. Infinite Galois Extensions Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.3. Galois Extensions Exercises.md",
