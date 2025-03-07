@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "8."
             }
+          },
+          {
+            "id": "60684c7502ea769c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -182,8 +192,8 @@
   },
   "active": "1d0aa3ae2f90f7e0",
   "lastOpenFiles": [
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/8..md",
+    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Algebraic Geometry 1.md",
     "Directory.md",
