@@ -11,10 +11,14 @@
             "id": "383d5f1b8ba0c1d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "7."
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,5 +153,9 @@
     }
   },
   "active": "383d5f1b8ba0c1d0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/6..md",
+    "University/Undergraduate/Second Year/Algebraic Geometry/Algebraic Geometry 1.md",
+    "Directory.md"
+  ]
 }

@@ -53,8 +53,21 @@
               "icon": "lucide-file-text",
               "title": "Abstract Algebra - P. A. Grillet"
             }
+          },
+          {
+            "id": "087c5a446dcbf4eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "207bb14ffd2c3f11",
+  "active": "087c5a446dcbf4eb",
   "lastOpenFiles": [
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.6. Cyclotomy Exercises.md",
