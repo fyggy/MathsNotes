@@ -11,14 +11,12 @@
             "id": "1d0aa3ae2f90f7e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/9..md",
-                "mode": "source",
-                "source": false
+                "file": "University/Undergraduate/Second Year/Introduction to Number Theory 1/Textbooks/number_theory_lecture_notes.pdf"
               },
-              "icon": "lucide-file",
-              "title": "9."
+              "icon": "lucide-file-text",
+              "title": "number_theory_lecture_notes"
             }
           },
           {
@@ -84,13 +82,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "014da67eff06f6dc",
@@ -190,13 +186,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d0aa3ae2f90f7e0",
+  "active": "7eabd4803f8aea32",
   "lastOpenFiles": [
+    "University/Undergraduate/Second Year/Introduction to Number Theory 1/Introduction to Number Theory 1.md",
+    "Directory.md",
+    "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/9..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/8..md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Abstract Algebra - P. A. Grillet.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Lectures/7..md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Algebraic Geometry 1.md",
-    "Directory.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.6. Cyclotomy Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.5. Polynomials Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/5.4. Infinite Galois Extensions Exercises.md",
@@ -217,7 +215,6 @@
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.12. Gröbner Bases Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.11. Noetherian Rings Exercises.md",
     "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.10. Unique Factorization Domains Exercises.md",
-    "Textbooks/Undergraduate/First Year/Grillet Abstract Algebra/Exercises/3.9. Rational Fractions Exercises.md",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_1.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_6.pdf",
     "University/Undergraduate/Second Year/Algebraic Geometry/Homework/Worksheets/alg_geo_5.pdf",
